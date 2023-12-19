@@ -4,7 +4,7 @@ DH405 Foundation of Digital Humanities Project (23Fall Group 2)
 
 All data used in this project is contained in data folder and europeana database
 
-file structure:
+Repo structure:
 
 ├── LICENSE  
 ├── README.md  
