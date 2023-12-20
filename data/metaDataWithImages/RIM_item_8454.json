@@ -1,0 +1,72 @@
+{
+    "aggregations_about": "/aggregation/provider/847/RIM_item_8454",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://rim.kulturhotell.se/files/original/e8dc57b97b78b6dc77515af34f777dcf.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Carton - https://www.europeana.eu/item/847/RIM_item_8454. Riksidrottsmuseum - https://rim.kulturhotell.se/objects/c25-8454/. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/847/RIM_item_8454' target='_blank' rel='noopener'>Carton</a></dd><dt>Date</dt><dd lang=''>1912</dd><dt>Institution</dt><dd lang=''><a href='https://rim.kulturhotell.se/objects/c25-8454/' target='_blank' rel='noopener'>Riksidrottsmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/847/RIM_item_8454/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 59178,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 535,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#808080",
+                "#D8BFD8"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://rim.kulturhotell.se/objects/c25-8454/",
+            "textAttributionSnippet": "(en) Carton - https://www.europeana.eu/item/847/RIM_item_8454. Riksidrottsmuseum - https://rim.kulturhotell.se/objects/c25-8454/. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/847/RIM_item_8454' target='_blank' rel='noopener'>Carton</a></dd><dt>Date</dt><dd lang=''>1912</dd><dt>Institution</dt><dd lang=''><a href='https://rim.kulturhotell.se/objects/c25-8454/' target='_blank' rel='noopener'>Riksidrottsmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/847/RIM_item_8454/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Cardboard"
+    ],
+    "concept_note": [
+        "Heavy-duty paper of various strengths"
+    ],
+    "edmDatasetName": [
+        "847__Riksidrottsmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

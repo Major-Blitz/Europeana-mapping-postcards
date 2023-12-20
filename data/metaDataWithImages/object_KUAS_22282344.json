@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_22282344",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Museum S\u00f8nderjylland (S\u00f8nderborg Slot)"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=319098",
+            "textAttributionSnippet": "(en) Postcards, Frost\u2019s Farm in Wool Bucket - https://www.europeana.eu/item/2058618/object_KUAS_22282344. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1330458. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_22282344' target='_blank' rel='noopener'>Postcards, Frost\u2019s Farm in Wool Bucket</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1330458' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_22282344/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 30834,
+            "ebucoreWidth": 320,
+            "ebucoreHeight": 203,
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#DCDCDC",
+                "#E6E6FA",
+                "#808080",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1330458",
+            "textAttributionSnippet": "(en) Postcards, Frost\u2019s Farm in Wool Bucket - https://www.europeana.eu/item/2058618/object_KUAS_22282344. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1330458. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_22282344' target='_blank' rel='noopener'>Postcards, Frost\u2019s Farm in Wool Bucket</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1330458' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 13120
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_22282344/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

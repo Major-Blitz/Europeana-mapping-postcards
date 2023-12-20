@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_XVYRA2APUFFK5XQ5LCCE3LGN6JX7XEQT",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=2f8900a9-4e88-47bf-bb9a-d7666b0edeff",
+            "textAttributionSnippet": "(et) Goethe maja - https://www.europeana.eu/item/401/item_XVYRA2APUFFK5XQ5LCCE3LGN6JX7XEQT. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3752191. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_XVYRA2APUFFK5XQ5LCCE3LGN6JX7XEQT' target='_blank' rel='noopener'>Goethe maja</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3752191' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_XVYRA2APUFFK5XQ5LCCE3LGN6JX7XEQT/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 119759,
+            "ebucoreWidth": 539,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFF0",
+                "#800000",
+                "#FFFAFA",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3752191",
+            "textAttributionSnippet": "(et) Goethe maja - https://www.europeana.eu/item/401/item_XVYRA2APUFFK5XQ5LCCE3LGN6JX7XEQT. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3752191. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_XVYRA2APUFFK5XQ5LCCE3LGN6JX7XEQT' target='_blank' rel='noopener'>Goethe maja</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3752191' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_XVYRA2APUFFK5XQ5LCCE3LGN6JX7XEQT/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            51.0,
+            10.0
+        ]
+    ]
+}

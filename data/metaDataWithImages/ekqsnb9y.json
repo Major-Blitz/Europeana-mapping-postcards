@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/ekqsnb9y",
+    "webResources": [
+        {
+            "about": "https://wellcomecollection.org/works/ekqsnb9y",
+            "textAttributionSnippet": "the Pasteur Institute in Paris - https://www.europeana.eu/item/9200579/ekqsnb9y. Wellcome Collection - https://wellcomecollection.org/works/ekqsnb9y. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/ekqsnb9y' target='_blank' rel='noopener'>the Pasteur Institute in Paris</a></dd><dt>Date</dt><dd lang=''>1910</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/ekqsnb9y' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 265286
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0049876.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "the Pasteur Institute in Paris - https://www.europeana.eu/item/9200579/ekqsnb9y. Wellcome Collection - https://wellcomecollection.org/works/ekqsnb9y. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/ekqsnb9y' target='_blank' rel='noopener'>the Pasteur Institute in Paris</a></dd><dt>Date</dt><dd lang=''>1910</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/ekqsnb9y' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 73485,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 321,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#808080",
+                "#A9A9A9",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0049876.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "the Pasteur Institute in Paris - https://www.europeana.eu/item/9200579/ekqsnb9y. Wellcome Collection - https://wellcomecollection.org/works/ekqsnb9y. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/ekqsnb9y' target='_blank' rel='noopener'>the Pasteur Institute in Paris</a></dd><dt>Date</dt><dd lang=''>1910</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/ekqsnb9y' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0049876.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/ekqsnb9y/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 76338,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 329,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#808080",
+                "#A9A9A9",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/ekqsnb9y/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

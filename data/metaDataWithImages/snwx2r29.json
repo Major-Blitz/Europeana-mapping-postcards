@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/snwx2r29",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0049884.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "Pa - https://www.europeana.eu/item/9200579/snwx2r29. Wellcome Collection - https://wellcomecollection.org/works/snwx2r29. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/snwx2r29' target='_blank' rel='noopener'>Pa</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/snwx2r29' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 48536,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 295,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#F5DEB3",
+                "#D2B48C",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/snwx2r29",
+            "textAttributionSnippet": "Pa - https://www.europeana.eu/item/9200579/snwx2r29. Wellcome Collection - https://wellcomecollection.org/works/snwx2r29. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/snwx2r29' target='_blank' rel='noopener'>Pa</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/snwx2r29' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 264717
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0049884.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "Pa - https://www.europeana.eu/item/9200579/snwx2r29. Wellcome Collection - https://wellcomecollection.org/works/snwx2r29. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/snwx2r29' target='_blank' rel='noopener'>Pa</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/snwx2r29' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0049884.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/snwx2r29/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 50330,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 302,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#F5DEB3",
+                "#D2B48C",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/snwx2r29/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

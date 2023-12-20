@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_a321620f_569e_4e47_82b4_b2d5a54b7eed",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_04%20Aprilie%202020_istorie_voina_docpatv494/Imagini1/28186DE23311485091BD0CFAFA0A8DF2.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_a321620f_569e_4e47_82b4_b2d5a54b7eed. Editura Karl Engber. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/a321620f-569e-4e47-82b4-b2d5a54b7eed/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Engber</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/a321620f-569e-4e47-82b4-b2d5a54b7eed/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_a321620f_569e_4e47_82b4_b2d5a54b7eed/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22085606,
+            "ebucoreWidth": 3396,
+            "ebucoreHeight": 2166,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#BDB76B",
+                "#F5F5F5",
+                "#FFE4C4",
+                "#F5DEB3",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_04%20Aprilie%202020_istorie_voina_docpatv494/Imagini1/45C40E5F34A74C88A5C5F59B2D18373C.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_a321620f_569e_4e47_82b4_b2d5a54b7eed. Editura Karl Engber. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/a321620f-569e-4e47-82b4-b2d5a54b7eed/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Engber</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/a321620f-569e-4e47-82b4-b2d5a54b7eed/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_a321620f_569e_4e47_82b4_b2d5a54b7eed/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21673946,
+            "ebucoreWidth": 3397,
+            "ebucoreHeight": 2125,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#A0522D",
+                "#808080",
+                "#556B2F",
+                "#D2B48C",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/a321620f-569e-4e47-82b4-b2d5a54b7eed/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_a321620f_569e_4e47_82b4_b2d5a54b7eed. Editura Karl Engber. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/a321620f-569e-4e47-82b4-b2d5a54b7eed/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Engber</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/a321620f-569e-4e47-82b4-b2d5a54b7eed/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_a321620f_569e_4e47_82b4_b2d5a54b7eed/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

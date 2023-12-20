@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_ADX4RAPQ2HOXMTBVUHN3A2BOHW3MHEEP",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=58764c62-5457-43a6-a1d1-b35fb256ea48",
+            "textAttributionSnippet": "(en) Oudjda - https://www.europeana.eu/item/401/item_ADX4RAPQ2HOXMTBVUHN3A2BOHW3MHEEP. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3665474. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_ADX4RAPQ2HOXMTBVUHN3A2BOHW3MHEEP' target='_blank' rel='noopener'>Oudjda</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3665474' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_ADX4RAPQ2HOXMTBVUHN3A2BOHW3MHEEP/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 135262,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 533,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF5EE",
+                "#BDB76B",
+                "#F5F5DC",
+                "#FFE4B5",
+                "#FFEFD5",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3665474",
+            "textAttributionSnippet": "(en) Oudjda - https://www.europeana.eu/item/401/item_ADX4RAPQ2HOXMTBVUHN3A2BOHW3MHEEP. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3665474. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_ADX4RAPQ2HOXMTBVUHN3A2BOHW3MHEEP' target='_blank' rel='noopener'>Oudjda</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3665474' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_ADX4RAPQ2HOXMTBVUHN3A2BOHW3MHEEP/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            32.0,
+            -6.0
+        ]
+    ]
+}

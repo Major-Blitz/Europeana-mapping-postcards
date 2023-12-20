@@ -1,0 +1,104 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_object_UM01183c",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/021029496611",
+            "textAttributionSnippet": "Akvarell - https://www.europeana.eu/item/91617/upmu_object_UM01183c. Upplandsmuseet - https://digitaltmuseum.se/021029496611. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91617/upmu_object_UM01183c' target='_blank' rel='noopener'>Akvarell</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021029496611' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/0136MuqW399a?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "Akvarell - https://www.europeana.eu/item/91617/upmu_object_UM01183c. Upplandsmuseet - https://digitaltmuseum.se/021029496611. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91617/upmu_object_UM01183c' target='_blank' rel='noopener'>Akvarell</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021029496611' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_object_UM01183c/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 922033,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 870,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#5F9EA0",
+                "#FDF5E6",
+                "#556B2F",
+                "#FFEFD5",
+                "#F0F8FF",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/0136MuqW399i?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "Akvarell - https://www.europeana.eu/item/91617/upmu_object_UM01183c. Upplandsmuseet - https://digitaltmuseum.se/021029496611. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91617/upmu_object_UM01183c' target='_blank' rel='noopener'>Akvarell</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021029496611' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_object_UM01183c/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 669155,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 825,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4B5",
+                "#DEB887",
+                "#F0E68C",
+                "#CD5C5C",
+                "#BC8F8F",
+                "#F4A460"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_object_UM01183c/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

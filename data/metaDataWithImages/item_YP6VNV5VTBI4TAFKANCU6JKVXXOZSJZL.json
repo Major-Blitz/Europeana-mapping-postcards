@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_YP6VNV5VTBI4TAFKANCU6JKVXXOZSJZL",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=66c1da81-3f19-41cb-95f2-a2e199dd84fd",
+            "textAttributionSnippet": "(en) The crown - https://www.europeana.eu/item/401/item_YP6VNV5VTBI4TAFKANCU6JKVXXOZSJZL. (et) Nylander, Nikolai (autor). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741171. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_YP6VNV5VTBI4TAFKANCU6JKVXXOZSJZL' target='_blank' rel='noopener'>The crown</a></dd><dt>Creator</dt><dd lang='et'>Nylander, Nikolai (autor)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741171' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_YP6VNV5VTBI4TAFKANCU6JKVXXOZSJZL/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 91997,
+            "ebucoreWidth": 523,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#808080",
+                "#FFFFF0",
+                "#FAEBD7",
+                "#F5F5DC",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3741171",
+            "textAttributionSnippet": "(en) The crown - https://www.europeana.eu/item/401/item_YP6VNV5VTBI4TAFKANCU6JKVXXOZSJZL. (et) Nylander, Nikolai (autor). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741171. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_YP6VNV5VTBI4TAFKANCU6JKVXXOZSJZL' target='_blank' rel='noopener'>The crown</a></dd><dt>Creator</dt><dd lang='et'>Nylander, Nikolai (autor)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741171' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_YP6VNV5VTBI4TAFKANCU6JKVXXOZSJZL/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            59.25,
+            26.333334
+        ]
+    ]
+}

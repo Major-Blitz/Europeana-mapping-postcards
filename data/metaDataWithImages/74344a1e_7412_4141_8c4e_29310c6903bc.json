@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/74344a1e_7412_4141_8c4e_29310c6903bc",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Het schrijn van de H. Ursula in het Memlingmuseum - https://www.europeana.eu/item/534/74344a1e_7412_4141_8c4e_29310c6903bc. (nl) Sugg (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/74344a1e_7412_4141_8c4e_29310c6903bc' target='_blank' rel='noopener'>Het schrijn van de H. Ursula in het Memlingmuseum</a></dd><dt>Creator</dt><dd lang='nl'>Sugg (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/b70b307e-594f-4869-8d70-bb2493a2916a.jpg",
+            "textAttributionSnippet": "(nl) Het schrijn van de H. Ursula in het Memlingmuseum - https://www.europeana.eu/item/534/74344a1e_7412_4141_8c4e_29310c6903bc. (nl) Sugg (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/74344a1e_7412_4141_8c4e_29310c6903bc' target='_blank' rel='noopener'>Het schrijn van de H. Ursula in het Memlingmuseum</a></dd><dt>Creator</dt><dd lang='nl'>Sugg (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/74344a1e_7412_4141_8c4e_29310c6903bc/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 122825,
+            "ebucoreWidth": 646,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#FAF0E6",
+                "#F5F5F5",
+                "#D8BFD8",
+                "#C0C0C0",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/74344a1e_7412_4141_8c4e_29310c6903bc/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

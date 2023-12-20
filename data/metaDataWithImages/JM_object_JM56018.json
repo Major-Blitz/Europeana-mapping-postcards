@@ -1,0 +1,258 @@
+{
+    "aggregations_about": "/aggregation/provider/91694/JM_object_JM56018",
+    "webResources": [
+        {
+            "about": "http://digitaltmuseum.se/021027432051",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2mQPLP?dimension=600x600",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 193526,
+            "ebucoreWidth": 436,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#800000",
+                "#BDB76B",
+                "#D2B48C",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0331uU2mQPLU?dimension=1200x1200",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 653338,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 840,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#800000",
+                "#696969",
+                "#808080",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2mQPLP?dimension=1200x1200",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 672561,
+            "ebucoreWidth": 872,
+            "ebucoreHeight": 1240,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#800000",
+                "#BDB76B",
+                "#808080",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2mQPFu?dimension=1200x1200",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 901776,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 1155,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#800000",
+                "#696969",
+                "#BDB76B",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0331uU2mQPLU?dimension=600x600",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 185095,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 400,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#800000",
+                "#696969",
+                "#8B4513",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0331uU2mQPLL?dimension=600x600",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 254093,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 583,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#800000",
+                "#BDB76B",
+                "#556B2F",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2mQPFx?dimension=600x600",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 225281,
+            "ebucoreWidth": 569,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#800000",
+                "#BDB76B",
+                "#D2B48C",
+                "#696969"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0331uU2mQPLL?dimension=1200x1200",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 936134,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 1206,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#800000",
+                "#BDB76B",
+                "#808080",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2mQPFx?dimension=1200x1200",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 845090,
+            "ebucoreWidth": 1138,
+            "ebucoreHeight": 1240,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#800000",
+                "#BDB76B",
+                "#808080",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2mQPFu?dimension=600x600",
+            "textAttributionSnippet": "(en) can - https://www.europeana.eu/item/91694/JM_object_JM56018. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021027432051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JM56018' target='_blank' rel='noopener'>can</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021027432051' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 241503,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 558,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#800000",
+                "#696969",
+                "#BDB76B",
+                "#E9967A"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91694/JM_object_JM56018/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paint"
+    ],
+    "concept_note": [
+        "Pigmented liquid applied over a surface that dries as a solid film"
+    ],
+    "edmDatasetName": [
+        "91694_Ag_SE_SwedishNationalHeritage_jonkoping"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

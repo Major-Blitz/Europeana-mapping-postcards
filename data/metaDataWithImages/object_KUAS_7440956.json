@@ -1,0 +1,56 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_7440956",
+    "webResources": [
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=289082",
+            "textAttributionSnippet": "(en) Photo of a radiation farm by sea, postcards - https://www.europeana.eu/item/2058618/object_KUAS_7440956. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=289082. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7440956' target='_blank' rel='noopener'>Photo of a radiation farm by sea, postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=289082' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Moesg\u00e5rd Museum (Odder)"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=803073",
+            "textAttributionSnippet": "(en) Photo of a radiation farm by sea, postcards - https://www.europeana.eu/item/2058618/object_KUAS_7440956. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=289082. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7440956' target='_blank' rel='noopener'>Photo of a radiation farm by sea, postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=289082' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7440956/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 14317,
+            "ebucoreWidth": 259,
+            "ebucoreHeight": 198,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#000000",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#696969",
+                "#B0C4DE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7440956/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

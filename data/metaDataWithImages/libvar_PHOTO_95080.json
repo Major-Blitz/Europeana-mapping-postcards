@@ -1,0 +1,89 @@
+{
+    "aggregations_about": "/aggregation/provider/208/libvar_PHOTO_95080",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "bg": [
+                    "\u041c\u0443\u0437\u0435\u0439 \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u043d\u0430 \u0412\u0430\u0440\u043d\u0430"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "http://catalog.libvar.bg/view/show_jpg_image.pl?MATERIAL=photo&image_id=1173081898.05912124392894549%202",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg/tiff"
+                ]
+            },
+            "textAttributionSnippet": "(bg) \u0412\u0430\u0440\u043d\u0430. \u0423\u043b. \u041f\u0440\u0435\u0441\u043b\u0430\u0432\u0441\u043a\u0430 - https://www.europeana.eu/item/208/libvar_PHOTO_95080. (bg) \u0412\u0435\u043b\u0447\u0435\u0432, \u0410\u0442\u0430\u043d\u0430\u0441 \u0412. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444. Public Library Pencho Slaveykov, Varna - http://catalog.libvar.bg/view/show_photos.pl?id=95080&SC=id&RC=1&SRV=true&LANG=bg&SA=95080. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='bg'><a href='http://data.europeana.eu/item/208/libvar_PHOTO_95080' target='_blank' rel='noopener'>\u0412\u0430\u0440\u043d\u0430. \u0423\u043b. \u041f\u0440\u0435\u0441\u043b\u0430\u0432\u0441\u043a\u0430</a></dd><dt>Creator</dt><dd lang='bg'>\u0412\u0435\u043b\u0447\u0435\u0432, \u0410\u0442\u0430\u043d\u0430\u0441 \u0412. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444</dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libvar.bg/view/show_photos.pl?id=95080&SC=id&RC=1&SRV=true&LANG=bg&SA=95080' target='_blank' rel='noopener'>Public Library Pencho Slaveykov, Varna</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/208/libvar_PHOTO_95080/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1258438,
+            "ebucoreWidth": 1300,
+            "ebucoreHeight": 818,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#D2B48C",
+                "#808080",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://catalog.libvar.bg/view/show_photos.pl?id=95080&SC=id&RC=1&SRV=true&LANG=bg&SA=95080",
+            "textAttributionSnippet": "(bg) \u0412\u0430\u0440\u043d\u0430. \u0423\u043b. \u041f\u0440\u0435\u0441\u043b\u0430\u0432\u0441\u043a\u0430 - https://www.europeana.eu/item/208/libvar_PHOTO_95080. (bg) \u0412\u0435\u043b\u0447\u0435\u0432, \u0410\u0442\u0430\u043d\u0430\u0441 \u0412. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444. Public Library Pencho Slaveykov, Varna - http://catalog.libvar.bg/view/show_photos.pl?id=95080&SC=id&RC=1&SRV=true&LANG=bg&SA=95080. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='bg'><a href='http://data.europeana.eu/item/208/libvar_PHOTO_95080' target='_blank' rel='noopener'>\u0412\u0430\u0440\u043d\u0430. \u0423\u043b. \u041f\u0440\u0435\u0441\u043b\u0430\u0432\u0441\u043a\u0430</a></dd><dt>Creator</dt><dd lang='bg'>\u0412\u0435\u043b\u0447\u0435\u0432, \u0410\u0442\u0430\u043d\u0430\u0441 \u0412. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444</dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libvar.bg/view/show_photos.pl?id=95080&SC=id&RC=1&SRV=true&LANG=bg&SA=95080' target='_blank' rel='noopener'>Public Library Pencho Slaveykov, Varna</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/208/libvar_PHOTO_95080/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "208_Ag_BG_PenchoSlaveykov_LIBVAR_PHOTO"
+    ],
+    "edmCountry": [
+        "Bulgaria"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Public Library Pencho Slaveykov, Varna"
+    ],
+    "coordinate": [
+        [
+            43.211376,
+            27.91108
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            42.75,
+            25.5
+        ],
+        [
+            45.122967,
+            28.934734
+        ]
+    ]
+}

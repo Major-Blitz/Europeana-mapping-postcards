@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_3ed72717_e5c5_4afe_b8f5_2b144d6c7ab8",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/3ed72717-e5c5-4afe-b8f5-2b144d6c7ab8/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_3ed72717_e5c5_4afe_b8f5_2b144d6c7ab8. Editura Luise Knopp, Sibiu (fototipie Jos. Drotleff, Sibiu). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/3ed72717-e5c5-4afe-b8f5-2b144d6c7ab8/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Luise Knopp, Sibiu (fototipie Jos. Drotleff, Sibiu)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/3ed72717-e5c5-4afe-b8f5-2b144d6c7ab8/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/DFD096E8645D49E5AC57F3FBDE7D8B57.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_3ed72717_e5c5_4afe_b8f5_2b144d6c7ab8. Editura Luise Knopp, Sibiu (fototipie Jos. Drotleff, Sibiu). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/3ed72717-e5c5-4afe-b8f5-2b144d6c7ab8/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Luise Knopp, Sibiu (fototipie Jos. Drotleff, Sibiu)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/3ed72717-e5c5-4afe-b8f5-2b144d6c7ab8/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_3ed72717_e5c5_4afe_b8f5_2b144d6c7ab8/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22214430,
+            "ebucoreWidth": 2188,
+            "ebucoreHeight": 3380,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#2F4F4F",
+                "#BDB76B",
+                "#BC8F8F",
+                "#FFE4C4",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/456A08EEADB945479413DACD5B777548.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_3ed72717_e5c5_4afe_b8f5_2b144d6c7ab8. Editura Luise Knopp, Sibiu (fototipie Jos. Drotleff, Sibiu). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/3ed72717-e5c5-4afe-b8f5-2b144d6c7ab8/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Luise Knopp, Sibiu (fototipie Jos. Drotleff, Sibiu)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/3ed72717-e5c5-4afe-b8f5-2b144d6c7ab8/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_3ed72717_e5c5_4afe_b8f5_2b144d6c7ab8/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 11339470,
+            "ebucoreWidth": 3380,
+            "ebucoreHeight": 2188,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#BDB76B",
+                "#D3D3D3",
+                "#8FBC8F",
+                "#FAEBD7",
+                "#FFE4C4"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_3ed72717_e5c5_4afe_b8f5_2b144d6c7ab8/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

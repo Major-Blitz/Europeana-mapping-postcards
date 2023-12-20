@@ -1,0 +1,103 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_23",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00023_0001_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "1"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Hamnen i Viborg ca 1917 - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_23. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_23' target='_blank' rel='noopener'>Hamnen i Viborg ca 1917</a></dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_23/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1800905,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2635,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFF0",
+                "#BDB76B",
+                "#FFE4B5",
+                "#CD853F",
+                "#556B2F",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00023_0002_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "2"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Hamnen i Viborg ca 1917 - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_23. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_23' target='_blank' rel='noopener'>Hamnen i Viborg ca 1917</a></dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_23/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1404202,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2634,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#2F4F4F",
+                "#FAEBD7",
+                "#FFFAF0",
+                "#FDF5E6",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_23/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            28.0
+        ],
+        [
+            66.416664,
+            94.25
+        ],
+        [
+            65.0,
+            27.0
+        ],
+        [
+            60.710556,
+            28.749722
+        ],
+        [
+            60.70402,
+            28.762522
+        ]
+    ]
+}

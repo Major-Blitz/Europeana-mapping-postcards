@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLS_410_a_SLS_410a_75",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/sls410/sls410a_75.jpg",
+            "dcDescription": {
+                "swe": [
+                    "fotografi"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort; b\u00e5t i is - https://www.europeana.eu/item/2021007/_SLS_410_a_SLS_410a_75. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLS_410_a_SLS_410a_75' target='_blank' rel='noopener'>Vykort; b\u00e5t i is</a></dd><dt>Date</dt><dd lang=''>1932</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLS_410_a_SLS_410a_75/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 5666113,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#D8BFD8",
+                "#FFE4E1",
+                "#2F4F4F",
+                "#FFFAFA",
+                "#B0C4DE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLS_410_a_SLS_410a_75/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "ice"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            60.11861,
+            22.0202
+        ],
+        [
+            65.0,
+            27.0
+        ]
+    ]
+}

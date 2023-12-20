@@ -1,0 +1,72 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03460",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/021018322340",
+            "textAttributionSnippet": "(en) Postcard - \u201cKamphafstorg\u201d at the junction Upper Slottsgatan and J\u00e4rbrokort - https://www.europeana.eu/item/91617/upmu_photo_FN03460. Upplandsmuseet - https://digitaltmuseum.se/021018322340. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03460' target='_blank' rel='noopener'>Postcard - \u201cKamphafstorg\u201d at the junction Upper Slottsgatan and J\u00e4rbrokort</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018322340' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/02347T1RwW8V?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcard - \u201cKamphafstorg\u201d at the junction Upper Slottsgatan and J\u00e4rbrokort - https://www.europeana.eu/item/91617/upmu_photo_FN03460. Upplandsmuseet - https://digitaltmuseum.se/021018322340. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03460' target='_blank' rel='noopener'>Postcard - \u201cKamphafstorg\u201d at the junction Upper Slottsgatan and J\u00e4rbrokort</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018322340' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03460/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 742870,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 756,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#E6E6FA",
+                "#FFFAFA",
+                "#F5F5DC",
+                "#2F4F4F",
+                "#B0C4DE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03460/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

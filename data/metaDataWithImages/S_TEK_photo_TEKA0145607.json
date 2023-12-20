@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916118/S_TEK_photo_TEKA0145607",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/022wZVorsZA7?dimension=600x600",
+            "textAttributionSnippet": "(en) Photography for production of postcards. Facilities in Degerar - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145607. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320694. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145607' target='_blank' rel='noopener'>Photography for production of postcards. Facilities in Degerar</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320694' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145607/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 165702,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 423,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#E6E6FA",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#696969",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022wZVorsZA7?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Photography for production of postcards. Facilities in Degerar - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145607. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320694. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145607' target='_blank' rel='noopener'>Photography for production of postcards. Facilities in Degerar</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320694' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145607/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 617929,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 846,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#E6E6FA",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#696969",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016320694",
+            "textAttributionSnippet": "(en) Photography for production of postcards. Facilities in Degerar - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145607. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320694. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145607' target='_blank' rel='noopener'>Photography for production of postcards. Facilities in Degerar</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320694' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 97873
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145607/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Bridge"
+    ],
+    "concept_note": [
+        "Structure that spans and provides a passage over a road, railway, river, or some other obstacle"
+    ],
+    "edmDatasetName": [
+        "916118_Ag_SE_Tekniskamuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

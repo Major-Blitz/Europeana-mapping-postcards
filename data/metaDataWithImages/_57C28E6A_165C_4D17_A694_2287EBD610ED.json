@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_57C28E6A_165C_4D17_A694_2287EBD610ED",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.57C28E6A-165C-4D17-A694-2287EBD610ED?lng=en-gb",
+            "textAttributionSnippet": "(en) Godt nytt \u00e5r - https://www.europeana.eu/item/117/_57C28E6A_165C_4D17_A694_2287EBD610ED. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.57C28E6A-165C-4D17-A694-2287EBD610ED?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_57C28E6A_165C_4D17_A694_2287EBD610ED' target='_blank' rel='noopener'>Godt nytt \u00e5r</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.57C28E6A-165C-4D17-A694-2287EBD610ED?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2375527&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) Godt nytt \u00e5r - https://www.europeana.eu/item/117/_57C28E6A_165C_4D17_A694_2287EBD610ED. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.57C28E6A-165C-4D17-A694-2287EBD610ED?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_57C28E6A_165C_4D17_A694_2287EBD610ED' target='_blank' rel='noopener'>Godt nytt \u00e5r</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.57C28E6A-165C-4D17-A694-2287EBD610ED?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_57C28E6A_165C_4D17_A694_2287EBD610ED/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 315854,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 921,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#D2B48C",
+                "#696969",
+                "#FFEFD5",
+                "#000000",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_57C28E6A_165C_4D17_A694_2287EBD610ED/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

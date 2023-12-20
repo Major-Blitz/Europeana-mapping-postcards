@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_7684244",
+    "webResources": [
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=3318472",
+            "textAttributionSnippet": "(en) Postcards (identical to 880x1073) - https://www.europeana.eu/item/2058618/object_KUAS_7684244. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=3318472. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7684244' target='_blank' rel='noopener'>Postcards (identical to 880x1073)</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=3318472' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 13224
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Museum \u00d8stjylland - Museet for Syddjurs"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=468133",
+            "textAttributionSnippet": "(en) Postcards (identical to 880x1073) - https://www.europeana.eu/item/2058618/object_KUAS_7684244. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=3318472. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7684244' target='_blank' rel='noopener'>Postcards (identical to 880x1073)</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=3318472' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7684244/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 14524,
+            "ebucoreWidth": 320,
+            "ebucoreHeight": 224,
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#FFFFFF",
+                "#F5FFFA",
+                "#F5F5F5",
+                "#A9A9A9",
+                "#F8F8FF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7684244/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

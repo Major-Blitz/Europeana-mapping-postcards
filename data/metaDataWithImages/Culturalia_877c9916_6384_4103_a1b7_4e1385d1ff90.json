@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_877c9916_6384_4103_a1b7_4e1385d1ff90",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/0F089F00249F46558450F144EDA3B25D.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_877c9916_6384_4103_a1b7_4e1385d1ff90. Editura \u0219i Libr\u0103ria Georg Meyer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/877c9916-6384-4103-a1b7-4e1385d1ff90/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura \u0219i Libr\u0103ria Georg Meyer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/877c9916-6384-4103-a1b7-4e1385d1ff90/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_877c9916_6384_4103_a1b7_4e1385d1ff90/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 17055242,
+            "ebucoreWidth": 3358,
+            "ebucoreHeight": 2158,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#708090",
+                "#2F4F4F",
+                "#808080",
+                "#BDB76B",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/CB1B2A5FC92E4688B669CA436422E597.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_877c9916_6384_4103_a1b7_4e1385d1ff90. Editura \u0219i Libr\u0103ria Georg Meyer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/877c9916-6384-4103-a1b7-4e1385d1ff90/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura \u0219i Libr\u0103ria Georg Meyer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/877c9916-6384-4103-a1b7-4e1385d1ff90/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_877c9916_6384_4103_a1b7_4e1385d1ff90/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 13313498,
+            "ebucoreWidth": 3358,
+            "ebucoreHeight": 2158,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#CD853F",
+                "#D3D3D3",
+                "#FFE4C4",
+                "#2F4F4F",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/877c9916-6384-4103-a1b7-4e1385d1ff90/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_877c9916_6384_4103_a1b7_4e1385d1ff90. Editura \u0219i Libr\u0103ria Georg Meyer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/877c9916-6384-4103-a1b7-4e1385d1ff90/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura \u0219i Libr\u0103ria Georg Meyer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/877c9916-6384-4103-a1b7-4e1385d1ff90/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_877c9916_6384_4103_a1b7_4e1385d1ff90/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

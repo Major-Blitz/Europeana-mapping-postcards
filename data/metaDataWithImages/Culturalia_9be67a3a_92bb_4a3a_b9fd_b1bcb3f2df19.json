@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_9be67a3a_92bb_4a3a_b9fd_b1bcb3f2df19",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/9be67a3a-92bb-4a3a-b9fd-b1bcb3f2df19/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9be67a3a_92bb_4a3a_b9fd_b1bcb3f2df19. Editura libr\u0103riei G. A. Seraphin, Sibiu; fototipie Jos. Drotleff, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9be67a3a-92bb-4a3a-b9fd-b1bcb3f2df19/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura libr\u0103riei G. A. Seraphin, Sibiu; fototipie Jos. Drotleff, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9be67a3a-92bb-4a3a-b9fd-b1bcb3f2df19/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_georgescu_docpatv494/Imagini1/E4FAA4053CF24D3682C76AACA1F6C686.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9be67a3a_92bb_4a3a_b9fd_b1bcb3f2df19. Editura libr\u0103riei G. A. Seraphin, Sibiu; fototipie Jos. Drotleff, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9be67a3a-92bb-4a3a-b9fd-b1bcb3f2df19/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura libr\u0103riei G. A. Seraphin, Sibiu; fototipie Jos. Drotleff, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9be67a3a-92bb-4a3a-b9fd-b1bcb3f2df19/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_9be67a3a_92bb_4a3a_b9fd_b1bcb3f2df19/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22123758,
+            "ebucoreWidth": 3432,
+            "ebucoreHeight": 2147,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#FFE4C4",
+                "#F0E68C",
+                "#696969",
+                "#FFDEAD",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_georgescu_docpatv494/Imagini1/9AB05BAA8C6847B8A1628FCB0FB50198.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9be67a3a_92bb_4a3a_b9fd_b1bcb3f2df19. Editura libr\u0103riei G. A. Seraphin, Sibiu; fototipie Jos. Drotleff, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9be67a3a-92bb-4a3a-b9fd-b1bcb3f2df19/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura libr\u0103riei G. A. Seraphin, Sibiu; fototipie Jos. Drotleff, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9be67a3a-92bb-4a3a-b9fd-b1bcb3f2df19/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_9be67a3a_92bb_4a3a_b9fd_b1bcb3f2df19/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22123758,
+            "ebucoreWidth": 3432,
+            "ebucoreHeight": 2147,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#2F4F4F",
+                "#FAFAD2",
+                "#F5F5F5",
+                "#808080",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_9be67a3a_92bb_4a3a_b9fd_b1bcb3f2df19/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_N79N69VP",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-N79N69VP/maxi/edm",
+            "textAttributionSnippet": "(sl) Gru\u00df aus Gutenstein, K\u00e4rnten - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_N79N69VP. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-N79N69VP. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_N79N69VP' target='_blank' rel='noopener'>Gru\u00df aus Gutenstein, K\u00e4rnten</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-N79N69VP' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 61961,
+            "ebucoreWidth": 955,
+            "ebucoreHeight": 597,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#808080",
+                "#556B2F",
+                "#000000",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-N79N69VP/537df127-9937-4deb-8779-2299a649b7cd/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "4985 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Gru\u00df aus Gutenstein, K\u00e4rnten - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_N79N69VP. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-N79N69VP. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_N79N69VP' target='_blank' rel='noopener'>Gru\u00df aus Gutenstein, K\u00e4rnten</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-N79N69VP' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_N79N69VP/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 5105608,
+            "ebucoreWidth": 3227,
+            "ebucoreHeight": 2024,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#808080",
+                "#000000",
+                "#556B2F",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-N79N69VP",
+            "textAttributionSnippet": "(sl) Gru\u00df aus Gutenstein, K\u00e4rnten - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_N79N69VP. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-N79N69VP. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_N79N69VP' target='_blank' rel='noopener'>Gru\u00df aus Gutenstein, K\u00e4rnten</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-N79N69VP' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 30234
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_N79N69VP/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

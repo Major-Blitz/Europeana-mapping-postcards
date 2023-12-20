@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_4O6B3VAGUV37XQ2MMEACUAW646C5MUDC",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=9c06803f-1641-4e29-9639-a309385f40e4",
+            "textAttributionSnippet": "(en) Keila-Joa - https://www.europeana.eu/item/401/item_4O6B3VAGUV37XQ2MMEACUAW646C5MUDC. (et) Foto J.Rambach (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3748504. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4O6B3VAGUV37XQ2MMEACUAW646C5MUDC' target='_blank' rel='noopener'>Keila-Joa</a></dd><dt>Creator</dt><dd lang='et'>Foto J.Rambach (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3748504' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_4O6B3VAGUV37XQ2MMEACUAW646C5MUDC/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 119286,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 527,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#FAEBD7",
+                "#FAF0E6",
+                "#F5F5DC",
+                "#FFF0F5",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3748504",
+            "textAttributionSnippet": "(en) Keila-Joa - https://www.europeana.eu/item/401/item_4O6B3VAGUV37XQ2MMEACUAW646C5MUDC. (et) Foto J.Rambach (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3748504. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4O6B3VAGUV37XQ2MMEACUAW646C5MUDC' target='_blank' rel='noopener'>Keila-Joa</a></dd><dt>Creator</dt><dd lang='et'>Foto J.Rambach (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3748504' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_4O6B3VAGUV37XQ2MMEACUAW646C5MUDC/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            51.0,
+            10.0
+        ],
+        [
+            50.63778,
+            11.662222
+        ]
+    ]
+}

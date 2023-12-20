@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_GGFFPESZ",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-GGFFPESZ/maxi/edm",
+            "textAttributionSnippet": "(sl) Oberpulsgau. Gastwirtschaft zur Post - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_GGFFPESZ. Franz Erben. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-GGFFPESZ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_GGFFPESZ' target='_blank' rel='noopener'>Oberpulsgau. Gastwirtschaft zur Post</a></dd><dt>Creator</dt><dd lang=''>Franz Erben</dd><dt>Date</dt><dd lang=''>1914</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-GGFFPESZ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 57241,
+            "ebucoreWidth": 931,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#808080",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-GGFFPESZ",
+            "textAttributionSnippet": "(sl) Oberpulsgau. Gastwirtschaft zur Post - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_GGFFPESZ. Franz Erben. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-GGFFPESZ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_GGFFPESZ' target='_blank' rel='noopener'>Oberpulsgau. Gastwirtschaft zur Post</a></dd><dt>Creator</dt><dd lang=''>Franz Erben</dd><dt>Date</dt><dd lang=''>1914</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-GGFFPESZ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 28423
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-GGFFPESZ/35447ffc-2548-4040-9c40-088cc1901ee5/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "0 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Oberpulsgau. Gastwirtschaft zur Post - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_GGFFPESZ. Franz Erben. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-GGFFPESZ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_GGFFPESZ' target='_blank' rel='noopener'>Oberpulsgau. Gastwirtschaft zur Post</a></dd><dt>Creator</dt><dd lang=''>Franz Erben</dd><dt>Date</dt><dd lang=''>1914</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-GGFFPESZ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_GGFFPESZ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 281627,
+            "ebucoreWidth": 1571,
+            "ebucoreHeight": 1011,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#808080",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_GGFFPESZ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

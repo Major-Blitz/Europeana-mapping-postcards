@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_FAB50AFA_34D8_4A51_9D22_9C470C38CBCF",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2383723&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, Christmas card; God Jul och gott nytt \u00e5r - https://www.europeana.eu/item/117/_FAB50AFA_34D8_4A51_9D22_9C470C38CBCF. (en) M. M. Vienne M. Munk; Ebner, P. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.FAB50AFA-34D8-4A51-9D22-9C470C38CBCF?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_FAB50AFA_34D8_4A51_9D22_9C470C38CBCF' target='_blank' rel='noopener'>postcard, Christmas card; God Jul och gott nytt \u00e5r</a></dd><dt>Creator</dt><dd lang='en'>M. M. Vienne M. Munk; Ebner, P</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.FAB50AFA-34D8-4A51-9D22-9C470C38CBCF?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_FAB50AFA_34D8_4A51_9D22_9C470C38CBCF/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 523305,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 778,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0E68C",
+                "#FAEBD7",
+                "#B8860B",
+                "#696969",
+                "#FFE4C4",
+                "#8B0000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.FAB50AFA-34D8-4A51-9D22-9C470C38CBCF?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, Christmas card; God Jul och gott nytt \u00e5r - https://www.europeana.eu/item/117/_FAB50AFA_34D8_4A51_9D22_9C470C38CBCF. (en) M. M. Vienne M. Munk; Ebner, P. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.FAB50AFA-34D8-4A51-9D22-9C470C38CBCF?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_FAB50AFA_34D8_4A51_9D22_9C470C38CBCF' target='_blank' rel='noopener'>postcard, Christmas card; God Jul och gott nytt \u00e5r</a></dd><dt>Creator</dt><dd lang='en'>M. M. Vienne M. Munk; Ebner, P</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.FAB50AFA-34D8-4A51-9D22-9C470C38CBCF?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_FAB50AFA_34D8_4A51_9D22_9C470C38CBCF/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": [
+        [
+            48.0,
+            14.0
+        ]
+    ]
+}

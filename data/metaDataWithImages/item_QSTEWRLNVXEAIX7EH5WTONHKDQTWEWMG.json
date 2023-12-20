@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_QSTEWRLNVXEAIX7EH5WTONHKDQTWEWMG",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=0aab90fb-84c4-4779-be8e-b5c633528e59",
+            "textAttributionSnippet": "(en) Rabat - https://www.europeana.eu/item/401/item_QSTEWRLNVXEAIX7EH5WTONHKDQTWEWMG. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3665947. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_QSTEWRLNVXEAIX7EH5WTONHKDQTWEWMG' target='_blank' rel='noopener'>Rabat</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3665947' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_QSTEWRLNVXEAIX7EH5WTONHKDQTWEWMG/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 100436,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 503,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D8BFD8",
+                "#808080",
+                "#696969",
+                "#BC8F8F",
+                "#556B2F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3665947",
+            "textAttributionSnippet": "(en) Rabat - https://www.europeana.eu/item/401/item_QSTEWRLNVXEAIX7EH5WTONHKDQTWEWMG. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3665947. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_QSTEWRLNVXEAIX7EH5WTONHKDQTWEWMG' target='_blank' rel='noopener'>Rabat</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3665947' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_QSTEWRLNVXEAIX7EH5WTONHKDQTWEWMG/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            32.0,
+            -6.0
+        ]
+    ]
+}

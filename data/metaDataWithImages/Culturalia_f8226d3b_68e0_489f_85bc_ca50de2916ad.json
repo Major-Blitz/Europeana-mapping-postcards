@@ -1,0 +1,88 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_f8226d3b_68e0_489f_85bc_ca50de2916ad",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_trifescu_docpatv494/Imagini1/02F4A16A1F18418DB045A56F00364812.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f8226d3b_68e0_489f_85bc_ca50de2916ad. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/f8226d3b-68e0-489f-85bc-ca50de2916ad/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f8226d3b-68e0-489f-85bc-ca50de2916ad/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_f8226d3b_68e0_489f_85bc_ca50de2916ad/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 19713392,
+            "ebucoreWidth": 2161,
+            "ebucoreHeight": 3418,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#556B2F",
+                "#FFEFD5",
+                "#D2B48C",
+                "#EEE8AA",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_trifescu_docpatv494/Imagini1/365B98B03D76442F91009F733496269F.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f8226d3b_68e0_489f_85bc_ca50de2916ad. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/f8226d3b-68e0-489f-85bc-ca50de2916ad/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f8226d3b-68e0-489f-85bc-ca50de2916ad/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_f8226d3b_68e0_489f_85bc_ca50de2916ad/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22177252,
+            "ebucoreWidth": 3418,
+            "ebucoreHeight": 2161,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF8DC",
+                "#DEB887",
+                "#FFB6C1",
+                "#808080",
+                "#C0C0C0",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/f8226d3b-68e0-489f-85bc-ca50de2916ad/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f8226d3b_68e0_489f_85bc_ca50de2916ad. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/f8226d3b-68e0-489f-85bc-ca50de2916ad/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f8226d3b-68e0-489f-85bc-ca50de2916ad/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_f8226d3b_68e0_489f_85bc_ca50de2916ad/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "statues"
+    ],
+    "concept_note": [
+        "Sculpture in the round, usually but not always depicting humans, animals, mythical beings, or small figure groups. Statues are relatively large in scale, being life-size, larger than life-size, or only slightly smaller than life-size. For small-scale representations of humans, animals, or mythical beings, use \"figurines,\" \"statuettes,\" or another appropriate term. For depictions of humans, animals, or mythical beings in media other than sculpture, use \"figures (representations).\""
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

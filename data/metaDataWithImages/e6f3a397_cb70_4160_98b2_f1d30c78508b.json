@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/e6f3a397_cb70_4160_98b2_f1d30c78508b",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/64163b29-1a00-4f09-96d3-ab2f9d333399.jpg",
+            "textAttributionSnippet": "(nl) Zicht op de Groenerei - https://www.europeana.eu/item/534/e6f3a397_cb70_4160_98b2_f1d30c78508b. (nl) E. Desaix (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/e6f3a397_cb70_4160_98b2_f1d30c78508b' target='_blank' rel='noopener'>Zicht op de Groenerei</a></dd><dt>Creator</dt><dd lang='nl'>E. Desaix (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/e6f3a397_cb70_4160_98b2_f1d30c78508b/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 184714,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 665,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAFAD2",
+                "#CD853F",
+                "#2F4F4F",
+                "#D2B48C",
+                "#FFB6C1",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op de Groenerei - https://www.europeana.eu/item/534/e6f3a397_cb70_4160_98b2_f1d30c78508b. (nl) E. Desaix (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/e6f3a397_cb70_4160_98b2_f1d30c78508b' target='_blank' rel='noopener'>Zicht op de Groenerei</a></dd><dt>Creator</dt><dd lang='nl'>E. Desaix (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/e6f3a397_cb70_4160_98b2_f1d30c78508b/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

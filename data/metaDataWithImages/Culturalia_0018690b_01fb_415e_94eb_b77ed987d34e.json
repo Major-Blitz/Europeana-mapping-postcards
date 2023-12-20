@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_0018690b_01fb_415e_94eb_b77ed987d34e",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/0018690b-01fb-415e-94eb-b77ed987d34e/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_0018690b_01fb_415e_94eb_b77ed987d34e. Fotograf E. Fischer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/0018690b-01fb-415e-94eb-b77ed987d34e/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf E. Fischer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/0018690b-01fb-415e-94eb-b77ed987d34e/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/23BE6EFB41D54B1DAF2CC4DAA2F8675B.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_0018690b_01fb_415e_94eb_b77ed987d34e. Fotograf E. Fischer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/0018690b-01fb-415e-94eb-b77ed987d34e/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf E. Fischer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/0018690b-01fb-415e-94eb-b77ed987d34e/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_0018690b_01fb_415e_94eb_b77ed987d34e/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 19146108,
+            "ebucoreWidth": 3194,
+            "ebucoreHeight": 1998,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#696969",
+                "#DEB887",
+                "#BDB76B",
+                "#D2B48C",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/C1706CF9BA8148C3B80F7659ACA2346A.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_0018690b_01fb_415e_94eb_b77ed987d34e. Fotograf E. Fischer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/0018690b-01fb-415e-94eb-b77ed987d34e/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf E. Fischer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/0018690b-01fb-415e-94eb-b77ed987d34e/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_0018690b_01fb_415e_94eb_b77ed987d34e/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 16264756,
+            "ebucoreWidth": 1680,
+            "ebucoreHeight": 3227,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFF0",
+                "#C0C0C0",
+                "#CD853F",
+                "#696969",
+                "#BDB76B",
+                "#FDF5E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_0018690b_01fb_415e_94eb_b77ed987d34e/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographers"
+    ],
+    "concept_note": [
+        "Individuals who specialize in creating photographs, which are still images produced from radiation-sensitive materials, typically by means of the chemical action of light on a sensitive film, paper, glass, or metal."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

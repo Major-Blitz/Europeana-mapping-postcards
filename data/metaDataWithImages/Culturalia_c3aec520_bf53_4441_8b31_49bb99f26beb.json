@@ -1,0 +1,104 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_c3aec520_bf53_4441_8b31_49bb99f26beb",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_08%20august%202020_istorie_voina_docpatv494/Imagini1/7CDE36F40DC24911B10646DEBBDCD2EC.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c3aec520_bf53_4441_8b31_49bb99f26beb. Editura Wilh. Hiemesch. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c3aec520-bf53-4441-8b31-49bb99f26beb/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Wilh. Hiemesch</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c3aec520-bf53-4441-8b31-49bb99f26beb/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_c3aec520_bf53_4441_8b31_49bb99f26beb/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21823086,
+            "ebucoreWidth": 3448,
+            "ebucoreHeight": 2108,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#FFF5EE",
+                "#FFEFD5",
+                "#778899",
+                "#F8F8FF",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/c3aec520-bf53-4441-8b31-49bb99f26beb/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c3aec520_bf53_4441_8b31_49bb99f26beb. Editura Wilh. Hiemesch. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c3aec520-bf53-4441-8b31-49bb99f26beb/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Wilh. Hiemesch</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c3aec520-bf53-4441-8b31-49bb99f26beb/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_08%20august%202020_istorie_voina_docpatv494/Imagini1/6D0E4BFB1B1B47C0B30C1C2F59912B56.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c3aec520_bf53_4441_8b31_49bb99f26beb. Editura Wilh. Hiemesch. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c3aec520-bf53-4441-8b31-49bb99f26beb/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Wilh. Hiemesch</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c3aec520-bf53-4441-8b31-49bb99f26beb/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_c3aec520_bf53_4441_8b31_49bb99f26beb/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21823086,
+            "ebucoreWidth": 3448,
+            "ebucoreHeight": 2108,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#FAF0E6",
+                "#E9967A",
+                "#BDB76B",
+                "#2F4F4F",
+                "#B0C4DE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_c3aec520_bf53_4441_8b31_49bb99f26beb/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

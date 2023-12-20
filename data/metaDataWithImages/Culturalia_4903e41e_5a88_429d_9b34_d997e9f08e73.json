@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_4903e41e_5a88_429d_9b34_d997e9f08e73",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/4903e41e-5a88-429d-9b34-d997e9f08e73/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4903e41e_5a88_429d_9b34_d997e9f08e73. Editura Geog Meyer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/4903e41e-5a88-429d-9b34-d997e9f08e73/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Geog Meyer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4903e41e-5a88-429d-9b34-d997e9f08e73/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/2C37EE22E5D54E5596BE77908FD5F304.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4903e41e_5a88_429d_9b34_d997e9f08e73. Editura Geog Meyer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/4903e41e-5a88-429d-9b34-d997e9f08e73/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Geog Meyer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4903e41e-5a88-429d-9b34-d997e9f08e73/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_4903e41e_5a88_429d_9b34_d997e9f08e73/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 20617326,
+            "ebucoreWidth": 3276,
+            "ebucoreHeight": 2096,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#F5F5F5",
+                "#F5F5DC",
+                "#2F4F4F",
+                "#CD853F",
+                "#DEB887"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/1130722FA69A424D965A8FE07C763E4F.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4903e41e_5a88_429d_9b34_d997e9f08e73. Editura Geog Meyer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/4903e41e-5a88-429d-9b34-d997e9f08e73/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Geog Meyer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4903e41e-5a88-429d-9b34-d997e9f08e73/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_4903e41e_5a88_429d_9b34_d997e9f08e73/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 20214050,
+            "ebucoreWidth": 3276,
+            "ebucoreHeight": 2055,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#CD5C5C",
+                "#EEE8AA",
+                "#D2B48C",
+                "#E9967A",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_4903e41e_5a88_429d_9b34_d997e9f08e73/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

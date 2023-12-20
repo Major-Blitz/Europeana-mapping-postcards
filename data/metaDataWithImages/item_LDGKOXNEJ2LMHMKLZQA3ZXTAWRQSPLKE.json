@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_LDGKOXNEJ2LMHMKLZQA3ZXTAWRQSPLKE",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=21b5f49d-d500-4652-9663-5b9abbe53c03",
+            "textAttributionSnippet": "(en) Map of egg holidays - https://www.europeana.eu/item/401/item_LDGKOXNEJ2LMHMKLZQA3ZXTAWRQSPLKE. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3416988. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_LDGKOXNEJ2LMHMKLZQA3ZXTAWRQSPLKE' target='_blank' rel='noopener'>Map of egg holidays</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3416988' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_LDGKOXNEJ2LMHMKLZQA3ZXTAWRQSPLKE/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 161262,
+            "ebucoreWidth": 502,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFF0",
+                "#FFA500",
+                "#8FBC8F",
+                "#F5FFFA",
+                "#696969",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3416988",
+            "textAttributionSnippet": "(en) Map of egg holidays - https://www.europeana.eu/item/401/item_LDGKOXNEJ2LMHMKLZQA3ZXTAWRQSPLKE. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3416988. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_LDGKOXNEJ2LMHMKLZQA3ZXTAWRQSPLKE' target='_blank' rel='noopener'>Map of egg holidays</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3416988' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_LDGKOXNEJ2LMHMKLZQA3ZXTAWRQSPLKE/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": "not showed"
+}

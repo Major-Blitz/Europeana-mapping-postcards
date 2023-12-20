@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_7OR4DKLSSRSJUYCGV6DJ3RHI3QGRHSDG",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=a6e22a13-8299-4e57-b500-2727b5e37eee",
+            "textAttributionSnippet": "(en) Postcards with Estonian cities and site views - Tallinn - https://www.europeana.eu/item/401/item_7OR4DKLSSRSJUYCGV6DJ3RHI3QGRHSDG. Eesti Ajaloomuuseum - https://www.muis.ee/museaalView/2723112. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_7OR4DKLSSRSJUYCGV6DJ3RHI3QGRHSDG' target='_blank' rel='noopener'>Postcards with Estonian cities and site views - Tallinn</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2723112' target='_blank' rel='noopener'>Eesti Ajaloomuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_7OR4DKLSSRSJUYCGV6DJ3RHI3QGRHSDG/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 135141,
+            "ebucoreWidth": 515,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#D3D3D3",
+                "#FFF8DC",
+                "#F0FFF0",
+                "#F0E68C",
+                "#FFE4C4"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/2723112",
+            "textAttributionSnippet": "(en) Postcards with Estonian cities and site views - Tallinn - https://www.europeana.eu/item/401/item_7OR4DKLSSRSJUYCGV6DJ3RHI3QGRHSDG. Eesti Ajaloomuuseum - https://www.muis.ee/museaalView/2723112. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_7OR4DKLSSRSJUYCGV6DJ3RHI3QGRHSDG' target='_blank' rel='noopener'>Postcards with Estonian cities and site views - Tallinn</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2723112' target='_blank' rel='noopener'>Eesti Ajaloomuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_7OR4DKLSSRSJUYCGV6DJ3RHI3QGRHSDG/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Estonian History Museum"
+    ],
+    "coordinate": "not showed"
+}

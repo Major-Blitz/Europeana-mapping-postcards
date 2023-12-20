@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_D39BECB8_0ABC_4EF4_BCC7_21C73D9ECF45",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.D39BECB8-0ABC-4EF4-BCC7-21C73D9ECF45?lng=en-gb",
+            "textAttributionSnippet": "(en) Eastern Mining Park, aerial view - https://www.europeana.eu/item/117/_D39BECB8_0ABC_4EF4_BCC7_21C73D9ECF45. (fi) Veljekset Karhum\u00e4ki Oy. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.D39BECB8-0ABC-4EF4-BCC7-21C73D9ECF45?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_D39BECB8_0ABC_4EF4_BCC7_21C73D9ECF45' target='_blank' rel='noopener'>Eastern Mining Park, aerial view</a></dd><dt>Creator</dt><dd lang='fi'>Veljekset Karhum\u00e4ki Oy</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.D39BECB8-0ABC-4EF4-BCC7-21C73D9ECF45?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2287521&size=extra_large&key=T3st1&orgid=92115",
+            "textAttributionSnippet": "(en) Eastern Mining Park, aerial view - https://www.europeana.eu/item/117/_D39BECB8_0ABC_4EF4_BCC7_21C73D9ECF45. (fi) Veljekset Karhum\u00e4ki Oy. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.D39BECB8-0ABC-4EF4-BCC7-21C73D9ECF45?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_D39BECB8_0ABC_4EF4_BCC7_21C73D9ECF45' target='_blank' rel='noopener'>Eastern Mining Park, aerial view</a></dd><dt>Creator</dt><dd lang='fi'>Veljekset Karhum\u00e4ki Oy</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.D39BECB8-0ABC-4EF4-BCC7-21C73D9ECF45?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_D39BECB8_0ABC_4EF4_BCC7_21C73D9ECF45/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 312677,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 758,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#808080",
+                "#708090",
+                "#D3D3D3",
+                "#FAF0E6",
+                "#A9A9A9",
+                "#FFF0F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_D39BECB8_0ABC_4EF4_BCC7_21C73D9ECF45/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Aerial photography"
+    ],
+    "concept_note": [
+        "Process of taking images of the ground from the air"
+    ],
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

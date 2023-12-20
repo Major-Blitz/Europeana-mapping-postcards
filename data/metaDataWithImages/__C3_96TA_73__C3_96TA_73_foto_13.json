@@ -1,0 +1,87 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/__C3_96TA_73__C3_96TA_73_foto_13",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota/ota73/ota_73_foto_00013_0002_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "2"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort, s\u00e5gverket A P L Mill,  .. - https://www.europeana.eu/item/2021007/__C3_96TA_73__C3_96TA_73_foto_13. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_73__C3_96TA_73_foto_13' target='_blank' rel='noopener'>Vykort, s\u00e5gverket A P L Mill,  ..</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_73__C3_96TA_73_foto_13/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 696736,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2626,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#F5F5F5",
+                "#E6E6FA",
+                "#DCDCDC",
+                "#BDB76B",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota/ota73/ota_73_foto_00013_0001_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "1"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort, s\u00e5gverket A P L Mill,  .. - https://www.europeana.eu/item/2021007/__C3_96TA_73__C3_96TA_73_foto_13. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_73__C3_96TA_73_foto_13' target='_blank' rel='noopener'>Vykort, s\u00e5gverket A P L Mill,  ..</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_73__C3_96TA_73_foto_13/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 927352,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2657,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#B0C4DE",
+                "#556B2F",
+                "#BC8F8F",
+                "#D2B48C",
+                "#F5F5DC",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_73__C3_96TA_73_foto_13/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            56.0,
+            -109.0
+        ]
+    ]
+}

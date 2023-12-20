@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/267/6406",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://bdt.bibcom.trento.it/var/trentoarchiviobiblioteca/storage/images/media/immagini-iconografie/tic8-0115.jpg/627434-1-ita-IT/TIC8-0115.jpg.jpg",
+            "dcCreator": {
+                "def": [
+                    "Biblioteca Digitale Trentina"
+                ]
+            },
+            "dcType": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "textAttributionSnippet": "(en) Adamello Presanella (Trentino) Cascata Nardis Val di Genova m. 950 - https://www.europeana.eu/item/267/6406. Biblioteca Digitale Trentina. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/6406. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/267/6406' target='_blank' rel='noopener'>Adamello Presanella (Trentino) Cascata Nardis Val di Genova m. 950</a></dd><dt>Creator</dt><dd lang=''>Biblioteca Digitale Trentina</dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/6406' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/267/6406/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 200933,
+            "ebucoreWidth": 808,
+            "ebucoreHeight": 1142,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#DCDCDC",
+                "#808080",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://bdt.bibcom.trento.it/archive/bdt/6406",
+            "textAttributionSnippet": "(en) Adamello Presanella (Trentino) Cascata Nardis Val di Genova m. 950 - https://www.europeana.eu/item/267/6406. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/6406. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/267/6406' target='_blank' rel='noopener'>Adamello Presanella (Trentino) Cascata Nardis Val di Genova m. 950</a></dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/6406' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 57707
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/267/6406/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcards"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "267_CulturaItalia_Biblioteca_Digitale_Trentina"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "CulturaItalia"
+    ],
+    "coordinate": "not showed"
+}

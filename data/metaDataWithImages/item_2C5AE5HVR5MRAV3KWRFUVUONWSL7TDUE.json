@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_2C5AE5HVR5MRAV3KWRFUVUONWSL7TDUE",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/1772435",
+            "textAttributionSnippet": "(en) postcards - https://www.europeana.eu/item/401/item_2C5AE5HVR5MRAV3KWRFUVUONWSL7TDUE. J\u00e4rvamaa Muuseum - https://www.muis.ee/museaalView/1772435. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_2C5AE5HVR5MRAV3KWRFUVUONWSL7TDUE' target='_blank' rel='noopener'>postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1772435' target='_blank' rel='noopener'>J\u00e4rvamaa Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=bb85be4b-1cbd-4d3a-a9bf-158db8de7cf3",
+            "textAttributionSnippet": "(en) postcards - https://www.europeana.eu/item/401/item_2C5AE5HVR5MRAV3KWRFUVUONWSL7TDUE. J\u00e4rvamaa Muuseum - https://www.muis.ee/museaalView/1772435. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_2C5AE5HVR5MRAV3KWRFUVUONWSL7TDUE' target='_blank' rel='noopener'>postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1772435' target='_blank' rel='noopener'>J\u00e4rvamaa Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_2C5AE5HVR5MRAV3KWRFUVUONWSL7TDUE/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 112033,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 494,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E9967A",
+                "#A0522D",
+                "#BC8F8F",
+                "#CD5C5C",
+                "#F0E68C",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_2C5AE5HVR5MRAV3KWRFUVUONWSL7TDUE/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "J\u00e4rvamaa Museum"
+    ],
+    "coordinate": "not showed"
+}

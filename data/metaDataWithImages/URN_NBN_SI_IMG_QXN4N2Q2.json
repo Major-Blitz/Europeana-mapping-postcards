@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_QXN4N2Q2",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-QXN4N2Q2/maxi/edm",
+            "textAttributionSnippet": "(sl) Faakersee mit Mittagskogel, K\u00e4rnten - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_QXN4N2Q2. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-QXN4N2Q2. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_QXN4N2Q2' target='_blank' rel='noopener'>Faakersee mit Mittagskogel, K\u00e4rnten</a></dd><dt>Date</dt><dd lang=''>1938</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-QXN4N2Q2' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 57534,
+            "ebucoreWidth": 941,
+            "ebucoreHeight": 599,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0",
+                "#000000",
+                "#D3D3D3",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-QXN4N2Q2",
+            "textAttributionSnippet": "(sl) Faakersee mit Mittagskogel, K\u00e4rnten - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_QXN4N2Q2. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-QXN4N2Q2. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_QXN4N2Q2' target='_blank' rel='noopener'>Faakersee mit Mittagskogel, K\u00e4rnten</a></dd><dt>Date</dt><dd lang=''>1938</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-QXN4N2Q2' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 30864
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-QXN4N2Q2/2ef13264-7e19-4000-b87a-ea4d4a5fc827/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "5041 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Faakersee mit Mittagskogel, K\u00e4rnten - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_QXN4N2Q2. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-QXN4N2Q2. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_QXN4N2Q2' target='_blank' rel='noopener'>Faakersee mit Mittagskogel, K\u00e4rnten</a></dd><dt>Date</dt><dd lang=''>1938</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-QXN4N2Q2' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_QXN4N2Q2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 5162768,
+            "ebucoreWidth": 3316,
+            "ebucoreHeight": 2121,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0",
+                "#000000",
+                "#F5DEB3",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_QXN4N2Q2/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

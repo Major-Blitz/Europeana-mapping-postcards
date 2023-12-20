@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_EB14B3CE_4E87_4386_A0F1_2C8F3B6BF05D",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.EB14B3CE-4E87-4386-A0F1-2C8F3B6BF05D?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Ett godt nytt \u00e5r K\u00e4rasa Ingrid - https://www.europeana.eu/item/117/_EB14B3CE_4E87_4386_A0F1_2C8F3B6BF05D. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.EB14B3CE-4E87-4386-A0F1-2C8F3B6BF05D?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_EB14B3CE_4E87_4386_A0F1_2C8F3B6BF05D' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Ett godt nytt \u00e5r K\u00e4rasa Ingrid</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.EB14B3CE-4E87-4386-A0F1-2C8F3B6BF05D?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2378385&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Ett godt nytt \u00e5r K\u00e4rasa Ingrid - https://www.europeana.eu/item/117/_EB14B3CE_4E87_4386_A0F1_2C8F3B6BF05D. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.EB14B3CE-4E87-4386-A0F1-2C8F3B6BF05D?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_EB14B3CE_4E87_4386_A0F1_2C8F3B6BF05D' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Ett godt nytt \u00e5r K\u00e4rasa Ingrid</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.EB14B3CE-4E87-4386-A0F1-2C8F3B6BF05D?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_EB14B3CE_4E87_4386_A0F1_2C8F3B6BF05D/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 535923,
+            "ebucoreWidth": 846,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#9ACD32",
+                "#8B0000",
+                "#F5DEB3",
+                "#808080",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_EB14B3CE_4E87_4386_A0F1_2C8F3B6BF05D/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

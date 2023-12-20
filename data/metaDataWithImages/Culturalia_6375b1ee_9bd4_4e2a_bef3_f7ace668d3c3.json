@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_6375b1ee_9bd4_4e2a_bef3_f7ace668d3c3",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_11%20Noiembrie%202019_Catalogate_Cretu%20Mirela_Muzeul%20ASTRA%20_Cretu%20Mirela_noiembrie_2019/Imagini/AE1C1C505D944B71B7F2D03FBA999604.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_6375b1ee_9bd4_4e2a_bef3_f7ace668d3c3. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/6375b1ee-9bd4-4e2a-bef3-f7ace668d3c3/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/6375b1ee-9bd4-4e2a-bef3-f7ace668d3c3/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_6375b1ee_9bd4_4e2a_bef3_f7ace668d3c3/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 498070,
+            "ebucoreWidth": 2048,
+            "ebucoreHeight": 1365,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#FF69B4",
+                "#F8F8FF",
+                "#DDA0DD",
+                "#808080",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_11%20Noiembrie%202019_Catalogate_Cretu%20Mirela_Muzeul%20ASTRA%20_Cretu%20Mirela_noiembrie_2019/Imagini/287EE297ED7D4C1BAB18487F9E71FA34.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_6375b1ee_9bd4_4e2a_bef3_f7ace668d3c3. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/6375b1ee-9bd4-4e2a-bef3-f7ace668d3c3/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/6375b1ee-9bd4-4e2a-bef3-f7ace668d3c3/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_6375b1ee_9bd4_4e2a_bef3_f7ace668d3c3/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 757676,
+            "ebucoreWidth": 2048,
+            "ebucoreHeight": 1365,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0F8FF",
+                "#696969",
+                "#808080",
+                "#A9A9A9",
+                "#F5F5F5",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/6375b1ee-9bd4-4e2a-bef3-f7ace668d3c3/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_6375b1ee_9bd4_4e2a_bef3_f7ace668d3c3. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/6375b1ee-9bd4-4e2a-bef3-f7ace668d3c3/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/6375b1ee-9bd4-4e2a-bef3-f7ace668d3c3/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_6375b1ee_9bd4_4e2a_bef3_f7ace668d3c3/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographic paper"
+    ],
+    "concept_note": [
+        "Paper used for making photographic prints that consists of a base material with a white or near-white surface that is coated with one or more emulsion layers. It is typically a high grade of paper traditionally made from 100% cotton or linen rags, because lignin and other residues in other paper would react with the photosensitive salts and destroy the image. Photographic paper is strong, uniform, and dimensionally stable when wet and dry. For increased wet-strength, the papers are sized with animal glue, starch, stearic acid, or synthetic resins, such as melamine (used since 1948). One or more fillers, such as barium sulfate, titanium dioxide, clay, starch, or polyacrylamide, are also added for opacity, color, and strength. The papers were calendered to produce a smooth, nonporous surface. Since the late 1960s, most color photographic papers have been made from cellulose fibers coated on both sides with polyethylene."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "ASTRA National Museum Complex"
+    ],
+    "coordinate": [
+        [
+            45.8,
+            24.15
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_ecc25b0b_ea28_4bea_903b_bf810487fbda",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_georgescu_docpatv494/Imagini1/E6BC7ECB1E2C4B44A19FF684C7CDFFF3.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ecc25b0b_ea28_4bea_903b_bf810487fbda. Jos. Drotleff, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ecc25b0b-ea28-4bea-903b-bf810487fbda/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Jos. Drotleff, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ecc25b0b-ea28-4bea-903b-bf810487fbda/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_ecc25b0b_ea28_4bea_903b_bf810487fbda/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22171744,
+            "ebucoreWidth": 3355,
+            "ebucoreHeight": 2201,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#D2B48C",
+                "#BDB76B",
+                "#FFEFD5",
+                "#FFEBCD",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_georgescu_docpatv494/Imagini1/438963DF207F480691D1B19C92ABB5ED.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ecc25b0b_ea28_4bea_903b_bf810487fbda. Jos. Drotleff, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ecc25b0b-ea28-4bea-903b-bf810487fbda/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Jos. Drotleff, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ecc25b0b-ea28-4bea-903b-bf810487fbda/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_ecc25b0b_ea28_4bea_903b_bf810487fbda/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 13858548,
+            "ebucoreWidth": 2201,
+            "ebucoreHeight": 3355,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#D2B48C",
+                "#F5DEB3",
+                "#F5F5DC",
+                "#556B2F",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://culturalia.ro/entities/ecc25b0b-ea28-4bea-903b-bf810487fbda/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ecc25b0b_ea28_4bea_903b_bf810487fbda. Jos. Drotleff, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ecc25b0b-ea28-4bea-903b-bf810487fbda/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Jos. Drotleff, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ecc25b0b-ea28-4bea-903b-bf810487fbda/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_ecc25b0b_ea28_4bea_903b_bf810487fbda/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

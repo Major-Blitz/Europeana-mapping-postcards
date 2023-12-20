@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/8fa16e88_a209_4723_97cc_5274499af65e",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/f3d6b99e-1c17-4018-9884-15e219cf7447.jpg",
+            "textAttributionSnippet": "(nl) Gezicht op de Rozenhoedkaai naar het westen - https://www.europeana.eu/item/534/8fa16e88_a209_4723_97cc_5274499af65e. (nl) Lithogr. Ancot (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/8fa16e88_a209_4723_97cc_5274499af65e' target='_blank' rel='noopener'>Gezicht op de Rozenhoedkaai naar het westen</a></dd><dt>Creator</dt><dd lang='nl'>Lithogr. Ancot (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/8fa16e88_a209_4723_97cc_5274499af65e/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 145825,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFDAB9",
+                "#696969",
+                "#F0E68C",
+                "#FFEBCD",
+                "#F5DEB3",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Gezicht op de Rozenhoedkaai naar het westen - https://www.europeana.eu/item/534/8fa16e88_a209_4723_97cc_5274499af65e. (nl) Lithogr. Ancot (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/8fa16e88_a209_4723_97cc_5274499af65e' target='_blank' rel='noopener'>Gezicht op de Rozenhoedkaai naar het westen</a></dd><dt>Creator</dt><dd lang='nl'>Lithogr. Ancot (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/8fa16e88_a209_4723_97cc_5274499af65e/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

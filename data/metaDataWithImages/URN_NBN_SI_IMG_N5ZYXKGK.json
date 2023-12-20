@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_N5ZYXKGK",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-N5ZYXKGK",
+            "textAttributionSnippet": "(sl) Muta - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_N5ZYXKGK. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-N5ZYXKGK. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_N5ZYXKGK' target='_blank' rel='noopener'>Muta</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-N5ZYXKGK' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 29619
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-N5ZYXKGK/maxi/edm",
+            "textAttributionSnippet": "(sl) Muta - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_N5ZYXKGK. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-N5ZYXKGK. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_N5ZYXKGK' target='_blank' rel='noopener'>Muta</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-N5ZYXKGK' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 54962,
+            "ebucoreWidth": 966,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#556B2F",
+                "#800000",
+                "#696969",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-N5ZYXKGK/2f50f47a-3a5e-42a6-81c7-38dc52903247/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "5800 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Muta - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_N5ZYXKGK. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-N5ZYXKGK. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_N5ZYXKGK' target='_blank' rel='noopener'>Muta</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-N5ZYXKGK' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_N5ZYXKGK/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 5939285,
+            "ebucoreWidth": 3527,
+            "ebucoreHeight": 2193,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#556B2F",
+                "#800000",
+                "#C0C0C0",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_N5ZYXKGK/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

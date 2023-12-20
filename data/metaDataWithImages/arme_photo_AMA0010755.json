@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/91616/arme_photo_AMA0010755",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/0331wTuAopuK?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Colonel at G\u00f6ta Lifetime I 2 to Horse. Spectators look at in the background - https://www.europeana.eu/item/91616/arme_photo_AMA0010755. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828454. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010755' target='_blank' rel='noopener'>Colonel at G\u00f6ta Lifetime I 2 to Horse. Spectators look at in the background</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828454' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010755/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 668881,
+            "ebucoreWidth": 857,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#A9A9A9",
+                "#696969",
+                "#808080",
+                "#C0C0C0",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021017828454",
+            "textAttributionSnippet": "(en) Colonel at G\u00f6ta Lifetime I 2 to Horse. Spectators look at in the background - https://www.europeana.eu/item/91616/arme_photo_AMA0010755. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828454. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010755' target='_blank' rel='noopener'>Colonel at G\u00f6ta Lifetime I 2 to Horse. Spectators look at in the background</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828454' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 98996
+        },
+        {
+            "about": "https://mm.dimu.org/image/0331wTuAopuK?dimension=600x600",
+            "textAttributionSnippet": "(en) Colonel at G\u00f6ta Lifetime I 2 to Horse. Spectators look at in the background - https://www.europeana.eu/item/91616/arme_photo_AMA0010755. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828454. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010755' target='_blank' rel='noopener'>Colonel at G\u00f6ta Lifetime I 2 to Horse. Spectators look at in the background</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828454' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010755/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 196118,
+            "ebucoreWidth": 429,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#A9A9A9",
+                "#696969",
+                "#808080",
+                "#C0C0C0",
+                "#800000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010755/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91616_Ag_SE_SwedishNationalHeritage_Armemuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

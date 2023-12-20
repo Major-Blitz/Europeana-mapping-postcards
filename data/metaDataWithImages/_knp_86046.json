@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_86046",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46824/thumbnail?customer=knp",
+            "textAttributionSnippet": "(fi) Mets\u00e4taloudellisen valistustoimiston postikortti numero 29. Uudenaikainen saha lautatarhoineen. Kotka, Kymenlaakso - https://www.europeana.eu/item/2021008/_knp_86046. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86046. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_86046' target='_blank' rel='noopener'>Mets\u00e4taloudellisen valistustoimiston postikortti numero 29. Uudenaikainen saha lautatarhoineen. Kotka, Kymenlaakso</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86046' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_86046/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 36184,
+            "ebucoreWidth": 400,
+            "ebucoreHeight": 260,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#DCDCDC",
+                "#FFFFFF",
+                "#708090",
+                "#D3D3D3",
+                "#FFF0F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://finna.fi/Record/lusto.knp-86046",
+            "textAttributionSnippet": "(fi) Mets\u00e4taloudellisen valistustoimiston postikortti numero 29. Uudenaikainen saha lautatarhoineen. Kotka, Kymenlaakso - https://www.europeana.eu/item/2021008/_knp_86046. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86046. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_86046' target='_blank' rel='noopener'>Mets\u00e4taloudellisen valistustoimiston postikortti numero 29. Uudenaikainen saha lautatarhoineen. Kotka, Kymenlaakso</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86046' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_86046/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

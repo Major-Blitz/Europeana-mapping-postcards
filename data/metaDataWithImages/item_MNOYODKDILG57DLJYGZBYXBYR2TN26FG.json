@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_MNOYODKDILG57DLJYGZBYXBYR2TN26FG",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=48b59a08-f338-4868-a758-286c7fec58c7",
+            "textAttributionSnippet": "(en) Tartu - https://www.europeana.eu/item/401/item_MNOYODKDILG57DLJYGZBYXBYR2TN26FG. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741283. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_MNOYODKDILG57DLJYGZBYXBYR2TN26FG' target='_blank' rel='noopener'>Tartu</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741283' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_MNOYODKDILG57DLJYGZBYXBYR2TN26FG/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 91216,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 547,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#C0C0C0",
+                "#CD853F",
+                "#8B4513",
+                "#D3D3D3",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3741283",
+            "textAttributionSnippet": "(en) Tartu - https://www.europeana.eu/item/401/item_MNOYODKDILG57DLJYGZBYXBYR2TN26FG. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741283. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_MNOYODKDILG57DLJYGZBYXBYR2TN26FG' target='_blank' rel='noopener'>Tartu</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741283' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_MNOYODKDILG57DLJYGZBYXBYR2TN26FG/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            58.38,
+            26.7225
+        ]
+    ]
+}

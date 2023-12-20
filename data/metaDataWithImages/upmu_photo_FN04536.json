@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN04536",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/0210110489057",
+            "textAttributionSnippet": "(en) Postcard - statue of Gunnar Wennerberg, Slottsbacken, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN04536. (en) Mannerfeldt, Bengt. Upplandsmuseet - https://digitaltmuseum.se/0210110489057. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN04536' target='_blank' rel='noopener'>Postcard - statue of Gunnar Wennerberg, Slottsbacken, Uppsala</a></dd><dt>Creator</dt><dd lang='en'>Mannerfeldt, Bengt</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210110489057' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/0138XQWnjyEg?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcard - statue of Gunnar Wennerberg, Slottsbacken, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN04536. (en) Mannerfeldt, Bengt. Upplandsmuseet - https://digitaltmuseum.se/0210110489057. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN04536' target='_blank' rel='noopener'>Postcard - statue of Gunnar Wennerberg, Slottsbacken, Uppsala</a></dd><dt>Creator</dt><dd lang='en'>Mannerfeldt, Bengt</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210110489057' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN04536/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 777961,
+            "ebucoreWidth": 770,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#F5F5DC",
+                "#D2B48C",
+                "#000000",
+                "#696969",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN04536/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

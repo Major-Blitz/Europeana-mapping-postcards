@@ -1,0 +1,86 @@
+{
+    "aggregations_about": "/aggregation/provider/454/_nn8WSXx",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://jbc.bj.uj.edu.pl/Content/278692/d2j:big,0/NDIGGRAF011012_0001_2831841.djvu.jpg",
+            "textAttributionSnippet": "(pl) Jaros\u0142aw, po inwazyi : zbombardowane koszary klasztorne = Bombardierte Klosterkaserne - https://www.europeana.eu/item/454/_nn8WSXx. Biblioteka Jagiello\u0144ska - http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:278692. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pl'><a href='http://data.europeana.eu/item/454/_nn8WSXx' target='_blank' rel='noopener'>Jaros\u0142aw, po inwazyi : zbombardowane koszary klasztorne = Bombardierte Klosterkaserne</a></dd><dt>Date</dt><dd lang=''>1915</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:278692' target='_blank' rel='noopener'>Biblioteka Jagiello\u0144ska</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/454/_nn8WSXx/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 33950,
+            "ebucoreWidth": 336,
+            "ebucoreHeight": 515,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#D2B48C",
+                "#C0C0C0",
+                "#808080",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:278692",
+            "textAttributionSnippet": "(pl) Jaros\u0142aw, po inwazyi : zbombardowane koszary klasztorne = Bombardierte Klosterkaserne - https://www.europeana.eu/item/454/_nn8WSXx. Biblioteka Jagiello\u0144ska - http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:278692. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pl'><a href='http://data.europeana.eu/item/454/_nn8WSXx' target='_blank' rel='noopener'>Jaros\u0142aw, po inwazyi : zbombardowane koszary klasztorne = Bombardierte Klosterkaserne</a></dd><dt>Date</dt><dd lang=''>1915</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:278692' target='_blank' rel='noopener'>Biblioteka Jagiello\u0144ska</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://jbc.bj.uj.edu.pl/Content/278692/d2j:big,1/NDIGGRAF011012_0002_2831842.djvu.jpg",
+            "isNextInSequence": "https://jbc.bj.uj.edu.pl/Content/278692/d2j:big,0/NDIGGRAF011012_0001_2831841.djvu.jpg",
+            "textAttributionSnippet": "(pl) Jaros\u0142aw, po inwazyi : zbombardowane koszary klasztorne = Bombardierte Klosterkaserne - https://www.europeana.eu/item/454/_nn8WSXx. Biblioteka Jagiello\u0144ska - http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:278692. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pl'><a href='http://data.europeana.eu/item/454/_nn8WSXx' target='_blank' rel='noopener'>Jaros\u0142aw, po inwazyi : zbombardowane koszary klasztorne = Bombardierte Klosterkaserne</a></dd><dt>Date</dt><dd lang=''>1915</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:278692' target='_blank' rel='noopener'>Biblioteka Jagiello\u0144ska</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/454/_nn8WSXx/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 10989,
+            "ebucoreWidth": 515,
+            "ebucoreHeight": 337,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#FFFFF0",
+                "#F5F5DC",
+                "#FAEBD7",
+                "#FFFFE0",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/454/_nn8WSXx/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "454_FBC_Jagiellonska_Biblioteka_Cyfrowa_Part7"
+    ],
+    "edmCountry": [
+        "Poland"
+    ],
+    "edmLanguage": [
+        "pl"
+    ],
+    "organization_label": [
+        "Jagiellonian Library"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_C6T3LXXLXLA27AAN4DTJFFMF3KZF7B4Y",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=f13d2e74-686c-424f-a68d-8bf54e26e0aa",
+            "textAttributionSnippet": "(et) J\u00f5ulukaart - https://www.europeana.eu/item/401/item_C6T3LXXLXLA27AAN4DTJFFMF3KZF7B4Y. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3416942. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_C6T3LXXLXLA27AAN4DTJFFMF3KZF7B4Y' target='_blank' rel='noopener'>J\u00f5ulukaart</a></dd><dt>Date</dt><dd lang=''>1938</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3416942' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_C6T3LXXLXLA27AAN4DTJFFMF3KZF7B4Y/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 179727,
+            "ebucoreWidth": 563,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD5C5C",
+                "#F0E68C",
+                "#556B2F",
+                "#A0522D",
+                "#5F9EA0",
+                "#FFDAB9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3416942",
+            "textAttributionSnippet": "(et) J\u00f5ulukaart - https://www.europeana.eu/item/401/item_C6T3LXXLXLA27AAN4DTJFFMF3KZF7B4Y. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3416942. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_C6T3LXXLXLA27AAN4DTJFFMF3KZF7B4Y' target='_blank' rel='noopener'>J\u00f5ulukaart</a></dd><dt>Date</dt><dd lang=''>1938</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3416942' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_C6T3LXXLXLA27AAN4DTJFFMF3KZF7B4Y/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

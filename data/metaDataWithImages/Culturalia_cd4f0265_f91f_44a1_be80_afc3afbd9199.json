@@ -1,0 +1,108 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_cd4f0265_f91f_44a1_be80_afc3afbd9199",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/cd4f0265-f91f-44a1-be80-afc3afbd9199/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_cd4f0265_f91f_44a1_be80_afc3afbd9199. Editura \u201eAlbina\u201d Bucure\u0219ti. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/cd4f0265-f91f-44a1-be80-afc3afbd9199/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura \u201eAlbina\u201d Bucure\u0219ti</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/cd4f0265-f91f-44a1-be80-afc3afbd9199/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/DA8E9D7E59B44AB8AD120ADB0107F885.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_cd4f0265_f91f_44a1_be80_afc3afbd9199. Editura \u201eAlbina\u201d Bucure\u0219ti. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/cd4f0265-f91f-44a1-be80-afc3afbd9199/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura \u201eAlbina\u201d Bucure\u0219ti</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/cd4f0265-f91f-44a1-be80-afc3afbd9199/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_cd4f0265_f91f_44a1_be80_afc3afbd9199/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 20356408,
+            "ebucoreWidth": 3325,
+            "ebucoreHeight": 2039,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#F5F5DC",
+                "#DEB887",
+                "#DCDCDC",
+                "#BC8F8F",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/04CDCF88C0AF4B4FBA131974E3B138AF.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_cd4f0265_f91f_44a1_be80_afc3afbd9199. Editura \u201eAlbina\u201d Bucure\u0219ti. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/cd4f0265-f91f-44a1-be80-afc3afbd9199/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura \u201eAlbina\u201d Bucure\u0219ti</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/cd4f0265-f91f-44a1-be80-afc3afbd9199/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_cd4f0265_f91f_44a1_be80_afc3afbd9199/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 20691588,
+            "ebucoreWidth": 3302,
+            "ebucoreHeight": 2087,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#C0C0C0",
+                "#BDB76B",
+                "#8FBC8F",
+                "#EEE8AA",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_cd4f0265_f91f_44a1_be80_afc3afbd9199/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            44.89,
+            25.47
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            44.4,
+            26.083334
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            44.4333,
+            26.1
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

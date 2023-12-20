@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/0fc33347_b818_4936_931a_a95fe9f27fae",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Het Museum van het Heilig Bloed op de Burg - https://www.europeana.eu/item/534/0fc33347_b818_4936_931a_a95fe9f27fae. (nl) Sugg (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/0fc33347_b818_4936_931a_a95fe9f27fae' target='_blank' rel='noopener'>Het Museum van het Heilig Bloed op de Burg</a></dd><dt>Creator</dt><dd lang='nl'>Sugg (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/3375132f-8d22-42fd-bf4f-54fd95f5deac.jpg",
+            "textAttributionSnippet": "(nl) Het Museum van het Heilig Bloed op de Burg - https://www.europeana.eu/item/534/0fc33347_b818_4936_931a_a95fe9f27fae. (nl) Sugg (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/0fc33347_b818_4936_931a_a95fe9f27fae' target='_blank' rel='noopener'>Het Museum van het Heilig Bloed op de Burg</a></dd><dt>Creator</dt><dd lang='nl'>Sugg (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/0fc33347_b818_4936_931a_a95fe9f27fae/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 124465,
+            "ebucoreWidth": 645,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#EEE8AA",
+                "#2F4F4F",
+                "#BC8F8F",
+                "#C0C0C0",
+                "#CD5C5C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/0fc33347_b818_4936_931a_a95fe9f27fae/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

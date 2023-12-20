@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLS_1405_SLS_1405_745",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/sls1405/sls1405_foto_00745.jpg",
+            "dcDescription": {
+                "swe": [
+                    "Fotografi"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Savonska huset till h\u00f6ger, i huset  .. - https://www.europeana.eu/item/2021007/_SLS_1405_SLS_1405_745. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLS_1405_SLS_1405_745' target='_blank' rel='noopener'>Savonska huset till h\u00f6ger, i huset  ..</a></dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLS_1405_SLS_1405_745/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1548546,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#FFFFFF",
+                "#808080",
+                "#C0C0C0",
+                "#F5F5F5",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLS_1405_SLS_1405_745/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "women"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            60.8,
+            21.409721
+        ],
+        [
+            65.0,
+            27.0
+        ],
+        [
+            60.783333,
+            21.416666
+        ],
+        [
+            60.5,
+            22.75
+        ]
+    ]
+}

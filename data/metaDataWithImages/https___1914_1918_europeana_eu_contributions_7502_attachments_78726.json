@@ -1,0 +1,113 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726/7502.78726.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-09 16:48:28 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02- maisons d'un village des vosges d\u00e9truites par les obus - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726' target='_blank' rel='noopener'>02- maisons d'un village des vosges d\u00e9truites par les obus</a></dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726/7502.78726.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 104186,
+            "ebucoreWidth": 1096,
+            "ebucoreHeight": 685,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD5C5C",
+                "#2F4F4F",
+                "#BDB76B",
+                "#EEE8AA",
+                "#8B4513",
+                "#F4A460"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726/7502.78726.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-09 16:48:28 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02- maisons d'un village des vosges d\u00e9truites par les obus - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726' target='_blank' rel='noopener'>02- maisons d'un village des vosges d\u00e9truites par les obus</a></dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726/7502.78726.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 105552,
+            "ebucoreWidth": 1095,
+            "ebucoreHeight": 689,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#FFDEAD",
+                "#BDB76B",
+                "#808080",
+                "#BC8F8F",
+                "#FFDAB9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_7502_attachments_78726/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": [
+        [
+            48.14458,
+            6.3355875
+        ]
+    ]
+}

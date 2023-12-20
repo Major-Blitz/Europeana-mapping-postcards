@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_276940",
+    "webResources": [
+        {
+            "about": "https://purl.pt/33183",
+            "textAttributionSnippet": "(pt) Beira - Mo\u00e7ambique: [aspetos diversos] - https://www.europeana.eu/item/10501/bib_rnod_276940. Biblioteca Nacional de Portugal - https://purl.pt/33183. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_276940' target='_blank' rel='noopener'>Beira - Mo\u00e7ambique: [aspetos diversos]</a></dd><dt>Date</dt><dd lang=''>1963</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33183' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://purl.pt/33183/service/media/cover/max",
+            "textAttributionSnippet": "(pt) Beira - Mo\u00e7ambique: [aspetos diversos] - https://www.europeana.eu/item/10501/bib_rnod_276940. Biblioteca Nacional de Portugal - https://purl.pt/33183. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_276940' target='_blank' rel='noopener'>Beira - Mo\u00e7ambique: [aspetos diversos]</a></dd><dt>Date</dt><dd lang=''>1963</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33183' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_276940/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1992234,
+            "ebucoreWidth": 3677,
+            "ebucoreHeight": 2598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#696969",
+                "#DEB887",
+                "#BDB76B",
+                "#000000",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_276940/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": [
+        [
+            38.7,
+            -9.183333
+        ],
+        [
+            39.45584,
+            -7.35988
+        ]
+    ]
+}

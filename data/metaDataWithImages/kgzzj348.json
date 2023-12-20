@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/kgzzj348",
+    "webResources": [
+        {
+            "about": "https://wellcomecollection.org/works/kgzzj348",
+            "textAttributionSnippet": "A postcard with a pressed sprig of Edeilweiss and ribbon of Belgium flag, saluting the Belgium soldiers. Pressed flower on card - https://www.europeana.eu/item/9200579/kgzzj348. Wellcome Collection - https://wellcomecollection.org/works/kgzzj348. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/kgzzj348' target='_blank' rel='noopener'>A postcard with a pressed sprig of Edeilweiss and ribbon of Belgium flag, saluting the Belgium soldiers. Pressed flower on card</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/kgzzj348' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 269817
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0016601.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "A postcard with a pressed sprig of Edeilweiss and ribbon of Belgium flag, saluting the Belgium soldiers. Pressed flower on card - https://www.europeana.eu/item/9200579/kgzzj348. Wellcome Collection - https://wellcomecollection.org/works/kgzzj348. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/kgzzj348' target='_blank' rel='noopener'>A postcard with a pressed sprig of Edeilweiss and ribbon of Belgium flag, saluting the Belgium soldiers. Pressed flower on card</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/kgzzj348' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 148328,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 771,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#C0C0C0",
+                "#F5DEB3",
+                "#000000",
+                "#BC8F8F",
+                "#FFB6C1"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0016601.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "A postcard with a pressed sprig of Edeilweiss and ribbon of Belgium flag, saluting the Belgium soldiers. Pressed flower on card - https://www.europeana.eu/item/9200579/kgzzj348. Wellcome Collection - https://wellcomecollection.org/works/kgzzj348. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/kgzzj348' target='_blank' rel='noopener'>A postcard with a pressed sprig of Edeilweiss and ribbon of Belgium flag, saluting the Belgium soldiers. Pressed flower on card</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/kgzzj348' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0016601.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/kgzzj348/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 158273,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 790,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#C0C0C0",
+                "#F5DEB3",
+                "#000000",
+                "#BC8F8F",
+                "#FFB6C1"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/kgzzj348/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

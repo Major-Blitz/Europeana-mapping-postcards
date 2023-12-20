@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_RLVB2VTCRXSJ6ZGTR6W7CK75ULIQZITS",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3690046",
+            "textAttributionSnippet": "(en) Notre-Dame in Paris - https://www.europeana.eu/item/401/item_RLVB2VTCRXSJ6ZGTR6W7CK75ULIQZITS. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3690046. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_RLVB2VTCRXSJ6ZGTR6W7CK75ULIQZITS' target='_blank' rel='noopener'>Notre-Dame in Paris</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3690046' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=cfedcb19-f00b-4c4f-9024-1d966d0345c3",
+            "textAttributionSnippet": "(en) Notre-Dame in Paris - https://www.europeana.eu/item/401/item_RLVB2VTCRXSJ6ZGTR6W7CK75ULIQZITS. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3690046. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_RLVB2VTCRXSJ6ZGTR6W7CK75ULIQZITS' target='_blank' rel='noopener'>Notre-Dame in Paris</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3690046' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_RLVB2VTCRXSJ6ZGTR6W7CK75ULIQZITS/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 111391,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 480,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#808080",
+                "#D2B48C",
+                "#BC8F8F",
+                "#BDB76B",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_RLVB2VTCRXSJ6ZGTR6W7CK75ULIQZITS/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": "not showed"
+}

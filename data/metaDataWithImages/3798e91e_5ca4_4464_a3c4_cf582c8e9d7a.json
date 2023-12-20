@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/3798e91e_5ca4_4464_a3c4_cf582c8e9d7a",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/e7e7e9bc-27f6-47bb-8358-89ed5671881b.jpg",
+            "textAttributionSnippet": "(nl) Gezicht op het Jan van Eyckplein - https://www.europeana.eu/item/534/3798e91e_5ca4_4464_a3c4_cf582c8e9d7a. (nl) J. Merveille (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/3798e91e_5ca4_4464_a3c4_cf582c8e9d7a' target='_blank' rel='noopener'>Gezicht op het Jan van Eyckplein</a></dd><dt>Creator</dt><dd lang='nl'>J. Merveille (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/3798e91e_5ca4_4464_a3c4_cf582c8e9d7a/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 125925,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 648,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#F5DEB3",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#DCDCDC",
+                "#D8BFD8"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Gezicht op het Jan van Eyckplein - https://www.europeana.eu/item/534/3798e91e_5ca4_4464_a3c4_cf582c8e9d7a. (nl) J. Merveille (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/3798e91e_5ca4_4464_a3c4_cf582c8e9d7a' target='_blank' rel='noopener'>Gezicht op het Jan van Eyckplein</a></dd><dt>Creator</dt><dd lang='nl'>J. Merveille (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/3798e91e_5ca4_4464_a3c4_cf582c8e9d7a/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

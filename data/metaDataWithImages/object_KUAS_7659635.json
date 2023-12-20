@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_7659635",
+    "webResources": [
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=2167720",
+            "textAttributionSnippet": "(da) Ramme- dagslys kopiramme - https://www.europeana.eu/item/2058618/object_KUAS_7659635. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=2167720. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='da'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7659635' target='_blank' rel='noopener'>Ramme- dagslys kopiramme</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=2167720' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 14063
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Museum \u00d8stjylland - Kulturhistorisk Museum Randers"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=104495",
+            "textAttributionSnippet": "(da) Ramme- dagslys kopiramme - https://www.europeana.eu/item/2058618/object_KUAS_7659635. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=2167720. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='da'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7659635' target='_blank' rel='noopener'>Ramme- dagslys kopiramme</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=2167720' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7659635/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 23542,
+            "ebucoreWidth": 320,
+            "ebucoreHeight": 239,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#F5DEB3",
+                "#A0522D",
+                "#FFB6C1",
+                "#FFC0CB",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7659635/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

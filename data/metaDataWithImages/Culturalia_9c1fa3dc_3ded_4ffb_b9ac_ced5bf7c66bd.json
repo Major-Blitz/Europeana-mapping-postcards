@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_9c1fa3dc_3ded_4ffb_b9ac_ced5bf7c66bd",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/9c1fa3dc-3ded-4ffb-b9ac-ced5bf7c66bd/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9c1fa3dc_3ded_4ffb_b9ac_ced5bf7c66bd. Editura Krafft and Drotleff A.-G. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9c1fa3dc-3ded-4ffb-b9ac-ced5bf7c66bd/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Krafft and Drotleff A.-G</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9c1fa3dc-3ded-4ffb-b9ac-ced5bf7c66bd/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_05%20Mai%202020_istorie_voina_docpatv494/Imagini1/E842BE59826240039B08E94DB80DE891.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9c1fa3dc_3ded_4ffb_b9ac_ced5bf7c66bd. Editura Krafft and Drotleff A.-G. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9c1fa3dc-3ded-4ffb-b9ac-ced5bf7c66bd/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Krafft and Drotleff A.-G</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9c1fa3dc-3ded-4ffb-b9ac-ced5bf7c66bd/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_9c1fa3dc_3ded_4ffb_b9ac_ced5bf7c66bd/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21945026,
+            "ebucoreWidth": 3345,
+            "ebucoreHeight": 2185,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#FFE4C4",
+                "#FFF8DC",
+                "#FFEBCD",
+                "#FFEFD5",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_05%20Mai%202020_istorie_voina_docpatv494/Imagini1/6ECC8D2A6ED545B78D2870D547E94FE5.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9c1fa3dc_3ded_4ffb_b9ac_ced5bf7c66bd. Editura Krafft and Drotleff A.-G. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9c1fa3dc-3ded-4ffb-b9ac-ced5bf7c66bd/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Krafft and Drotleff A.-G</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9c1fa3dc-3ded-4ffb-b9ac-ced5bf7c66bd/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_9c1fa3dc_3ded_4ffb_b9ac_ced5bf7c66bd/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22895930,
+            "ebucoreWidth": 3435,
+            "ebucoreHeight": 2220,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#556B2F",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#CD853F",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_9c1fa3dc_3ded_4ffb_b9ac_ced5bf7c66bd/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

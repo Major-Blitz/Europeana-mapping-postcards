@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/d466b212_435d_42d7_bb13_e59b90ce61f3",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op de oost- en zuidzijde van de Martkt - https://www.europeana.eu/item/534/d466b212_435d_42d7_bb13_e59b90ce61f3. (nl) Lagaert (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/d466b212_435d_42d7_bb13_e59b90ce61f3' target='_blank' rel='noopener'>Zicht op de oost- en zuidzijde van de Martkt</a></dd><dt>Creator</dt><dd lang='nl'>Lagaert (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/2ef65f5b-5d2f-459a-881f-1f5654857609.jpg",
+            "textAttributionSnippet": "(nl) Zicht op de oost- en zuidzijde van de Martkt - https://www.europeana.eu/item/534/d466b212_435d_42d7_bb13_e59b90ce61f3. (nl) Lagaert (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/d466b212_435d_42d7_bb13_e59b90ce61f3' target='_blank' rel='noopener'>Zicht op de oost- en zuidzijde van de Martkt</a></dd><dt>Creator</dt><dd lang='nl'>Lagaert (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/d466b212_435d_42d7_bb13_e59b90ce61f3/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 124099,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 648,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#FFDAB9",
+                "#2F4F4F",
+                "#FFC0CB",
+                "#FFEFD5",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/d466b212_435d_42d7_bb13_e59b90ce61f3/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

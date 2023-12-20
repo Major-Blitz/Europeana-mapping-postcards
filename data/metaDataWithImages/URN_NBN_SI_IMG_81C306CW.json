@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_81C306CW",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-81C306CW/maxi/edm",
+            "textAttributionSnippet": "(sl) Schwarzenbach; Platz - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_81C306CW. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-81C306CW. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_81C306CW' target='_blank' rel='noopener'>Schwarzenbach; Platz</a></dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-81C306CW' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 24869,
+            "ebucoreWidth": 384,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#EEE8AA",
+                "#D3D3D3",
+                "#696969",
+                "#2F4F4F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-81C306CW/54eb5d7d-9839-4f20-992f-adf9e23b7640/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "4797 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Schwarzenbach; Platz - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_81C306CW. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-81C306CW. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_81C306CW' target='_blank' rel='noopener'>Schwarzenbach; Platz</a></dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-81C306CW' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_81C306CW/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 4912602,
+            "ebucoreWidth": 2111,
+            "ebucoreHeight": 3279,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#EEE8AA",
+                "#D3D3D3",
+                "#2F4F4F",
+                "#D2B48C",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-81C306CW",
+            "textAttributionSnippet": "(sl) Schwarzenbach; Platz - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_81C306CW. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-81C306CW. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_81C306CW' target='_blank' rel='noopener'>Schwarzenbach; Platz</a></dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-81C306CW' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 30086
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_81C306CW/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

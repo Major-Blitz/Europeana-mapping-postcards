@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/900/nbm_bildarkiv_42792",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/137134/BAABORR.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) street, residential buildings, postcards - https://www.europeana.eu/item/900/nbm_bildarkiv_42792. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/42792. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_42792' target='_blank' rel='noopener'>street, residential buildings, postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/42792' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_42792/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 39697,
+            "ebucoreWidth": 499,
+            "ebucoreHeight": 304,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#D3D3D3",
+                "#808080",
+                "#E6E6FA",
+                "#FFF0F5",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://samlingar.norrbottensmuseum.se/web/object/42792",
+            "textAttributionSnippet": "(en) street, residential buildings, postcards - https://www.europeana.eu/item/900/nbm_bildarkiv_42792. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/42792. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_42792' target='_blank' rel='noopener'>street, residential buildings, postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/42792' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 12659
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_42792/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "900__Norrbottens_museum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Norrbottens Museum"
+    ],
+    "coordinate": "not showed"
+}

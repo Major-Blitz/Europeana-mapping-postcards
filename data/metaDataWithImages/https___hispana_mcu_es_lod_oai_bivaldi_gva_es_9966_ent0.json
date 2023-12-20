@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9966_ent0",
+    "webResources": [
+        {
+            "about": "https://bivaldi.gva.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=10957506",
+            "textAttributionSnippet": "(en) A corner of his lush garden [Graphic Material]: Carcagent - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9966_ent0. Grassa. Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=9966. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9966_ent0' target='_blank' rel='noopener'>A corner of his lush garden [Graphic Material]: Carcagent</a></dd><dt>Creator</dt><dd lang=''>Grassa</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=9966' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9966_ent0/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 619675,
+            "ebucoreWidth": 720,
+            "ebucoreHeight": 1117,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#2F4F4F",
+                "#FFFAF0",
+                "#FFE4E1",
+                "#D2B48C",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://bivaldi.gva.es/es/consulta/registro.do?id=9966",
+            "textAttributionSnippet": "(en) A corner of his lush garden [Graphic Material]: Carcagent - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9966_ent0. Grassa. Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=9966. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9966_ent0' target='_blank' rel='noopener'>A corner of his lush garden [Graphic Material]: Carcagent</a></dd><dt>Creator</dt><dd lang=''>Grassa</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=9966' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9966_ent0/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "343_Hispana_BibliotecaValenciana"
+    ],
+    "edmCountry": [
+        "Spain"
+    ],
+    "edmLanguage": [
+        "es"
+    ],
+    "organization_label": [
+        "Hispana"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,994 @@
+{
+    "aggregations_about": "/aggregation/provider/2048128/400706",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643836/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 355914,
+            "ebucoreWidth": 1532,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#A9A9A9",
+                "#A0522D",
+                "#BDB76B",
+                "#BC8F8F",
+                "#CD5C5C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643837/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_10.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 387255,
+            "ebucoreWidth": 1809,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#800000",
+                "#696969",
+                "#808080",
+                "#C0C0C0",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643842/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_16.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 384646,
+            "ebucoreWidth": 1512,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#556B2F",
+                "#C0C0C0",
+                "#BDB76B",
+                "#CD5C5C",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mandadb.hu/mandadb/webimage/4/3/4/0/1/8/wimage/lead_400706.jpg",
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 37271,
+            "ebucoreWidth": 400,
+            "ebucoreHeight": 261,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFB6C1",
+                "#808080",
+                "#A9A9A9",
+                "#D2B48C",
+                "#556B2F",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok",
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643839/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_13.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 319728,
+            "ebucoreWidth": 1556,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#C0C0C0",
+                "#000000",
+                "#DEB887",
+                "#BC8F8F",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643840/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_14.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 325310,
+            "ebucoreWidth": 1639,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#A0522D",
+                "#808080",
+                "#DEB887",
+                "#800000",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643848/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_8.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 396698,
+            "ebucoreWidth": 1548,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#BC8F8F",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#DCDCDC",
+                "#FFC0CB"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643834/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_1904.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 314337,
+            "ebucoreWidth": 1680,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#C0C0C0",
+                "#696969",
+                "#FFE4E1",
+                "#708090",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643844/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_2.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 406975,
+            "ebucoreWidth": 1577,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#CD5C5C",
+                "#D2B48C",
+                "#FFE4C4",
+                "#DEB887",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643831/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_1900.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 223042,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 1384,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#BC8F8F",
+                "#BDB76B",
+                "#D8BFD8",
+                "#C0C0C0",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643843/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_17.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 451210,
+            "ebucoreWidth": 1543,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#A9A9A9",
+                "#BC8F8F",
+                "#BDB76B",
+                "#A0522D",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643835/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_1909.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 406941,
+            "ebucoreWidth": 1611,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#BC8F8F",
+                "#A9A9A9",
+                "#556B2F",
+                "#BDB76B",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643841/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_15.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 373034,
+            "ebucoreWidth": 1631,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D8BFD8",
+                "#FAEBD7",
+                "#C0C0C0",
+                "#808080",
+                "#D3D3D3",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643833/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_1900_3.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 348087,
+            "ebucoreWidth": 1573,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#DEB887",
+                "#FFDAB9",
+                "#FAEBD7",
+                "#F5DEB3",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643838/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_11.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 425073,
+            "ebucoreWidth": 1584,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#000000",
+                "#FFE4C4",
+                "#F5DEB3",
+                "#A9A9A9",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643829/default/doc_url/csgyk_fototar_pecs_a_szechenyi_ter_190x.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 419707,
+            "ebucoreWidth": 1559,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F4A460",
+                "#A0522D",
+                "#696969",
+                "#800000",
+                "#BC8F8F",
+                "#DEB887"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643845/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_3.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 388620,
+            "ebucoreWidth": 1575,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#BDB76B",
+                "#556B2F",
+                "#778899",
+                "#BC8F8F",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643830/default/doc_url/csgyk_fototar_pecs_szechenyi_ter2_190x.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 388609,
+            "ebucoreWidth": 1655,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#A9A9A9",
+                "#FFC0CB",
+                "#2F4F4F",
+                "#808080",
+                "#FFE4C4"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643847/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_7.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 449991,
+            "ebucoreWidth": 1615,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#000000",
+                "#DCDCDC",
+                "#D2B48C",
+                "#556B2F",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643832/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_1900_2.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 467337,
+            "ebucoreWidth": 1573,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#B0C4DE",
+                "#D3D3D3",
+                "#808000",
+                "#8B4513",
+                "#EEE8AA",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/643846/default/doc_url/csgyk_fototar_pecs_szechenyi_ter_190x_4.jpg",
+            "dcDescription": {
+                "en": [
+                    "The Sz\u00e9chenyi Square in P\u00e9cs, postcards from the 1900s.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A k\u00e9peslapokon a p\u00e9csi Sz\u00e9chenyi t\u00e9r l\u00e1that\u00f3 az 1900-as \u00e9vekben.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok - https://www.europeana.eu/item/2048128/400706. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/400706' target='_blank' rel='noopener'>A Sz\u00e9chenyi t\u00e9r - k\u00e9peslapok</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/400706/A_Szechenyi_ter__kepeslapok' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/400706/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 285794,
+            "ebucoreWidth": 1521,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#2F4F4F",
+                "#808080",
+                "#778899",
+                "#000000",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2048128/400706/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "2048128_Ag_HU_MaNDA_OAI"
+    ],
+    "edmCountry": [
+        "Hungary"
+    ],
+    "edmLanguage": [
+        "hu"
+    ],
+    "organization_label": [
+        "Forum Hungaricum Non-profit Ltd."
+    ],
+    "coordinate": "not showed"
+}

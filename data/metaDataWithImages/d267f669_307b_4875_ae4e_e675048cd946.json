@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/d267f669_307b_4875_ae4e_e675048cd946",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op de zuidzijde van de Burg - https://www.europeana.eu/item/534/d267f669_307b_4875_ae4e_e675048cd946. (nl) Lagaert (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/d267f669_307b_4875_ae4e_e675048cd946' target='_blank' rel='noopener'>Zicht op de zuidzijde van de Burg</a></dd><dt>Creator</dt><dd lang='nl'>Lagaert (Brussel)</dd><dt>Date</dt><dd lang=''>-1905</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/a49ddf4f-d3e9-4ccd-a5cb-9c564002668b.jpg",
+            "textAttributionSnippet": "(nl) Zicht op de zuidzijde van de Burg - https://www.europeana.eu/item/534/d267f669_307b_4875_ae4e_e675048cd946. (nl) Lagaert (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/d267f669_307b_4875_ae4e_e675048cd946' target='_blank' rel='noopener'>Zicht op de zuidzijde van de Burg</a></dd><dt>Creator</dt><dd lang='nl'>Lagaert (Brussel)</dd><dt>Date</dt><dd lang=''>-1905</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/d267f669_307b_4875_ae4e_e675048cd946/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 142116,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 661,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#CD853F",
+                "#BDB76B",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/d267f669_307b_4875_ae4e_e675048cd946/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_AGOVCMPPWHFIREAYUBOKKR3XLTADZH5Q",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=83d80ca7-3ac3-4284-9fbc-3ca6ea9c0062",
+            "textAttributionSnippet": "(et) Anton Irve ausammas Viljandis - https://www.europeana.eu/item/401/item_AGOVCMPPWHFIREAYUBOKKR3XLTADZH5Q. (en) Oak, Heino (printer (maker)). Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417020. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_AGOVCMPPWHFIREAYUBOKKR3XLTADZH5Q' target='_blank' rel='noopener'>Anton Irve ausammas Viljandis</a></dd><dt>Creator</dt><dd lang='en'>Oak, Heino (printer (maker))</dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417020' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_AGOVCMPPWHFIREAYUBOKKR3XLTADZH5Q/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 131139,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 534,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E9967A",
+                "#556B2F",
+                "#696969",
+                "#000000",
+                "#EEE8AA",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3417020",
+            "textAttributionSnippet": "(et) Anton Irve ausammas Viljandis - https://www.europeana.eu/item/401/item_AGOVCMPPWHFIREAYUBOKKR3XLTADZH5Q. (en) Oak, Heino (printer (maker)). Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417020. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_AGOVCMPPWHFIREAYUBOKKR3XLTADZH5Q' target='_blank' rel='noopener'>Anton Irve ausammas Viljandis</a></dd><dt>Creator</dt><dd lang='en'>Oak, Heino (printer (maker))</dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417020' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_AGOVCMPPWHFIREAYUBOKKR3XLTADZH5Q/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

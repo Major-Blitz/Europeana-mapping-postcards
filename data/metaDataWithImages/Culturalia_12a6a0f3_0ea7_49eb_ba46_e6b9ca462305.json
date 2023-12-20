@@ -1,0 +1,108 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_12a6a0f3_0ea7_49eb_ba46_e6b9ca462305",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-transa-2-pt-import_docpatv4965-BV-CM-nr-inv-duplicat-UNIT_docpatv4965-BV-CM-nr-inv-duplicat-UNIT/Imagini/9203A64232FA48BEB7E05D710ACBD091.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_12a6a0f3_0ea7_49eb_ba46_e6b9ca462305. Divald and Monostory. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/12a6a0f3-0ea7-49eb-ba46-e6b9ca462305/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Divald and Monostory</dd><dt>Date</dt><dd lang=''>1915</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/12a6a0f3-0ea7-49eb-ba46-e6b9ca462305/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_12a6a0f3_0ea7_49eb_ba46_e6b9ca462305/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 4991180,
+            "ebucoreWidth": 1622,
+            "ebucoreHeight": 1024,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#F0E68C",
+                "#556B2F",
+                "#D2B48C",
+                "#CD853F",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-transa-2-pt-import_docpatv4965-BV-CM-nr-inv-duplicat-UNIT_docpatv4965-BV-CM-nr-inv-duplicat-UNIT/Imagini/839B812B4B4E4C86818BE05B6B4DEE19.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_12a6a0f3_0ea7_49eb_ba46_e6b9ca462305. Divald and Monostory. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/12a6a0f3-0ea7-49eb-ba46-e6b9ca462305/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Divald and Monostory</dd><dt>Date</dt><dd lang=''>1915</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/12a6a0f3-0ea7-49eb-ba46-e6b9ca462305/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_12a6a0f3_0ea7_49eb_ba46_e6b9ca462305/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 4981432,
+            "ebucoreWidth": 1622,
+            "ebucoreHeight": 1022,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#F5DEB3",
+                "#696969",
+                "#FFE4B5",
+                "#FFDEAD",
+                "#F0E68C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/12a6a0f3-0ea7-49eb-ba46-e6b9ca462305/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_12a6a0f3_0ea7_49eb_ba46_e6b9ca462305. Divald and Monostory. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/12a6a0f3-0ea7-49eb-ba46-e6b9ca462305/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Divald and Monostory</dd><dt>Date</dt><dd lang=''>1915</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/12a6a0f3-0ea7-49eb-ba46-e6b9ca462305/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_12a6a0f3_0ea7_49eb_ba46_e6b9ca462305/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "House of Mure\u0219enilor"
+    ],
+    "coordinate": [
+        [
+            47.498333,
+            19.040833
+        ],
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            47.0,
+            20.0
+        ],
+        [
+            47.0,
+            19.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            47.5,
+            19.05
+        ]
+    ]
+}

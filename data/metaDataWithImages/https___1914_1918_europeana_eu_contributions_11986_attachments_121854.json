@@ -1,0 +1,433 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 84561,
+            "ebucoreWidth": 1133,
+            "ebucoreHeight": 743,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#F5F5DC",
+                "#FFF0F5",
+                "#DCDCDC",
+                "#BC8F8F",
+                "#F5FFFA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 77737,
+            "ebucoreWidth": 1129,
+            "ebucoreHeight": 749,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4E1",
+                "#FAEBD7",
+                "#BC8F8F",
+                "#DCDCDC",
+                "#F5FFFA",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0009.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0009.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 88581,
+            "ebucoreWidth": 744,
+            "ebucoreHeight": 1121,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FFF5EE",
+                "#D3D3D3",
+                "#FFFAF0",
+                "#556B2F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0002.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0002.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 116611,
+            "ebucoreWidth": 1132,
+            "ebucoreHeight": 746,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#808080",
+                "#DCDCDC",
+                "#EEE8AA",
+                "#000000",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0008.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0008.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 47248,
+            "ebucoreWidth": 752,
+            "ebucoreHeight": 1118,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFF0",
+                "#D3D3D3",
+                "#CD853F",
+                "#FFF8DC",
+                "#F0FFF0",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0003.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0003.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 93096,
+            "ebucoreWidth": 1143,
+            "ebucoreHeight": 740,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#000000",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#FFE4C4",
+                "#800000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0007.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0007.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 87022,
+            "ebucoreWidth": 1104,
+            "ebucoreHeight": 737,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F8F8FF",
+                "#CD853F",
+                "#FAF0E6",
+                "#2F4F4F",
+                "#FFFFE0",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0004.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0004.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 81024,
+            "ebucoreWidth": 1125,
+            "ebucoreHeight": 737,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#696969",
+                "#BDB76B",
+                "#FFE4C4",
+                "#FFC0CB",
+                "#FFFAFA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0006.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0006.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 73169,
+            "ebucoreWidth": 1106,
+            "ebucoreHeight": 738,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#FFF0F5",
+                "#808080",
+                "#556B2F",
+                "#FFFAFA",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0005.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:12:17 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02-Albert Bauer sur le front vers Riga (1916-1917) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854' target='_blank' rel='noopener'>02-Albert Bauer sur le front vers Riga (1916-1917)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/11986.121854.original_Page0005.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 73526,
+            "ebucoreWidth": 1124,
+            "ebucoreHeight": 735,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#A9A9A9",
+                "#D2B48C",
+                "#FFE4E1",
+                "#BDB76B",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121854/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "World War I"
+    ],
+    "concept_note": [
+        "Global war originating in Europe, 1914\u20131918"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": [
+        [
+            56.94976,
+            24.105904
+        ]
+    ]
+}

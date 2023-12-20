@@ -1,0 +1,108 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373/9326.103373.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-29 15:17:01 UTC"
+                ]
+            },
+            "textAttributionSnippet": "FRBMTO-044-04 Carte postale  repr\u00e9sentant le \"soldat lib\u00e9rateur\" - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373. europeana19141918:agent/011878d0e167c1c9af5e920b42f890ae. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373' target='_blank' rel='noopener'>FRBMTO-044-04 Carte postale  repr\u00e9sentant le \"soldat lib\u00e9rateur\"</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/011878d0e167c1c9af5e920b42f890ae</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373/9326.103373.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 306435,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#800000",
+                "#F0FFF0",
+                "#F5FFFA",
+                "#8FBC8F",
+                "#A52A2A",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373/9326.103373.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-29 15:17:01 UTC"
+                ]
+            },
+            "textAttributionSnippet": "FRBMTO-044-04 Carte postale  repr\u00e9sentant le \"soldat lib\u00e9rateur\" - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373. europeana19141918:agent/011878d0e167c1c9af5e920b42f890ae. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373' target='_blank' rel='noopener'>FRBMTO-044-04 Carte postale  repr\u00e9sentant le \"soldat lib\u00e9rateur\"</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/011878d0e167c1c9af5e920b42f890ae</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373/9326.103373.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 404094,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#FAEBD7",
+                "#CD853F",
+                "#F0FFFF",
+                "#FAF0E6",
+                "#808080"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9326_attachments_103373/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "World War I"
+    ],
+    "concept_note": [
+        "Global war originating in Europe, 1914\u20131918"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": "not showed"
+}

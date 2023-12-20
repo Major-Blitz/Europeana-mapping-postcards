@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916120/pm_photo_POST023196",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/021018543600",
+            "textAttributionSnippet": "(en) The city police officers fit to provide their letters and postcards with it\nspecial presbytery stamp - https://www.europeana.eu/item/916120/pm_photo_POST023196. (en) Einemark, Arne. Postmuseet - https://digitaltmuseum.se/021018543600. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST023196' target='_blank' rel='noopener'>The city police officers fit to provide their letters and postcards with it\nspecial presbytery stamp</a></dd><dt>Creator</dt><dd lang='en'>Einemark, Arne</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018543600' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 103857
+        },
+        {
+            "about": "https://mm.dimu.org/image/02349wXvJR3d?dimension=1200x1200",
+            "textAttributionSnippet": "(en) The city police officers fit to provide their letters and postcards with it\nspecial presbytery stamp - https://www.europeana.eu/item/916120/pm_photo_POST023196. (en) Einemark, Arne. Postmuseet - https://digitaltmuseum.se/021018543600. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST023196' target='_blank' rel='noopener'>The city police officers fit to provide their letters and postcards with it\nspecial presbytery stamp</a></dd><dt>Creator</dt><dd lang='en'>Einemark, Arne</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018543600' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_photo_POST023196/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 103379,
+            "ebucoreWidth": 640,
+            "ebucoreHeight": 531,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#DCDCDC",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/02349wXvJR3d?dimension=600x600",
+            "textAttributionSnippet": "(en) The city police officers fit to provide their letters and postcards with it\nspecial presbytery stamp - https://www.europeana.eu/item/916120/pm_photo_POST023196. (en) Einemark, Arne. Postmuseet - https://digitaltmuseum.se/021018543600. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST023196' target='_blank' rel='noopener'>The city police officers fit to provide their letters and postcards with it\nspecial presbytery stamp</a></dd><dt>Creator</dt><dd lang='en'>Einemark, Arne</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018543600' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_photo_POST023196/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 137256,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 498,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916120/pm_photo_POST023196/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916120_Ag_SE_Postmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Postmuseum"
+    ],
+    "coordinate": "not showed"
+}

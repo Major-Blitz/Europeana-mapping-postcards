@@ -1,0 +1,104 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_4d1003d5_08a6_45d1_acf8_0d5e13efcfc6",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/4d1003d5-08a6-45d1-acf8-0d5e13efcfc6/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4d1003d5_08a6_45d1_acf8_0d5e13efcfc6. Editura Krafft and Drotleff A.G. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/4d1003d5-08a6-45d1-acf8-0d5e13efcfc6/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Krafft and Drotleff A.G</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4d1003d5-08a6-45d1-acf8-0d5e13efcfc6/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_voina_docpatv494/Imagini1/771325415EA3413D8F43A9588333882E.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4d1003d5_08a6_45d1_acf8_0d5e13efcfc6. Editura Krafft and Drotleff A.G. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/4d1003d5-08a6-45d1-acf8-0d5e13efcfc6/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Krafft and Drotleff A.G</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4d1003d5-08a6-45d1-acf8-0d5e13efcfc6/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_4d1003d5_08a6_45d1_acf8_0d5e13efcfc6/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 20976874,
+            "ebucoreWidth": 3330,
+            "ebucoreHeight": 2098,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#6B8E23",
+                "#696969",
+                "#C0C0C0",
+                "#BDB76B",
+                "#66CDAA",
+                "#B8860B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_voina_docpatv494/Imagini1/B5326F20012249C487C8A652FFECFD67.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4d1003d5_08a6_45d1_acf8_0d5e13efcfc6. Editura Krafft and Drotleff A.G. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/4d1003d5-08a6-45d1-acf8-0d5e13efcfc6/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Krafft and Drotleff A.G</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4d1003d5-08a6-45d1-acf8-0d5e13efcfc6/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_4d1003d5_08a6_45d1_acf8_0d5e13efcfc6/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21719754,
+            "ebucoreWidth": 3393,
+            "ebucoreHeight": 2132,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#FFFFF0",
+                "#C0C0C0",
+                "#FFF8DC",
+                "#FAEBD7",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_4d1003d5_08a6_45d1_acf8_0d5e13efcfc6/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87472,
+            24.066668
+        ],
+        [
+            45.87472,
+            24.066668
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

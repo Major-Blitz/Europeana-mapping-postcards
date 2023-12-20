@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN04906",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/013AjP3TVKko?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "Brevkort - A 5 Upplands artilleriregemente, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN04906. (sv) Ok\u00e4nd,. Upplandsmuseet - https://digitaltmuseum.se/0210111404797. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91617/upmu_photo_FN04906' target='_blank' rel='noopener'>Brevkort - A 5 Upplands artilleriregemente, Uppsala</a></dd><dt>Creator</dt><dd lang='sv'>Ok\u00e4nd,</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210111404797' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN04906/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 755737,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 773,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#F8F8FF",
+                "#808080",
+                "#2F4F4F",
+                "#F5FFFA",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/0210111404797",
+            "textAttributionSnippet": "Brevkort - A 5 Upplands artilleriregemente, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN04906. (sv) Ok\u00e4nd,. Upplandsmuseet - https://digitaltmuseum.se/0210111404797. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91617/upmu_photo_FN04906' target='_blank' rel='noopener'>Brevkort - A 5 Upplands artilleriregemente, Uppsala</a></dd><dt>Creator</dt><dd lang='sv'>Ok\u00e4nd,</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210111404797' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN04906/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Building"
+    ],
+    "concept_note": [
+        "Structure, typically with a roof and walls, standing more or less permanently in one place"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

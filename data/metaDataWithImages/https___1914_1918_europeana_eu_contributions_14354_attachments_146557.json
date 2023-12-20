@@ -1,0 +1,748 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 380674,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#FFFFF0",
+                "#F0FFFF",
+                "#FFE4C4",
+                "#FAF0E6",
+                "#808080"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0005.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0005.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 264427,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#FFF0F5",
+                "#F5FFFA",
+                "#F5DEB3",
+                "#F5F5F5",
+                "#F0F8FF"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0017.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0017.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 211797,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAF0",
+                "#FFFACD",
+                "#FFE4C4",
+                "#E6E6FA",
+                "#EEE8AA",
+                "#FFEBCD"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0003.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0003.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 292594,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#D2B48C",
+                "#D3D3D3",
+                "#FFE4C4",
+                "#FDF5E6",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0016.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0016.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 251291,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#F5FFFA",
+                "#D3D3D3",
+                "#FFE4C4",
+                "#F5DEB3",
+                "#808080"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0014.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0014.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 288181,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0F8FF",
+                "#F5F5DC",
+                "#D2B48C",
+                "#BC8F8F",
+                "#A0522D",
+                "#6B8E23"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0006.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0006.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 274204,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#F5FFFA",
+                "#FFFAF0",
+                "#696969",
+                "#DEB887",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0008.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0008.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 295158,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF5EE",
+                "#F5DEB3",
+                "#9ACD32",
+                "#FFFFE0",
+                "#FFDAB9",
+                "#CD5C5C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0012.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0012.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 339415,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAFAD2",
+                "#FFDEAD",
+                "#FFFFF0",
+                "#F8F8FF",
+                "#D8BFD8",
+                "#FFFFE0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0010.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0010.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 385241,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0E68C",
+                "#FFEFD5",
+                "#FFE4C4",
+                "#696969",
+                "#FAFAD2",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 300535,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#FFE4B5",
+                "#D3D3D3",
+                "#F5DEB3",
+                "#A0522D",
+                "#808080"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0004.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0004.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 230003,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#FAF0E6",
+                "#DEB887",
+                "#F0FFF0",
+                "#FFF5EE",
+                "#FDF5E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0002.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0002.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 245023,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#E6E6FA",
+                "#A0522D",
+                "#F5FFFA",
+                "#F0FFFF",
+                "#FFFFE0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0015.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0015.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 320384,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#A9A9A9",
+                "#808080",
+                "#FFFAF0",
+                "#000000",
+                "#D2691E"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0009.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0009.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 380032,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F8F8FF",
+                "#808080",
+                "#FFFAF0",
+                "#FFEBCD",
+                "#696969",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0013.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0013.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 270401,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#BC8F8F",
+                "#808080",
+                "#C0C0C0",
+                "#556B2F",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0007.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0007.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 238430,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAF0",
+                "#FFF5EE",
+                "#D2B48C",
+                "#F8F8FF",
+                "#F0FFF0",
+                "#F0FFFF"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0011.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 10:06:52 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Correspondance de Jean SPAGNOL - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557. europeana19141918:agent/750b89fa858f30be37c21952e0d394e1. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557' target='_blank' rel='noopener'>Correspondance de Jean SPAGNOL</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/750b89fa858f30be37c21952e0d394e1</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/14354.146557.original_Page0011.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 307117,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#F5F5F5",
+                "#DEB887",
+                "#DCDCDC",
+                "#F8F8FF",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14354_attachments_146557/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Letter"
+    ],
+    "concept_note": [
+        "Written message from one to another"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_J4NZ05O9",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-J4NZ05O9/dbbde557-5099-4ab1-9c94-a2bdef256d6c/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "4372 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Melvi\u010de v Ziljski dolini - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_J4NZ05O9. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-J4NZ05O9. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_J4NZ05O9' target='_blank' rel='noopener'>Melvi\u010de v Ziljski dolini</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-J4NZ05O9' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_J4NZ05O9/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 4477927,
+            "ebucoreWidth": 3138,
+            "ebucoreHeight": 1966,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#D2B48C",
+                "#000000",
+                "#C0C0C0",
+                "#556B2F",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-J4NZ05O9/maxi/edm",
+            "textAttributionSnippet": "(sl) Melvi\u010de v Ziljski dolini - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_J4NZ05O9. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-J4NZ05O9. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_J4NZ05O9' target='_blank' rel='noopener'>Melvi\u010de v Ziljski dolini</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-J4NZ05O9' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 42702,
+            "ebucoreWidth": 955,
+            "ebucoreHeight": 597,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#D2B48C",
+                "#000000",
+                "#C0C0C0",
+                "#556B2F",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-J4NZ05O9",
+            "textAttributionSnippet": "(sl) Melvi\u010de v Ziljski dolini - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_J4NZ05O9. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-J4NZ05O9. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_J4NZ05O9' target='_blank' rel='noopener'>Melvi\u010de v Ziljski dolini</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-J4NZ05O9' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 29703
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_J4NZ05O9/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

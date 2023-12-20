@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_132307",
+    "webResources": [
+        {
+            "about": "http://finna.fi/Record/lusto.knp-132307",
+            "textAttributionSnippet": "(en) Fallen trees 22.9. The 1982 Mauri-storm hit Finland in Northern Finland - https://www.europeana.eu/item/2021008/_knp_132307. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-132307. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_132307' target='_blank' rel='noopener'>Fallen trees 22.9. The 1982 Mauri-storm hit Finland in Northern Finland</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-132307' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/107345/highres?customer=knp",
+            "textAttributionSnippet": "(en) Fallen trees 22.9. The 1982 Mauri-storm hit Finland in Northern Finland - https://www.europeana.eu/item/2021008/_knp_132307. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-132307. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_132307' target='_blank' rel='noopener'>Fallen trees 22.9. The 1982 Mauri-storm hit Finland in Northern Finland</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-132307' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_132307/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 50290,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 400,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#808080",
+                "#C0C0C0",
+                "#E6E6FA",
+                "#000000",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_132307/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

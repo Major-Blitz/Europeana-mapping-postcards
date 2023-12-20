@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_OZRAFROZ",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-OZRAFROZ/e8f73825-99b5-45e9-a0a9-a6fef9802732/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "0 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Windisch Feistritz, Totale - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_OZRAFROZ. Frederick Franck. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-OZRAFROZ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_OZRAFROZ' target='_blank' rel='noopener'>Windisch Feistritz, Totale</a></dd><dt>Creator</dt><dd lang=''>Frederick Franck</dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-OZRAFROZ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_OZRAFROZ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 354403,
+            "ebucoreWidth": 1617,
+            "ebucoreHeight": 1016,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#808080",
+                "#A9A9A9",
+                "#D2B48C",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-OZRAFROZ",
+            "textAttributionSnippet": "(sl) Windisch Feistritz, Totale - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_OZRAFROZ. Frederick Franck. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-OZRAFROZ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_OZRAFROZ' target='_blank' rel='noopener'>Windisch Feistritz, Totale</a></dd><dt>Creator</dt><dd lang=''>Frederick Franck</dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-OZRAFROZ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 28933
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-OZRAFROZ/maxi/edm",
+            "textAttributionSnippet": "(sl) Windisch Feistritz, Totale - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_OZRAFROZ. Frederick Franck. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-OZRAFROZ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_OZRAFROZ' target='_blank' rel='noopener'>Windisch Feistritz, Totale</a></dd><dt>Creator</dt><dd lang=''>Frederick Franck</dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-OZRAFROZ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 66180,
+            "ebucoreWidth": 952,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#808080",
+                "#C0C0C0",
+                "#D2B48C",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_OZRAFROZ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

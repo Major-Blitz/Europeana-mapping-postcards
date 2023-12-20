@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_5QCMQLQT",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-5QCMQLQT/maxi/edm",
+            "textAttributionSnippet": "(sl) Natzbauer mit Koschutta (2135 m) in den Karawanken - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_5QCMQLQT. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-5QCMQLQT. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_5QCMQLQT' target='_blank' rel='noopener'>Natzbauer mit Koschutta (2135 m) in den Karawanken</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-5QCMQLQT' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 64768,
+            "ebucoreWidth": 927,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#000000",
+                "#A9A9A9",
+                "#808080",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-5QCMQLQT",
+            "textAttributionSnippet": "(sl) Natzbauer mit Koschutta (2135 m) in den Karawanken - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_5QCMQLQT. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-5QCMQLQT. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_5QCMQLQT' target='_blank' rel='noopener'>Natzbauer mit Koschutta (2135 m) in den Karawanken</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-5QCMQLQT' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 30822
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-5QCMQLQT/cce36824-5d92-484f-bc33-2980a96353af/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "5293 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Natzbauer mit Koschutta (2135 m) in den Karawanken - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_5QCMQLQT. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-5QCMQLQT. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_5QCMQLQT' target='_blank' rel='noopener'>Natzbauer mit Koschutta (2135 m) in den Karawanken</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-5QCMQLQT' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_5QCMQLQT/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 5420181,
+            "ebucoreWidth": 3307,
+            "ebucoreHeight": 2140,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#000000",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_5QCMQLQT/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

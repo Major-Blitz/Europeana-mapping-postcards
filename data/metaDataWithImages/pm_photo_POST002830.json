@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916120/pm_photo_POST002830",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/022sC3HF2J4R?dimension=600x600",
+            "textAttributionSnippet": "(en) Stockholm, Sweden - https://www.europeana.eu/item/916120/pm_photo_POST002830. Postmuseet - https://digitaltmuseum.se/011014661817. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST002830' target='_blank' rel='noopener'>Stockholm, Sweden</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014661817' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_photo_POST002830/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 147593,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 474,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#696969",
+                "#808080",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#000000",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sC3HF2J4R?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Stockholm, Sweden - https://www.europeana.eu/item/916120/pm_photo_POST002830. Postmuseet - https://digitaltmuseum.se/011014661817. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST002830' target='_blank' rel='noopener'>Stockholm, Sweden</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014661817' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_photo_POST002830/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 111398,
+            "ebucoreWidth": 640,
+            "ebucoreHeight": 506,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#696969",
+                "#808080",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#000000",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014661817",
+            "textAttributionSnippet": "(en) Stockholm, Sweden - https://www.europeana.eu/item/916120/pm_photo_POST002830. Postmuseet - https://digitaltmuseum.se/011014661817. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST002830' target='_blank' rel='noopener'>Stockholm, Sweden</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014661817' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 101922
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916120/pm_photo_POST002830/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916120_Ag_SE_Postmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Postmuseum"
+    ],
+    "coordinate": "not showed"
+}

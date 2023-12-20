@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_12d0c0e7_ed2d_4056_a0b2_513004e0944a",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-img-stranse_Domocos_Lorena_docpatv492_DOCPATv492/Imagini/11405D3BA741436FBBD6177A4B0E9A14.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_12d0c0e7_ed2d_4056_a0b2_513004e0944a. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/12d0c0e7-ed2d-4056-a0b2-513004e0944a/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/12d0c0e7-ed2d-4056-a0b2-513004e0944a/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_12d0c0e7_ed2d_4056_a0b2_513004e0944a/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5076132,
+            "ebucoreWidth": 1618,
+            "ebucoreHeight": 1044,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#4682B4",
+                "#DCDCDC",
+                "#2F4F4F",
+                "#D3D3D3",
+                "#A9A9A9",
+                "#5F9EA0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-img-stranse_Domocos_Lorena_docpatv492_DOCPATv492/Imagini/1EBF635EBFF44DC38D0F322B59FF47D2.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_12d0c0e7_ed2d_4056_a0b2_513004e0944a. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/12d0c0e7-ed2d-4056-a0b2-513004e0944a/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/12d0c0e7-ed2d-4056-a0b2-513004e0944a/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_12d0c0e7_ed2d_4056_a0b2_513004e0944a/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5072660,
+            "ebucoreWidth": 1620,
+            "ebucoreHeight": 1042,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#FFEBCD",
+                "#BC8F8F",
+                "#A9A9A9",
+                "#FDF5E6",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/12d0c0e7-ed2d-4056-a0b2-513004e0944a/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_12d0c0e7_ed2d_4056_a0b2_513004e0944a. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/12d0c0e7-ed2d-4056-a0b2-513004e0944a/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/12d0c0e7-ed2d-4056-a0b2-513004e0944a/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_12d0c0e7_ed2d_4056_a0b2_513004e0944a/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "House of Mure\u0219enilor"
+    ],
+    "coordinate": [
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

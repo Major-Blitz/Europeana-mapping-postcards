@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_4BADABZZ3VZG4Q376B3RIELNUAIPCEGA",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=a3684f56-01e3-4707-b2b2-0b5c53994d7f",
+            "textAttributionSnippet": "(en) Chantilly - https://www.europeana.eu/item/401/item_4BADABZZ3VZG4Q376B3RIELNUAIPCEGA. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3695606. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4BADABZZ3VZG4Q376B3RIELNUAIPCEGA' target='_blank' rel='noopener'>Chantilly</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3695606' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_4BADABZZ3VZG4Q376B3RIELNUAIPCEGA/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 93921,
+            "ebucoreWidth": 519,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4E1",
+                "#696969",
+                "#DEB887",
+                "#FFF0F5",
+                "#BC8F8F",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3695606",
+            "textAttributionSnippet": "(en) Chantilly - https://www.europeana.eu/item/401/item_4BADABZZ3VZG4Q376B3RIELNUAIPCEGA. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3695606. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4BADABZZ3VZG4Q376B3RIELNUAIPCEGA' target='_blank' rel='noopener'>Chantilly</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3695606' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_4BADABZZ3VZG4Q376B3RIELNUAIPCEGA/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": "not showed"
+}

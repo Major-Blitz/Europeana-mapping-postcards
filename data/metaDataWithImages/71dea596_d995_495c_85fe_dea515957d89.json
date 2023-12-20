@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/71dea596_d995_495c_85fe_dea515957d89",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/21d9b79d-841a-4371-a0f1-77a080042537.jpg",
+            "textAttributionSnippet": "(nl) Zicht op de Rozenhoedkaai - https://www.europeana.eu/item/534/71dea596_d995_495c_85fe_dea515957d89. (nl) Lagaert (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/71dea596_d995_495c_85fe_dea515957d89' target='_blank' rel='noopener'>Zicht op de Rozenhoedkaai</a></dd><dt>Creator</dt><dd lang='nl'>Lagaert (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/71dea596_d995_495c_85fe_dea515957d89/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 148488,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 613,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#E9967A",
+                "#BDB76B",
+                "#808080",
+                "#A9A9A9",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op de Rozenhoedkaai - https://www.europeana.eu/item/534/71dea596_d995_495c_85fe_dea515957d89. (nl) Lagaert (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/71dea596_d995_495c_85fe_dea515957d89' target='_blank' rel='noopener'>Zicht op de Rozenhoedkaai</a></dd><dt>Creator</dt><dd lang='nl'>Lagaert (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/71dea596_d995_495c_85fe_dea515957d89/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

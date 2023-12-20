@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916108/smm_mm_object_MM21424",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/042uKXC1VJh6?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Military Letters - https://www.europeana.eu/item/916108/smm_mm_object_MM21424. Marinmuseum - https://digitaltmuseum.se/011024816880. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_object_MM21424' target='_blank' rel='noopener'>Military Letters</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024816880' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_object_MM21424/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 740081,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 853,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#B0C4DE",
+                "#C0C0C0",
+                "#D8BFD8",
+                "#D3D3D3",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011024816880",
+            "textAttributionSnippet": "(en) Military Letters - https://www.europeana.eu/item/916108/smm_mm_object_MM21424. Marinmuseum - https://digitaltmuseum.se/011024816880. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_object_MM21424' target='_blank' rel='noopener'>Military Letters</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024816880' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 96727
+        },
+        {
+            "about": "https://mm.dimu.org/image/042uKXC1VJh6?dimension=600x600",
+            "textAttributionSnippet": "(en) Military Letters - https://www.europeana.eu/item/916108/smm_mm_object_MM21424. Marinmuseum - https://digitaltmuseum.se/011024816880. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_object_MM21424' target='_blank' rel='noopener'>Military Letters</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024816880' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_object_MM21424/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 215495,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 426,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#B0C4DE",
+                "#C0C0C0",
+                "#D8BFD8",
+                "#D3D3D3",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916108/smm_mm_object_MM21424/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "916108_Ag_SE_SwedishNationalHeritage_Marinmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

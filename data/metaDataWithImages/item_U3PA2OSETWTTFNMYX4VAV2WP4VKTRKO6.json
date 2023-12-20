@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_U3PA2OSETWTTFNMYX4VAV2WP4VKTRKO6",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=c5fca66e-6926-4229-9275-5d17a86e05fc",
+            "textAttributionSnippet": "(en) Paul Kamm\u2019s congratulations to the postcards Iivi Rehepap - https://www.europeana.eu/item/401/item_U3PA2OSETWTTFNMYX4VAV2WP4VKTRKO6. Hiiumaa Muuseumid - https://www.muis.ee/museaalView/3737266. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_U3PA2OSETWTTFNMYX4VAV2WP4VKTRKO6' target='_blank' rel='noopener'>Paul Kamm\u2019s congratulations to the postcards Iivi Rehepap</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3737266' target='_blank' rel='noopener'>Hiiumaa Muuseumid</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_U3PA2OSETWTTFNMYX4VAV2WP4VKTRKO6/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 96138,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 446,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#FFDEAD",
+                "#FFA500",
+                "#708090",
+                "#B0E0E6",
+                "#2E8B57"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3737266",
+            "textAttributionSnippet": "(en) Paul Kamm\u2019s congratulations to the postcards Iivi Rehepap - https://www.europeana.eu/item/401/item_U3PA2OSETWTTFNMYX4VAV2WP4VKTRKO6. Hiiumaa Muuseumid - https://www.muis.ee/museaalView/3737266. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_U3PA2OSETWTTFNMYX4VAV2WP4VKTRKO6' target='_blank' rel='noopener'>Paul Kamm\u2019s congratulations to the postcards Iivi Rehepap</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3737266' target='_blank' rel='noopener'>Hiiumaa Muuseumid</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_U3PA2OSETWTTFNMYX4VAV2WP4VKTRKO6/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Foundation of Hiiumaa Museum"
+    ],
+    "coordinate": "not showed"
+}

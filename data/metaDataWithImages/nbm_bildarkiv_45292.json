@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/900/nbm_bildarkiv_45292",
+    "webResources": [
+        {
+            "about": "https://samlingar.norrbottensmuseum.se/web/object/45292",
+            "textAttributionSnippet": "(en) city view, farm environment, fences, residential buildings, postcards - https://www.europeana.eu/item/900/nbm_bildarkiv_45292. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/45292. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_45292' target='_blank' rel='noopener'>city view, farm environment, fences, residential buildings, postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/45292' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 13482
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/152254/BAABVJF.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) city view, farm environment, fences, residential buildings, postcards - https://www.europeana.eu/item/900/nbm_bildarkiv_45292. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/45292. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_45292' target='_blank' rel='noopener'>city view, farm environment, fences, residential buildings, postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/45292' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_45292/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 38586,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 316,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#BDB76B",
+                "#FFF0F5",
+                "#696969",
+                "#D8BFD8",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_45292/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "900__Norrbottens_museum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Norrbottens Museum"
+    ],
+    "coordinate": "not showed"
+}

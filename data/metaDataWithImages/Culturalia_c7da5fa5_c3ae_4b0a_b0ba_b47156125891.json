@@ -1,0 +1,92 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_c7da5fa5_c3ae_4b0a_b0ba_b47156125891",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_08%20august%202020_istorie_georgescu_docpatv494/Imagini1/6E442FB10BF34C49ABF3BB2AEB320B85.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c7da5fa5_c3ae_4b0a_b0ba_b47156125891. F. Theil, Agnita. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c7da5fa5-c3ae-4b0a-b0ba-b47156125891/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>F. Theil, Agnita</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c7da5fa5-c3ae-4b0a-b0ba-b47156125891/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_c7da5fa5_c3ae_4b0a_b0ba_b47156125891/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22149612,
+            "ebucoreWidth": 3398,
+            "ebucoreHeight": 2171,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#EEE8AA",
+                "#778899",
+                "#D2B48C",
+                "#D3D3D3",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_08%20august%202020_istorie_georgescu_docpatv494/Imagini1/00DE78DD89C4453CBEA83724C1276608.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c7da5fa5_c3ae_4b0a_b0ba_b47156125891. F. Theil, Agnita. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c7da5fa5-c3ae-4b0a-b0ba-b47156125891/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>F. Theil, Agnita</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c7da5fa5-c3ae-4b0a-b0ba-b47156125891/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_c7da5fa5_c3ae_4b0a_b0ba_b47156125891/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22149612,
+            "ebucoreWidth": 3398,
+            "ebucoreHeight": 2171,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#2F4F4F",
+                "#EEE8AA",
+                "#B0C4DE",
+                "#F5DEB3",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/c7da5fa5-c3ae-4b0a-b0ba-b47156125891/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c7da5fa5_c3ae_4b0a_b0ba_b47156125891. F. Theil, Agnita. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c7da5fa5-c3ae-4b0a-b0ba-b47156125891/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>F. Theil, Agnita</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c7da5fa5-c3ae-4b0a-b0ba-b47156125891/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_c7da5fa5_c3ae_4b0a_b0ba_b47156125891/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

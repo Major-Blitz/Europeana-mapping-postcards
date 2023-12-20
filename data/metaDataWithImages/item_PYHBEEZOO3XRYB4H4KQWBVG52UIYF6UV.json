@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_PYHBEEZOO3XRYB4H4KQWBVG52UIYF6UV",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=cce302d7-9725-409e-98fe-2379bfb96569",
+            "textAttributionSnippet": "(en) Blida - https://www.europeana.eu/item/401/item_PYHBEEZOO3XRYB4H4KQWBVG52UIYF6UV. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3687515. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_PYHBEEZOO3XRYB4H4KQWBVG52UIYF6UV' target='_blank' rel='noopener'>Blida</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3687515' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_PYHBEEZOO3XRYB4H4KQWBVG52UIYF6UV/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 142381,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 542,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#D2B48C",
+                "#F5F5DC",
+                "#BDB76B",
+                "#CD853F",
+                "#F0E68C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3687515",
+            "textAttributionSnippet": "(en) Blida - https://www.europeana.eu/item/401/item_PYHBEEZOO3XRYB4H4KQWBVG52UIYF6UV. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3687515. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_PYHBEEZOO3XRYB4H4KQWBVG52UIYF6UV' target='_blank' rel='noopener'>Blida</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3687515' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_PYHBEEZOO3XRYB4H4KQWBVG52UIYF6UV/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            28.0,
+            1.0
+        ]
+    ]
+}

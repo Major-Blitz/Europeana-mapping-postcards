@@ -1,0 +1,50 @@
+{
+    "aggregations_about": "/aggregation/provider/2024903/photography_ProvidedCHO_KU_Leuven_9992117601901488",
+    "webResources": [
+        {
+            "about": "https://lib.is/IE2423000/stream?quality=LOW",
+            "textAttributionSnippet": "(en) Example of bad taste : Four postcards - https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9992117601901488. (en) Rapha\u00ebl Verwilghen. Catholic University of Leuven. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9992117601901488' target='_blank' rel='noopener'>Example of bad taste : Four postcards</a></dd><dt>Creator</dt><dd lang='en'>Rapha\u00ebl Verwilghen</dd><dt>Institution</dt><dd lang=''>Catholic University of Leuven</dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2024903/photography_ProvidedCHO_KU_Leuven_9992117601901488/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 577633,
+            "ebucoreWidth": 3030,
+            "ebucoreHeight": 2566,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#696969",
+                "#000000",
+                "#B0C4DE",
+                "#D3D3D3",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2024903/photography_ProvidedCHO_KU_Leuven_9992117601901488/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photography genre"
+    ],
+    "concept_note": [
+        "Type of genre; form of photography in terms of a theme or subject"
+    ],
+    "edmDatasetName": [
+        "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": "not showed"
+}

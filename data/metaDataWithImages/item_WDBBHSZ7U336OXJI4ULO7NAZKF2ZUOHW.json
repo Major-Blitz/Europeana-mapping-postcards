@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_WDBBHSZ7U336OXJI4ULO7NAZKF2ZUOHW",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/2551666",
+            "textAttributionSnippet": "(en) Set of postcards' ruins and castles\u2019 - https://www.europeana.eu/item/401/item_WDBBHSZ7U336OXJI4ULO7NAZKF2ZUOHW. (et) J. & P. Parikas (autor). Tallinna Linnamuuseum - https://www.muis.ee/museaalView/2551666. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_WDBBHSZ7U336OXJI4ULO7NAZKF2ZUOHW' target='_blank' rel='noopener'>Set of postcards' ruins and castles\u2019</a></dd><dt>Creator</dt><dd lang='et'>J. & P. Parikas (autor)</dd><dt>Date</dt><dd lang=''>1922</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2551666' target='_blank' rel='noopener'>Tallinna Linnamuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=98ec70bd-d8a7-4d43-920f-d98e2b60a5e1",
+            "textAttributionSnippet": "(en) Set of postcards' ruins and castles\u2019 - https://www.europeana.eu/item/401/item_WDBBHSZ7U336OXJI4ULO7NAZKF2ZUOHW. (et) J. & P. Parikas (autor). Tallinna Linnamuuseum - https://www.muis.ee/museaalView/2551666. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_WDBBHSZ7U336OXJI4ULO7NAZKF2ZUOHW' target='_blank' rel='noopener'>Set of postcards' ruins and castles\u2019</a></dd><dt>Creator</dt><dd lang='et'>J. & P. Parikas (autor)</dd><dt>Date</dt><dd lang=''>1922</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2551666' target='_blank' rel='noopener'>Tallinna Linnamuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_WDBBHSZ7U336OXJI4ULO7NAZKF2ZUOHW/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 102627,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 451,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#DCDCDC",
+                "#FAF0E6",
+                "#2F4F4F",
+                "#8FBC8F",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_WDBBHSZ7U336OXJI4ULO7NAZKF2ZUOHW/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Tallinn City Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_C6F4P6VBD727G4TWBAT5PCDBSOAWOL2Y",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=2d1ff1a4-c212-4c2c-966f-de2a0dcf21ce",
+            "textAttributionSnippet": "(et) Oru lossi terrass Toilas - https://www.europeana.eu/item/401/item_C6F4P6VBD727G4TWBAT5PCDBSOAWOL2Y. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417029. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_C6F4P6VBD727G4TWBAT5PCDBSOAWOL2Y' target='_blank' rel='noopener'>Oru lossi terrass Toilas</a></dd><dt>Date</dt><dd lang=''>1941</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417029' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_C6F4P6VBD727G4TWBAT5PCDBSOAWOL2Y/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 139741,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 514,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFDEAD",
+                "#F5F5DC",
+                "#F5DEB3",
+                "#E9967A",
+                "#FAEBD7",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3417029",
+            "textAttributionSnippet": "(et) Oru lossi terrass Toilas - https://www.europeana.eu/item/401/item_C6F4P6VBD727G4TWBAT5PCDBSOAWOL2Y. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417029. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_C6F4P6VBD727G4TWBAT5PCDBSOAWOL2Y' target='_blank' rel='noopener'>Oru lossi terrass Toilas</a></dd><dt>Date</dt><dd lang=''>1941</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417029' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_C6F4P6VBD727G4TWBAT5PCDBSOAWOL2Y/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_UTARVTDWTGAOCROLHWKBAVRNC5YSGWUE",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=e410d065-ccd0-461d-978b-b5459d1ae407",
+            "textAttributionSnippet": "(en) Petseri, Setumaa - https://www.europeana.eu/item/401/item_UTARVTDWTGAOCROLHWKBAVRNC5YSGWUE. (en) Sarap, Carl (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3744071. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_UTARVTDWTGAOCROLHWKBAVRNC5YSGWUE' target='_blank' rel='noopener'>Petseri, Setumaa</a></dd><dt>Creator</dt><dd lang='en'>Sarap, Carl (author)</dd><dt>Date</dt><dd lang=''>1939</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3744071' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_UTARVTDWTGAOCROLHWKBAVRNC5YSGWUE/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 127688,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 587,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAFAD2",
+                "#F0FFF0",
+                "#FFE4B5",
+                "#FFE4C4",
+                "#BDB76B",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3744071",
+            "textAttributionSnippet": "(en) Petseri, Setumaa - https://www.europeana.eu/item/401/item_UTARVTDWTGAOCROLHWKBAVRNC5YSGWUE. (en) Sarap, Carl (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3744071. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_UTARVTDWTGAOCROLHWKBAVRNC5YSGWUE' target='_blank' rel='noopener'>Petseri, Setumaa</a></dd><dt>Creator</dt><dd lang='en'>Sarap, Carl (author)</dd><dt>Date</dt><dd lang=''>1939</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3744071' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_UTARVTDWTGAOCROLHWKBAVRNC5YSGWUE/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

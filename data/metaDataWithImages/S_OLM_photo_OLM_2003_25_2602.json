@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916121/S_OLM_photo_OLM_2003_25_2602",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/022wYWViLYzj?dimension=600x600",
+            "textAttributionSnippet": "(en) Great Middle Old Age home, exterior.\nThe picture taken for postcards.\nHolm & Lundqvist - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2602. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212600. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2602' target='_blank' rel='noopener'>Great Middle Old Age home, exterior.\nThe picture taken for postcards.\nHolm & Lundqvist</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212600' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_2602/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 138786,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 392,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#48D1CC",
+                "#20B2AA",
+                "#000000",
+                "#1E90FF",
+                "#A9A9A9",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022wYWViLYzj?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Great Middle Old Age home, exterior.\nThe picture taken for postcards.\nHolm & Lundqvist - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2602. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212600. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2602' target='_blank' rel='noopener'>Great Middle Old Age home, exterior.\nThe picture taken for postcards.\nHolm & Lundqvist</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212600' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_2602/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 180935,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 490,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#48D1CC",
+                "#20B2AA",
+                "#000000",
+                "#1E90FF",
+                "#A9A9A9",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016212600",
+            "textAttributionSnippet": "(en) Great Middle Old Age home, exterior.\nThe picture taken for postcards.\nHolm & Lundqvist - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2602. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212600. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2602' target='_blank' rel='noopener'>Great Middle Old Age home, exterior.\nThe picture taken for postcards.\nHolm & Lundqvist</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212600' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 99110
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_2602/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Building"
+    ],
+    "concept_note": [
+        "Structure, typically with a roof and walls, standing more or less permanently in one place"
+    ],
+    "edmDatasetName": [
+        "916121_Ag_SE_s_olm"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

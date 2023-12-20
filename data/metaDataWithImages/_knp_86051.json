@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_86051",
+    "webResources": [
+        {
+            "about": "http://finna.fi/Record/lusto.knp-86051",
+            "textAttributionSnippet": "(fi) \"Kuurainen talviaamu M\u00e4nt\u00e4ss\u00e4 vuorelta. \u00c4l\u00e4 riisu kummulta koivu- ja kuusivaippaa. S\u00e4\u00e4st\u00e4 koivuja kumpujen rinteille.\" (alkuper\u00e4inen teksti). Kuva on Mets\u00e4taloudellisen Valistustoimiston postikortti numero 8 - https://www.europeana.eu/item/2021008/_knp_86051. Emil Vesterinen. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_86051' target='_blank' rel='noopener'>\"Kuurainen talviaamu M\u00e4nt\u00e4ss\u00e4 vuorelta. \u00c4l\u00e4 riisu kummulta koivu- ja kuusivaippaa. S\u00e4\u00e4st\u00e4 koivuja kumpujen rinteille.\" (alkuper\u00e4inen teksti). Kuva on Mets\u00e4taloudellisen Valistustoimiston postikortti numero 8</a></dd><dt>Creator</dt><dd lang=''>Emil Vesterinen</dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86051' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46829/thumbnail?customer=knp",
+            "textAttributionSnippet": "(fi) \"Kuurainen talviaamu M\u00e4nt\u00e4ss\u00e4 vuorelta. \u00c4l\u00e4 riisu kummulta koivu- ja kuusivaippaa. S\u00e4\u00e4st\u00e4 koivuja kumpujen rinteille.\" (alkuper\u00e4inen teksti). Kuva on Mets\u00e4taloudellisen Valistustoimiston postikortti numero 8 - https://www.europeana.eu/item/2021008/_knp_86051. Emil Vesterinen. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86051. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_86051' target='_blank' rel='noopener'>\"Kuurainen talviaamu M\u00e4nt\u00e4ss\u00e4 vuorelta. \u00c4l\u00e4 riisu kummulta koivu- ja kuusivaippaa. S\u00e4\u00e4st\u00e4 koivuja kumpujen rinteille.\" (alkuper\u00e4inen teksti). Kuva on Mets\u00e4taloudellisen Valistustoimiston postikortti numero 8</a></dd><dt>Creator</dt><dd lang=''>Emil Vesterinen</dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86051' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_86051/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 27001,
+            "ebucoreWidth": 400,
+            "ebucoreHeight": 296,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#FFFAFA",
+                "#D3D3D3",
+                "#B0C4DE",
+                "#C0C0C0",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_86051/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

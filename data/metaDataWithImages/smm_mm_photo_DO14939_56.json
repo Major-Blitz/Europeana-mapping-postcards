@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916108/smm_mm_photo_DO14939_56",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011014861462",
+            "textAttributionSnippet": "(en) Postcards in a military area in Karlskrona and also a sailor who stands and points to the photograph - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_56. (en) Ekecrantz, Robert. Marinmuseum - https://digitaltmuseum.se/011014861462. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_56' target='_blank' rel='noopener'>Postcards in a military area in Karlskrona and also a sailor who stands and points to the photograph</a></dd><dt>Creator</dt><dd lang='en'>Ekecrantz, Robert</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861462' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 96523
+        },
+        {
+            "about": "https://mm.dimu.org/image/022uKXR53y6a?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards in a military area in Karlskrona and also a sailor who stands and points to the photograph - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_56. (en) Ekecrantz, Robert. Marinmuseum - https://digitaltmuseum.se/011014861462. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_56' target='_blank' rel='noopener'>Postcards in a military area in Karlskrona and also a sailor who stands and points to the photograph</a></dd><dt>Creator</dt><dd lang='en'>Ekecrantz, Robert</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861462' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_56/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1008278,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 773,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#FAEBD7",
+                "#2F4F4F",
+                "#FAF0E6",
+                "#696969",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022uKXR53y6a?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcards in a military area in Karlskrona and also a sailor who stands and points to the photograph - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_56. (en) Ekecrantz, Robert. Marinmuseum - https://digitaltmuseum.se/011014861462. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_56' target='_blank' rel='noopener'>Postcards in a military area in Karlskrona and also a sailor who stands and points to the photograph</a></dd><dt>Creator</dt><dd lang='en'>Ekecrantz, Robert</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861462' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_56/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 274359,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 387,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#2F4F4F",
+                "#FAEBD7",
+                "#FAF0E6",
+                "#696969",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_56/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "916108_Ag_SE_SwedishNationalHeritage_Marinmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

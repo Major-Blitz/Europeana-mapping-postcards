@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916118/S_TEK_object_TEKS0007676",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/021026312389",
+            "textAttributionSnippet": "(en) Microphone - https://www.europeana.eu/item/916118/S_TEK_object_TEKS0007676. (en) Electro-Voice inc. Tekniska museet - https://digitaltmuseum.se/021026312389. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_object_TEKS0007676' target='_blank' rel='noopener'>Microphone</a></dd><dt>Creator</dt><dd lang='en'>Electro-Voice inc</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021026312389' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 101497
+        },
+        {
+            "about": "https://mm.dimu.org/image/032wZVarGCMS?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Microphone - https://www.europeana.eu/item/916118/S_TEK_object_TEKS0007676. (en) Electro-Voice inc. Tekniska museet - https://digitaltmuseum.se/021026312389. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_object_TEKS0007676' target='_blank' rel='noopener'>Microphone</a></dd><dt>Creator</dt><dd lang='en'>Electro-Voice inc</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021026312389' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_object_TEKS0007676/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 305469,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 772,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#FFFAFA",
+                "#F5FFFA",
+                "#F8F8FF",
+                "#A9A9A9",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/032wZVarGCMS?dimension=600x600",
+            "textAttributionSnippet": "(en) Microphone - https://www.europeana.eu/item/916118/S_TEK_object_TEKS0007676. (en) Electro-Voice inc. Tekniska museet - https://digitaltmuseum.se/021026312389. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_object_TEKS0007676' target='_blank' rel='noopener'>Microphone</a></dd><dt>Creator</dt><dd lang='en'>Electro-Voice inc</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021026312389' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_object_TEKS0007676/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 76312,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 386,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#FFFAFA",
+                "#F5FFFA",
+                "#F8F8FF",
+                "#A9A9A9",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916118/S_TEK_object_TEKS0007676/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Metal"
+    ],
+    "concept_note": [
+        "Element, compound, or alloy that is a good conductor of both electricity and heat; ancient Chinese element"
+    ],
+    "edmDatasetName": [
+        "916118_Ag_SE_Tekniskamuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

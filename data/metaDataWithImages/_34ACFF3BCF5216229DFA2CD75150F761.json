@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_34ACFF3BCF5216229DFA2CD75150F761",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=830795&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(en) Finnish stamps abolished by imperial order - https://www.europeana.eu/item/2021009/_34ACFF3BCF5216229DFA2CD75150F761. (en) Paul, Axel. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.34ACFF3BCF5216229DFA2CD75150F761?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_34ACFF3BCF5216229DFA2CD75150F761' target='_blank' rel='noopener'>Finnish stamps abolished by imperial order</a></dd><dt>Creator</dt><dd lang='en'>Paul, Axel</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.34ACFF3BCF5216229DFA2CD75150F761?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_34ACFF3BCF5216229DFA2CD75150F761/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 420418,
+            "ebucoreWidth": 845,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#B8860B",
+                "#800000",
+                "#6B8E23",
+                "#2F4F4F",
+                "#9ACD32"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.34ACFF3BCF5216229DFA2CD75150F761?lng=en-gb",
+            "textAttributionSnippet": "(en) Finnish stamps abolished by imperial order - https://www.europeana.eu/item/2021009/_34ACFF3BCF5216229DFA2CD75150F761. (en) Paul, Axel. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.34ACFF3BCF5216229DFA2CD75150F761?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_34ACFF3BCF5216229DFA2CD75150F761' target='_blank' rel='noopener'>Finnish stamps abolished by imperial order</a></dd><dt>Creator</dt><dd lang='en'>Paul, Axel</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.34ACFF3BCF5216229DFA2CD75150F761?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_34ACFF3BCF5216229DFA2CD75150F761/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postage stamp"
+    ],
+    "concept_note": [
+        "Small piece of paper that is purchased and displayed on an item of mail as evidence of payment of postage"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

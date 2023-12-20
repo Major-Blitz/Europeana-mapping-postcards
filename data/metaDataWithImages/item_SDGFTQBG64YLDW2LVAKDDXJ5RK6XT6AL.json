@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_SDGFTQBG64YLDW2LVAKDDXJ5RK6XT6AL",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3741718",
+            "textAttributionSnippet": "(en) Tallinn, House of Blackheads - https://www.europeana.eu/item/401/item_SDGFTQBG64YLDW2LVAKDDXJ5RK6XT6AL. (en) Parish (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741718. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_SDGFTQBG64YLDW2LVAKDDXJ5RK6XT6AL' target='_blank' rel='noopener'>Tallinn, House of Blackheads</a></dd><dt>Creator</dt><dd lang='en'>Parish (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741718' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=ab739037-5863-4169-bec1-566b25fd59d0",
+            "textAttributionSnippet": "(en) Tallinn, House of Blackheads - https://www.europeana.eu/item/401/item_SDGFTQBG64YLDW2LVAKDDXJ5RK6XT6AL. (en) Parish (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741718. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_SDGFTQBG64YLDW2LVAKDDXJ5RK6XT6AL' target='_blank' rel='noopener'>Tallinn, House of Blackheads</a></dd><dt>Creator</dt><dd lang='en'>Parish (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741718' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_SDGFTQBG64YLDW2LVAKDDXJ5RK6XT6AL/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 148157,
+            "ebucoreWidth": 532,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#F0FFF0",
+                "#D3D3D3",
+                "#F5FFFA",
+                "#CD853F",
+                "#FDF5E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_SDGFTQBG64YLDW2LVAKDDXJ5RK6XT6AL/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

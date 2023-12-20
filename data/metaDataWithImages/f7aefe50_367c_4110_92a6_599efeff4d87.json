@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/f7aefe50_367c_4110_92a6_599efeff4d87",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) De kapel van het Sint-Franciscus-Xaveriusinstituut - https://www.europeana.eu/item/534/f7aefe50_367c_4110_92a6_599efeff4d87. (nl) F. Vercauteren (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/f7aefe50_367c_4110_92a6_599efeff4d87' target='_blank' rel='noopener'>De kapel van het Sint-Franciscus-Xaveriusinstituut</a></dd><dt>Creator</dt><dd lang='nl'>F. Vercauteren (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/0eb36d54-03b6-4f74-a117-a3edd22ebbd6.jpg",
+            "textAttributionSnippet": "(nl) De kapel van het Sint-Franciscus-Xaveriusinstituut - https://www.europeana.eu/item/534/f7aefe50_367c_4110_92a6_599efeff4d87. (nl) F. Vercauteren (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/f7aefe50_367c_4110_92a6_599efeff4d87' target='_blank' rel='noopener'>De kapel van het Sint-Franciscus-Xaveriusinstituut</a></dd><dt>Creator</dt><dd lang='nl'>F. Vercauteren (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/f7aefe50_367c_4110_92a6_599efeff4d87/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 200866,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 633,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#FAEBD7",
+                "#000000",
+                "#D3D3D3",
+                "#BDB76B",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/f7aefe50_367c_4110_92a6_599efeff4d87/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9055_ent0",
+    "webResources": [
+        {
+            "about": "https://bivaldi.gva.es/es/consulta/registro.do?id=9055",
+            "textAttributionSnippet": "(es) Torres de Cuarte [Material gr\u00e1fico] : Valencia - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9055_ent0. Dur\u00e1. Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=9055. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='es'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9055_ent0' target='_blank' rel='noopener'>Torres de Cuarte [Material gr\u00e1fico] : Valencia</a></dd><dt>Creator</dt><dd lang=''>Dur\u00e1</dd><dt>Date</dt><dd lang=''>1939</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=9055' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://bivaldi.gva.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=10789944",
+            "textAttributionSnippet": "(es) Torres de Cuarte [Material gr\u00e1fico] : Valencia - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9055_ent0. Dur\u00e1. Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=9055. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='es'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9055_ent0' target='_blank' rel='noopener'>Torres de Cuarte [Material gr\u00e1fico] : Valencia</a></dd><dt>Creator</dt><dd lang=''>Dur\u00e1</dd><dt>Date</dt><dd lang=''>1939</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=9055' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9055_ent0/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 326625,
+            "ebucoreWidth": 827,
+            "ebucoreHeight": 530,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFDEAD",
+                "#556B2F",
+                "#FAFAD2",
+                "#D2B48C",
+                "#F4A460",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9055_ent0/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "343_Hispana_BibliotecaValenciana"
+    ],
+    "edmCountry": [
+        "Spain"
+    ],
+    "edmLanguage": [
+        "es"
+    ],
+    "organization_label": [
+        "Hispana"
+    ],
+    "coordinate": "not showed"
+}

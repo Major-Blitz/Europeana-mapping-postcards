@@ -1,0 +1,239 @@
+{
+    "aggregations_about": "/aggregation/provider/270/resource_document_jhm_museum_M011076",
+    "webResources": [
+        {
+            "about": "http://data.jck.nl/thumbnail/jck/joods-historisch/d621/621NM011076-F/2000",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/270/resource_document_jhm_museum_M011076/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 157945,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 690,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#FAEBD7",
+                "#2F4F4F",
+                "#F5DEB3",
+                "#708090",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://data.jck.nl/thumbnail/jck/joods-historisch/d621/621NM011076-C/2000",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/270/resource_document_jhm_museum_M011076/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 180344,
+            "ebucoreWidth": 664,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFF0",
+                "#D3D3D3",
+                "#BDB76B",
+                "#708090",
+                "#B0C4DE",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "urn:joods-historisch/d621/621NM011076-B.jpg",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "urn:joods-historisch/d621/621NM011076-D.jpg",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://data.jck.nl/thumbnail/jck/joods-historisch/d621/621NM011076-A/2000",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/270/resource_document_jhm_museum_M011076/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 156754,
+            "ebucoreWidth": 665,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFF0",
+                "#8FBC8F",
+                "#F8F8FF",
+                "#BDB76B",
+                "#C0C0C0",
+                "#B0C4DE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://data.jck.nl/resource/aggregation/jhm-museum/M011076",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "urn:joods-historisch/d621/621NM011076-F.jpg",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://data.jck.nl/thumbnail/jck/joods-historisch/d621/621NM011076-D/2000",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/270/resource_document_jhm_museum_M011076/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 188245,
+            "ebucoreWidth": 660,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#C0C0C0",
+                "#F8F8FF",
+                "#B0C4DE",
+                "#FDF5E6",
+                "#778899"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://data.jck.nl/thumbnail/jck/joods-historisch/d621/621NM011076-A/500",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 51685,
+            "ebucoreWidth": 332,
+            "ebucoreHeight": 500,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#C0C0C0",
+                "#556B2F",
+                "#D8BFD8",
+                "#BC8F8F",
+                "#B0C4DE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://data.jck.nl/thumbnail/jck/joods-historisch/d621/621NM011076-G/2000",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/270/resource_document_jhm_museum_M011076/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 60553,
+            "ebucoreWidth": 599,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#808080",
+                "#F5FFFA",
+                "#800000",
+                "#F5DEB3",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "urn:joods-historisch/d621/621NM011076-C.jpg",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://data.jck.nl/thumbnail/jck/joods-historisch/d621/621NM011076-B/2000",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/270/resource_document_jhm_museum_M011076/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 195050,
+            "ebucoreWidth": 658,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#D8BFD8",
+                "#D3D3D3",
+                "#F5FFFA",
+                "#000000",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "urn:joods-historisch/d621/621NM011076-G.jpg",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "urn:joods-historisch/d621/621NM011076-A.jpg",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "urn:joods-historisch/d621/621NM011076-E.jpg",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://data.jck.nl/thumbnail/jck/joods-historisch/d621/621NM011076-E/2000",
+            "textAttributionSnippet": "(en) no title] - https://www.europeana.eu/item/270/resource_document_jhm_museum_M011076. . Jewish Historical Museum - http://data.jck.nl/resource/aggregation/jhm-museum/M011076. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/270/resource_document_jhm_museum_M011076' target='_blank' rel='noopener'>no title]</a></dd><dt>Creator</dt><dt>Institution</dt><dd lang=''><a href='http://data.jck.nl/resource/aggregation/jhm-museum/M011076' target='_blank' rel='noopener'>Jewish Historical Museum</a></dd><dt>Country</dt><dd lang=''>Netherlands</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/270/resource_document_jhm_museum_M011076/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 164245,
+            "ebucoreWidth": 660,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#B0C4DE",
+                "#FFF5EE",
+                "#708090",
+                "#FFFFFF",
+                "#F5FFFA",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/270/resource_document_jhm_museum_M011076/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "270_Ag_EU_JHN_JewishHistoricalMuseum"
+    ],
+    "edmCountry": [
+        "Netherlands"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Jewish Heritage Network"
+    ],
+    "coordinate": "not showed"
+}

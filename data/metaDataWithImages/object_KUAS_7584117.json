@@ -1,0 +1,59 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_7584117",
+    "webResources": [
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=677872",
+            "textAttributionSnippet": "Postkort, bornholmske, 20 stk - https://www.europeana.eu/item/2058618/object_KUAS_7584117. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=677872. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2058618/object_KUAS_7584117' target='_blank' rel='noopener'>Postkort, bornholmske, 20 stk</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=677872' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 13688
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Bornholms Museum"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=1308992",
+            "textAttributionSnippet": "Postkort, bornholmske, 20 stk - https://www.europeana.eu/item/2058618/object_KUAS_7584117. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=677872. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2058618/object_KUAS_7584117' target='_blank' rel='noopener'>Postkort, bornholmske, 20 stk</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=677872' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7584117/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 22184,
+            "ebucoreWidth": 320,
+            "ebucoreHeight": 204,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#DCDCDC",
+                "#FAEBD7",
+                "#2F4F4F",
+                "#FFE4C4",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7584117/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

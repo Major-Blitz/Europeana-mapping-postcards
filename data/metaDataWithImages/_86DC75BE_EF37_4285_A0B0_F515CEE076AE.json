@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_86DC75BE_EF37_4285_A0B0_F515CEE076AE",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2389135&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) Tack f\u00f6r den v\u00e4nliga julhelsningen - https://www.europeana.eu/item/117/_86DC75BE_EF37_4285_A0B0_F515CEE076AE. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.86DC75BE-EF37-4285-A0B0-F515CEE076AE?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_86DC75BE_EF37_4285_A0B0_F515CEE076AE' target='_blank' rel='noopener'>Tack f\u00f6r den v\u00e4nliga julhelsningen</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.86DC75BE-EF37-4285-A0B0-F515CEE076AE?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_86DC75BE_EF37_4285_A0B0_F515CEE076AE/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 365184,
+            "ebucoreWidth": 862,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#D8BFD8",
+                "#808080",
+                "#778899"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.86DC75BE-EF37-4285-A0B0-F515CEE076AE?lng=en-gb",
+            "textAttributionSnippet": "(en) Tack f\u00f6r den v\u00e4nliga julhelsningen - https://www.europeana.eu/item/117/_86DC75BE_EF37_4285_A0B0_F515CEE076AE. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.86DC75BE-EF37-4285-A0B0-F515CEE076AE?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_86DC75BE_EF37_4285_A0B0_F515CEE076AE' target='_blank' rel='noopener'>Tack f\u00f6r den v\u00e4nliga julhelsningen</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.86DC75BE-EF37-4285-A0B0-F515CEE076AE?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_86DC75BE_EF37_4285_A0B0_F515CEE076AE/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

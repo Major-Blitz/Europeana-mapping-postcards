@@ -1,0 +1,59 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_22281320",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Museum S\u00f8nderjylland (S\u00f8nderborg Slot)"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=2617156",
+            "textAttributionSnippet": "(da) Ringrideroptog ved S\u00f8nderborg Slot - https://www.europeana.eu/item/2058618/object_KUAS_22281320. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1324842. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='da'><a href='http://data.europeana.eu/item/2058618/object_KUAS_22281320' target='_blank' rel='noopener'>Ringrideroptog ved S\u00f8nderborg Slot</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1324842' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_22281320/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 31238,
+            "ebucoreWidth": 320,
+            "ebucoreHeight": 203,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#808080",
+                "#556B2F",
+                "#BDB76B",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1324842",
+            "textAttributionSnippet": "(da) Ringrideroptog ved S\u00f8nderborg Slot - https://www.europeana.eu/item/2058618/object_KUAS_22281320. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1324842. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='da'><a href='http://data.europeana.eu/item/2058618/object_KUAS_22281320' target='_blank' rel='noopener'>Ringrideroptog ved S\u00f8nderborg Slot</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=1324842' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 13232
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_22281320/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

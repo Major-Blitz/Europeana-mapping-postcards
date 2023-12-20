@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/208/libvar_PHOTO_104004",
+    "webResources": [
+        {
+            "about": "http://catalog.libvar.bg/view/show_photos.pl?id=104004&SC=id&RC=1&SRV=true&LANG=bg&SA=104004",
+            "textAttributionSnippet": "(bg) \u041f\u0430\u0432\u0435\u043b \u0413\u0440\u0430\u043c\u0430\u0434\u043e\u0432 \u0438 \u0414\u0438\u043c\u0438\u0442\u044a\u0440 \u0421\u0442\u0430\u043d\u0447\u0435\u0432 - https://www.europeana.eu/item/208/libvar_PHOTO_104004. (bg) Sebah, Pascal A. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444. Public Library Pencho Slaveykov, Varna - http://catalog.libvar.bg/view/show_photos.pl?id=104004&SC=id&RC=1&SRV=true&LANG=bg&SA=104004. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='bg'><a href='http://data.europeana.eu/item/208/libvar_PHOTO_104004' target='_blank' rel='noopener'>\u041f\u0430\u0432\u0435\u043b \u0413\u0440\u0430\u043c\u0430\u0434\u043e\u0432 \u0438 \u0414\u0438\u043c\u0438\u0442\u044a\u0440 \u0421\u0442\u0430\u043d\u0447\u0435\u0432</a></dd><dt>Creator</dt><dd lang='bg'>Sebah, Pascal A. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444</dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libvar.bg/view/show_photos.pl?id=104004&SC=id&RC=1&SRV=true&LANG=bg&SA=104004' target='_blank' rel='noopener'>Public Library Pencho Slaveykov, Varna</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceDcRights": {
+                "bg": [
+                    "M\u0443\u0437\u0435\u0439 \u0412\u044a\u0437\u0440\u0430\u0436\u0434\u0430\u043d\u0435"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "http://catalog.libvar.bg/view/show_jpg_image.pl?MATERIAL=photo&image_id=312614236.06053712683105102811",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg/tiff"
+                ]
+            },
+            "textAttributionSnippet": "(bg) \u041f\u0430\u0432\u0435\u043b \u0413\u0440\u0430\u043c\u0430\u0434\u043e\u0432 \u0438 \u0414\u0438\u043c\u0438\u0442\u044a\u0440 \u0421\u0442\u0430\u043d\u0447\u0435\u0432 - https://www.europeana.eu/item/208/libvar_PHOTO_104004. (bg) Sebah, Pascal A. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444. Public Library Pencho Slaveykov, Varna - http://catalog.libvar.bg/view/show_photos.pl?id=104004&SC=id&RC=1&SRV=true&LANG=bg&SA=104004. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='bg'><a href='http://data.europeana.eu/item/208/libvar_PHOTO_104004' target='_blank' rel='noopener'>\u041f\u0430\u0432\u0435\u043b \u0413\u0440\u0430\u043c\u0430\u0434\u043e\u0432 \u0438 \u0414\u0438\u043c\u0438\u0442\u044a\u0440 \u0421\u0442\u0430\u043d\u0447\u0435\u0432</a></dd><dt>Creator</dt><dd lang='bg'>Sebah, Pascal A. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444</dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libvar.bg/view/show_photos.pl?id=104004&SC=id&RC=1&SRV=true&LANG=bg&SA=104004' target='_blank' rel='noopener'>Public Library Pencho Slaveykov, Varna</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/208/libvar_PHOTO_104004/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3040926,
+            "ebucoreWidth": 1300,
+            "ebucoreHeight": 2220,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#CD853F",
+                "#D2B48C",
+                "#DEB887",
+                "#808080",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/208/libvar_PHOTO_104004/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Political history"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "208_Ag_BG_PenchoSlaveykov_LIBVAR_PHOTO"
+    ],
+    "edmCountry": [
+        "Bulgaria"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Public Library Pencho Slaveykov, Varna"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_172878EE_3B91_4D3E_908E_61D956C9E63D",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2379286&size=extra_large&key=T3st1&orgid=88101",
+            "dcCreator": {
+                "def": [
+                    "Esko Toivari"
+                ]
+            },
+            "textAttributionSnippet": "(en) postcard; Statue of Alexander II - https://www.europeana.eu/item/117/_172878EE_3B91_4D3E_908E_61D956C9E63D. Esko Toivari. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.172878EE-3B91-4D3E-908E-61D956C9E63D?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_172878EE_3B91_4D3E_908E_61D956C9E63D' target='_blank' rel='noopener'>postcard; Statue of Alexander II</a></dd><dt>Creator</dt><dd lang=''>Esko Toivari</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.172878EE-3B91-4D3E-908E-61D956C9E63D?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_172878EE_3B91_4D3E_908E_61D956C9E63D/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 104033,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 798,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FF6347",
+                "#696969",
+                "#FFF0F5",
+                "#FFFFF0",
+                "#FFDAB9",
+                "#FF7F50"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.172878EE-3B91-4D3E-908E-61D956C9E63D?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard; Statue of Alexander II - https://www.europeana.eu/item/117/_172878EE_3B91_4D3E_908E_61D956C9E63D. (en) Federley, Alexander Thiodolf. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.172878EE-3B91-4D3E-908E-61D956C9E63D?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_172878EE_3B91_4D3E_908E_61D956C9E63D' target='_blank' rel='noopener'>postcard; Statue of Alexander II</a></dd><dt>Creator</dt><dd lang='en'>Federley, Alexander Thiodolf</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.172878EE-3B91-4D3E-908E-61D956C9E63D?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_172878EE_3B91_4D3E_908E_61D956C9E63D/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_004bd431_2e25_4145_b895_748b3af26216",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_georgescu_docpatv494/Imagini1/40827FBACA2F4A2CA30C49BEDA175E69.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_004bd431_2e25_4145_b895_748b3af26216. Heinrich Meltzer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/004bd431-2e25-4145-b895-748b3af26216/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Heinrich Meltzer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/004bd431-2e25-4145-b895-748b3af26216/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_004bd431_2e25_4145_b895_748b3af26216/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21618490,
+            "ebucoreWidth": 3374,
+            "ebucoreHeight": 2134,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF5EE",
+                "#FFE4C4",
+                "#FFF0F5",
+                "#FFE4E1",
+                "#A9A9A9",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_georgescu_docpatv494/Imagini1/2B3216E437C144C9B9FEC16189BB000B.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_004bd431_2e25_4145_b895_748b3af26216. Heinrich Meltzer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/004bd431-2e25-4145-b895-748b3af26216/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Heinrich Meltzer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/004bd431-2e25-4145-b895-748b3af26216/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_004bd431_2e25_4145_b895_748b3af26216/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21618490,
+            "ebucoreWidth": 3374,
+            "ebucoreHeight": 2134,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#BC8F8F",
+                "#BDB76B",
+                "#808080",
+                "#EEE8AA",
+                "#FFEBCD"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/004bd431-2e25-4145-b895-748b3af26216/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_004bd431_2e25_4145_b895_748b3af26216. Heinrich Meltzer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/004bd431-2e25-4145-b895-748b3af26216/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Heinrich Meltzer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/004bd431-2e25-4145-b895-748b3af26216/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_004bd431_2e25_4145_b895_748b3af26216/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

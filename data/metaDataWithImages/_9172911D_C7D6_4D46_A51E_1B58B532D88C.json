@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_9172911D_C7D6_4D46_A51E_1B58B532D88C",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.9172911D-C7D6-4D46-A51E-1B58B532D88C?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card - https://www.europeana.eu/item/117/_9172911D_C7D6_4D46_A51E_1B58B532D88C. (en) Winkler & Schorn; Nyqvist, Rakel. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.9172911D-C7D6-4D46-A51E-1B58B532D88C?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_9172911D_C7D6_4D46_A51E_1B58B532D88C' target='_blank' rel='noopener'>postcard, New Year\u2019s Card</a></dd><dt>Creator</dt><dd lang='en'>Winkler & Schorn; Nyqvist, Rakel</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.9172911D-C7D6-4D46-A51E-1B58B532D88C?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2376695&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card - https://www.europeana.eu/item/117/_9172911D_C7D6_4D46_A51E_1B58B532D88C. (en) Winkler & Schorn; Nyqvist, Rakel. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.9172911D-C7D6-4D46-A51E-1B58B532D88C?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_9172911D_C7D6_4D46_A51E_1B58B532D88C' target='_blank' rel='noopener'>postcard, New Year\u2019s Card</a></dd><dt>Creator</dt><dd lang='en'>Winkler & Schorn; Nyqvist, Rakel</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.9172911D-C7D6-4D46-A51E-1B58B532D88C?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_9172911D_C7D6_4D46_A51E_1B58B532D88C/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 437488,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 769,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808000",
+                "#2F4F4F",
+                "#696969",
+                "#DEB887",
+                "#BDB76B",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_9172911D_C7D6_4D46_A51E_1B58B532D88C/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

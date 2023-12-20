@@ -1,0 +1,60 @@
+{
+    "aggregations_about": "/aggregation/provider/91672/MM_foto_1021442",
+    "webResources": [
+        {
+            "about": "http://carlotta.malmo.se/carlotta-mmus/web/image/zoom/1105806/image.jpg",
+            "textAttributionSnippet": "kanal, fabrik, bro - https://www.europeana.eu/item/91672/MM_foto_1021442. Malm\u00f6 museer - http://carlotta.malmo.se/carlotta-mmus/web/object/1021442. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91672/MM_foto_1021442' target='_blank' rel='noopener'>kanal, fabrik, bro</a></dd><dt>Institution</dt><dd lang=''><a href='http://carlotta.malmo.se/carlotta-mmus/web/object/1021442' target='_blank' rel='noopener'>Malm\u00f6 museer</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91672/MM_foto_1021442/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 78667,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 528,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#DCDCDC",
+                "#E6E6FA",
+                "#A9A9A9",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://carlotta.malmo.se/carlotta-mmus/web/object/1021442",
+            "textAttributionSnippet": "kanal, fabrik, bro - https://www.europeana.eu/item/91672/MM_foto_1021442. Malm\u00f6 museer - http://carlotta.malmo.se/carlotta-mmus/web/object/1021442. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91672/MM_foto_1021442' target='_blank' rel='noopener'>kanal, fabrik, bro</a></dd><dt>Institution</dt><dd lang=''><a href='http://carlotta.malmo.se/carlotta-mmus/web/object/1021442' target='_blank' rel='noopener'>Malm\u00f6 museer</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91672/MM_foto_1021442/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Factory"
+    ],
+    "concept_note": [
+        "Facility where goods are industrially made, or processed"
+    ],
+    "edmDatasetName": [
+        "91672_Ag_SE_SwedishNationalHeritage_malmo_foto"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Malm\u00f6 Museum"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

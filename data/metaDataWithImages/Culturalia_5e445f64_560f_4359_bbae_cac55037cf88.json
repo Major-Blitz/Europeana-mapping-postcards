@@ -1,0 +1,88 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_5e445f64_560f_4359_bbae_cac55037cf88",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/35A416A841DA441789C534AF5A6FA06C.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5e445f64_560f_4359_bbae_cac55037cf88. Editura Holztr\u00e4ger and Zammerer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/5e445f64-560f-4359-bbae-cac55037cf88/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Holztr\u00e4ger and Zammerer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5e445f64-560f-4359-bbae-cac55037cf88/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_5e445f64_560f_4359_bbae_cac55037cf88/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21358774,
+            "ebucoreWidth": 3381,
+            "ebucoreHeight": 2104,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#EEE8AA",
+                "#BC8F8F",
+                "#F5DEB3",
+                "#BDB76B",
+                "#FFE4C4"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/43CE776861E74070A5705F1E659B0A90.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5e445f64_560f_4359_bbae_cac55037cf88. Editura Holztr\u00e4ger and Zammerer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/5e445f64-560f-4359-bbae-cac55037cf88/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Holztr\u00e4ger and Zammerer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5e445f64-560f-4359-bbae-cac55037cf88/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_5e445f64_560f_4359_bbae_cac55037cf88/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21066296,
+            "ebucoreWidth": 3349,
+            "ebucoreHeight": 2095,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#CD5C5C",
+                "#D2B48C",
+                "#BC8F8F",
+                "#DEB887",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/5e445f64-560f-4359-bbae-cac55037cf88/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5e445f64_560f_4359_bbae_cac55037cf88. Editura Holztr\u00e4ger and Zammerer. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/5e445f64-560f-4359-bbae-cac55037cf88/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Holztr\u00e4ger and Zammerer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5e445f64-560f-4359-bbae-cac55037cf88/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_5e445f64_560f_4359_bbae_cac55037cf88/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/192/item_RN2GES6NURZRRATCORAQJ3PQ57X4M55P",
+    "webResources": [
+        {
+            "about": "https://rlp.museum-digital.de/index.php?t=objekt&oges=92343",
+            "textAttributionSnippet": "(de) Postkarte von Zeinisjochhaus - https://www.europeana.eu/item/192/item_RN2GES6NURZRRATCORAQJ3PQ57X4M55P. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=92343. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/192/item_RN2GES6NURZRRATCORAQJ3PQ57X4M55P' target='_blank' rel='noopener'>Postkarte von Zeinisjochhaus</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=92343' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://rlp.museum-digital.de/data/rlp/images/55/92343-ton_688/postkarte_von_zenishochha/postkarte-von-zenishochhaus-92343-480518.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(de) Postkarte von Zeinisjochhaus - https://www.europeana.eu/item/192/item_RN2GES6NURZRRATCORAQJ3PQ57X4M55P. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=92343. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/192/item_RN2GES6NURZRRATCORAQJ3PQ57X4M55P' target='_blank' rel='noopener'>Postkarte von Zeinisjochhaus</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=92343' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/192/item_RN2GES6NURZRRATCORAQJ3PQ57X4M55P/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 301604,
+            "ebucoreWidth": 1085,
+            "ebucoreHeight": 1677,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D8BFD8",
+                "#A9A9A9",
+                "#000000",
+                "#556B2F",
+                "#D2B48C",
+                "#708090"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/192/item_RN2GES6NURZRRATCORAQJ3PQ57X4M55P/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "192_DDB_Roscheider"
+    ],
+    "edmCountry": [
+        "Germany"
+    ],
+    "edmLanguage": [
+        "de"
+    ],
+    "organization_label": [
+        "Roscheider Hof Open Air Museum"
+    ],
+    "coordinate": "not showed"
+}

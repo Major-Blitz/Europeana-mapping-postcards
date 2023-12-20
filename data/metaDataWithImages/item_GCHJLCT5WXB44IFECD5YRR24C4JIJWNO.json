@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/192/item_GCHJLCT5WXB44IFECD5YRR24C4JIJWNO",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://rlp.museum-digital.de/data/rlp/images/55/92342-ton_687/postkarte_der_hoellenklam/postkarte-der-hoellenklamm-92342-277652.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcard of the H\u00f6llenklamm - https://www.europeana.eu/item/192/item_GCHJLCT5WXB44IFECD5YRR24C4JIJWNO. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=92342. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/192/item_GCHJLCT5WXB44IFECD5YRR24C4JIJWNO' target='_blank' rel='noopener'>Postcard of the H\u00f6llenklamm</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=92342' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/192/item_GCHJLCT5WXB44IFECD5YRR24C4JIJWNO/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 411511,
+            "ebucoreWidth": 1085,
+            "ebucoreHeight": 1677,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#556B2F",
+                "#D2B48C",
+                "#696969",
+                "#708090",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://rlp.museum-digital.de/index.php?t=objekt&oges=92342",
+            "textAttributionSnippet": "(en) Postcard of the H\u00f6llenklamm - https://www.europeana.eu/item/192/item_GCHJLCT5WXB44IFECD5YRR24C4JIJWNO. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=92342. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/192/item_GCHJLCT5WXB44IFECD5YRR24C4JIJWNO' target='_blank' rel='noopener'>Postcard of the H\u00f6llenklamm</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=92342' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/192/item_GCHJLCT5WXB44IFECD5YRR24C4JIJWNO/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "192_DDB_Roscheider"
+    ],
+    "edmCountry": [
+        "Germany"
+    ],
+    "edmLanguage": [
+        "de"
+    ],
+    "organization_label": [
+        "Roscheider Hof Open Air Museum"
+    ],
+    "coordinate": "not showed"
+}

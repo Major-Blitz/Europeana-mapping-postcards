@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_56062ee4_3696_4082_9b31_d14d1261abc1",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/008269AB150E4D429F555F882D69B0E7.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_56062ee4_3696_4082_9b31_d14d1261abc1. fotograf O. Pastior (Sibiu?). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/56062ee4-3696-4082-9b31-d14d1261abc1/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>fotograf O. Pastior (Sibiu?)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/56062ee4-3696-4082-9b31-d14d1261abc1/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_56062ee4_3696_4082_9b31_d14d1261abc1/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21636808,
+            "ebucoreWidth": 2439,
+            "ebucoreHeight": 3663,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#D3D3D3",
+                "#556B2F",
+                "#C0C0C0",
+                "#FFFAF0",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/B80144AA65E546C79BD29BED9DBC05A1.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_56062ee4_3696_4082_9b31_d14d1261abc1. fotograf O. Pastior (Sibiu?). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/56062ee4-3696-4082-9b31-d14d1261abc1/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>fotograf O. Pastior (Sibiu?)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/56062ee4-3696-4082-9b31-d14d1261abc1/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_56062ee4_3696_4082_9b31_d14d1261abc1/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 13425104,
+            "ebucoreWidth": 3663,
+            "ebucoreHeight": 2439,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#F5F5DC",
+                "#BDB76B",
+                "#FDF5E6",
+                "#FFFAF0",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/56062ee4-3696-4082-9b31-d14d1261abc1/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_56062ee4_3696_4082_9b31_d14d1261abc1. fotograf O. Pastior (Sibiu?). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/56062ee4-3696-4082-9b31-d14d1261abc1/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>fotograf O. Pastior (Sibiu?)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/56062ee4-3696-4082-9b31-d14d1261abc1/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_56062ee4_3696_4082_9b31_d14d1261abc1/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographers"
+    ],
+    "concept_note": [
+        "Individuals who specialize in creating photographs, which are still images produced from radiation-sensitive materials, typically by means of the chemical action of light on a sensitive film, paper, glass, or metal."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

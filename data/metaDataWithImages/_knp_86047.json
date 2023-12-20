@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_86047",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46825/thumbnail?customer=knp",
+            "textAttributionSnippet": "(en) \u201cForest fire lit by fishermen\u2019s bonfire, Lohijoki 1927.\u201d Postcard number 13 of the Forest Education Office. Forest fire in Tolvaj\u00e4rvi. Gold ignited by a bonfire. Beware of fire in the forest! Tolvaj\u00e4rvi, Korpisel\u00e4, Karelia - https://www.europeana.eu/item/2021008/_knp_86047. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86047. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_86047' target='_blank' rel='noopener'>\u201cForest fire lit by fishermen\u2019s bonfire, Lohijoki 1927.\u201d Postcard number 13 of the Forest Education Office. Forest fire in Tolvaj\u00e4rvi. Gold ignited by a bonfire. Beware of fire in the forest! Tolvaj\u00e4rvi, Korpisel\u00e4, Karelia</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86047' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_86047/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 14112,
+            "ebucoreWidth": 400,
+            "ebucoreHeight": 270,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#808080",
+                "#B0C4DE",
+                "#C0C0C0",
+                "#D3D3D3",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://finna.fi/Record/lusto.knp-86047",
+            "textAttributionSnippet": "(en) \u201cForest fire lit by fishermen\u2019s bonfire, Lohijoki 1927.\u201d Postcard number 13 of the Forest Education Office. Forest fire in Tolvaj\u00e4rvi. Gold ignited by a bonfire. Beware of fire in the forest! Tolvaj\u00e4rvi, Korpisel\u00e4, Karelia - https://www.europeana.eu/item/2021008/_knp_86047. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86047. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_86047' target='_blank' rel='noopener'>\u201cForest fire lit by fishermen\u2019s bonfire, Lohijoki 1927.\u201d Postcard number 13 of the Forest Education Office. Forest fire in Tolvaj\u00e4rvi. Gold ignited by a bonfire. Beware of fire in the forest! Tolvaj\u00e4rvi, Korpisel\u00e4, Karelia</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86047' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_86047/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

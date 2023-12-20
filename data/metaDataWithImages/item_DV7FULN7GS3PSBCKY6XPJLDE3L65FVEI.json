@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/08535/item_DV7FULN7GS3PSBCKY6XPJLDE3L65FVEI",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://architekturmuseum.ub.tu-berlin.de/index.php?BEX=21099799",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Town views, Smyrna: Postcards of Mont Pagus, Turkish barracks, Equaduct in the Annatal - https://www.europeana.eu/item/08535/item_DV7FULN7GS3PSBCKY6XPJLDE3L65FVEI. unbek. Fotograf. Architekturmuseum der Technischen Universit\u00e4t Berlin - https://doi.org/10.25645/whqk-nw4k. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/08535/item_DV7FULN7GS3PSBCKY6XPJLDE3L65FVEI' target='_blank' rel='noopener'>Town views, Smyrna: Postcards of Mont Pagus, Turkish barracks, Equaduct in the Annatal</a></dd><dt>Creator</dt><dd lang=''>unbek. Fotograf</dd><dt>Institution</dt><dd lang=''><a href='https://doi.org/10.25645/whqk-nw4k' target='_blank' rel='noopener'>Architekturmuseum der Technischen Universit\u00e4t Berlin</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/08535/item_DV7FULN7GS3PSBCKY6XPJLDE3L65FVEI/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3381537,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 2344,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#FFDAB9",
+                "#708090",
+                "#FAEBD7",
+                "#808080",
+                "#FFE4B5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://doi.org/10.25645/whqk-nw4k",
+            "textAttributionSnippet": "(en) Town views, Smyrna: Postcards of Mont Pagus, Turkish barracks, Equaduct in the Annatal - https://www.europeana.eu/item/08535/item_DV7FULN7GS3PSBCKY6XPJLDE3L65FVEI. unbek. Fotograf. Architekturmuseum der Technischen Universit\u00e4t Berlin - https://doi.org/10.25645/whqk-nw4k. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/08535/item_DV7FULN7GS3PSBCKY6XPJLDE3L65FVEI' target='_blank' rel='noopener'>Town views, Smyrna: Postcards of Mont Pagus, Turkish barracks, Equaduct in the Annatal</a></dd><dt>Creator</dt><dd lang=''>unbek. Fotograf</dd><dt>Institution</dt><dd lang=''><a href='https://doi.org/10.25645/whqk-nw4k' target='_blank' rel='noopener'>Architekturmuseum der Technischen Universit\u00e4t Berlin</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/08535/item_DV7FULN7GS3PSBCKY6XPJLDE3L65FVEI/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "08535_DDB_TUBA"
+    ],
+    "edmCountry": [
+        "Germany"
+    ],
+    "edmLanguage": [
+        "de"
+    ],
+    "organization_label": [
+        "Museum of Architecture at Berlin Institute of Technology"
+    ],
+    "coordinate": "not showed"
+}

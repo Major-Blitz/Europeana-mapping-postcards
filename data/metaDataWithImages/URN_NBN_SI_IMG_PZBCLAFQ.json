@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_PZBCLAFQ",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-PZBCLAFQ/maxi/edm",
+            "textAttributionSnippet": "(sl) M. Svetlin Poli\u010dane. Gostilna ob Bo\u010du - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_PZBCLAFQ. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-PZBCLAFQ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_PZBCLAFQ' target='_blank' rel='noopener'>M. Svetlin Poli\u010dane. Gostilna ob Bo\u010du</a></dd><dt>Date</dt><dd lang=''>1910</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-PZBCLAFQ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 54511,
+            "ebucoreWidth": 917,
+            "ebucoreHeight": 599,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#D2B48C",
+                "#A9A9A9",
+                "#808080",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-PZBCLAFQ",
+            "textAttributionSnippet": "(sl) M. Svetlin Poli\u010dane. Gostilna ob Bo\u010du - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_PZBCLAFQ. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-PZBCLAFQ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_PZBCLAFQ' target='_blank' rel='noopener'>M. Svetlin Poli\u010dane. Gostilna ob Bo\u010du</a></dd><dt>Date</dt><dd lang=''>1910</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-PZBCLAFQ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 28035
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-PZBCLAFQ/e72f2447-f86c-4b90-aaf9-b33ca30bd62f/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "0 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) M. Svetlin Poli\u010dane. Gostilna ob Bo\u010du - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_PZBCLAFQ. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-PZBCLAFQ. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_PZBCLAFQ' target='_blank' rel='noopener'>M. Svetlin Poli\u010dane. Gostilna ob Bo\u010du</a></dd><dt>Date</dt><dd lang=''>1910</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-PZBCLAFQ' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_PZBCLAFQ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 296741,
+            "ebucoreWidth": 1637,
+            "ebucoreHeight": 1074,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#A9A9A9",
+                "#808080",
+                "#D2B48C",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_PZBCLAFQ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

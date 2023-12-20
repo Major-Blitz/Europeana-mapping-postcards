@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA53710_0300",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/042sB3B8rYXy?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcards from the Stockholm Exhibition 1930 - https://www.europeana.eu/item/916105/bhm_photo_UMFA53710_0300. (en) Andersson, Johan August. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014409957. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53710_0300' target='_blank' rel='noopener'>Postcards from the Stockholm Exhibition 1930</a></dd><dt>Creator</dt><dd lang='en'>Andersson, Johan August</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014409957' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53710_0300/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 146734,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 401,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#C0C0C0",
+                "#DCDCDC",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014409957",
+            "textAttributionSnippet": "(en) Postcards from the Stockholm Exhibition 1930 - https://www.europeana.eu/item/916105/bhm_photo_UMFA53710_0300. (en) Andersson, Johan August. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014409957. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53710_0300' target='_blank' rel='noopener'>Postcards from the Stockholm Exhibition 1930</a></dd><dt>Creator</dt><dd lang='en'>Andersson, Johan August</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014409957' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 95691
+        },
+        {
+            "about": "https://mm.dimu.org/image/042sB3B8rYXy?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards from the Stockholm Exhibition 1930 - https://www.europeana.eu/item/916105/bhm_photo_UMFA53710_0300. (en) Andersson, Johan August. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014409957. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53710_0300' target='_blank' rel='noopener'>Postcards from the Stockholm Exhibition 1930</a></dd><dt>Creator</dt><dd lang='en'>Andersson, Johan August</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014409957' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53710_0300/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 355345,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 802,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#C0C0C0",
+                "#DCDCDC",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53710_0300/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

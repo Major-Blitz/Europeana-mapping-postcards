@@ -1,0 +1,64 @@
+{
+    "aggregations_about": "/aggregation/provider/2058606/object_FRS_11331444",
+    "webResources": [
+        {
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/234",
+            "textAttributionSnippet": "(it) Scudo crociato : scudo di morte ... Vota Fronte Democratico Popolare - https://www.europeana.eu/item/2058606/object_FRS_11331444. (en) Popular Democratic Front. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/234. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331444' target='_blank' rel='noopener'>Scudo crociato : scudo di morte ... Vota Fronte Democratico Popolare</a></dd><dt>Creator</dt><dd lang='en'>Popular Democratic Front</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/234' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 14794
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Istituto Giancarlo Conestabile della Staffa e Luigi Piastrelli"
+                ]
+            },
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/files/original/27412dbc5a1f14978cf59e0827b32d2a.jpg",
+            "dcSource": {
+                "def": [
+                    "Archivio privato Dott. Enzo Orioli"
+                ]
+            },
+            "textAttributionSnippet": "(it) Scudo crociato : scudo di morte ... Vota Fronte Democratico Popolare - https://www.europeana.eu/item/2058606/object_FRS_11331444. (en) Popular Democratic Front. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/234. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331444' target='_blank' rel='noopener'>Scudo crociato : scudo di morte ... Vota Fronte Democratico Popolare</a></dd><dt>Creator</dt><dd lang='en'>Popular Democratic Front</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/234' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331444/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 184286,
+            "ebucoreWidth": 1134,
+            "ebucoreHeight": 1772,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#D2B48C",
+                "#C0C0C0",
+                "#EEE8AA",
+                "#FFE4C4",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331444/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058606_Ag_EU_LoCloud_FRS"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

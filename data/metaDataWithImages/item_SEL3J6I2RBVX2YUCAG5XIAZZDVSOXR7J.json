@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_SEL3J6I2RBVX2YUCAG5XIAZZDVSOXR7J",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3746709",
+            "textAttributionSnippet": "(en) Narva - https://www.europeana.eu/item/401/item_SEL3J6I2RBVX2YUCAG5XIAZZDVSOXR7J. (en) Book store, Vironia (maker). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3746709. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_SEL3J6I2RBVX2YUCAG5XIAZZDVSOXR7J' target='_blank' rel='noopener'>Narva</a></dd><dt>Creator</dt><dd lang='en'>Book store, Vironia (maker)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3746709' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=4ef51068-0d67-47ec-810b-42beeca04381",
+            "textAttributionSnippet": "(en) Narva - https://www.europeana.eu/item/401/item_SEL3J6I2RBVX2YUCAG5XIAZZDVSOXR7J. (en) Book store, Vironia (maker). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3746709. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_SEL3J6I2RBVX2YUCAG5XIAZZDVSOXR7J' target='_blank' rel='noopener'>Narva</a></dd><dt>Creator</dt><dd lang='en'>Book store, Vironia (maker)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3746709' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_SEL3J6I2RBVX2YUCAG5XIAZZDVSOXR7J/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 134663,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 556,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#FFF0F5",
+                "#708090",
+                "#EEE8AA",
+                "#FFFAFA",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_SEL3J6I2RBVX2YUCAG5XIAZZDVSOXR7J/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            59.216667,
+            27.3
+        ],
+        [
+            59.379166,
+            28.200556
+        ]
+    ]
+}

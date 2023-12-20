@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/267/8808",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://bdt.bibcom.trento.it/var/trentoarchiviobiblioteca/storage/images/media/immagini-iconografie/tic511-0156.jpg/637034-1-ita-IT/TIC511-0156.jpg.jpg",
+            "dcCreator": {
+                "def": [
+                    "Biblioteca Digitale Trentina"
+                ]
+            },
+            "dcType": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "textAttributionSnippet": "(it) Monumento di Dante a Trento - https://www.europeana.eu/item/267/8808. Biblioteca Digitale Trentina. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/8808. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/267/8808' target='_blank' rel='noopener'>Monumento di Dante a Trento</a></dd><dt>Creator</dt><dd lang=''>Biblioteca Digitale Trentina</dd><dt>Date</dt><dd lang=''>1918</dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/8808' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/267/8808/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 358780,
+            "ebucoreWidth": 487,
+            "ebucoreHeight": 750,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#F5DEB3",
+                "#D2B48C",
+                "#696969",
+                "#A9A9A9",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://bdt.bibcom.trento.it/archive/bdt/8808",
+            "textAttributionSnippet": "(it) Monumento di Dante a Trento - https://www.europeana.eu/item/267/8808. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/8808. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/267/8808' target='_blank' rel='noopener'>Monumento di Dante a Trento</a></dd><dt>Date</dt><dd lang=''>1918</dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/8808' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/267/8808/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcards"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "267_CulturaItalia_Biblioteca_Digitale_Trentina"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "CulturaItalia"
+    ],
+    "coordinate": [
+        [
+            42.5,
+            12.5
+        ],
+        [
+            44.411156,
+            8.932661
+        ]
+    ]
+}

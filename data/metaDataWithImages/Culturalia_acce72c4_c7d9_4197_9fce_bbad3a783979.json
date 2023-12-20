@@ -1,0 +1,88 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_acce72c4_c7d9_4197_9fce_bbad3a783979",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/220BB8B1A1A34B98B85A186B0EF4C198.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_acce72c4_c7d9_4197_9fce_bbad3a783979. Fotograf F. Theil. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/acce72c4-c7d9-4197-9fce-bbad3a783979/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf F. Theil</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/acce72c4-c7d9-4197-9fce-bbad3a783979/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_acce72c4_c7d9_4197_9fce_bbad3a783979/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21158140,
+            "ebucoreWidth": 3354,
+            "ebucoreHeight": 2101,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#BDB76B",
+                "#D3D3D3",
+                "#F5DEB3",
+                "#708090",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/9591E7034E7D41B7B24C901DED85D2BB.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_acce72c4_c7d9_4197_9fce_bbad3a783979. Fotograf F. Theil. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/acce72c4-c7d9-4197-9fce-bbad3a783979/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf F. Theil</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/acce72c4-c7d9-4197-9fce-bbad3a783979/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_acce72c4_c7d9_4197_9fce_bbad3a783979/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 20932764,
+            "ebucoreWidth": 3355,
+            "ebucoreHeight": 2078,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#FAEBD7",
+                "#A9A9A9",
+                "#FFB6C1",
+                "#BC8F8F",
+                "#FFF8DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/acce72c4-c7d9-4197-9fce-bbad3a783979/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_acce72c4_c7d9_4197_9fce_bbad3a783979. Fotograf F. Theil. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/acce72c4-c7d9-4197-9fce-bbad3a783979/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf F. Theil</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/acce72c4-c7d9-4197-9fce-bbad3a783979/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_acce72c4_c7d9_4197_9fce_bbad3a783979/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographers"
+    ],
+    "concept_note": [
+        "Individuals who specialize in creating photographs, which are still images produced from radiation-sensitive materials, typically by means of the chemical action of light on a sensitive film, paper, glass, or metal."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

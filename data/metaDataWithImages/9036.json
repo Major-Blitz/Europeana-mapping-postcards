@@ -1,0 +1,83 @@
+{
+    "aggregations_about": "/aggregation/provider/267/9036",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://bdt.bibcom.trento.it/var/trentoarchiviobiblioteca/storage/images/media/immagini-iconografie/tic8-0346.jpg/637946-1-ita-IT/TIC8-0346.jpg.jpg",
+            "dcCreator": {
+                "def": [
+                    "Biblioteca Digitale Trentina"
+                ]
+            },
+            "dcType": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "textAttributionSnippet": "(en) Dolomites by Brenta Rifugio Brentei Torre di Brenta m. 3014.. - https://www.europeana.eu/item/267/9036. Biblioteca Digitale Trentina. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/9036. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/267/9036' target='_blank' rel='noopener'>Dolomites by Brenta Rifugio Brentei Torre di Brenta m. 3014..</a></dd><dt>Creator</dt><dd lang=''>Biblioteca Digitale Trentina</dd><dt>Date</dt><dd lang=''>1977</dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/9036' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/267/9036/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 242996,
+            "ebucoreWidth": 1626,
+            "ebucoreHeight": 1142,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#6495ED",
+                "#808080",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://bdt.bibcom.trento.it/archive/bdt/9036",
+            "textAttributionSnippet": "(en) Dolomites by Brenta Rifugio Brentei Torre di Brenta m. 3014.. - https://www.europeana.eu/item/267/9036. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/9036. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/267/9036' target='_blank' rel='noopener'>Dolomites by Brenta Rifugio Brentei Torre di Brenta m. 3014..</a></dd><dt>Date</dt><dd lang=''>1977</dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/9036' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/267/9036/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcards"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "267_CulturaItalia_Biblioteca_Digitale_Trentina"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "CulturaItalia"
+    ],
+    "coordinate": [
+        [
+            46.383335,
+            11.416667
+        ],
+        [
+            42.5,
+            12.5
+        ],
+        [
+            46.06642,
+            11.12576
+        ]
+    ]
+}

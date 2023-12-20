@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_ULR1IYYB",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-ULR1IYYB/maxi/edm",
+            "textAttributionSnippet": "(sl) Jaz pa 'no kaj\u017eico 'mam ...; dopisnica - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_ULR1IYYB. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-ULR1IYYB. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_ULR1IYYB' target='_blank' rel='noopener'>Jaz pa 'no kaj\u017eico 'mam ...; dopisnica</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-ULR1IYYB' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 43067,
+            "ebucoreWidth": 389,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#2F4F4F",
+                "#E6E6FA",
+                "#696969",
+                "#BC8F8F",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-ULR1IYYB",
+            "textAttributionSnippet": "(sl) Jaz pa 'no kaj\u017eico 'mam ...; dopisnica - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_ULR1IYYB. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-ULR1IYYB. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_ULR1IYYB' target='_blank' rel='noopener'>Jaz pa 'no kaj\u017eico 'mam ...; dopisnica</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-ULR1IYYB' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 30285
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-ULR1IYYB/bedddf26-daec-4295-ba54-7a534bd303a8/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "4285 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Jaz pa 'no kaj\u017eico 'mam ...; dopisnica - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_ULR1IYYB. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-ULR1IYYB. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_ULR1IYYB' target='_blank' rel='noopener'>Jaz pa 'no kaj\u017eico 'mam ...; dopisnica</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-ULR1IYYB' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_ULR1IYYB/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 4388004,
+            "ebucoreWidth": 2181,
+            "ebucoreHeight": 3333,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#E6E6FA",
+                "#C0C0C0",
+                "#F5F5F5",
+                "#696969",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_ULR1IYYB/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Politics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

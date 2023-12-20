@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA53263_2171",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/012sAYQdipdj?dimension=600x600",
+            "textAttributionSnippet": "(sv) Vykort. \"H\u00e4lsning fr\u00e5n Lysekil\" - https://www.europeana.eu/item/916105/bhm_photo_UMFA53263_2171. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014332021. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53263_2171' target='_blank' rel='noopener'>Vykort. \"H\u00e4lsning fr\u00e5n Lysekil\"</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014332021' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53263_2171/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 205960,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 472,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#B0E0E6",
+                "#D3D3D3",
+                "#AFEEEE",
+                "#696969",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014332021",
+            "textAttributionSnippet": "(sv) Vykort. \"H\u00e4lsning fr\u00e5n Lysekil\" - https://www.europeana.eu/item/916105/bhm_photo_UMFA53263_2171. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014332021. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53263_2171' target='_blank' rel='noopener'>Vykort. \"H\u00e4lsning fr\u00e5n Lysekil\"</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014332021' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 98701
+        },
+        {
+            "about": "https://mm.dimu.org/image/012sAYQdipdj?dimension=1200x1200",
+            "textAttributionSnippet": "(sv) Vykort. \"H\u00e4lsning fr\u00e5n Lysekil\" - https://www.europeana.eu/item/916105/bhm_photo_UMFA53263_2171. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014332021. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53263_2171' target='_blank' rel='noopener'>Vykort. \"H\u00e4lsning fr\u00e5n Lysekil\"</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014332021' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53263_2171/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 193002,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 590,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#B0E0E6",
+                "#D3D3D3",
+                "#AFEEEE",
+                "#696969",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53263_2171/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

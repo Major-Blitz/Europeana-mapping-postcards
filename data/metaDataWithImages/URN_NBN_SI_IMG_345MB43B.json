@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_345MB43B",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-345MB43B/maxi/edm",
+            "textAttributionSnippet": "(sl) Ljubljana (Gradbena dela v strugi Ljubljanice) - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_345MB43B. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-345MB43B. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_345MB43B' target='_blank' rel='noopener'>Ljubljana (Gradbena dela v strugi Ljubljanice)</a></dd><dt>Date</dt><dd lang=''>1913</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-345MB43B' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 44018,
+            "ebucoreWidth": 391,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFE0",
+                "#FFF8DC",
+                "#000000",
+                "#696969",
+                "#2F4F4F",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-345MB43B/98a601f4-e5ac-4068-99be-02f2c9d0c56b/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "1201 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Ljubljana (Gradbena dela v strugi Ljubljanice) - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_345MB43B. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-345MB43B. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_345MB43B' target='_blank' rel='noopener'>Ljubljana (Gradbena dela v strugi Ljubljanice)</a></dd><dt>Date</dt><dd lang=''>1913</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-345MB43B' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_345MB43B/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1230298,
+            "ebucoreWidth": 1029,
+            "ebucoreHeight": 1550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFE0",
+                "#FFF8DC",
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-345MB43B",
+            "textAttributionSnippet": "(sl) Ljubljana (Gradbena dela v strugi Ljubljanice) - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_345MB43B. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-345MB43B. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_345MB43B' target='_blank' rel='noopener'>Ljubljana (Gradbena dela v strugi Ljubljanice)</a></dd><dt>Date</dt><dd lang=''>1913</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-345MB43B' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 29698
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_345MB43B/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

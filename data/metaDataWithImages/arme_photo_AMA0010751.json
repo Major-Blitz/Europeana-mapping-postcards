@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/91616/arme_photo_AMA0010751",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/0331wTuAoW2i?dimension=600x600",
+            "textAttributionSnippet": "(en) Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 in front of the Inner Building - https://www.europeana.eu/item/91616/arme_photo_AMA0010751. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828442. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010751' target='_blank' rel='noopener'>Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 in front of the Inner Building</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828442' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010751/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 205215,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 442,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#C0C0C0",
+                "#696969",
+                "#2F4F4F",
+                "#D3D3D3",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/0331wTuAoW2i?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 in front of the Inner Building - https://www.europeana.eu/item/91616/arme_photo_AMA0010751. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828442. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010751' target='_blank' rel='noopener'>Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 in front of the Inner Building</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828442' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010751/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 706773,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 884,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#C0C0C0",
+                "#696969",
+                "#2F4F4F",
+                "#D3D3D3",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021017828442",
+            "textAttributionSnippet": "(en) Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 in front of the Inner Building - https://www.europeana.eu/item/91616/arme_photo_AMA0010751. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828442. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010751' target='_blank' rel='noopener'>Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 in front of the Inner Building</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828442' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 98586
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010751/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Building"
+    ],
+    "concept_note": [
+        "Structure, typically with a roof and walls, standing more or less permanently in one place"
+    ],
+    "edmDatasetName": [
+        "91616_Ag_SE_SwedishNationalHeritage_Armemuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

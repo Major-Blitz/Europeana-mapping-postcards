@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_8858_ent0",
+    "webResources": [
+        {
+            "about": "https://bivaldi.gva.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=10764579",
+            "textAttributionSnippet": "(es) Cabalgata 1899 [Material gr\u00e1fico] : grandes festejos : Feria de Valencia 1901, del 20 al 31 de julio - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_8858_ent0. \u00c1ngel; Feria de Valencia (1901). Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=8858. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='es'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_8858_ent0' target='_blank' rel='noopener'>Cabalgata 1899 [Material gr\u00e1fico] : grandes festejos : Feria de Valencia 1901, del 20 al 31 de julio</a></dd><dt>Creator</dt><dd lang=''>\u00c1ngel; Feria de Valencia (1901)</dd><dt>Date</dt><dd lang=''>1901</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=8858' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_8858_ent0/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1058127,
+            "ebucoreWidth": 777,
+            "ebucoreHeight": 1181,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#708090",
+                "#FFE4E1",
+                "#CD5C5C",
+                "#D3D3D3",
+                "#F8F8FF"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://bivaldi.gva.es/es/consulta/registro.do?id=8858",
+            "textAttributionSnippet": "(es) Cabalgata 1899 [Material gr\u00e1fico] : grandes festejos : Feria de Valencia 1901, del 20 al 31 de julio - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_8858_ent0. \u00c1ngel; Feria de Valencia (1901). Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=8858. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='es'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_8858_ent0' target='_blank' rel='noopener'>Cabalgata 1899 [Material gr\u00e1fico] : grandes festejos : Feria de Valencia 1901, del 20 al 31 de julio</a></dd><dt>Creator</dt><dd lang=''>\u00c1ngel; Feria de Valencia (1901)</dd><dt>Date</dt><dd lang=''>1901</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=8858' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_8858_ent0/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "343_Hispana_BibliotecaValenciana"
+    ],
+    "edmCountry": [
+        "Spain"
+    ],
+    "edmLanguage": [
+        "es"
+    ],
+    "organization_label": [
+        "Hispana"
+    ],
+    "coordinate": "not showed"
+}

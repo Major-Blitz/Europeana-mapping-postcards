@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/dnd64xze",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0031071.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "Mont Alto Sanatorium for tuberculosis, Pennsylvania: view showing the Men's Camp (left) and the Women's Camp (right), with the Recreation Hall in the foreground. Photograph, 1920/1940? - https://www.europeana.eu/item/9200579/dnd64xze. Wellcome Collection - https://wellcomecollection.org/works/dnd64xze. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/dnd64xze' target='_blank' rel='noopener'>Mont Alto Sanatorium for tuberculosis, Pennsylvania: view showing the Men's Camp (left) and the Women's Camp (right), with the Recreation Hall in the foreground. Photograph, 1920/1940?</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/dnd64xze' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 24349,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 154,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#D3D3D3",
+                "#2F4F4F",
+                "#696969",
+                "#000000",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/dnd64xze",
+            "textAttributionSnippet": "Mont Alto Sanatorium for tuberculosis, Pennsylvania: view showing the Men's Camp (left) and the Women's Camp (right), with the Recreation Hall in the foreground. Photograph, 1920/1940? - https://www.europeana.eu/item/9200579/dnd64xze. Wellcome Collection - https://wellcomecollection.org/works/dnd64xze. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/dnd64xze' target='_blank' rel='noopener'>Mont Alto Sanatorium for tuberculosis, Pennsylvania: view showing the Men's Camp (left) and the Women's Camp (right), with the Recreation Hall in the foreground. Photograph, 1920/1940?</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/dnd64xze' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 266903
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0031071.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "Mont Alto Sanatorium for tuberculosis, Pennsylvania: view showing the Men's Camp (left) and the Women's Camp (right), with the Recreation Hall in the foreground. Photograph, 1920/1940? - https://www.europeana.eu/item/9200579/dnd64xze. Wellcome Collection - https://wellcomecollection.org/works/dnd64xze. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/dnd64xze' target='_blank' rel='noopener'>Mont Alto Sanatorium for tuberculosis, Pennsylvania: view showing the Men's Camp (left) and the Women's Camp (right), with the Recreation Hall in the foreground. Photograph, 1920/1940?</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/dnd64xze' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0031071.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/dnd64xze/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 25296,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 158,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#D3D3D3",
+                "#2F4F4F",
+                "#696969",
+                "#000000",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/dnd64xze/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

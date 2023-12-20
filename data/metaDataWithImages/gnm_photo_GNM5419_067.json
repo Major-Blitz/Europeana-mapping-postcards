@@ -1,0 +1,82 @@
+{
+    "aggregations_about": "/aggregation/provider/52/gnm_photo_GNM5419_067",
+    "webResources": [
+        {
+            "about": "http://digitaltmuseum.se/021015949421",
+            "textAttributionSnippet": "(en) \"Included in a series with Fotonr. 5419 with the different postcards of the Gothenburg Museum of Natural History over the years. : Tavla \u201cMalmska val\u201d hangs in the ballroom of the Gothenburg Museum of Natural History. Oil painting by Gustav Brusewitz.' - https://www.europeana.eu/item/52/gnm_photo_GNM5419_067. (en) Anders Larsson. G\u00f6teborgs naturhistoriska museum - http://digitaltmuseum.se/021015949421. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/52/gnm_photo_GNM5419_067' target='_blank' rel='noopener'>\"Included in a series with Fotonr. 5419 with the different postcards of the Gothenburg Museum of Natural History over the years. : Tavla \u201cMalmska val\u201d hangs in the ballroom of the Gothenburg Museum of Natural History. Oil painting by Gustav Brusewitz.'</a></dd><dt>Creator</dt><dd lang='en'>Anders Larsson</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021015949421' target='_blank' rel='noopener'>G\u00f6teborgs naturhistoriska museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/032wX1xf9vWr?dimension=600x600",
+            "textAttributionSnippet": "(en) \"Included in a series with Fotonr. 5419 with the different postcards of the Gothenburg Museum of Natural History over the years. : Tavla \u201cMalmska val\u201d hangs in the ballroom of the Gothenburg Museum of Natural History. Oil painting by Gustav Brusewitz.' - https://www.europeana.eu/item/52/gnm_photo_GNM5419_067. (en) Anders Larsson. G\u00f6teborgs naturhistoriska museum - http://digitaltmuseum.se/021015949421. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/52/gnm_photo_GNM5419_067' target='_blank' rel='noopener'>\"Included in a series with Fotonr. 5419 with the different postcards of the Gothenburg Museum of Natural History over the years. : Tavla \u201cMalmska val\u201d hangs in the ballroom of the Gothenburg Museum of Natural History. Oil painting by Gustav Brusewitz.'</a></dd><dt>Creator</dt><dd lang='en'>Anders Larsson</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021015949421' target='_blank' rel='noopener'>G\u00f6teborgs naturhistoriska museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/52/gnm_photo_GNM5419_067/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 214054,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 435,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#FAFAD2",
+                "#808080",
+                "#556B2F",
+                "#800000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://mm.dimu.org/image/032wX1xf9vWr?dimension=1200x1200",
+            "textAttributionSnippet": "(en) \"Included in a series with Fotonr. 5419 with the different postcards of the Gothenburg Museum of Natural History over the years. : Tavla \u201cMalmska val\u201d hangs in the ballroom of the Gothenburg Museum of Natural History. Oil painting by Gustav Brusewitz.' - https://www.europeana.eu/item/52/gnm_photo_GNM5419_067. (en) Anders Larsson. G\u00f6teborgs naturhistoriska museum - http://digitaltmuseum.se/021015949421. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/52/gnm_photo_GNM5419_067' target='_blank' rel='noopener'>\"Included in a series with Fotonr. 5419 with the different postcards of the Gothenburg Museum of Natural History over the years. : Tavla \u201cMalmska val\u201d hangs in the ballroom of the Gothenburg Museum of Natural History. Oil painting by Gustav Brusewitz.'</a></dd><dt>Creator</dt><dd lang='en'>Anders Larsson</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021015949421' target='_blank' rel='noopener'>G\u00f6teborgs naturhistoriska museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/52/gnm_photo_GNM5419_067/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 839610,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 870,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#FAFAD2",
+                "#808080",
+                "#556B2F",
+                "#800000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/52/gnm_photo_GNM5419_067/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "52_Ag_SE_SwedishNationalHeritage_gnm_foto"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            58.217026,
+            11.733398
+        ],
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

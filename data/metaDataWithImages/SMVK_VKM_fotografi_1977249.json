@@ -1,0 +1,77 @@
+{
+    "aggregations_about": "/aggregation/provider/91609/SMVK_VKM_fotografi_1977249",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "sv": [
+                    "Creative Commons - Erk\u00e4nnande-Ickekommersiell-Inga bearbetningar"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1977591/image.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(sv) soltempel, kloster, fotografi, photograph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1977249. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1977249. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1977249' target='_blank' rel='noopener'>soltempel, kloster, fotografi, photograph</a></dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1977249' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1977249/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 87799,
+            "ebucoreWidth": 540,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#708090",
+                "#DCDCDC",
+                "#2F4F4F",
+                "#BC8F8F",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://collections.smvk.se/carlotta-vkm/web/object/1977249",
+            "textAttributionSnippet": "(sv) soltempel, kloster, fotografi, photograph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1977249. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1977249. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1977249' target='_blank' rel='noopener'>soltempel, kloster, fotografi, photograph</a></dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1977249' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 16912
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1977249/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91609_SwedishNationalHeritage_smvk_vkmf"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            -9.4,
+            -76.0
+        ]
+    ]
+}

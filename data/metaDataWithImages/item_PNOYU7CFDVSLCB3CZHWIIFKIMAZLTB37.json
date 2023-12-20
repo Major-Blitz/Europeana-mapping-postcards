@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_PNOYU7CFDVSLCB3CZHWIIFKIMAZLTB37",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3417024",
+            "textAttributionSnippet": "(en) St. Nicholas Church - https://www.europeana.eu/item/401/item_PNOYU7CFDVSLCB3CZHWIIFKIMAZLTB37. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417024. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_PNOYU7CFDVSLCB3CZHWIIFKIMAZLTB37' target='_blank' rel='noopener'>St. Nicholas Church</a></dd><dt>Date</dt><dd lang=''>1941</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417024' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=d794f3b2-88cd-4fde-9328-691ecbaef90d",
+            "textAttributionSnippet": "(en) St. Nicholas Church - https://www.europeana.eu/item/401/item_PNOYU7CFDVSLCB3CZHWIIFKIMAZLTB37. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417024. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_PNOYU7CFDVSLCB3CZHWIIFKIMAZLTB37' target='_blank' rel='noopener'>St. Nicholas Church</a></dd><dt>Date</dt><dd lang=''>1941</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417024' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_PNOYU7CFDVSLCB3CZHWIIFKIMAZLTB37/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 123135,
+            "ebucoreWidth": 521,
+            "ebucoreHeight": 798,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#D2B48C",
+                "#CD853F",
+                "#C0C0C0",
+                "#6B8E23",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_PNOYU7CFDVSLCB3CZHWIIFKIMAZLTB37/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

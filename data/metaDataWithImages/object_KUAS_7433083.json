@@ -1,0 +1,56 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_7433083",
+    "webResources": [
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=255220",
+            "textAttributionSnippet": "(en) Postcards, photos of stonemason Carl Jensen\u2019s work in Aalborg and Esbjerg - https://www.europeana.eu/item/2058618/object_KUAS_7433083. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=255220. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7433083' target='_blank' rel='noopener'>Postcards, photos of stonemason Carl Jensen\u2019s work in Aalborg and Esbjerg</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=255220' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Bornholms Museum"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=494978",
+            "textAttributionSnippet": "(en) Postcards, photos of stonemason Carl Jensen\u2019s work in Aalborg and Esbjerg - https://www.europeana.eu/item/2058618/object_KUAS_7433083. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=255220. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7433083' target='_blank' rel='noopener'>Postcards, photos of stonemason Carl Jensen\u2019s work in Aalborg and Esbjerg</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=255220' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7433083/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 24581,
+            "ebucoreWidth": 200,
+            "ebucoreHeight": 320,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#696969",
+                "#BC8F8F",
+                "#A9A9A9",
+                "#CD5C5C",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7433083/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

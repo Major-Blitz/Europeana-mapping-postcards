@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_GTFIM6CZNNAXQFSXAZ2GMJRHMF42BVLP",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=c6a70468-fe93-4bb7-954c-eae2ad71646f",
+            "textAttributionSnippet": "(en) Casablanca - https://www.europeana.eu/item/401/item_GTFIM6CZNNAXQFSXAZ2GMJRHMF42BVLP. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3657628. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_GTFIM6CZNNAXQFSXAZ2GMJRHMF42BVLP' target='_blank' rel='noopener'>Casablanca</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3657628' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_GTFIM6CZNNAXQFSXAZ2GMJRHMF42BVLP/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 139714,
+            "ebucoreWidth": 509,
+            "ebucoreHeight": 798,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#D3D3D3",
+                "#800000",
+                "#FAEBD7",
+                "#FFFFF0",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3657628",
+            "textAttributionSnippet": "(en) Casablanca - https://www.europeana.eu/item/401/item_GTFIM6CZNNAXQFSXAZ2GMJRHMF42BVLP. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3657628. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_GTFIM6CZNNAXQFSXAZ2GMJRHMF42BVLP' target='_blank' rel='noopener'>Casablanca</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3657628' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_GTFIM6CZNNAXQFSXAZ2GMJRHMF42BVLP/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            32.0,
+            -6.0
+        ]
+    ]
+}

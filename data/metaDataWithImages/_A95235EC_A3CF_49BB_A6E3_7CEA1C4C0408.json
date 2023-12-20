@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_A95235EC_A3CF_49BB_A6E3_7CEA1C4C0408",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2382160&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, greeting card; Maria gratuleras af Hildur och Helga - https://www.europeana.eu/item/117/_A95235EC_A3CF_49BB_A6E3_7CEA1C4C0408. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.A95235EC-A3CF-49BB-A6E3-7CEA1C4C0408?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_A95235EC_A3CF_49BB_A6E3_7CEA1C4C0408' target='_blank' rel='noopener'>postcard, greeting card; Maria gratuleras af Hildur och Helga</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.A95235EC-A3CF-49BB-A6E3-7CEA1C4C0408?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_A95235EC_A3CF_49BB_A6E3_7CEA1C4C0408/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 254170,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFA07A",
+                "#E6E6FA",
+                "#8B4513",
+                "#F4A460",
+                "#F5F5DC",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.A95235EC-A3CF-49BB-A6E3-7CEA1C4C0408?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, greeting card; Maria gratuleras af Hildur och Helga - https://www.europeana.eu/item/117/_A95235EC_A3CF_49BB_A6E3_7CEA1C4C0408. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.A95235EC-A3CF-49BB-A6E3-7CEA1C4C0408?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_A95235EC_A3CF_49BB_A6E3_7CEA1C4C0408' target='_blank' rel='noopener'>postcard, greeting card; Maria gratuleras af Hildur och Helga</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.A95235EC-A3CF-49BB-A6E3-7CEA1C4C0408?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_A95235EC_A3CF_49BB_A6E3_7CEA1C4C0408/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916108/smm_mm_object_MM16933",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032uKXByzJxs?dimension=600x600",
+            "textAttributionSnippet": "(en) Tavla - https://www.europeana.eu/item/916108/smm_mm_object_MM16933. Marinmuseum - https://digitaltmuseum.se/011024813931. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_object_MM16933' target='_blank' rel='noopener'>Tavla</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024813931' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_object_MM16933/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 201183,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 428,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#D2B48C",
+                "#2F4F4F",
+                "#BDB76B",
+                "#C0C0C0",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/032uKXByzJxs?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Tavla - https://www.europeana.eu/item/916108/smm_mm_object_MM16933. Marinmuseum - https://digitaltmuseum.se/011024813931. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_object_MM16933' target='_blank' rel='noopener'>Tavla</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024813931' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_object_MM16933/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 566884,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 857,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#D2B48C",
+                "#2F4F4F",
+                "#BDB76B",
+                "#C0C0C0",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011024813931",
+            "textAttributionSnippet": "(en) Tavla - https://www.europeana.eu/item/916108/smm_mm_object_MM16933. Marinmuseum - https://digitaltmuseum.se/011024813931. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_object_MM16933' target='_blank' rel='noopener'>Tavla</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024813931' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 96922
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916108/smm_mm_object_MM16933/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "916108_Ag_SE_SwedishNationalHeritage_Marinmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

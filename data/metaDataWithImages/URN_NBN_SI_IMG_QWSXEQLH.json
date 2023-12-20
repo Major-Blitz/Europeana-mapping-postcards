@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_QWSXEQLH",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-QWSXEQLH/maxi/edm",
+            "textAttributionSnippet": "(sl) Sokolski dom v Slovenski Bistrici - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_QWSXEQLH. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-QWSXEQLH. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_QWSXEQLH' target='_blank' rel='noopener'>Sokolski dom v Slovenski Bistrici</a></dd><dt>Date</dt><dd lang=''>1937</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-QWSXEQLH' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 45901,
+            "ebucoreWidth": 868,
+            "ebucoreHeight": 597,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#DCDCDC",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#808080",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-QWSXEQLH/cabed772-b2ea-4d30-8144-d2424aea52ea/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "0 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Sokolski dom v Slovenski Bistrici - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_QWSXEQLH. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-QWSXEQLH. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_QWSXEQLH' target='_blank' rel='noopener'>Sokolski dom v Slovenski Bistrici</a></dd><dt>Date</dt><dd lang=''>1937</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-QWSXEQLH' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_QWSXEQLH/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 274569,
+            "ebucoreWidth": 1555,
+            "ebucoreHeight": 1073,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#DCDCDC",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#696969",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-QWSXEQLH",
+            "textAttributionSnippet": "(sl) Sokolski dom v Slovenski Bistrici - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_QWSXEQLH. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-QWSXEQLH. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_QWSXEQLH' target='_blank' rel='noopener'>Sokolski dom v Slovenski Bistrici</a></dd><dt>Date</dt><dd lang=''>1937</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-QWSXEQLH' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 28715
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_QWSXEQLH/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_NGSLEUX2NCHO7ADXVHLLAAK7XKA45DJ3",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/1656588",
+            "textAttributionSnippet": "(en) Old postcards from Roll Farm - https://www.europeana.eu/item/401/item_NGSLEUX2NCHO7ADXVHLLAAK7XKA45DJ3. Eesti Rahva Muuseum - https://www.muis.ee/museaalView/1656588. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_NGSLEUX2NCHO7ADXVHLLAAK7XKA45DJ3' target='_blank' rel='noopener'>Old postcards from Roll Farm</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1656588' target='_blank' rel='noopener'>Eesti Rahva Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=f4de79a3-c218-496d-a194-fc9b534bf97e",
+            "textAttributionSnippet": "(en) Old postcards from Roll Farm - https://www.europeana.eu/item/401/item_NGSLEUX2NCHO7ADXVHLLAAK7XKA45DJ3. Eesti Rahva Muuseum - https://www.muis.ee/museaalView/1656588. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_NGSLEUX2NCHO7ADXVHLLAAK7XKA45DJ3' target='_blank' rel='noopener'>Old postcards from Roll Farm</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1656588' target='_blank' rel='noopener'>Eesti Rahva Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_NGSLEUX2NCHO7ADXVHLLAAK7XKA45DJ3/manifest"
+            ],
+            "ebucoreHasMimeType": "image/png",
+            "ebucoreFileByteSize": 1092,
+            "ebucoreWidth": 64,
+            "ebucoreHeight": 64,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#808080",
+                "#2F4F4F",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_NGSLEUX2NCHO7ADXVHLLAAK7XKA45DJ3/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Estonian National Museum"
+    ],
+    "coordinate": "not showed"
+}

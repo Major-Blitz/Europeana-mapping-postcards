@@ -1,0 +1,72 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03515",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/03347T7wzMJ1?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort - pojke gungar p\u00e5 kedja invid Odinslund, i bakgrunden Uppsala domkyrka, Skytteanum och V\u00e4rmlands nation, Uppsala omkring 1900 - https://www.europeana.eu/item/91617/upmu_photo_FN03515. Upplandsmuseet - https://digitaltmuseum.se/021018326905. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03515' target='_blank' rel='noopener'>Vykort - pojke gungar p\u00e5 kedja invid Odinslund, i bakgrunden Uppsala domkyrka, Skytteanum och V\u00e4rmlands nation, Uppsala omkring 1900</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018326905' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03515/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 811910,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 758,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F8F8FF",
+                "#FFFAFA",
+                "#DCDCDC",
+                "#8FBC8F",
+                "#F5DEB3",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021018326905",
+            "textAttributionSnippet": "(sv) Vykort - pojke gungar p\u00e5 kedja invid Odinslund, i bakgrunden Uppsala domkyrka, Skytteanum och V\u00e4rmlands nation, Uppsala omkring 1900 - https://www.europeana.eu/item/91617/upmu_photo_FN03515. Upplandsmuseet - https://digitaltmuseum.se/021018326905. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03515' target='_blank' rel='noopener'>Vykort - pojke gungar p\u00e5 kedja invid Odinslund, i bakgrunden Uppsala domkyrka, Skytteanum och V\u00e4rmlands nation, Uppsala omkring 1900</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018326905' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03515/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_82L2BGWG",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-82L2BGWG/076d9dfa-ebb6-493b-9f17-0ce86549297a/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "5244 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Johann Pibers Gasthaus u. Handlung, Krottensdorf-Sternberg, Post F\u00f6derlach - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_82L2BGWG. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-82L2BGWG. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_82L2BGWG' target='_blank' rel='noopener'>Johann Pibers Gasthaus u. Handlung, Krottensdorf-Sternberg, Post F\u00f6derlach</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-82L2BGWG' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_82L2BGWG/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 5369977,
+            "ebucoreWidth": 3280,
+            "ebucoreHeight": 2075,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#A9A9A9",
+                "#696969",
+                "#BC8F8F",
+                "#8FBC8F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-82L2BGWG",
+            "textAttributionSnippet": "(sl) Johann Pibers Gasthaus u. Handlung, Krottensdorf-Sternberg, Post F\u00f6derlach - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_82L2BGWG. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-82L2BGWG. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_82L2BGWG' target='_blank' rel='noopener'>Johann Pibers Gasthaus u. Handlung, Krottensdorf-Sternberg, Post F\u00f6derlach</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-82L2BGWG' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 31335
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-82L2BGWG/maxi/edm",
+            "textAttributionSnippet": "(sl) Johann Pibers Gasthaus u. Handlung, Krottensdorf-Sternberg, Post F\u00f6derlach - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_82L2BGWG. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-82L2BGWG. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_82L2BGWG' target='_blank' rel='noopener'>Johann Pibers Gasthaus u. Handlung, Krottensdorf-Sternberg, Post F\u00f6derlach</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-82L2BGWG' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 62740,
+            "ebucoreWidth": 948,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#A9A9A9",
+                "#696969",
+                "#8FBC8F",
+                "#BC8F8F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_82L2BGWG/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

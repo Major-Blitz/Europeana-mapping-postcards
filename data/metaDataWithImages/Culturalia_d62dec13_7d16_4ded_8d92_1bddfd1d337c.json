@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_d62dec13_7d16_4ded_8d92_1bddfd1d337c",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_12%20Decembrie%202019_Necatalogate_necatalogate_Muzeul%20ASTRA_necatalogate_decembrie_2019/Imagini/29C41530DFD046A1992BDEEF0AF45374.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d62dec13_7d16_4ded_8d92_1bddfd1d337c. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/d62dec13-7d16-4ded-8d92-1bddfd1d337c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d62dec13-7d16-4ded-8d92-1bddfd1d337c/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_d62dec13_7d16_4ded_8d92_1bddfd1d337c/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1002858,
+            "ebucoreWidth": 2048,
+            "ebucoreHeight": 1365,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF0F5",
+                "#FFFAFA",
+                "#CD853F",
+                "#D2B48C",
+                "#FFFFFF",
+                "#E9967A"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_12%20Decembrie%202019_Necatalogate_necatalogate_Muzeul%20ASTRA_necatalogate_decembrie_2019/Imagini/281A6493C3D848A886872769BB4DA034.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d62dec13_7d16_4ded_8d92_1bddfd1d337c. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/d62dec13-7d16-4ded-8d92-1bddfd1d337c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d62dec13-7d16-4ded-8d92-1bddfd1d337c/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_d62dec13_7d16_4ded_8d92_1bddfd1d337c/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1159780,
+            "ebucoreWidth": 2048,
+            "ebucoreHeight": 1365,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E9967A",
+                "#CD5C5C",
+                "#CD853F",
+                "#8B4513",
+                "#DEB887",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/d62dec13-7d16-4ded-8d92-1bddfd1d337c/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d62dec13_7d16_4ded_8d92_1bddfd1d337c. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/d62dec13-7d16-4ded-8d92-1bddfd1d337c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d62dec13-7d16-4ded-8d92-1bddfd1d337c/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_d62dec13_7d16_4ded_8d92_1bddfd1d337c/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographic paper"
+    ],
+    "concept_note": [
+        "Paper used for making photographic prints that consists of a base material with a white or near-white surface that is coated with one or more emulsion layers. It is typically a high grade of paper traditionally made from 100% cotton or linen rags, because lignin and other residues in other paper would react with the photosensitive salts and destroy the image. Photographic paper is strong, uniform, and dimensionally stable when wet and dry. For increased wet-strength, the papers are sized with animal glue, starch, stearic acid, or synthetic resins, such as melamine (used since 1948). One or more fillers, such as barium sulfate, titanium dioxide, clay, starch, or polyacrylamide, are also added for opacity, color, and strength. The papers were calendered to produce a smooth, nonporous surface. Since the late 1960s, most color photographic papers have been made from cellulose fibers coated on both sides with polyethylene."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "ASTRA National Museum Complex"
+    ],
+    "coordinate": [
+        [
+            45.8,
+            24.15
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_ZFZQAROOIVKIFWGVMDPWW4YLSAIEKW2C",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=a1bd4cfe-f971-4e6e-8e89-2895e83a6e67",
+            "textAttributionSnippet": "(en) Haapsala - https://www.europeana.eu/item/401/item_ZFZQAROOIVKIFWGVMDPWW4YLSAIEKW2C. (et) ERKA FOTO (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3748533. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_ZFZQAROOIVKIFWGVMDPWW4YLSAIEKW2C' target='_blank' rel='noopener'>Haapsala</a></dd><dt>Creator</dt><dd lang='et'>ERKA FOTO (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3748533' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_ZFZQAROOIVKIFWGVMDPWW4YLSAIEKW2C/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 89563,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 527,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#8FBC8F",
+                "#C0C0C0",
+                "#D2B48C",
+                "#808080",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3748533",
+            "textAttributionSnippet": "(en) Haapsala - https://www.europeana.eu/item/401/item_ZFZQAROOIVKIFWGVMDPWW4YLSAIEKW2C. (et) ERKA FOTO (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3748533. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_ZFZQAROOIVKIFWGVMDPWW4YLSAIEKW2C' target='_blank' rel='noopener'>Haapsala</a></dd><dt>Creator</dt><dd lang='et'>ERKA FOTO (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3748533' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_ZFZQAROOIVKIFWGVMDPWW4YLSAIEKW2C/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            58.946945,
+            23.536945
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03168",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/032s93m5zMFD?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcards - Artur Ax and Ragnhild Nyman together with Viktor and Klara Nyman celebrate their engagement on 15 June 1912 in Stockholm - https://www.europeana.eu/item/91617/upmu_photo_FN03168. Fenix-Palatset. Upplandsmuseet - https://digitaltmuseum.se/011013981476. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03168' target='_blank' rel='noopener'>Postcards - Artur Ax and Ragnhild Nyman together with Viktor and Klara Nyman celebrate their engagement on 15 June 1912 in Stockholm</a></dd><dt>Creator</dt><dd lang=''>Fenix-Palatset</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981476' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03168/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 562551,
+            "ebucoreWidth": 771,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#FFE4E1",
+                "#D8BFD8",
+                "#D2B48C",
+                "#2F4F4F",
+                "#FFFAFA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011013981476",
+            "textAttributionSnippet": "(en) Postcards - Artur Ax and Ragnhild Nyman together with Viktor and Klara Nyman celebrate their engagement on 15 June 1912 in Stockholm - https://www.europeana.eu/item/91617/upmu_photo_FN03168. Fenix-Palatset. Upplandsmuseet - https://digitaltmuseum.se/011013981476. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03168' target='_blank' rel='noopener'>Postcards - Artur Ax and Ragnhild Nyman together with Viktor and Klara Nyman celebrate their engagement on 15 June 1912 in Stockholm</a></dd><dt>Creator</dt><dd lang=''>Fenix-Palatset</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981476' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03168/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

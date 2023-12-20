@@ -1,0 +1,188 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/11986.121863.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:18:09 UTC"
+                ]
+            },
+            "textAttributionSnippet": "03-Photographies-cartes postales non \u00e9crites : vie quotidienne du front - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863' target='_blank' rel='noopener'>03-Photographies-cartes postales non \u00e9crites : vie quotidienne du front</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/11986.121863.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 87267,
+            "ebucoreWidth": 1132,
+            "ebucoreHeight": 764,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#FFFFF0",
+                "#F5F5DC",
+                "#FAF0E6",
+                "#D3D3D3",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/11986.121863.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:18:09 UTC"
+                ]
+            },
+            "textAttributionSnippet": "03-Photographies-cartes postales non \u00e9crites : vie quotidienne du front - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863' target='_blank' rel='noopener'>03-Photographies-cartes postales non \u00e9crites : vie quotidienne du front</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/11986.121863.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 102431,
+            "ebucoreWidth": 1140,
+            "ebucoreHeight": 763,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FFE4E1",
+                "#F5F5F5",
+                "#D3D3D3",
+                "#8FBC8F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/11986.121863.original_Page0002.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:18:09 UTC"
+                ]
+            },
+            "textAttributionSnippet": "03-Photographies-cartes postales non \u00e9crites : vie quotidienne du front - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863' target='_blank' rel='noopener'>03-Photographies-cartes postales non \u00e9crites : vie quotidienne du front</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/11986.121863.original_Page0002.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 88106,
+            "ebucoreWidth": 1087,
+            "ebucoreHeight": 746,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF0F5",
+                "#C0C0C0",
+                "#F5DEB3",
+                "#A9A9A9",
+                "#FFE4C4",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/11986.121863.original_Page0003.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-13 15:18:09 UTC"
+                ]
+            },
+            "textAttributionSnippet": "03-Photographies-cartes postales non \u00e9crites : vie quotidienne du front - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863. europeana19141918:agent/71ed5391a467c6264ee6380417654f76. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863' target='_blank' rel='noopener'>03-Photographies-cartes postales non \u00e9crites : vie quotidienne du front</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/71ed5391a467c6264ee6380417654f76</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/11986.121863.original_Page0003.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 94551,
+            "ebucoreWidth": 1132,
+            "ebucoreHeight": 749,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#D2B48C",
+                "#8B4513",
+                "#F5F5DC",
+                "#A0522D",
+                "#FFFFF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11986_attachments_121863/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "World War I"
+    ],
+    "concept_note": [
+        "Global war originating in Europe, 1914\u20131918"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": "not showed"
+}

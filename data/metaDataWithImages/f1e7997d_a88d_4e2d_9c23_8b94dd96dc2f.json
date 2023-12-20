@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/f1e7997d_a88d_4e2d_9c23_8b94dd96dc2f",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/a88bfc72-de55-4199-93a5-7116203eedcd.jpg",
+            "textAttributionSnippet": "(nl) De Heilig-Bloedprocessie in de Braambergstraat - https://www.europeana.eu/item/534/f1e7997d_a88d_4e2d_9c23_8b94dd96dc2f. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/f1e7997d_a88d_4e2d_9c23_8b94dd96dc2f' target='_blank' rel='noopener'>De Heilig-Bloedprocessie in de Braambergstraat</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Date</dt><dd lang=''>-1905</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/f1e7997d_a88d_4e2d_9c23_8b94dd96dc2f/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 190648,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 658,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#808080",
+                "#FAEBD7",
+                "#FFE4C4",
+                "#D3D3D3",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) De Heilig-Bloedprocessie in de Braambergstraat - https://www.europeana.eu/item/534/f1e7997d_a88d_4e2d_9c23_8b94dd96dc2f. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/f1e7997d_a88d_4e2d_9c23_8b94dd96dc2f' target='_blank' rel='noopener'>De Heilig-Bloedprocessie in de Braambergstraat</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Date</dt><dd lang=''>-1905</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/f1e7997d_a88d_4e2d_9c23_8b94dd96dc2f/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

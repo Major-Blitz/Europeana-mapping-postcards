@@ -1,0 +1,86 @@
+{
+    "aggregations_about": "/aggregation/provider/73/S_OM_photo_OMEA0001240130",
+    "webResources": [
+        {
+            "about": "http://mm.dimu.org/image/0231uU2nuPHq?dimension=600x600",
+            "textAttributionSnippet": "(en) Hand-checked postcard with motif against Sankt Larskyrkan in Lk\u00f6pping. Time is around the last century - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240130. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021017433167. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240130' target='_blank' rel='noopener'>Hand-checked postcard with motif against Sankt Larskyrkan in Lk\u00f6pping. Time is around the last century</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021017433167' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240130/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 207429,
+            "ebucoreWidth": 384,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#D3D3D3",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#556B2F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2nuPHq?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Hand-checked postcard with motif against Sankt Larskyrkan in Lk\u00f6pping. Time is around the last century - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240130. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021017433167. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240130' target='_blank' rel='noopener'>Hand-checked postcard with motif against Sankt Larskyrkan in Lk\u00f6pping. Time is around the last century</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021017433167' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240130/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 770119,
+            "ebucoreWidth": 767,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#D3D3D3",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#556B2F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://digitaltmuseum.se/021017433167",
+            "textAttributionSnippet": "(en) Hand-checked postcard with motif against Sankt Larskyrkan in Lk\u00f6pping. Time is around the last century - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240130. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021017433167. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240130' target='_blank' rel='noopener'>Hand-checked postcard with motif against Sankt Larskyrkan in Lk\u00f6pping. Time is around the last century</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021017433167' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240130/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Church building"
+    ],
+    "concept_note": [
+        "Building used for Christian worship"
+    ],
+    "edmDatasetName": [
+        "73_Ag_SE_SwedishNationalHeritage_s_om"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ],
+        [
+            58.410557,
+            15.613611
+        ]
+    ]
+}

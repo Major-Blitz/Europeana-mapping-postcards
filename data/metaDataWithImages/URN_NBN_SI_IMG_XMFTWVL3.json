@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_XMFTWVL3",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-XMFTWVL3",
+            "textAttributionSnippet": "(sl) Windisch-Feistritz. Triesterstrasse - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XMFTWVL3. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-XMFTWVL3. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XMFTWVL3' target='_blank' rel='noopener'>Windisch-Feistritz. Triesterstrasse</a></dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XMFTWVL3' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 28533
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-XMFTWVL3/97d2a9fd-2d24-42dc-81e0-65cc9a8557f2/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "0 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Windisch-Feistritz. Triesterstrasse - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XMFTWVL3. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-XMFTWVL3. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XMFTWVL3' target='_blank' rel='noopener'>Windisch-Feistritz. Triesterstrasse</a></dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XMFTWVL3' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_XMFTWVL3/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 298384,
+            "ebucoreWidth": 1638,
+            "ebucoreHeight": 1069,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#696969",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-XMFTWVL3/maxi/edm",
+            "textAttributionSnippet": "(sl) Windisch-Feistritz. Triesterstrasse - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XMFTWVL3. Josip Vo\u0161njak Library, Slovenska Bistrica - http://www.dlib.si/details/URN:NBN:SI:IMG-XMFTWVL3. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XMFTWVL3' target='_blank' rel='noopener'>Windisch-Feistritz. Triesterstrasse</a></dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XMFTWVL3' target='_blank' rel='noopener'>Josip Vo\u0161njak Library, Slovenska Bistrica</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 59322,
+            "ebucoreWidth": 920,
+            "ebucoreHeight": 599,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#696969",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_XMFTWVL3/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

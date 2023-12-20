@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_7E31D6E2E6026EEC4155434F96173E8B",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=985442&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(en) Halle\u2019s stern - https://www.europeana.eu/item/2021009/_7E31D6E2E6026EEC4155434F96173E8B. (en) Krooks, Sven-Erik. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.7E31D6E2E6026EEC4155434F96173E8B?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_7E31D6E2E6026EEC4155434F96173E8B' target='_blank' rel='noopener'>Halle\u2019s stern</a></dd><dt>Creator</dt><dd lang='en'>Krooks, Sven-Erik</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.7E31D6E2E6026EEC4155434F96173E8B?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_7E31D6E2E6026EEC4155434F96173E8B/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 188090,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 748,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4E1",
+                "#808080",
+                "#E6E6FA",
+                "#F5F5F5",
+                "#F8F8FF",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.7E31D6E2E6026EEC4155434F96173E8B?lng=en-gb",
+            "textAttributionSnippet": "(en) Halle\u2019s stern - https://www.europeana.eu/item/2021009/_7E31D6E2E6026EEC4155434F96173E8B. (en) Krooks, Sven-Erik. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.7E31D6E2E6026EEC4155434F96173E8B?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_7E31D6E2E6026EEC4155434F96173E8B' target='_blank' rel='noopener'>Halle\u2019s stern</a></dd><dt>Creator</dt><dd lang='en'>Krooks, Sven-Erik</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.7E31D6E2E6026EEC4155434F96173E8B?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_7E31D6E2E6026EEC4155434F96173E8B/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Negative"
+    ],
+    "concept_note": [
+        "Photographs in which the tones or colors are reversed from their appearance in nature, usually on a transparent support of celluloid, acetate, or on paper, intended for the purpose of producing positive prints"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

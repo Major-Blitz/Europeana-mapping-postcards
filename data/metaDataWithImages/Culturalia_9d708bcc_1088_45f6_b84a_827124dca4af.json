@@ -1,0 +1,84 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_9d708bcc_1088_45f6_b84a_827124dca4af",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/9d708bcc-1088-45f6-b84a-827124dca4af/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9d708bcc_1088_45f6_b84a_827124dca4af. Verlag Fritz Guggenberger. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9d708bcc-1088-45f6-b84a-827124dca4af/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Fritz Guggenberger</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9d708bcc-1088-45f6-b84a-827124dca4af/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_trifescu_docpatv494/Imagini1/AC71EADCAA75465DBF47D6F02FC50B6A.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9d708bcc_1088_45f6_b84a_827124dca4af. Verlag Fritz Guggenberger. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9d708bcc-1088-45f6-b84a-827124dca4af/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Fritz Guggenberger</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9d708bcc-1088-45f6-b84a-827124dca4af/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_9d708bcc_1088_45f6_b84a_827124dca4af/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 20919006,
+            "ebucoreWidth": 3392,
+            "ebucoreHeight": 2054,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#F5DEB3",
+                "#EEE8AA",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_trifescu_docpatv494/Imagini1/D93509D2BABC496C9F8577935FB2146B.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9d708bcc_1088_45f6_b84a_827124dca4af. Verlag Fritz Guggenberger. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9d708bcc-1088-45f6-b84a-827124dca4af/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Fritz Guggenberger</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9d708bcc-1088-45f6-b84a-827124dca4af/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_9d708bcc_1088_45f6_b84a_827124dca4af/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 16819612,
+            "ebucoreWidth": 2136,
+            "ebucoreHeight": 3401,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#FFE4B5",
+                "#EEE8AA",
+                "#E6E6FA",
+                "#808080",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_9d708bcc_1088_45f6_b84a_827124dca4af/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "towers (single built works)"
+    ],
+    "concept_note": [
+        "Detached or isolated buildings or other structures high in proportion to their lateral dimensions. For parts of buildings with walls rising with vertical proportions considerably above the rest, use \"towers (building divisions).\" For modern high-rise buildings with a towerlike main mass rising from a larger low base, use \"tower buildings.\""
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            45.0,
+            22.0
+        ]
+    ]
+}

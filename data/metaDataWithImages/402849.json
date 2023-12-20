@@ -1,0 +1,520 @@
+{
+    "aggregations_about": "/aggregation/provider/2048128/402849",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647643/default/doc_url/csgyk_fototar_pecs_1942_tele_04.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 171810,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1340,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#BC8F8F",
+                "#A9A9A9",
+                "#556B2F",
+                "#C0C0C0",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban",
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647641/default/doc_url/csgyk_fototar_pecs_1942_tele_02.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 236891,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1366,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#BC8F8F",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mandadb.hu/mandadb/webimage/4/3/6/9/2/1/wimage/lead_csgyk_fototar_pecs_1942_tele_01.jpg",
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 22348,
+            "ebucoreWidth": 400,
+            "ebucoreHeight": 278,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D8BFD8",
+                "#808080",
+                "#556B2F",
+                "#000000",
+                "#C0C0C0",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647649/default/doc_url/csgyk_fototar_pecs_1942_tele_10.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 251752,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1341,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#D3D3D3",
+                "#000000",
+                "#556B2F",
+                "#708090",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647646/default/doc_url/csgyk_fototar_pecs_1942_tele_07.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 73818,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 1156,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#696969",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#000000",
+                "#708090"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647640/default/doc_url/csgyk_fototar_pecs_1942_tele_01.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 190217,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1388,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#BC8F8F",
+                "#556B2F",
+                "#000000",
+                "#C0C0C0",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647642/default/doc_url/csgyk_fototar_pecs_1942_tele_03.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 207138,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1327,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#000000",
+                "#DCDCDC",
+                "#808080",
+                "#708090",
+                "#D3D3D3",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647647/default/doc_url/csgyk_fototar_pecs_1942_tele_08.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 175046,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1360,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#708090",
+                "#556B2F",
+                "#BC8F8F",
+                "#808080",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647644/default/doc_url/csgyk_fototar_pecs_1942_tele_05.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 218048,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1384,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#BC8F8F",
+                "#696969",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647648/default/doc_url/csgyk_fototar_pecs_1942_tele_09.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 193749,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1329,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#BC8F8F",
+                "#708090",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/647645/default/doc_url/csgyk_fototar_pecs_1942_tele_06.jpg",
+            "dcDescription": {
+                "en": [
+                    "Photos from the winter of 1942 in P\u00e9cs.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "A fot\u00f3kon 1942 tele l\u00e1that\u00f3 P\u00e9cs v\u00e1ros\u00e1ban.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) 1942 tele P\u00e9cs v\u00e1ros\u00e1ban - https://www.europeana.eu/item/2048128/402849. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/402849' target='_blank' rel='noopener'>1942 tele P\u00e9cs v\u00e1ros\u00e1ban</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/402849/1942_tele_Pecs_varosaban' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/402849/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 213660,
+            "ebucoreWidth": 2000,
+            "ebucoreHeight": 1358,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#DCDCDC",
+                "#BC8F8F",
+                "#556B2F",
+                "#C0C0C0",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2048128/402849/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2048128_Ag_HU_MaNDA_OAI"
+    ],
+    "edmCountry": [
+        "Hungary"
+    ],
+    "edmLanguage": [
+        "hu"
+    ],
+    "organization_label": [
+        "Forum Hungaricum Non-profit Ltd."
+    ],
+    "coordinate": "not showed"
+}

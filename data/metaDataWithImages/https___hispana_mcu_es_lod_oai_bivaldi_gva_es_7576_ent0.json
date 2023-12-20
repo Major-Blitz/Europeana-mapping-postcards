@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7576_ent0",
+    "webResources": [
+        {
+            "about": "https://bivaldi.gva.es/es/consulta/registro.do?id=7576",
+            "textAttributionSnippet": "(en) [Fault represented the Fame on a grand piano crowning the Arts in Plaza de San Gil] [Material F]: [Valencia] - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7576_ent0. An\u00f3nimo. Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=7576. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7576_ent0' target='_blank' rel='noopener'>[Fault represented the Fame on a grand piano crowning the Arts in Plaza de San Gil] [Material F]: [Valencia]</a></dd><dt>Creator</dt><dd lang=''>An\u00f3nimo</dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=7576' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://bivaldi.gva.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=10688727",
+            "textAttributionSnippet": "(en) [Fault represented the Fame on a grand piano crowning the Arts in Plaza de San Gil] [Material F]: [Valencia] - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7576_ent0. An\u00f3nimo. Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=7576. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7576_ent0' target='_blank' rel='noopener'>[Fault represented the Fame on a grand piano crowning the Arts in Plaza de San Gil] [Material F]: [Valencia]</a></dd><dt>Creator</dt><dd lang=''>An\u00f3nimo</dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=7576' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7576_ent0/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 402773,
+            "ebucoreWidth": 1367,
+            "ebucoreHeight": 2149,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#D8BFD8",
+                "#A0522D",
+                "#696969",
+                "#A9A9A9",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7576_ent0/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "343_Hispana_BibliotecaValenciana"
+    ],
+    "edmCountry": [
+        "Spain"
+    ],
+    "edmLanguage": [
+        "es"
+    ],
+    "organization_label": [
+        "Hispana"
+    ],
+    "coordinate": "not showed"
+}

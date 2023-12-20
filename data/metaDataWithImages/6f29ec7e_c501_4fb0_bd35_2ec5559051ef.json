@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/6f29ec7e_c501_4fb0_bd35_2ec5559051ef",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op het Minnewater - https://www.europeana.eu/item/534/6f29ec7e_c501_4fb0_bd35_2ec5559051ef. (nl) F. Vercauteren (Brugge); Globe. (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/6f29ec7e_c501_4fb0_bd35_2ec5559051ef' target='_blank' rel='noopener'>Zicht op het Minnewater</a></dd><dt>Creator</dt><dd lang='nl'>F. Vercauteren (Brugge); Globe</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/2011f5fd-cf9a-44d1-9625-d6ad3f9a1f27.jpg",
+            "textAttributionSnippet": "(nl) Zicht op het Minnewater - https://www.europeana.eu/item/534/6f29ec7e_c501_4fb0_bd35_2ec5559051ef. (nl) F. Vercauteren (Brugge); Globe. (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/6f29ec7e_c501_4fb0_bd35_2ec5559051ef' target='_blank' rel='noopener'>Zicht op het Minnewater</a></dd><dt>Creator</dt><dd lang='nl'>F. Vercauteren (Brugge); Globe</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/6f29ec7e_c501_4fb0_bd35_2ec5559051ef/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 98829,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 639,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#6B8E23",
+                "#800000",
+                "#8FBC8F",
+                "#A9A9A9",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/6f29ec7e_c501_4fb0_bd35_2ec5559051ef/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

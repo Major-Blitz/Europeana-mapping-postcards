@@ -1,0 +1,84 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA54672_0811",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011014491142",
+            "textAttributionSnippet": "(en) Postcards. An infatuated couple between stretchers of hearts; yellow flowers and golden garlands and a German verse - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0811. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491142. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0811' target='_blank' rel='noopener'>Postcards. An infatuated couple between stretchers of hearts; yellow flowers and golden garlands and a German verse</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491142' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 101517
+        },
+        {
+            "about": "https://mm.dimu.org/image/042sBY4HV4yU?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcards. An infatuated couple between stretchers of hearts; yellow flowers and golden garlands and a German verse - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0811. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491142. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0811' target='_blank' rel='noopener'>Postcards. An infatuated couple between stretchers of hearts; yellow flowers and golden garlands and a German verse</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491142' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0811/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 213715,
+            "ebucoreWidth": 352,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#FFFACD",
+                "#F5DEB3",
+                "#FFE4B5",
+                "#BDB76B",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://mm.dimu.org/image/042sBY4HV4yU?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards. An infatuated couple between stretchers of hearts; yellow flowers and golden garlands and a German verse - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0811. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491142. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0811' target='_blank' rel='noopener'>Postcards. An infatuated couple between stretchers of hearts; yellow flowers and golden garlands and a German verse</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491142' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0811/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 213715,
+            "ebucoreWidth": 352,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#FFFACD",
+                "#F5DEB3",
+                "#FFE4B5",
+                "#BDB76B",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0811/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            51.0,
+            10.0
+        ]
+    ]
+}

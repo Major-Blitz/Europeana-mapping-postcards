@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/632/_nn8Vn5z",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "http://bc.wbp.lublin.pl/Content/1533/POCZ_U_1874.jpg",
+            "textAttributionSnippet": "(en) Lublin, Freedom Square. Water tower - https://www.europeana.eu/item/632/_nn8Vn5z. Biblioteka Cyfrowa Wojew\u00f3dzkiej Biblioteki Publicznej im. Hieronima \u0141opaci\u0144skiego w Lublinie - http://fbc.pionier.net.pl/id/oai:bc.wbp.lublin.pl:1533. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/632/_nn8Vn5z' target='_blank' rel='noopener'>Lublin, Freedom Square. Water tower</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:bc.wbp.lublin.pl:1533' target='_blank' rel='noopener'>Biblioteka Cyfrowa Wojew\u00f3dzkiej Biblioteki Publicznej im. Hieronima \u0141opaci\u0144skiego w Lublinie</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/632/_nn8Vn5z/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1099517,
+            "ebucoreWidth": 2922,
+            "ebucoreHeight": 1779,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#FFE4C4",
+                "#CD853F",
+                "#D2B48C",
+                "#000000",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://fbc.pionier.net.pl/id/oai:bc.wbp.lublin.pl:1533",
+            "textAttributionSnippet": "(en) Lublin, Freedom Square. Water tower - https://www.europeana.eu/item/632/_nn8Vn5z. Biblioteka Cyfrowa Wojew\u00f3dzkiej Biblioteki Publicznej im. Hieronima \u0141opaci\u0144skiego w Lublinie - http://fbc.pionier.net.pl/id/oai:bc.wbp.lublin.pl:1533. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/632/_nn8Vn5z' target='_blank' rel='noopener'>Lublin, Freedom Square. Water tower</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:bc.wbp.lublin.pl:1533' target='_blank' rel='noopener'>Biblioteka Cyfrowa Wojew\u00f3dzkiej Biblioteki Publicznej im. Hieronima \u0141opaci\u0144skiego w Lublinie</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/632/_nn8Vn5z/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "632_BibliotekaCyfrowaWBPwLublinie_pt1"
+    ],
+    "edmCountry": [
+        "Poland"
+    ],
+    "edmLanguage": [
+        "pl"
+    ],
+    "organization_label": [
+        "Digital Libraries Federation"
+    ],
+    "coordinate": "not showed"
+}

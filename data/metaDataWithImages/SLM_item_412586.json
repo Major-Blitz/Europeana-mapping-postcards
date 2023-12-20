@@ -1,0 +1,72 @@
+{
+    "aggregations_about": "/aggregation/provider/916123/SLM_item_412586",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/4.0/"
+                ]
+            },
+            "about": "https://sokisamlingar.sormlandsmuseum.se/files/original/13da30e071d1c4b5c9f9d5abb413db5b.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Marknadsst\u00e5nd och ballongf\u00f6rs\u00e4ljare vid Schedewij \u00e5r 1909 - https://www.europeana.eu/item/916123/SLM_item_412586. S\u00f6rmland Museum - https://sokisamlingar.sormlandsmuseum.se/objects/c24-412586/. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/916123/SLM_item_412586' target='_blank' rel='noopener'>Marknadsst\u00e5nd och ballongf\u00f6rs\u00e4ljare vid Schedewij \u00e5r 1909</a></dd><dt>Date</dt><dd lang=''>1909</dd><dt>Institution</dt><dd lang=''><a href='https://sokisamlingar.sormlandsmuseum.se/objects/c24-412586/' target='_blank' rel='noopener'>S\u00f6rmland Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916123/SLM_item_412586/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 375185,
+            "ebucoreWidth": 493,
+            "ebucoreHeight": 765,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#000000",
+                "#808080",
+                "#FFFFF0",
+                "#A9A9A9",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://sokisamlingar.sormlandsmuseum.se/objects/c24-412586/",
+            "textAttributionSnippet": "(sv) Marknadsst\u00e5nd och ballongf\u00f6rs\u00e4ljare vid Schedewij \u00e5r 1909 - https://www.europeana.eu/item/916123/SLM_item_412586. S\u00f6rmland Museum - https://sokisamlingar.sormlandsmuseum.se/objects/c24-412586/. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/916123/SLM_item_412586' target='_blank' rel='noopener'>Marknadsst\u00e5nd och ballongf\u00f6rs\u00e4ljare vid Schedewij \u00e5r 1909</a></dd><dt>Date</dt><dd lang=''>1909</dd><dt>Institution</dt><dd lang=''><a href='https://sokisamlingar.sormlandsmuseum.se/objects/c24-412586/' target='_blank' rel='noopener'>S\u00f6rmland Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916123/SLM_item_412586/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916123_SOCH_SormlandsMuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

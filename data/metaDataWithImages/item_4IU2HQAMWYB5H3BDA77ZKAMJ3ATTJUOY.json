@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_4IU2HQAMWYB5H3BDA77ZKAMJ3ATTJUOY",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=be9197e2-84da-432e-8f7f-55aaf7ce5129",
+            "textAttributionSnippet": "(en) Tallinn, Virugate - https://www.europeana.eu/item/401/item_4IU2HQAMWYB5H3BDA77ZKAMJ3ATTJUOY. (en) Lego, K (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741663. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4IU2HQAMWYB5H3BDA77ZKAMJ3ATTJUOY' target='_blank' rel='noopener'>Tallinn, Virugate</a></dd><dt>Creator</dt><dd lang='en'>Lego, K (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741663' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_4IU2HQAMWYB5H3BDA77ZKAMJ3ATTJUOY/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 125944,
+            "ebucoreWidth": 561,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#F5F5F5",
+                "#BC8F8F",
+                "#F5FFFA",
+                "#000000",
+                "#708090"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3741663",
+            "textAttributionSnippet": "(en) Tallinn, Virugate - https://www.europeana.eu/item/401/item_4IU2HQAMWYB5H3BDA77ZKAMJ3ATTJUOY. (en) Lego, K (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741663. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4IU2HQAMWYB5H3BDA77ZKAMJ3ATTJUOY' target='_blank' rel='noopener'>Tallinn, Virugate</a></dd><dt>Creator</dt><dd lang='en'>Lego, K (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741663' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_4IU2HQAMWYB5H3BDA77ZKAMJ3ATTJUOY/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/f3cec9aa_709c_4447_8eea_9c62c81f236e",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/3b65b6f5-99c2-47ab-a4f2-f83f4bf39da5.jpg",
+            "textAttributionSnippet": "(nl) De Heilig-Bloedprocessie in 1919 - https://www.europeana.eu/item/534/f3cec9aa_709c_4447_8eea_9c62c81f236e. (nl) G. Hermans (Antwerpen). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/f3cec9aa_709c_4447_8eea_9c62c81f236e' target='_blank' rel='noopener'>De Heilig-Bloedprocessie in 1919</a></dd><dt>Creator</dt><dd lang='nl'>G. Hermans (Antwerpen)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/f3cec9aa_709c_4447_8eea_9c62c81f236e/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 181034,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 649,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFC0CB",
+                "#C0C0C0",
+                "#000000",
+                "#FFE4B5",
+                "#F5DEB3",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) De Heilig-Bloedprocessie in 1919 - https://www.europeana.eu/item/534/f3cec9aa_709c_4447_8eea_9c62c81f236e. (nl) G. Hermans (Antwerpen). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/f3cec9aa_709c_4447_8eea_9c62c81f236e' target='_blank' rel='noopener'>De Heilig-Bloedprocessie in 1919</a></dd><dt>Creator</dt><dd lang='nl'>G. Hermans (Antwerpen)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/f3cec9aa_709c_4447_8eea_9c62c81f236e/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

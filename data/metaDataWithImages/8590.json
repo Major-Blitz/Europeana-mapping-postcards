@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/267/8590",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://bdt.bibcom.trento.it/var/trentoarchiviobiblioteca/storage/images/media/immagini-iconografie/tic511-0381.jpg/636162-1-ita-IT/TIC511-0381.jpg.jpg",
+            "dcCreator": {
+                "def": [
+                    "Biblioteca Digitale Trentina"
+                ]
+            },
+            "dcType": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "textAttributionSnippet": "(en) Trent - Littoria House - https://www.europeana.eu/item/267/8590. Biblioteca Digitale Trentina. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/8590. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/267/8590' target='_blank' rel='noopener'>Trent - Littoria House</a></dd><dt>Creator</dt><dd lang=''>Biblioteca Digitale Trentina</dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/8590' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/267/8590/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 955491,
+            "ebucoreWidth": 1168,
+            "ebucoreHeight": 750,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#BDB76B",
+                "#808080",
+                "#BC8F8F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://bdt.bibcom.trento.it/archive/bdt/8590",
+            "textAttributionSnippet": "(en) Trent - Littoria House - https://www.europeana.eu/item/267/8590. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/8590. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/267/8590' target='_blank' rel='noopener'>Trent - Littoria House</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/8590' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/267/8590/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcards"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "267_CulturaItalia_Biblioteca_Digitale_Trentina"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "CulturaItalia"
+    ],
+    "coordinate": "not showed"
+}

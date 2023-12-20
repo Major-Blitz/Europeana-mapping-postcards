@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_KAZLZ6PE",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-KAZLZ6PE/69ed01bd-ae31-49b4-b3f1-9c7b5dc16083/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "1993 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Vurberk - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_KAZLZ6PE. Tourism Society Vurberk - http://www.dlib.si/details/URN:NBN:SI:IMG-KAZLZ6PE. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_KAZLZ6PE' target='_blank' rel='noopener'>Vurberk</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-KAZLZ6PE' target='_blank' rel='noopener'>Tourism Society Vurberk</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_KAZLZ6PE/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 2041277,
+            "ebucoreWidth": 2200,
+            "ebucoreHeight": 1404,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0",
+                "#D2B48C",
+                "#A9A9A9",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-KAZLZ6PE",
+            "textAttributionSnippet": "(sl) Vurberk - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_KAZLZ6PE. Tourism Society Vurberk - http://www.dlib.si/details/URN:NBN:SI:IMG-KAZLZ6PE. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_KAZLZ6PE' target='_blank' rel='noopener'>Vurberk</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-KAZLZ6PE' target='_blank' rel='noopener'>Tourism Society Vurberk</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 28303
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-KAZLZ6PE/maxi/edm",
+            "textAttributionSnippet": "(sl) Vurberk - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_KAZLZ6PE. Tourism Society Vurberk - http://www.dlib.si/details/URN:NBN:SI:IMG-KAZLZ6PE. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_KAZLZ6PE' target='_blank' rel='noopener'>Vurberk</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-KAZLZ6PE' target='_blank' rel='noopener'>Tourism Society Vurberk</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 60310,
+            "ebucoreWidth": 941,
+            "ebucoreHeight": 599,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0",
+                "#D2B48C",
+                "#A9A9A9",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_KAZLZ6PE/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "THE ARTS. RECREATION. ENTERTAINMENT. SPORT"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

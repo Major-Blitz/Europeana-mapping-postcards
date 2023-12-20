@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/8d286c7d_44d6_43b0_993e_fcf19e385b24",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op de Steenstraat - https://www.europeana.eu/item/534/8d286c7d_44d6_43b0_993e_fcf19e385b24. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/8d286c7d_44d6_43b0_993e_fcf19e385b24' target='_blank' rel='noopener'>Zicht op de Steenstraat</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Date</dt><dd lang=''>-1910</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/6ee6fe84-cdff-460e-b465-73ed6c628568.jpg",
+            "textAttributionSnippet": "(nl) Zicht op de Steenstraat - https://www.europeana.eu/item/534/8d286c7d_44d6_43b0_993e_fcf19e385b24. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/8d286c7d_44d6_43b0_993e_fcf19e385b24' target='_blank' rel='noopener'>Zicht op de Steenstraat</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Date</dt><dd lang=''>-1910</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/8d286c7d_44d6_43b0_993e_fcf19e385b24/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 115397,
+            "ebucoreWidth": 654,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#BC8F8F",
+                "#8FBC8F",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/8d286c7d_44d6_43b0_993e_fcf19e385b24/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

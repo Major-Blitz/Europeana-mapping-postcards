@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA53263_1959",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/042sAYQdi9NE?dimension=600x600",
+            "textAttributionSnippet": "(en) Printed text on the card: \u201cLjungskile. The concrete boat\u201d Linnea. \" - https://www.europeana.eu/item/916105/bhm_photo_UMFA53263_1959. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014331781. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53263_1959' target='_blank' rel='noopener'>Printed text on the card: \u201cLjungskile. The concrete boat\u201d Linnea. \"</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014331781' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53263_1959/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 198822,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 421,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#D2B48C",
+                "#C0C0C0",
+                "#E6E6FA",
+                "#B0E0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014331781",
+            "textAttributionSnippet": "(en) Printed text on the card: \u201cLjungskile. The concrete boat\u201d Linnea. \" - https://www.europeana.eu/item/916105/bhm_photo_UMFA53263_1959. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014331781. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53263_1959' target='_blank' rel='noopener'>Printed text on the card: \u201cLjungskile. The concrete boat\u201d Linnea. \"</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014331781' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 98974
+        },
+        {
+            "about": "https://mm.dimu.org/image/042sAYQdi9NE?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Printed text on the card: \u201cLjungskile. The concrete boat\u201d Linnea. \" - https://www.europeana.eu/item/916105/bhm_photo_UMFA53263_1959. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014331781. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53263_1959' target='_blank' rel='noopener'>Printed text on the card: \u201cLjungskile. The concrete boat\u201d Linnea. \"</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014331781' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53263_1959/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 188243,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 526,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#D2B48C",
+                "#C0C0C0",
+                "#B0E0E6",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53263_1959/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

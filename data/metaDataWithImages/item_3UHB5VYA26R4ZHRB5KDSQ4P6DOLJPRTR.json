@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_3UHB5VYA26R4ZHRB5KDSQ4P6DOLJPRTR",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3693254",
+            "textAttributionSnippet": "(et) Kunst - https://www.europeana.eu/item/401/item_3UHB5VYA26R4ZHRB5KDSQ4P6DOLJPRTR. (et) Hauser Muller, Oscar (autor). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3693254. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_3UHB5VYA26R4ZHRB5KDSQ4P6DOLJPRTR' target='_blank' rel='noopener'>Kunst</a></dd><dt>Creator</dt><dd lang='et'>Hauser Muller, Oscar (autor)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3693254' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=d6295fb5-0262-4b9e-a06c-d506c5a0dd83",
+            "textAttributionSnippet": "(et) Kunst - https://www.europeana.eu/item/401/item_3UHB5VYA26R4ZHRB5KDSQ4P6DOLJPRTR. (et) Hauser Muller, Oscar (autor). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3693254. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_3UHB5VYA26R4ZHRB5KDSQ4P6DOLJPRTR' target='_blank' rel='noopener'>Kunst</a></dd><dt>Creator</dt><dd lang='et'>Hauser Muller, Oscar (autor)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3693254' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_3UHB5VYA26R4ZHRB5KDSQ4P6DOLJPRTR/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 125822,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 560,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#800000",
+                "#696969",
+                "#E6E6FA",
+                "#FFF5EE",
+                "#FFE4B5",
+                "#6B8E23"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_3UHB5VYA26R4ZHRB5KDSQ4P6DOLJPRTR/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            40.2,
+            -3.5
+        ]
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "aggregations_about": "/aggregation/provider/267/9707",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://bdt.bibcom.trento.it/var/trentoarchiviobiblioteca/storage/images/media/immagini-iconografie/tic511-2071.jpg/640618-1-ita-IT/TIC511-2071.jpg.jpg",
+            "dcCreator": {
+                "def": [
+                    "Biblioteca Digitale Trentina"
+                ]
+            },
+            "dcType": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "textAttributionSnippet": "(en) Trento-Sardagna cable - https://www.europeana.eu/item/267/9707. Biblioteca Digitale Trentina. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/9707. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/267/9707' target='_blank' rel='noopener'>Trento-Sardagna cable</a></dd><dt>Creator</dt><dd lang=''>Biblioteca Digitale Trentina</dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/9707' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/267/9707/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 689267,
+            "ebucoreWidth": 1179,
+            "ebucoreHeight": 747,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#808080",
+                "#D2B48C",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://bdt.bibcom.trento.it/archive/bdt/9707",
+            "textAttributionSnippet": "(en) Trento-Sardagna cable - https://www.europeana.eu/item/267/9707. Biblioteca Digitale Trentina - http://bdt.bibcom.trento.it/archive/bdt/9707. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/267/9707' target='_blank' rel='noopener'>Trento-Sardagna cable</a></dd><dt>Institution</dt><dd lang=''><a href='http://bdt.bibcom.trento.it/archive/bdt/9707' target='_blank' rel='noopener'>Biblioteca Digitale Trentina</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/267/9707/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcards"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "267_CulturaItalia_Biblioteca_Digitale_Trentina"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "CulturaItalia"
+    ],
+    "coordinate": [
+        [
+            46.383335,
+            11.416667
+        ],
+        [
+            42.5,
+            12.5
+        ],
+        [
+            46.06642,
+            11.12576
+        ]
+    ]
+}

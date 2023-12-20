@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/91616/arme_object_AM096339",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/042sBXcLgdVa?dimension=600x600",
+            "textAttributionSnippet": "(en) Correspondence - https://www.europeana.eu/item/91616/arme_object_AM096339. Arm\u00e9museum - https://digitaltmuseum.se/011024462654. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_object_AM096339' target='_blank' rel='noopener'>Correspondence</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024462654' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_object_AM096339/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 224119,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 518,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#BC8F8F",
+                "#E6E6FA",
+                "#DCDCDC",
+                "#F5F5F5",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/042sBXcLgdVa?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Correspondence - https://www.europeana.eu/item/91616/arme_object_AM096339. Arm\u00e9museum - https://digitaltmuseum.se/011024462654. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_object_AM096339' target='_blank' rel='noopener'>Correspondence</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024462654' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_object_AM096339/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 806308,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 1077,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#BC8F8F",
+                "#E6E6FA",
+                "#DCDCDC",
+                "#F5F5F5",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011024462654",
+            "textAttributionSnippet": "(en) Correspondence - https://www.europeana.eu/item/91616/arme_object_AM096339. Arm\u00e9museum - https://digitaltmuseum.se/011024462654. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_object_AM096339' target='_blank' rel='noopener'>Correspondence</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024462654' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 93785
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91616/arme_object_AM096339/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Correspondence"
+    ],
+    "concept_note": [
+        "Literary genre"
+    ],
+    "edmDatasetName": [
+        "91616_Ag_SE_SwedishNationalHeritage_Armemuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

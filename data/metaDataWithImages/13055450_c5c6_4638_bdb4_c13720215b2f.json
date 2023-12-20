@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/13055450_c5c6_4638_bdb4_c13720215b2f",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/a64a28de-9bea-4efe-9159-552c4a4bf8d3.jpg",
+            "textAttributionSnippet": "(nl) De Wapenpas van de Gouden Boom op de Markt - https://www.europeana.eu/item/534/13055450_c5c6_4638_bdb4_c13720215b2f. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/13055450_c5c6_4638_bdb4_c13720215b2f' target='_blank' rel='noopener'>De Wapenpas van de Gouden Boom op de Markt</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/13055450_c5c6_4638_bdb4_c13720215b2f/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 195242,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#C0C0C0",
+                "#BDB76B",
+                "#8FBC8F",
+                "#696969",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) De Wapenpas van de Gouden Boom op de Markt - https://www.europeana.eu/item/534/13055450_c5c6_4638_bdb4_c13720215b2f. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/13055450_c5c6_4638_bdb4_c13720215b2f' target='_blank' rel='noopener'>De Wapenpas van de Gouden Boom op de Markt</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/13055450_c5c6_4638_bdb4_c13720215b2f/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

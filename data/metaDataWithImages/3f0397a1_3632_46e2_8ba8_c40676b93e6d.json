@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/3f0397a1_3632_46e2_8ba8_c40676b93e6d",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op de Markt - https://www.europeana.eu/item/534/3f0397a1_3632_46e2_8ba8_c40676b93e6d. (nl) Marcovici (Brussel); Aux Galeries Brugeoises (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/3f0397a1_3632_46e2_8ba8_c40676b93e6d' target='_blank' rel='noopener'>Zicht op de Markt</a></dd><dt>Creator</dt><dd lang='nl'>Marcovici (Brussel); Aux Galeries Brugeoises (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/aa6fd600-fe1a-47f7-bd9d-5d16ec96c966.jpg",
+            "textAttributionSnippet": "(nl) Zicht op de Markt - https://www.europeana.eu/item/534/3f0397a1_3632_46e2_8ba8_c40676b93e6d. (nl) Marcovici (Brussel); Aux Galeries Brugeoises (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/3f0397a1_3632_46e2_8ba8_c40676b93e6d' target='_blank' rel='noopener'>Zicht op de Markt</a></dd><dt>Creator</dt><dd lang='nl'>Marcovici (Brussel); Aux Galeries Brugeoises (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/3f0397a1_3632_46e2_8ba8_c40676b93e6d/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 117542,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 654,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#556B2F",
+                "#708090",
+                "#2F4F4F",
+                "#BC8F8F",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/3f0397a1_3632_46e2_8ba8_c40676b93e6d/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

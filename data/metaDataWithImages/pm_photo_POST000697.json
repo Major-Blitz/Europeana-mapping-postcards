@@ -1,0 +1,77 @@
+{
+    "aggregations_about": "/aggregation/provider/916120/pm_photo_POST000697",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/042sC3Amv5ut?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Jakobsberg, Sweden - https://www.europeana.eu/item/916120/pm_photo_POST000697. (en) Hellstr\u00f6m, Yngve. Postmuseet - https://digitaltmuseum.se/011014655796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST000697' target='_blank' rel='noopener'>Jakobsberg, Sweden</a></dd><dt>Creator</dt><dd lang='en'>Hellstr\u00f6m, Yngve</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014655796' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_photo_POST000697/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 107137,
+            "ebucoreWidth": 647,
+            "ebucoreHeight": 473,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#000000",
+                "#808080",
+                "#A9A9A9",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/042sC3Amv5ut?dimension=600x600",
+            "textAttributionSnippet": "(en) Jakobsberg, Sweden - https://www.europeana.eu/item/916120/pm_photo_POST000697. (en) Hellstr\u00f6m, Yngve. Postmuseet - https://digitaltmuseum.se/011014655796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST000697' target='_blank' rel='noopener'>Jakobsberg, Sweden</a></dd><dt>Creator</dt><dd lang='en'>Hellstr\u00f6m, Yngve</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014655796' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_photo_POST000697/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 141629,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 439,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#000000",
+                "#808080",
+                "#A9A9A9",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014655796",
+            "textAttributionSnippet": "(en) Jakobsberg, Sweden - https://www.europeana.eu/item/916120/pm_photo_POST000697. (en) Hellstr\u00f6m, Yngve. Postmuseet - https://digitaltmuseum.se/011014655796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST000697' target='_blank' rel='noopener'>Jakobsberg, Sweden</a></dd><dt>Creator</dt><dd lang='en'>Hellstr\u00f6m, Yngve</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014655796' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916120/pm_photo_POST000697/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Letter"
+    ],
+    "concept_note": [
+        "Written message from one to another"
+    ],
+    "edmDatasetName": [
+        "916120_Ag_SE_Postmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Postmuseum"
+    ],
+    "coordinate": "not showed"
+}

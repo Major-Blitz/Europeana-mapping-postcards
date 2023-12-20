@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/91616/arme_photo_AMA0010754",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/021017828445",
+            "textAttributionSnippet": "(en) Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 outside the Inner Building. In the background are four children - https://www.europeana.eu/item/91616/arme_photo_AMA0010754. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828445. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010754' target='_blank' rel='noopener'>Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 outside the Inner Building. In the background are four children</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828445' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 98611
+        },
+        {
+            "about": "https://mm.dimu.org/image/0231wTuAoW76?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 outside the Inner Building. In the background are four children - https://www.europeana.eu/item/91616/arme_photo_AMA0010754. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828445. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010754' target='_blank' rel='noopener'>Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 outside the Inner Building. In the background are four children</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828445' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010754/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 862370,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 886,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#D3D3D3",
+                "#696969",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/0231wTuAoW76?dimension=600x600",
+            "textAttributionSnippet": "(en) Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 outside the Inner Building. In the background are four children - https://www.europeana.eu/item/91616/arme_photo_AMA0010754. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021017828445. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010754' target='_blank' rel='noopener'>Group image of soldiers and officers from G\u00f6ta Life-Garden I 2 outside the Inner Building. In the background are four children</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017828445' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010754/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 247062,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 443,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#D3D3D3",
+                "#696969",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010754/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Building"
+    ],
+    "concept_note": [
+        "Structure, typically with a roof and walls, standing more or less permanently in one place"
+    ],
+    "edmDatasetName": [
+        "91616_Ag_SE_SwedishNationalHeritage_Armemuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_fc7dff2d_b0cd_4ec3_ad75_0424edf4e118",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2766289&size=extra_large&key=T3st1&orgid=92115",
+            "textAttributionSnippet": "(fi) Kioski Kolera-altaan vieress\u00e4 Lyypekinlaiturilla - https://www.europeana.eu/item/117/_fc7dff2d_b0cd_4ec3_ad75_0424edf4e118. (en) Sipila, Tuula; Filming sack. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.fc7dff2d-b0cd-4ec3-ad75-0424edf4e118?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/117/_fc7dff2d_b0cd_4ec3_ad75_0424edf4e118' target='_blank' rel='noopener'>Kioski Kolera-altaan vieress\u00e4 Lyypekinlaiturilla</a></dd><dt>Creator</dt><dd lang='en'>Sipila, Tuula; Filming sack</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.fc7dff2d-b0cd-4ec3-ad75-0424edf4e118?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_fc7dff2d_b0cd_4ec3_ad75_0424edf4e118/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 182505,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 900,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#B0E0E6",
+                "#808080",
+                "#F8F8FF",
+                "#F0FFF0",
+                "#8B0000",
+                "#A52A2A"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.fc7dff2d-b0cd-4ec3-ad75-0424edf4e118?lng=en-gb",
+            "textAttributionSnippet": "(fi) Kioski Kolera-altaan vieress\u00e4 Lyypekinlaiturilla - https://www.europeana.eu/item/117/_fc7dff2d_b0cd_4ec3_ad75_0424edf4e118. (en) Sipila, Tuula; Filming sack. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.fc7dff2d-b0cd-4ec3-ad75-0424edf4e118?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/117/_fc7dff2d_b0cd_4ec3_ad75_0424edf4e118' target='_blank' rel='noopener'>Kioski Kolera-altaan vieress\u00e4 Lyypekinlaiturilla</a></dd><dt>Creator</dt><dd lang='en'>Sipila, Tuula; Filming sack</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.fc7dff2d-b0cd-4ec3-ad75-0424edf4e118?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_fc7dff2d_b0cd_4ec3_ad75_0424edf4e118/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

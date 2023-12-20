@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_317265ab_afb8_4975_906c_b4c0a21cac7c",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/317265ab-afb8-4975-906c-b4c0a21cac7c/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_317265ab_afb8_4975_906c_b4c0a21cac7c. Victor Mysz. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/317265ab-afb8-4975-906c-b4c0a21cac7c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Victor Mysz</dd><dt>Date</dt><dd lang=''>1925</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/317265ab-afb8-4975-906c-b4c0a21cac7c/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_09%20Septembrie%202019_NECATALOGATE_necatalogate_Muzeul%20ASTRA_necatalogate_septembrie%202019/Imagini/31D0157591574CC59166EB6929CC1637.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_317265ab_afb8_4975_906c_b4c0a21cac7c. Victor Mysz. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/317265ab-afb8-4975-906c-b4c0a21cac7c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Victor Mysz</dd><dt>Date</dt><dd lang=''>1925</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/317265ab-afb8-4975-906c-b4c0a21cac7c/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_317265ab_afb8_4975_906c_b4c0a21cac7c/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 2312149,
+            "ebucoreWidth": 1849,
+            "ebucoreHeight": 2703,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#FFA07A",
+                "#696969",
+                "#FFF5EE",
+                "#CD853F",
+                "#F0E68C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_09%20Septembrie%202019_NECATALOGATE_necatalogate_Muzeul%20ASTRA_necatalogate_septembrie%202019/Imagini/8656D115BC8D4CA8AA91C5C99E9AEC45.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_317265ab_afb8_4975_906c_b4c0a21cac7c. Victor Mysz. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/317265ab-afb8-4975-906c-b4c0a21cac7c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Victor Mysz</dd><dt>Date</dt><dd lang=''>1925</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/317265ab-afb8-4975-906c-b4c0a21cac7c/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_317265ab_afb8_4975_906c_b4c0a21cac7c/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1960895,
+            "ebucoreWidth": 1849,
+            "ebucoreHeight": 2703,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#800000",
+                "#FFEFD5",
+                "#FFFFFF",
+                "#8B4513",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_317265ab_afb8_4975_906c_b4c0a21cac7c/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "dress (culture-related concept)"
+    ],
+    "concept_note": [
+        "Costume and manner of dressing required by custom or etiquette for certain occasions or times of day."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "ASTRA National Museum Complex"
+    ],
+    "coordinate": [
+        [
+            45.8,
+            24.15
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

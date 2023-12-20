@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_3475C15C_738F_449A_A5BB_299DF52C7936",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.3475C15C-738F-449A-A5BB-299DF52C7936?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, Christmas card; Fridfull Jul - https://www.europeana.eu/item/117/_3475C15C_738F_449A_A5BB_299DF52C7936. (en) Svanstr\u00f6m, Ernst G. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.3475C15C-738F-449A-A5BB-299DF52C7936?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_3475C15C_738F_449A_A5BB_299DF52C7936' target='_blank' rel='noopener'>postcard, Christmas card; Fridfull Jul</a></dd><dt>Creator</dt><dd lang='en'>Svanstr\u00f6m, Ernst G</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.3475C15C-738F-449A-A5BB-299DF52C7936?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2374858&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, Christmas card; Fridfull Jul - https://www.europeana.eu/item/117/_3475C15C_738F_449A_A5BB_299DF52C7936. (en) Svanstr\u00f6m, Ernst G. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.3475C15C-738F-449A-A5BB-299DF52C7936?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_3475C15C_738F_449A_A5BB_299DF52C7936' target='_blank' rel='noopener'>postcard, Christmas card; Fridfull Jul</a></dd><dt>Creator</dt><dd lang='en'>Svanstr\u00f6m, Ernst G</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.3475C15C-738F-449A-A5BB-299DF52C7936?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_3475C15C_738F_449A_A5BB_299DF52C7936/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 543163,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 774,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFC0CB",
+                "#D3D3D3",
+                "#808080",
+                "#556B2F",
+                "#FFFAF0",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_3475C15C_738F_449A_A5BB_299DF52C7936/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

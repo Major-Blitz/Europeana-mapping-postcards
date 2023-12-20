@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_XYFSK7FNZMC7JFHRS7LITCUANOB3RDVP",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/84916",
+            "textAttributionSnippet": "(en) Set of postcards with views from Norway - https://www.europeana.eu/item/401/item_XYFSK7FNZMC7JFHRS7LITCUANOB3RDVP. (en) Gull, N. (author). Eesti Spordimuuseum - https://www.muis.ee/museaalView/84916. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_XYFSK7FNZMC7JFHRS7LITCUANOB3RDVP' target='_blank' rel='noopener'>Set of postcards with views from Norway</a></dd><dt>Creator</dt><dd lang='en'>Gull, N. (author)</dd><dt>Date</dt><dd lang=''>1994</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/84916' target='_blank' rel='noopener'>Eesti Spordimuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=37fb89d9-b15d-4d43-a50c-783c6c5a3ff4",
+            "textAttributionSnippet": "(en) Set of postcards with views from Norway - https://www.europeana.eu/item/401/item_XYFSK7FNZMC7JFHRS7LITCUANOB3RDVP. (en) Gull, N. (author). Eesti Spordimuuseum - https://www.muis.ee/museaalView/84916. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_XYFSK7FNZMC7JFHRS7LITCUANOB3RDVP' target='_blank' rel='noopener'>Set of postcards with views from Norway</a></dd><dt>Creator</dt><dd lang='en'>Gull, N. (author)</dd><dt>Date</dt><dd lang=''>1994</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/84916' target='_blank' rel='noopener'>Eesti Spordimuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_XYFSK7FNZMC7JFHRS7LITCUANOB3RDVP/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 473743,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 564,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DAA520",
+                "#D2691E",
+                "#FFFFE0",
+                "#E9967A",
+                "#6495ED",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_XYFSK7FNZMC7JFHRS7LITCUANOB3RDVP/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Estonian Sports and Olympic Museum"
+    ],
+    "coordinate": "not showed"
+}

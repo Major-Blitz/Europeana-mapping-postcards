@@ -1,0 +1,218 @@
+{
+    "aggregations_about": "/aggregation/provider/91694/JM_object_JMA00498",
+    "webResources": [
+        {
+            "about": "http://digitaltmuseum.se/021028363796",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/02347x1CXp7R?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 712689,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 861,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#D2B48C",
+                "#BC8F8F",
+                "#800000",
+                "#E6E6FA",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://mm.dimu.org/image/03347x1CXp33?dimension=600x600",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 262316,
+            "ebucoreWidth": 454,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#FFFAFA",
+                "#DCDCDC",
+                "#F0FFF0",
+                "#FFFFFF",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/02347x1CXp7R?dimension=600x600",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 209603,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 430,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#D2B48C",
+                "#BC8F8F",
+                "#800000",
+                "#E6E6FA",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://mm.dimu.org/image/03347x1CXp34?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 737616,
+            "ebucoreWidth": 941,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFF0",
+                "#FFFFE0",
+                "#F5F5DC",
+                "#FFFFF0",
+                "#FDF5E6",
+                "#FAFAD2"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/03347x1CXp34?dimension=600x600",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 236487,
+            "ebucoreWidth": 470,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFF0",
+                "#F5F5DC",
+                "#FFFFE0",
+                "#FFFFF0",
+                "#FDF5E6",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/03347x1CXp33?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 845301,
+            "ebucoreWidth": 908,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#FFFAFA",
+                "#DCDCDC",
+                "#FFFFFF",
+                "#F5FFFA",
+                "#F0FFF0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/03347x1CXp38?dimension=600x600",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 217648,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 434,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#BC8F8F",
+                "#D2B48C",
+                "#E6E6FA",
+                "#000000",
+                "#191970"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://mm.dimu.org/image/03347x1CXp38?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Letters - https://www.europeana.eu/item/91694/JM_object_JMA00498. J\u00f6nk\u00f6pings l\u00e4ns museum - http://digitaltmuseum.se/021028363796. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91694/JM_object_JMA00498' target='_blank' rel='noopener'>Letters</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021028363796' target='_blank' rel='noopener'>J\u00f6nk\u00f6pings l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 753579,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 869,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#BC8F8F",
+                "#D2B48C",
+                "#E6E6FA",
+                "#000000",
+                "#191970"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91694/JM_object_JMA00498/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Letter"
+    ],
+    "concept_note": [
+        "Written message from one to another"
+    ],
+    "edmDatasetName": [
+        "91694_Ag_SE_SwedishNationalHeritage_jonkoping"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            58.217026,
+            11.733398
+        ],
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_VXEZ5OHC4NM55G4WJGWQKKCU3AKQMI7F",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=13ffecd7-0678-4b08-be4f-45e3395eacd8",
+            "textAttributionSnippet": "(en) Strasbourg Cathedral - https://www.europeana.eu/item/401/item_VXEZ5OHC4NM55G4WJGWQKKCU3AKQMI7F. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3691954. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_VXEZ5OHC4NM55G4WJGWQKKCU3AKQMI7F' target='_blank' rel='noopener'>Strasbourg Cathedral</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3691954' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_VXEZ5OHC4NM55G4WJGWQKKCU3AKQMI7F/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 123869,
+            "ebucoreWidth": 547,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#D8BFD8",
+                "#696969",
+                "#2F4F4F",
+                "#D2B48C",
+                "#B0C4DE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3691954",
+            "textAttributionSnippet": "(en) Strasbourg Cathedral - https://www.europeana.eu/item/401/item_VXEZ5OHC4NM55G4WJGWQKKCU3AKQMI7F. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3691954. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_VXEZ5OHC4NM55G4WJGWQKKCU3AKQMI7F' target='_blank' rel='noopener'>Strasbourg Cathedral</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3691954' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_VXEZ5OHC4NM55G4WJGWQKKCU3AKQMI7F/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": "not showed"
+}

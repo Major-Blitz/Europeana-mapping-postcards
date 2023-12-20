@@ -1,0 +1,64 @@
+{
+    "aggregations_about": "/aggregation/provider/2058606/object_FRS_11331456",
+    "webResources": [
+        {
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/246",
+            "textAttributionSnippet": "(it) Il banditismo infesta le nostre contrade, il mondo ci guarda, la sicurezza di ciascuno \u00e8 in pericolo ... Per la sicurezza e la dignit\u00e0 di tutti gli uomini civili la Democrazia Cristiana lotta per estirpare questa piaga che ci disonora - https://www.europeana.eu/item/2058606/object_FRS_11331456. Democrazia Cristiana. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/246. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331456' target='_blank' rel='noopener'>Il banditismo infesta le nostre contrade, il mondo ci guarda, la sicurezza di ciascuno \u00e8 in pericolo ... Per la sicurezza e la dignit\u00e0 di tutti gli uomini civili la Democrazia Cristiana lotta per estirpare questa piaga che ci disonora</a></dd><dt>Creator</dt><dd lang=''>Democrazia Cristiana</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/246' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 15780
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Istituto Giancarlo Conestabile della Staffa e Luigi Piastrelli"
+                ]
+            },
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/files/original/d8528da5752aad92af49696aafe85fc4.jpg",
+            "dcSource": {
+                "def": [
+                    "Archivio privato Dott. Enzo Orioli"
+                ]
+            },
+            "textAttributionSnippet": "(it) Il banditismo infesta le nostre contrade, il mondo ci guarda, la sicurezza di ciascuno \u00e8 in pericolo ... Per la sicurezza e la dignit\u00e0 di tutti gli uomini civili la Democrazia Cristiana lotta per estirpare questa piaga che ci disonora - https://www.europeana.eu/item/2058606/object_FRS_11331456. Democrazia Cristiana. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/246. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331456' target='_blank' rel='noopener'>Il banditismo infesta le nostre contrade, il mondo ci guarda, la sicurezza di ciascuno \u00e8 in pericolo ... Per la sicurezza e la dignit\u00e0 di tutti gli uomini civili la Democrazia Cristiana lotta per estirpare questa piaga che ci disonora</a></dd><dt>Creator</dt><dd lang=''>Democrazia Cristiana</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/246' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331456/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 186524,
+            "ebucoreWidth": 1134,
+            "ebucoreHeight": 758,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#D2B48C",
+                "#F5DEB3",
+                "#EEE8AA",
+                "#556B2F",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331456/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058606_Ag_EU_LoCloud_FRS"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

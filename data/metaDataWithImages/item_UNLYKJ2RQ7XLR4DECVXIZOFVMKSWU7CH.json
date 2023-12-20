@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_UNLYKJ2RQ7XLR4DECVXIZOFVMKSWU7CH",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=aa4f0a54-b1be-4ea7-8163-03bcb9523237",
+            "textAttributionSnippet": "(en) Merano - https://www.europeana.eu/item/401/item_UNLYKJ2RQ7XLR4DECVXIZOFVMKSWU7CH. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3730811. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_UNLYKJ2RQ7XLR4DECVXIZOFVMKSWU7CH' target='_blank' rel='noopener'>Merano</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3730811' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_UNLYKJ2RQ7XLR4DECVXIZOFVMKSWU7CH/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 162826,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 597,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFF0",
+                "#F5FFFA",
+                "#FDF5E6",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#800000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3730811",
+            "textAttributionSnippet": "(en) Merano - https://www.europeana.eu/item/401/item_UNLYKJ2RQ7XLR4DECVXIZOFVMKSWU7CH. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3730811. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_UNLYKJ2RQ7XLR4DECVXIZOFVMKSWU7CH' target='_blank' rel='noopener'>Merano</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3730811' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_UNLYKJ2RQ7XLR4DECVXIZOFVMKSWU7CH/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            42.5,
+            12.5
+        ]
+    ]
+}

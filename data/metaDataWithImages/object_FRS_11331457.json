@@ -1,0 +1,69 @@
+{
+    "aggregations_about": "/aggregation/provider/2058606/object_FRS_11331457",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Istituto Giancarlo Conestabile della Staffa e Luigi Piastrelli"
+                ]
+            },
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/files/original/462632bf310299b9fc055b5c73ff3849.jpghttps://istitutoconestabilepiastrelli.locloudhosting.net/files/original/1fc8beb3dd8ba2ea64fc26c6805ac4f4.jpg",
+            "dcSource": {
+                "def": [
+                    "Archivio privato Dott. Enzo Orioli"
+                ]
+            },
+            "textAttributionSnippet": "(en) Electoral order: all citizens of both sexes... during the administrative elections these moustaches should apply in honour of comrade Stalin, Father of peoples and hero of Caucasus - https://www.europeana.eu/item/2058606/object_FRS_11331457. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/247. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331457' target='_blank' rel='noopener'>Electoral order: all citizens of both sexes... during the administrative elections these moustaches should apply in honour of comrade Stalin, Father of peoples and hero of Caucasus</a></dd><dt>Date</dt><dd lang=''>1947</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/247' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/247",
+            "textAttributionSnippet": "(en) Electoral order: all citizens of both sexes... during the administrative elections these moustaches should apply in honour of comrade Stalin, Father of peoples and hero of Caucasus - https://www.europeana.eu/item/2058606/object_FRS_11331457. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/247. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331457' target='_blank' rel='noopener'>Electoral order: all citizens of both sexes... during the administrative elections these moustaches should apply in honour of comrade Stalin, Father of peoples and hero of Caucasus</a></dd><dt>Date</dt><dd lang=''>1947</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/247' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 15621
+        },
+        {
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/files/original/462632bf310299b9fc055b5c73ff3849.jpg",
+            "textAttributionSnippet": "(en) Electoral order: all citizens of both sexes... during the administrative elections these moustaches should apply in honour of comrade Stalin, Father of peoples and hero of Caucasus - https://www.europeana.eu/item/2058606/object_FRS_11331457. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/247. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331457' target='_blank' rel='noopener'>Electoral order: all citizens of both sexes... during the administrative elections these moustaches should apply in honour of comrade Stalin, Father of peoples and hero of Caucasus</a></dd><dt>Date</dt><dd lang=''>1947</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/247' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331457/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 87149,
+            "ebucoreWidth": 1134,
+            "ebucoreHeight": 426,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#FFE4B5",
+                "#FFE4C4",
+                "#FFFACD",
+                "#F5DEB3",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331457/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058606_Ag_EU_LoCloud_FRS"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

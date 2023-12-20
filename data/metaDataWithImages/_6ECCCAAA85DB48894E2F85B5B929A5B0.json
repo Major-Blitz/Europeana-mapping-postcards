@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_6ECCCAAA85DB48894E2F85B5B929A5B0",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=852169&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(fi) v\u00e4ripostikortti priki CARL GUSTAFISTA tehdyst\u00e4 maalauksesta - https://www.europeana.eu/item/2021009/_6ECCCAAA85DB48894E2F85B5B929A5B0. (en) Picture Portrait Ky. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.6ECCCAAA85DB48894E2F85B5B929A5B0?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_6ECCCAAA85DB48894E2F85B5B929A5B0' target='_blank' rel='noopener'>v\u00e4ripostikortti priki CARL GUSTAFISTA tehdyst\u00e4 maalauksesta</a></dd><dt>Creator</dt><dd lang='en'>Picture Portrait Ky</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.6ECCCAAA85DB48894E2F85B5B929A5B0?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_6ECCCAAA85DB48894E2F85B5B929A5B0/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 394520,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 837,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#ADD8E6",
+                "#BDB76B",
+                "#BC8F8F",
+                "#CD853F",
+                "#B0E0E6",
+                "#5F9EA0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.6ECCCAAA85DB48894E2F85B5B929A5B0?lng=en-gb",
+            "textAttributionSnippet": "(fi) v\u00e4ripostikortti priki CARL GUSTAFISTA tehdyst\u00e4 maalauksesta - https://www.europeana.eu/item/2021009/_6ECCCAAA85DB48894E2F85B5B929A5B0. (en) Picture Portrait Ky. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.6ECCCAAA85DB48894E2F85B5B929A5B0?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_6ECCCAAA85DB48894E2F85B5B929A5B0' target='_blank' rel='noopener'>v\u00e4ripostikortti priki CARL GUSTAFISTA tehdyst\u00e4 maalauksesta</a></dd><dt>Creator</dt><dd lang='en'>Picture Portrait Ky</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.6ECCCAAA85DB48894E2F85B5B929A5B0?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_6ECCCAAA85DB48894E2F85B5B929A5B0/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_B0A42ED7_35BA_4F35_8208_0D0FBAB27CBF",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.B0A42ED7-35BA-4F35-8208-0D0FBAB27CBF?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, Easter card; Glad P\u00e5sk - https://www.europeana.eu/item/117/_B0A42ED7_35BA_4F35_8208_0D0FBAB27CBF. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.B0A42ED7-35BA-4F35-8208-0D0FBAB27CBF?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_B0A42ED7_35BA_4F35_8208_0D0FBAB27CBF' target='_blank' rel='noopener'>postcard, Easter card; Glad P\u00e5sk</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.B0A42ED7-35BA-4F35-8208-0D0FBAB27CBF?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2377284&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, Easter card; Glad P\u00e5sk - https://www.europeana.eu/item/117/_B0A42ED7_35BA_4F35_8208_0D0FBAB27CBF. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.B0A42ED7-35BA-4F35-8208-0D0FBAB27CBF?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_B0A42ED7_35BA_4F35_8208_0D0FBAB27CBF' target='_blank' rel='noopener'>postcard, Easter card; Glad P\u00e5sk</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.B0A42ED7-35BA-4F35-8208-0D0FBAB27CBF?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_B0A42ED7_35BA_4F35_8208_0D0FBAB27CBF/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 438896,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 783,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#8B4513",
+                "#556B2F",
+                "#FFE4E1",
+                "#D2B48C",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_B0A42ED7_35BA_4F35_8208_0D0FBAB27CBF/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

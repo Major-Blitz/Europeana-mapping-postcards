@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/285/gam26169",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "it": [
+                    "Fondazione Torino Musei (Galleria di Arte Moderna)"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://93.62.170.226/foto/gam/Grafica/cart12.jpg",
+            "dcCreator": {
+                "def": [
+                    "Galleria Civica di Arte Moderna e Contemporanea - Torino"
+                ]
+            },
+            "dcType": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "textAttributionSnippet": "(en) Set of illustrated postcards - https://www.europeana.eu/item/285/gam26169. Galleria Civica di Arte Moderna e Contemporanea - Torino. Galleria d'Arte Moderna e Contemporanea di Torino - http://www.culturaitalia.it/opencms/viewItem.jsp?language=en&case=&id=oai%3Agamtorino.it%3A26169. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/285/gam26169' target='_blank' rel='noopener'>Set of illustrated postcards</a></dd><dt>Creator</dt><dd lang=''>Galleria Civica di Arte Moderna e Contemporanea - Torino</dd><dt>Institution</dt><dd lang=''><a href='http://www.culturaitalia.it/opencms/viewItem.jsp?language=en&case=&id=oai%3Agamtorino.it%3A26169' target='_blank' rel='noopener'>Galleria d'Arte Moderna e Contemporanea di Torino</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/285/gam26169/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 119407,
+            "ebucoreWidth": 1024,
+            "ebucoreHeight": 768,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#DCDCDC",
+                "#8FBC8F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.culturaitalia.it/opencms/viewItem.jsp?language=en&case=&id=oai%3Agamtorino.it%3A26169",
+            "textAttributionSnippet": "(en) Set of illustrated postcards - https://www.europeana.eu/item/285/gam26169. (en) VARIOUS AUTHORS. Galleria d'Arte Moderna e Contemporanea di Torino - http://www.culturaitalia.it/opencms/viewItem.jsp?language=en&case=&id=oai%3Agamtorino.it%3A26169. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/285/gam26169' target='_blank' rel='noopener'>Set of illustrated postcards</a></dd><dt>Creator</dt><dd lang='en'>VARIOUS AUTHORS</dd><dt>Institution</dt><dd lang=''><a href='http://www.culturaitalia.it/opencms/viewItem.jsp?language=en&case=&id=oai%3Agamtorino.it%3A26169' target='_blank' rel='noopener'>Galleria d'Arte Moderna e Contemporanea di Torino</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/285/gam26169/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Visual art works"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "285_CulturaItalia_GAM"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "CulturaItalia"
+    ],
+    "coordinate": "not showed"
+}

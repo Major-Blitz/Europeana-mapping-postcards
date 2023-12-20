@@ -1,0 +1,104 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_949d156f_99f4_457b_8d32_0b0f3c029371",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-transa-2-pt-import_docpatv4965-BV-CM-nr-inv-duplicat-UNIT_docpatv4965-BV-CM-nr-inv-duplicat-UNIT/Imagini/98F78A172009426F8A17EFFC651C5028.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_949d156f_99f4_457b_8d32_0b0f3c029371. Divald es Monstory. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/949d156f-99f4-457b-8d32-0b0f3c029371/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Divald es Monstory</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/949d156f-99f4-457b-8d32-0b0f3c029371/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_949d156f_99f4_457b_8d32_0b0f3c029371/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5159820,
+            "ebucoreWidth": 1626,
+            "ebucoreHeight": 1056,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#CD853F",
+                "#CD5C5C",
+                "#A0522D",
+                "#6B8E23",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-transa-2-pt-import_docpatv4965-BV-CM-nr-inv-duplicat-UNIT_docpatv4965-BV-CM-nr-inv-duplicat-UNIT/Imagini/E139C3BCA0BF435DAAF15B6E3E394753.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_949d156f_99f4_457b_8d32_0b0f3c029371. Divald es Monstory. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/949d156f-99f4-457b-8d32-0b0f3c029371/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Divald es Monstory</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/949d156f-99f4-457b-8d32-0b0f3c029371/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_949d156f_99f4_457b_8d32_0b0f3c029371/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5140276,
+            "ebucoreWidth": 1626,
+            "ebucoreHeight": 1052,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#F5DEB3",
+                "#708090",
+                "#DCDCDC",
+                "#696969",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/949d156f-99f4-457b-8d32-0b0f3c029371/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_949d156f_99f4_457b_8d32_0b0f3c029371. Divald es Monstory. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/949d156f-99f4-457b-8d32-0b0f3c029371/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Divald es Monstory</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/949d156f-99f4-457b-8d32-0b0f3c029371/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_949d156f_99f4_457b_8d32_0b0f3c029371/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "House of Mure\u0219enilor"
+    ],
+    "coordinate": [
+        [
+            47.498333,
+            19.040833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            47.0,
+            20.0
+        ],
+        [
+            47.0,
+            19.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            47.5,
+            19.05
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/__C3_96TA_201__C3_96TA_201_foto_44",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota/ota201/ota_201_foto_00044_0002_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "2"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort som f\u00f6rest\u00e4ller folkskolan i Petsmo - https://www.europeana.eu/item/2021007/__C3_96TA_201__C3_96TA_201_foto_44. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_201__C3_96TA_201_foto_44' target='_blank' rel='noopener'>Vykort som f\u00f6rest\u00e4ller folkskolan i Petsmo</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_201__C3_96TA_201_foto_44/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 858278,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAF0",
+                "#FFE4C4",
+                "#FFE4B5",
+                "#8FBC8F",
+                "#FFEFD5",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota/ota201/ota_201_foto_00044_0001_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "1"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort som f\u00f6rest\u00e4ller folkskolan i Petsmo - https://www.europeana.eu/item/2021007/__C3_96TA_201__C3_96TA_201_foto_44. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_201__C3_96TA_201_foto_44' target='_blank' rel='noopener'>Vykort som f\u00f6rest\u00e4ller folkskolan i Petsmo</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_201__C3_96TA_201_foto_44/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3165439,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#FFF8DC",
+                "#FFEBCD",
+                "#BC8F8F",
+                "#C0C0C0",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_201__C3_96TA_201_foto_44/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            65.0,
+            27.0
+        ],
+        [
+            63.0,
+            22.0
+        ]
+    ]
+}

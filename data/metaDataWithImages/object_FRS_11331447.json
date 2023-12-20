@@ -1,0 +1,64 @@
+{
+    "aggregations_about": "/aggregation/provider/2058606/object_FRS_11331447",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Istituto Giancarlo Conestabile della Staffa e Luigi Piastrelli"
+                ]
+            },
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/files/original/6e5a6d2bc0d7393137c6483f2f504bbe.jpg",
+            "dcSource": {
+                "def": [
+                    "Archivio privato Dott. Enzo Orioli"
+                ]
+            },
+            "textAttributionSnippet": "(en) Greek children kidnapped by communist brigands - https://www.europeana.eu/item/2058606/object_FRS_11331447. Democrazia Cristiana. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/237. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331447' target='_blank' rel='noopener'>Greek children kidnapped by communist brigands</a></dd><dt>Creator</dt><dd lang=''>Democrazia Cristiana</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/237' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331447/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 240478,
+            "ebucoreWidth": 1134,
+            "ebucoreHeight": 1409,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#F5DEB3",
+                "#C0C0C0",
+                "#EEE8AA",
+                "#000000",
+                "#DEB887"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/237",
+            "textAttributionSnippet": "(en) Greek children kidnapped by communist brigands - https://www.europeana.eu/item/2058606/object_FRS_11331447. Democrazia Cristiana. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/237. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331447' target='_blank' rel='noopener'>Greek children kidnapped by communist brigands</a></dd><dt>Creator</dt><dd lang=''>Democrazia Cristiana</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/237' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 14584
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331447/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058606_Ag_EU_LoCloud_FRS"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/900/nbm_bildarkiv_52018",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/137284/BAACMMC.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) postcards, horny, tent horny, school horny, nomadic school - https://www.europeana.eu/item/900/nbm_bildarkiv_52018. (en) Bergstr\u00f6m E, Foto. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/52018. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_52018' target='_blank' rel='noopener'>postcards, horny, tent horny, school horny, nomadic school</a></dd><dt>Creator</dt><dd lang='en'>Bergstr\u00f6m E, Foto</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/52018' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_52018/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 67567,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 353,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#D8BFD8",
+                "#708090",
+                "#FFFFFF",
+                "#000000",
+                "#808080",
+                "#B0C4DE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://samlingar.norrbottensmuseum.se/web/object/52018",
+            "textAttributionSnippet": "(en) postcards, horny, tent horny, school horny, nomadic school - https://www.europeana.eu/item/900/nbm_bildarkiv_52018. (en) Bergstr\u00f6m E, Foto. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/52018. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_52018' target='_blank' rel='noopener'>postcards, horny, tent horny, school horny, nomadic school</a></dd><dt>Creator</dt><dd lang='en'>Bergstr\u00f6m E, Foto</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/52018' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 13684
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_52018/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "900__Norrbottens_museum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Norrbottens Museum"
+    ],
+    "coordinate": "not showed"
+}

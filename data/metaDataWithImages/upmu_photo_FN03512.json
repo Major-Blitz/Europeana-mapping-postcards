@@ -1,0 +1,72 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03512",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/03347T7wzMDe?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "Vykort - (Gamla) observatoriet, Uppsala omkring 1900 - https://www.europeana.eu/item/91617/upmu_photo_FN03512. Upplandsmuseet - https://digitaltmuseum.se/021018326902. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03512' target='_blank' rel='noopener'>Vykort - (Gamla) observatoriet, Uppsala omkring 1900</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018326902' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03512/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 828286,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 780,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#CD5C5C",
+                "#FFFAF0",
+                "#F5DEB3",
+                "#CD853F",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021018326902",
+            "textAttributionSnippet": "Vykort - (Gamla) observatoriet, Uppsala omkring 1900 - https://www.europeana.eu/item/91617/upmu_photo_FN03512. Upplandsmuseet - https://digitaltmuseum.se/021018326902. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03512' target='_blank' rel='noopener'>Vykort - (Gamla) observatoriet, Uppsala omkring 1900</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018326902' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03512/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

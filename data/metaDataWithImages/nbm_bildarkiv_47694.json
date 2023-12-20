@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/900/nbm_bildarkiv_47694",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/212239/BAABZTY.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Bars, Food Serving, Construction, Postcards, Power Plants - https://www.europeana.eu/item/900/nbm_bildarkiv_47694. (en) \u00c5str\u00f6m O, Foto. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/47694. In Copyright - http://rightsstatements.org/vocab/InC/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_47694' target='_blank' rel='noopener'>Bars, Food Serving, Construction, Postcards, Power Plants</a></dd><dt>Creator</dt><dd lang='en'>\u00c5str\u00f6m O, Foto</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/47694' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://rightsstatements.org/vocab/InC/1.0/' target='_blank' rel='noopener'><span class='icon-rs-yes'/>In Copyright</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_47694/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 46258,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 311,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#FFF0F5",
+                "#808080",
+                "#F8F8FF",
+                "#000000",
+                "#DCDCDC",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://samlingar.norrbottensmuseum.se/web/object/47694",
+            "textAttributionSnippet": "(en) Bars, Food Serving, Construction, Postcards, Power Plants - https://www.europeana.eu/item/900/nbm_bildarkiv_47694. (en) \u00c5str\u00f6m O, Foto. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/47694. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_47694' target='_blank' rel='noopener'>Bars, Food Serving, Construction, Postcards, Power Plants</a></dd><dt>Creator</dt><dd lang='en'>\u00c5str\u00f6m O, Foto</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/47694' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 13290
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_47694/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "900__Norrbottens_museum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Norrbottens Museum"
+    ],
+    "coordinate": "not showed"
+}

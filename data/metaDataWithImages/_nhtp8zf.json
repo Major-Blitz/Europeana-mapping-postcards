@@ -1,0 +1,61 @@
+{
+    "aggregations_about": "/aggregation/provider/0940429/_nhtp8zf",
+    "webResources": [
+        {
+            "about": "http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99064",
+            "textAttributionSnippet": "(en) Baldwin, Stanley - https://www.europeana.eu/item/0940429/_nhtp8zf. (en) Atelier Vandyk (1882-1947). Fig. Biblioteka Uniwersytecka we Wroc\u0142awiu - http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99064. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/0940429/_nhtp8zf' target='_blank' rel='noopener'>Baldwin, Stanley</a></dd><dt>Creator</dt><dd lang='en'>Atelier Vandyk (1882-1947). Fig</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99064' target='_blank' rel='noopener'>Biblioteka Uniwersytecka we Wroc\u0142awiu</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://glam.uni.wroc.pl/iiif/image-api/OZG_INW_FOT_3790_41670_0001/full/full/0/default.jpg",
+            "textAttributionSnippet": "(en) Baldwin, Stanley - https://www.europeana.eu/item/0940429/_nhtp8zf. (en) Atelier Vandyk (1882-1947). Fig. Biblioteka Uniwersytecka we Wroc\u0142awiu - http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99064. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/0940429/_nhtp8zf' target='_blank' rel='noopener'>Baldwin, Stanley</a></dd><dt>Creator</dt><dd lang='en'>Atelier Vandyk (1882-1947). Fig</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99064' target='_blank' rel='noopener'>Biblioteka Uniwersytecka we Wroc\u0142awiu</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "svcsHasService": [
+                "https://glam.uni.wroc.pl/iiif/image-api/OZG_INW_FOT_3790_41670_0001"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://glam.uni.wroc.pl/iiif/OZG_INW_FOT_3790_41670/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3432525,
+            "ebucoreWidth": 4019,
+            "ebucoreHeight": 6359,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#FFE4C4",
+                "#FFE4E1",
+                "#CD5C5C"
+            ],
+            "ebucoreOrientation": "portrait"
+        }
+    ],
+    "concept_label": [
+        "Photography genre"
+    ],
+    "concept_note": [
+        "Type of genre; form of photography in terms of a theme or subject"
+    ],
+    "edmDatasetName": [
+        "0940429_Biblioteka_Cyfrowa_Uniwersytetu_Wroclawskiego"
+    ],
+    "edmCountry": [
+        "Poland"
+    ],
+    "edmLanguage": [
+        "pl"
+    ],
+    "organization_label": [
+        "Digital Libraries Federation"
+    ],
+    "coordinate": "not showed"
+}

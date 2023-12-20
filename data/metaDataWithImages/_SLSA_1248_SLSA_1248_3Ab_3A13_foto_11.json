@@ -1,0 +1,103 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_11",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00011_0002_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "2"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Pojkar som metar vid Salakkalahti, med  .. - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_11. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_11' target='_blank' rel='noopener'>Pojkar som metar vid Salakkalahti, med  ..</a></dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_11/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 405972,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2590,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#A9A9A9",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#FFF8DC",
+                "#F8F8FF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00011_0001_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "1"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Pojkar som metar vid Salakkalahti, med  .. - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_11. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_11' target='_blank' rel='noopener'>Pojkar som metar vid Salakkalahti, med  ..</a></dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_11/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 803752,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2608,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#D2B48C",
+                "#556B2F",
+                "#FFE4E1",
+                "#FFFAFA",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_11/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            28.0
+        ],
+        [
+            66.416664,
+            94.25
+        ],
+        [
+            65.0,
+            27.0
+        ],
+        [
+            60.710556,
+            28.749722
+        ],
+        [
+            60.70402,
+            28.762522
+        ]
+    ]
+}

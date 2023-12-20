@@ -1,0 +1,72 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03491",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/021018322929",
+            "textAttributionSnippet": "(en) Postcard - \u201cThe House of Archbishop,\u201d Prosten district, Uppsala around 1900 - https://www.europeana.eu/item/91617/upmu_photo_FN03491. (en) Larsson, Anders. Upplandsmuseet - https://digitaltmuseum.se/021018322929. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03491' target='_blank' rel='noopener'>Postcard - \u201cThe House of Archbishop,\u201d Prosten district, Uppsala around 1900</a></dd><dt>Creator</dt><dd lang='en'>Larsson, Anders</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018322929' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/03347T1TSVZ2?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcard - \u201cThe House of Archbishop,\u201d Prosten district, Uppsala around 1900 - https://www.europeana.eu/item/91617/upmu_photo_FN03491. (en) Larsson, Anders. Upplandsmuseet - https://digitaltmuseum.se/021018322929. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03491' target='_blank' rel='noopener'>Postcard - \u201cThe House of Archbishop,\u201d Prosten district, Uppsala around 1900</a></dd><dt>Creator</dt><dd lang='en'>Larsson, Anders</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021018322929' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03491/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 801207,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 763,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#FFFAFA",
+                "#F5FFFA",
+                "#F5F5DC",
+                "#FAF0E6",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03491/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

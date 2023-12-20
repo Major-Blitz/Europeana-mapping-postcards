@@ -1,0 +1,54 @@
+{
+    "aggregations_about": "/aggregation/provider/916113/S_FV_object_FVMA000005",
+    "webResources": [
+        {
+            "about": "http://mm.dimu.org/image/032yjVFt4Lzu?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/916113/S_FV_object_FVMA000005. (en) Eastern Fly. Flygvapenmuseum - http://digitaltmuseum.se/021026912686. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVMA000005' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>Eastern Fly</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021026912686' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVMA000005/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 475896,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 786,
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#C0C0C0",
+                "#808080",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://digitaltmuseum.se/021026912686",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/916113/S_FV_object_FVMA000005. (en) Eastern Fly. Flygvapenmuseum - http://digitaltmuseum.se/021026912686. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVMA000005' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>Eastern Fly</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021026912686' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVMA000005/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "916113_Ag_SE_Flygvapenmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

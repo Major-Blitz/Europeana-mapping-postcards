@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_276958",
+    "webResources": [
+        {
+            "about": "https://purl.pt/33163/service/media/cover/max",
+            "textAttributionSnippet": "(fr) Benguella - Hanha do Norte - https://www.europeana.eu/item/10501/bib_rnod_276958. Biblioteca Nacional de Portugal - https://purl.pt/33163. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fr'><a href='http://data.europeana.eu/item/10501/bib_rnod_276958' target='_blank' rel='noopener'>Benguella - Hanha do Norte</a></dd><dt>Date</dt><dd lang=''>1906</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33163' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_276958/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1731716,
+            "ebucoreWidth": 2194,
+            "ebucoreHeight": 3450,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#8FBC8F",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#CD853F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://purl.pt/33163",
+            "textAttributionSnippet": "(fr) Benguella - Hanha do Norte - https://www.europeana.eu/item/10501/bib_rnod_276958. Biblioteca Nacional de Portugal - https://purl.pt/33163. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fr'><a href='http://data.europeana.eu/item/10501/bib_rnod_276958' target='_blank' rel='noopener'>Benguella - Hanha do Norte</a></dd><dt>Date</dt><dd lang=''>1906</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33163' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_276958/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": "not showed"
+}

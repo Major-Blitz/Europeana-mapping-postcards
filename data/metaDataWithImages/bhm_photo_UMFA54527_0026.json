@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA54527_0026",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/012sBXwtr9zQ?dimension=600x600",
+            "textAttributionSnippet": "(en) \u201cHoven\u00e4set Postcards. 66.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54527_0026. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014487246. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54527_0026' target='_blank' rel='noopener'>\u201cHoven\u00e4set Postcards. 66.\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014487246' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54527_0026/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 132203,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 394,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#DCDCDC",
+                "#696969",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014487246",
+            "textAttributionSnippet": "(en) \u201cHoven\u00e4set Postcards. 66.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54527_0026. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014487246. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54527_0026' target='_blank' rel='noopener'>\u201cHoven\u00e4set Postcards. 66.\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014487246' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 96339
+        },
+        {
+            "about": "https://mm.dimu.org/image/012sBXwtr9zQ?dimension=1200x1200",
+            "textAttributionSnippet": "(en) \u201cHoven\u00e4set Postcards. 66.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54527_0026. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014487246. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54527_0026' target='_blank' rel='noopener'>\u201cHoven\u00e4set Postcards. 66.\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014487246' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54527_0026/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 116336,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 493,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#DCDCDC",
+                "#696969",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54527_0026/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

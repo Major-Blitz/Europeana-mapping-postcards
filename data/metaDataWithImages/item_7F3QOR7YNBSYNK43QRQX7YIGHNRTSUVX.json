@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_7F3QOR7YNBSYNK43QRQX7YIGHNRTSUVX",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=24b10057-ae44-4fd4-a950-2afcdfe82dc0",
+            "textAttributionSnippet": "(en) Pompeii - https://www.europeana.eu/item/401/item_7F3QOR7YNBSYNK43QRQX7YIGHNRTSUVX. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3721652. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_7F3QOR7YNBSYNK43QRQX7YIGHNRTSUVX' target='_blank' rel='noopener'>Pompeii</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3721652' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_7F3QOR7YNBSYNK43QRQX7YIGHNRTSUVX/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 103862,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 541,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#F5DEB3",
+                "#EEE8AA",
+                "#FAF0E6",
+                "#FAEBD7",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3721652",
+            "textAttributionSnippet": "(en) Pompeii - https://www.europeana.eu/item/401/item_7F3QOR7YNBSYNK43QRQX7YIGHNRTSUVX. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3721652. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_7F3QOR7YNBSYNK43QRQX7YIGHNRTSUVX' target='_blank' rel='noopener'>Pompeii</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3721652' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_7F3QOR7YNBSYNK43QRQX7YIGHNRTSUVX/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            42.5,
+            12.5
+        ]
+    ]
+}

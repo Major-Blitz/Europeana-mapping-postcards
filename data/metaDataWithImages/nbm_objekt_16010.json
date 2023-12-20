@@ -1,0 +1,84 @@
+{
+    "aggregations_about": "/aggregation/provider/901/nbm_objekt_16010",
+    "webResources": [
+        {
+            "about": "https://samlingar.norrbottensmuseum.se/web/object/16010",
+            "textAttributionSnippet": "(en) New Year\u2019s card, card, this year\u2019s feasts - https://www.europeana.eu/item/901/nbm_objekt_16010. (en) Ekstam Margit, Konst, Freed, Konst. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/16010. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/901/nbm_objekt_16010' target='_blank' rel='noopener'>New Year\u2019s card, card, this year\u2019s feasts</a></dd><dt>Creator</dt><dd lang='en'>Ekstam Margit, Konst, Freed, Konst</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/16010' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 19349
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/787963/representation",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) New Year\u2019s card, card, this year\u2019s feasts - https://www.europeana.eu/item/901/nbm_objekt_16010. (en) Ekstam Margit, Konst, Freed, Konst. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/16010. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/901/nbm_objekt_16010' target='_blank' rel='noopener'>New Year\u2019s card, card, this year\u2019s feasts</a></dd><dt>Creator</dt><dd lang='en'>Ekstam Margit, Konst, Freed, Konst</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/16010' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/901/nbm_objekt_16010/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 52615,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 375,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#006400",
+                "#5F9EA0",
+                "#2E8B57",
+                "#FFFFE0",
+                "#F0E68C",
+                "#8B0000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/901/nbm_objekt_16010/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Map"
+    ],
+    "concept_note": [
+        "Visual representation of a concept space; symbolic depiction emphasizing relationships between elements of some space, such as objects, regions, or themes"
+    ],
+    "edmDatasetName": [
+        "901__Norrbottens_museum_2"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Norrbottens Museum"
+    ],
+    "coordinate": [
+        [
+            66.39,
+            23.656944
+        ],
+        [
+            66.38333,
+            23.666666
+        ],
+        [
+            61.0,
+            15.0
+        ],
+        [
+            67.0,
+            20.0
+        ]
+    ]
+}

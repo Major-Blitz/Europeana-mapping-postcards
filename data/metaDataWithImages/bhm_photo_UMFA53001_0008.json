@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA53001_0008",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/012sAXxQdX3T?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Text on postcards: \u201cMountain formations for Kleven, Sm\u00f6gen.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53001_0008. (en) Fredsj\u00f6, \u00c5ke. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014289280. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53001_0008' target='_blank' rel='noopener'>Text on postcards: \u201cMountain formations for Kleven, Sm\u00f6gen.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Fredsj\u00f6, \u00c5ke</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014289280' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53001_0008/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 161129,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 479,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#DCDCDC",
+                "#696969",
+                "#800000",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014289280",
+            "textAttributionSnippet": "(en) Text on postcards: \u201cMountain formations for Kleven, Sm\u00f6gen.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53001_0008. (en) Fredsj\u00f6, \u00c5ke. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014289280. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53001_0008' target='_blank' rel='noopener'>Text on postcards: \u201cMountain formations for Kleven, Sm\u00f6gen.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Fredsj\u00f6, \u00c5ke</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014289280' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 101467
+        },
+        {
+            "about": "https://mm.dimu.org/image/012sAXxQdX3T?dimension=600x600",
+            "textAttributionSnippet": "(en) Text on postcards: \u201cMountain formations for Kleven, Sm\u00f6gen.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53001_0008. (en) Fredsj\u00f6, \u00c5ke. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014289280. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53001_0008' target='_blank' rel='noopener'>Text on postcards: \u201cMountain formations for Kleven, Sm\u00f6gen.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Fredsj\u00f6, \u00c5ke</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014289280' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53001_0008/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 147286,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 383,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#DCDCDC",
+                "#696969",
+                "#E6E6FA",
+                "#800000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53001_0008/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

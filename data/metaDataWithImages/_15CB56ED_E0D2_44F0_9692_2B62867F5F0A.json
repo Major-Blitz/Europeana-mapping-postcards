@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_15CB56ED_E0D2_44F0_9692_2B62867F5F0A",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2374260&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Godt Nytt \u00c5r! - https://www.europeana.eu/item/117/_15CB56ED_E0D2_44F0_9692_2B62867F5F0A. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.15CB56ED-E0D2-44F0-9692-2B62867F5F0A?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_15CB56ED_E0D2_44F0_9692_2B62867F5F0A' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Godt Nytt \u00c5r!</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.15CB56ED-E0D2-44F0-9692-2B62867F5F0A?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_15CB56ED_E0D2_44F0_9692_2B62867F5F0A/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 582449,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 831,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#808080",
+                "#696969",
+                "#BDB76B",
+                "#808000",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.15CB56ED-E0D2-44F0-9692-2B62867F5F0A?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Godt Nytt \u00c5r! - https://www.europeana.eu/item/117/_15CB56ED_E0D2_44F0_9692_2B62867F5F0A. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.15CB56ED-E0D2-44F0-9692-2B62867F5F0A?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_15CB56ED_E0D2_44F0_9692_2B62867F5F0A' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Godt Nytt \u00c5r!</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.15CB56ED-E0D2-44F0-9692-2B62867F5F0A?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_15CB56ED_E0D2_44F0_9692_2B62867F5F0A/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

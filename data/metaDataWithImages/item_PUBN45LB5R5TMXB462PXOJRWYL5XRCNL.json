@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_PUBN45LB5R5TMXB462PXOJRWYL5XRCNL",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=ccb06d87-1a23-4e39-941e-8d15b5366c4e",
+            "textAttributionSnippet": "(en) Art postcard J. Vermeer van Delft, Love lettering, summer holiday congratulations - https://www.europeana.eu/item/401/item_PUBN45LB5R5TMXB462PXOJRWYL5XRCNL. Haapsalu ja L\u00e4\u00e4nemaa Muuseumid - https://www.muis.ee/museaalView/1029863. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_PUBN45LB5R5TMXB462PXOJRWYL5XRCNL' target='_blank' rel='noopener'>Art postcard J. Vermeer van Delft, Love lettering, summer holiday congratulations</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1029863' target='_blank' rel='noopener'>Haapsalu ja L\u00e4\u00e4nemaa Muuseumid</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_PUBN45LB5R5TMXB462PXOJRWYL5XRCNL/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 105126,
+            "ebucoreWidth": 566,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#800000",
+                "#F5F5DC",
+                "#FAF0E6",
+                "#483D8B",
+                "#D3D3D3",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/1029863",
+            "textAttributionSnippet": "(en) Art postcard J. Vermeer van Delft, Love lettering, summer holiday congratulations - https://www.europeana.eu/item/401/item_PUBN45LB5R5TMXB462PXOJRWYL5XRCNL. Haapsalu ja L\u00e4\u00e4nemaa Muuseumid - https://www.muis.ee/museaalView/1029863. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_PUBN45LB5R5TMXB462PXOJRWYL5XRCNL' target='_blank' rel='noopener'>Art postcard J. Vermeer van Delft, Love lettering, summer holiday congratulations</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1029863' target='_blank' rel='noopener'>Haapsalu ja L\u00e4\u00e4nemaa Muuseumid</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_PUBN45LB5R5TMXB462PXOJRWYL5XRCNL/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Foundation of Haapsalu and L\u00e4\u00e4nemaa Museums"
+    ],
+    "coordinate": "not showed"
+}

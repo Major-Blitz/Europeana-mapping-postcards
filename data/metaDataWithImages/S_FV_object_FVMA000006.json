@@ -1,0 +1,55 @@
+{
+    "aggregations_about": "/aggregation/provider/916113/S_FV_object_FVMA000006",
+    "webResources": [
+        {
+            "about": "http://mm.dimu.org/image/022yjVFt4M5M?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/916113/S_FV_object_FVMA000006. (en) Air Force Museum. Flygvapenmuseum - http://digitaltmuseum.se/021026912694. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVMA000006' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>Air Force Museum</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021026912694' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVMA000006/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 646267,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 860,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#C0C0C0",
+                "#D3D3D3",
+                "#B0E0E6",
+                "#D2B48C",
+                "#ADD8E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://digitaltmuseum.se/021026912694",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/916113/S_FV_object_FVMA000006. (en) Air Force Museum. Flygvapenmuseum - http://digitaltmuseum.se/021026912694. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVMA000006' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>Air Force Museum</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021026912694' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVMA000006/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "916113_Ag_SE_Flygvapenmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

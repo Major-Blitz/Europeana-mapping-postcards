@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_7HGERMUKYBUV2DE6C7L4GPNLETVINRGK",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3417006",
+            "textAttributionSnippet": "(en) postcard - https://www.europeana.eu/item/401/item_7HGERMUKYBUV2DE6C7L4GPNLETVINRGK. (en) Estonian National Publishing House (publisher). Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417006. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_7HGERMUKYBUV2DE6C7L4GPNLETVINRGK' target='_blank' rel='noopener'>postcard</a></dd><dt>Creator</dt><dd lang='en'>Estonian National Publishing House (publisher)</dd><dt>Date</dt><dd lang=''>1953</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417006' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=d7ab1583-0d33-4c8e-b74a-580573be5598",
+            "textAttributionSnippet": "(en) postcard - https://www.europeana.eu/item/401/item_7HGERMUKYBUV2DE6C7L4GPNLETVINRGK. (en) Estonian National Publishing House (publisher). Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417006. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_7HGERMUKYBUV2DE6C7L4GPNLETVINRGK' target='_blank' rel='noopener'>postcard</a></dd><dt>Creator</dt><dd lang='en'>Estonian National Publishing House (publisher)</dd><dt>Date</dt><dd lang=''>1953</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417006' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_7HGERMUKYBUV2DE6C7L4GPNLETVINRGK/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 138996,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 570,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#9ACD32",
+                "#696969",
+                "#DEB887",
+                "#DAA520",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_7HGERMUKYBUV2DE6C7L4GPNLETVINRGK/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

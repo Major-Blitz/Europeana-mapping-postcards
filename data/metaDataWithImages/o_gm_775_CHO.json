@@ -1,0 +1,106 @@
+{
+    "aggregations_about": "/aggregation/provider/09403/o_gm_775_CHO",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/at/"
+                ]
+            },
+            "about": "https://hdl.handle.net/11471/144.10.775",
+            "dcDescription": {
+                "en": [
+                    "Funded by: Federal Ministry of Science, Research and Economy"
+                ]
+            },
+            "dctermsIsPartOf": {
+                "def": [
+                    "http://gams.uni-graz.at/gm"
+                ]
+            },
+            "dcCreator": {
+                "de": [
+                    "GrazMuseum",
+                    "Zentrum f\u00fcr Informationsmodellierung - Austrian Centre\n                    for Digital Humanities, Karl-Franzens-Universit\u00e4t Graz"
+                ],
+                "def": [
+                    "http://d-nb.info/gnd/2022740-1",
+                    "http://d-nb.info/gnd/1137284463"
+                ],
+                "en": [
+                    "GrazMuseum",
+                    "Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz"
+                ]
+            },
+            "owlSameAs": [
+                "http://gams.uni-graz.at/o:gm.775"
+            ],
+            "textAttributionSnippet": "(de) Graz. Hauptplatz - https://www.europeana.eu/item/09403/o_gm_775_CHO. ; (en) GrazMuseum; Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz. University of Graz - http://gams.uni-graz.at/o:gm.775. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/at/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/09403/o_gm_775_CHO' target='_blank' rel='noopener'>Graz. Hauptplatz</a></dd><dt>Creator</dt><dd lang='en'>GrazMuseum; Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz</dd><dt>Date</dt><dd lang=''>1911</dd><dt>Institution</dt><dd lang=''><a href='http://gams.uni-graz.at/o:gm.775' target='_blank' rel='noopener'>University of Graz</a></dd><dt>Country</dt><dd lang=''>Austria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/at/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>"
+        },
+        {
+            "about": "https://gams.uni-graz.at/iiif/o:gm.775%2FRECTO/full/full/0/default.jpg",
+            "textAttributionSnippet": "(de) Graz. Hauptplatz - https://www.europeana.eu/item/09403/o_gm_775_CHO. University of Graz - http://gams.uni-graz.at/o:gm.775. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/at/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/09403/o_gm_775_CHO' target='_blank' rel='noopener'>Graz. Hauptplatz</a></dd><dt>Date</dt><dd lang=''>1911</dd><dt>Institution</dt><dd lang=''><a href='http://gams.uni-graz.at/o:gm.775' target='_blank' rel='noopener'>University of Graz</a></dd><dt>Country</dt><dd lang=''>Austria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/at/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://gams.uni-graz.at/iiif/o:gm.775%2FRECTO"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/09403/o_gm_775_CHO/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1526279,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1975,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#BDB76B",
+                "#BC8F8F",
+                "#808000",
+                "#EEE8AA",
+                "#DEB887"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://gams.uni-graz.at/o:gm.775",
+            "textAttributionSnippet": "(de) Graz. Hauptplatz - https://www.europeana.eu/item/09403/o_gm_775_CHO. University of Graz - http://gams.uni-graz.at/o:gm.775. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/at/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/09403/o_gm_775_CHO' target='_blank' rel='noopener'>Graz. Hauptplatz</a></dd><dt>Date</dt><dd lang=''>1911</dd><dt>Institution</dt><dd lang=''><a href='http://gams.uni-graz.at/o:gm.775' target='_blank' rel='noopener'>University of Graz</a></dd><dt>Country</dt><dd lang=''>Austria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/at/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/09403/o_gm_775_CHO/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "paper (fiber product)"
+    ],
+    "concept_note": [
+        "Refers generally to all types of thin matted or felted sheets or webs of fiber formed and dried on a fine screen from a pulpy water suspension. The fibers may be animal, such as hair, silk or wool, or mineral, such as asbestos, or synthetic. However most paper is made from cellulosic plant fiber, such as from wood pulp, grass, cotton, linen, and straw."
+    ],
+    "edmDatasetName": [
+        "09403_Ag_AT_ELocal"
+    ],
+    "edmCountry": [
+        "Austria"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana Local Austria"
+    ],
+    "coordinate": [
+        [
+            48.2082,
+            16.37169
+        ],
+        [
+            47.06667,
+            15.45
+        ]
+    ]
+}

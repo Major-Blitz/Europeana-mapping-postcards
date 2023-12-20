@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_78E8118E3C8D020E7E850B28EE861C9A",
+    "webResources": [
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.78E8118E3C8D020E7E850B28EE861C9A?lng=en-gb",
+            "textAttributionSnippet": "(fi) postikortit Sortavalasta ja Viipurista - https://www.europeana.eu/item/2021009/_78E8118E3C8D020E7E850B28EE861C9A. (en) Alopaeus; J. C. Lagerspetz Buchhandlung. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.78E8118E3C8D020E7E850B28EE861C9A?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_78E8118E3C8D020E7E850B28EE861C9A' target='_blank' rel='noopener'>postikortit Sortavalasta ja Viipurista</a></dd><dt>Creator</dt><dd lang='en'>Alopaeus; J. C. Lagerspetz Buchhandlung</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.78E8118E3C8D020E7E850B28EE861C9A?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=1101444&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(fi) postikortit Sortavalasta ja Viipurista - https://www.europeana.eu/item/2021009/_78E8118E3C8D020E7E850B28EE861C9A. (en) Alopaeus; J. C. Lagerspetz Buchhandlung. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.78E8118E3C8D020E7E850B28EE861C9A?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_78E8118E3C8D020E7E850B28EE861C9A' target='_blank' rel='noopener'>postikortit Sortavalasta ja Viipurista</a></dd><dt>Creator</dt><dd lang='en'>Alopaeus; J. C. Lagerspetz Buchhandlung</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.78E8118E3C8D020E7E850B28EE861C9A?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_78E8118E3C8D020E7E850B28EE861C9A/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 401083,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 870,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4E1",
+                "#CD5C5C",
+                "#D3D3D3",
+                "#DCDCDC",
+                "#DEB887",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_78E8118E3C8D020E7E850B28EE861C9A/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

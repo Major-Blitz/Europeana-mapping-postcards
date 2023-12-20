@@ -1,0 +1,77 @@
+{
+    "aggregations_about": "/aggregation/provider/378/https___repozitorij_muo_hr__pr_i_id_67977",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/4.0/"
+                ]
+            },
+            "about": "https://repozitorij.muo.hr/api/?semantic=resource&id=67977",
+            "textAttributionSnippet": "(en) Dubrovnik - In front of St. Blaise - https://www.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_67977. nepoznat.  - https://repozitorij.muo.hr/?pr=i&id=67977. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_67977' target='_blank' rel='noopener'>Dubrovnik - In front of St. Blaise</a></dd><dt>Creator</dt><dd lang=''>nepoznat</dd><dt>Date</dt><dd lang=''>1923</dd><dt>Institution</dt><dt>Country</dt><dd lang=''>Croatia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/378/https___repozitorij_muo_hr__pr_i_id_67977/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 405263,
+            "ebucoreWidth": 1500,
+            "ebucoreHeight": 940,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#556B2F",
+                "#000000",
+                "#DEB887",
+                "#696969",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://repozitorij.muo.hr/?pr=i&id=67977",
+            "textAttributionSnippet": "(en) Dubrovnik - In front of St. Blaise - https://www.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_67977. nepoznat.  - https://repozitorij.muo.hr/?pr=i&id=67977. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_67977' target='_blank' rel='noopener'>Dubrovnik - In front of St. Blaise</a></dd><dt>Creator</dt><dd lang=''>nepoznat</dd><dt>Date</dt><dd lang=''>1923</dd><dt>Institution</dt><dt>Country</dt><dd lang=''>Croatia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/378/https___repozitorij_muo_hr__pr_i_id_67977/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "378_Musem_of_Arts_and_Crafts_archeology"
+    ],
+    "edmCountry": [
+        "Croatia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": "not showed",
+    "coordinate": [
+        [
+            42.6667,
+            18.1167
+        ],
+        [
+            45.1667,
+            15.5
+        ],
+        [
+            45.25,
+            15.466667
+        ],
+        [
+            42.64075,
+            18.110458
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_5Z7WG5NOR45ZZELUGFG2CSQTXJCJ7NXT",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=ae24c176-e87d-4d21-a872-cb757ea21840",
+            "textAttributionSnippet": "(et) P\u00e4rnu - https://www.europeana.eu/item/401/item_5Z7WG5NOR45ZZELUGFG2CSQTXJCJ7NXT. (et) Foto \"Uudis\" P\u00e4rnus (kirjastaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3743865. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_5Z7WG5NOR45ZZELUGFG2CSQTXJCJ7NXT' target='_blank' rel='noopener'>P\u00e4rnu</a></dd><dt>Creator</dt><dd lang='et'>Foto \"Uudis\" P\u00e4rnus (kirjastaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3743865' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_5Z7WG5NOR45ZZELUGFG2CSQTXJCJ7NXT/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 124076,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 552,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#F0FFF0",
+                "#F5FFFA",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#FDF5E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3743865",
+            "textAttributionSnippet": "(et) P\u00e4rnu - https://www.europeana.eu/item/401/item_5Z7WG5NOR45ZZELUGFG2CSQTXJCJ7NXT. (et) Foto \"Uudis\" P\u00e4rnus (kirjastaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3743865. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_5Z7WG5NOR45ZZELUGFG2CSQTXJCJ7NXT' target='_blank' rel='noopener'>P\u00e4rnu</a></dd><dt>Creator</dt><dd lang='et'>Foto \"Uudis\" P\u00e4rnus (kirjastaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3743865' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_5Z7WG5NOR45ZZELUGFG2CSQTXJCJ7NXT/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            58.384445,
+            24.498888
+        ]
+    ]
+}

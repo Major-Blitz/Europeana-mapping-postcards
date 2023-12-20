@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_d7db734a_997d_467a_a473_b766504c3081",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/838212515AEC49F7974460880B7A7E80.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d7db734a_997d_467a_a473_b766504c3081. Fotograf Joseph Briegel. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d7db734a-997d-467a-a473-b766504c3081/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf Joseph Briegel</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d7db734a-997d-467a-a473-b766504c3081/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_d7db734a_997d_467a_a473_b766504c3081/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21592420,
+            "ebucoreWidth": 3389,
+            "ebucoreHeight": 2122,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#A9A9A9",
+                "#A0522D",
+                "#F5DEB3",
+                "#D2B48C",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/8993410FBECB48139DBEF97AFA217951.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d7db734a_997d_467a_a473_b766504c3081. Fotograf Joseph Briegel. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d7db734a-997d-467a-a473-b766504c3081/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf Joseph Briegel</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d7db734a-997d-467a-a473-b766504c3081/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_d7db734a_997d_467a_a473_b766504c3081/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22003430,
+            "ebucoreWidth": 3374,
+            "ebucoreHeight": 2172,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E9967A",
+                "#CD5C5C",
+                "#A0522D",
+                "#F08080",
+                "#DB7093",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/d7db734a-997d-467a-a473-b766504c3081/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d7db734a_997d_467a_a473_b766504c3081. Fotograf Joseph Briegel. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d7db734a-997d-467a-a473-b766504c3081/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf Joseph Briegel</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d7db734a-997d-467a-a473-b766504c3081/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_d7db734a_997d_467a_a473_b766504c3081/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.845833,
+            23.895834
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

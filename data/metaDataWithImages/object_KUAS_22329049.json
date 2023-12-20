@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_22329049",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Horsens Museum (F\u00e6ngselssamling)"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=2386885",
+            "textAttributionSnippet": "(en) Postcards, \u201cWork \u2018Adler\u2019 The Man,\u201d Carton, State Prison in Horsens, Alberti, Peter Adler, 1910-1912 - https://www.europeana.eu/item/2058618/object_KUAS_22329049. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6306301. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_22329049' target='_blank' rel='noopener'>Postcards, \u201cWork \u2018Adler\u2019 The Man,\u201d Carton, State Prison in Horsens, Alberti, Peter Adler, 1910-1912</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6306301' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_22329049/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 44001,
+            "ebucoreWidth": 205,
+            "ebucoreHeight": 320,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#F5DEB3",
+                "#556B2F",
+                "#BDB76B",
+                "#D2B48C",
+                "#696969"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6306301",
+            "textAttributionSnippet": "(en) Postcards, \u201cWork \u2018Adler\u2019 The Man,\u201d Carton, State Prison in Horsens, Alberti, Peter Adler, 1910-1912 - https://www.europeana.eu/item/2058618/object_KUAS_22329049. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6306301. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_22329049' target='_blank' rel='noopener'>Postcards, \u201cWork \u2018Adler\u2019 The Man,\u201d Carton, State Prison in Horsens, Alberti, Peter Adler, 1910-1912</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6306301' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 14906
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_22329049/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

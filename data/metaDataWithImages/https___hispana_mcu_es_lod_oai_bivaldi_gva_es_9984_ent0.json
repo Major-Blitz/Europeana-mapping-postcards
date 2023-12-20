@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9984_ent0",
+    "webResources": [
+        {
+            "about": "https://bivaldi.gva.es/es/consulta/registro.do?id=9984",
+            "textAttributionSnippet": "(es) Confecci\u00f3n de la pasa [Material gr\u00e1fico]: El apilado : Denia - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9984_ent0. Fabert, Andr\u00e9s, ( - 1911). Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=9984. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='es'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9984_ent0' target='_blank' rel='noopener'>Confecci\u00f3n de la pasa [Material gr\u00e1fico]: El apilado : Denia</a></dd><dt>Creator</dt><dd lang=''>Fabert, Andr\u00e9s, ( - 1911)</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=9984' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://bivaldi.gva.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=10957782",
+            "textAttributionSnippet": "(es) Confecci\u00f3n de la pasa [Material gr\u00e1fico]: El apilado : Denia - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9984_ent0. Fabert, Andr\u00e9s, ( - 1911). Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=9984. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='es'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9984_ent0' target='_blank' rel='noopener'>Confecci\u00f3n de la pasa [Material gr\u00e1fico]: El apilado : Denia</a></dd><dt>Creator</dt><dd lang=''>Fabert, Andr\u00e9s, ( - 1911)</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=9984' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9984_ent0/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 593218,
+            "ebucoreWidth": 1096,
+            "ebucoreHeight": 706,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#8B4513",
+                "#FAEBD7",
+                "#BDB76B",
+                "#2F4F4F",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_9984_ent0/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "343_Hispana_BibliotecaValenciana"
+    ],
+    "edmCountry": [
+        "Spain"
+    ],
+    "edmLanguage": [
+        "es"
+    ],
+    "organization_label": [
+        "Hispana"
+    ],
+    "coordinate": "not showed"
+}

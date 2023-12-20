@@ -1,0 +1,101 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_1",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00001_0002_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "2"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Keldanska g\u00e5rden i h\u00f6rnet av Karjaportsgatan  .. - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_1. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_1' target='_blank' rel='noopener'>Keldanska g\u00e5rden i h\u00f6rnet av Karjaportsgatan  ..</a></dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_1/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1135291,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2654,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#8FBC8F",
+                "#556B2F",
+                "#F5FFFA",
+                "#696969",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00001_0001_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "1"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Keldanska g\u00e5rden i h\u00f6rnet av Karjaportsgatan  .. - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_1. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_1' target='_blank' rel='noopener'>Keldanska g\u00e5rden i h\u00f6rnet av Karjaportsgatan  ..</a></dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_1/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 917002,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2640,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#800000",
+                "#EEE8AA",
+                "#D2B48C",
+                "#FFFFFF",
+                "#000000",
+                "#FFFFF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_1/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "workshops"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            28.0
+        ],
+        [
+            66.416664,
+            94.25
+        ],
+        [
+            65.0,
+            27.0
+        ],
+        [
+            60.70402,
+            28.762522
+        ],
+        [
+            60.710556,
+            28.749722
+        ]
+    ]
+}

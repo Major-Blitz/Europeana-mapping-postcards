@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916118/S_TEK_photo_TEKA0145601",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032wZVorsZ5k?dimension=600x600",
+            "textAttributionSnippet": "(en) Photography for production of postcards. With a motif of bridge in Degerav - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145601. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320688. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145601' target='_blank' rel='noopener'>Photography for production of postcards. With a motif of bridge in Degerav</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320688' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145601/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 161523,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 427,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#E6E6FA",
+                "#696969",
+                "#DCDCDC",
+                "#A9A9A9",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/032wZVorsZ5k?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Photography for production of postcards. With a motif of bridge in Degerav - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145601. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320688. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145601' target='_blank' rel='noopener'>Photography for production of postcards. With a motif of bridge in Degerav</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320688' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145601/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 611935,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 854,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#E6E6FA",
+                "#696969",
+                "#F5F5DC",
+                "#DCDCDC",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016320688",
+            "textAttributionSnippet": "(en) Photography for production of postcards. With a motif of bridge in Degerav - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145601. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320688. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145601' target='_blank' rel='noopener'>Photography for production of postcards. With a motif of bridge in Degerav</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320688' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 96920
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145601/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Bridge"
+    ],
+    "concept_note": [
+        "Structure that spans and provides a passage over a road, railway, river, or some other obstacle"
+    ],
+    "edmDatasetName": [
+        "916118_Ag_SE_Tekniskamuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

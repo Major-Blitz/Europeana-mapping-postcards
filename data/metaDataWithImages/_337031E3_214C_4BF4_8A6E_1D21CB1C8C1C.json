@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_337031E3_214C_4BF4_8A6E_1D21CB1C8C1C",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2374841&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard; I fr\u00e4mlingslandet - https://www.europeana.eu/item/117/_337031E3_214C_4BF4_8A6E_1D21CB1C8C1C. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.337031E3-214C-4BF4-8A6E-1D21CB1C8C1C?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_337031E3_214C_4BF4_8A6E_1D21CB1C8C1C' target='_blank' rel='noopener'>postcard; I fr\u00e4mlingslandet</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.337031E3-214C-4BF4-8A6E-1D21CB1C8C1C?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_337031E3_214C_4BF4_8A6E_1D21CB1C8C1C/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 516873,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 856,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#9ACD32",
+                "#D2691E",
+                "#F4A460",
+                "#000000",
+                "#778899"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.337031E3-214C-4BF4-8A6E-1D21CB1C8C1C?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard; I fr\u00e4mlingslandet - https://www.europeana.eu/item/117/_337031E3_214C_4BF4_8A6E_1D21CB1C8C1C. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.337031E3-214C-4BF4-8A6E-1D21CB1C8C1C?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_337031E3_214C_4BF4_8A6E_1D21CB1C8C1C' target='_blank' rel='noopener'>postcard; I fr\u00e4mlingslandet</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.337031E3-214C-4BF4-8A6E-1D21CB1C8C1C?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_337031E3_214C_4BF4_8A6E_1D21CB1C8C1C/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

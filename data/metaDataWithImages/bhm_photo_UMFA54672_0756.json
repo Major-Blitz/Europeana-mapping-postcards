@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA54672_0756",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032sBY4HV4bJ?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards. \u201cJubilee Breft Card. Oscar 1829-1904\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0756. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491086. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0756' target='_blank' rel='noopener'>Postcards. \u201cJubilee Breft Card. Oscar 1829-1904\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491086' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0756/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 270143,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 497,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#191970",
+                "#2F4F4F",
+                "#000000",
+                "#F0E68C",
+                "#DEB887",
+                "#4B0082"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/032sBY4HV4bJ?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcards. \u201cJubilee Breft Card. Oscar 1829-1904\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0756. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491086. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0756' target='_blank' rel='noopener'>Postcards. \u201cJubilee Breft Card. Oscar 1829-1904\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491086' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0756/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 244418,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 398,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#191970",
+                "#2F4F4F",
+                "#000000",
+                "#F0E68C",
+                "#DEB887",
+                "#4B0082"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014491086",
+            "textAttributionSnippet": "(en) Postcards. \u201cJubilee Breft Card. Oscar 1829-1904\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0756. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491086. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0756' target='_blank' rel='noopener'>Postcards. \u201cJubilee Breft Card. Oscar 1829-1904\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491086' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 100355
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0756/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

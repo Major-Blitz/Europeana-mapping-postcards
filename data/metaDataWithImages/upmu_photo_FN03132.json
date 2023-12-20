@@ -1,0 +1,104 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03132",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/0231wyM1XpBf?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcards - County Inns, County, Almunge parish, Uppland - https://www.europeana.eu/item/91617/upmu_photo_FN03132. Upplandsmuseet - https://digitaltmuseum.se/011013981447. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03132' target='_blank' rel='noopener'>Postcards - County Inns, County, Almunge parish, Uppland</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981447' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03132/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 671046,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 692,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F8F8FF",
+                "#FAF0E6",
+                "#808080",
+                "#708090",
+                "#556B2F",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/022wb125FWzc?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcards - County Inns, County, Almunge parish, Uppland - https://www.europeana.eu/item/91617/upmu_photo_FN03132. Upplandsmuseet - https://digitaltmuseum.se/011013981447. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03132' target='_blank' rel='noopener'>Postcards - County Inns, County, Almunge parish, Uppland</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981447' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03132/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 782843,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 770,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#C0C0C0",
+                "#808080",
+                "#BDB76B",
+                "#D3D3D3",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011013981447",
+            "textAttributionSnippet": "(en) Postcards - County Inns, County, Almunge parish, Uppland - https://www.europeana.eu/item/91617/upmu_photo_FN03132. Upplandsmuseet - https://digitaltmuseum.se/011013981447. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03132' target='_blank' rel='noopener'>Postcards - County Inns, County, Almunge parish, Uppland</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981447' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03132/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

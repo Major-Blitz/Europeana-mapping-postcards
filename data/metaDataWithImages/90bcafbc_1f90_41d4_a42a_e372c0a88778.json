@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/90bcafbc_1f90_41d4_a42a_e372c0a88778",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht aan het Wijngaardplein - https://www.europeana.eu/item/534/90bcafbc_1f90_41d4_a42a_e372c0a88778. (nl) Lithogr. Ancot (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/90bcafbc_1f90_41d4_a42a_e372c0a88778' target='_blank' rel='noopener'>Zicht aan het Wijngaardplein</a></dd><dt>Creator</dt><dd lang='nl'>Lithogr. Ancot (Brugge)</dd><dt>Date</dt><dd lang=''>-1895</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/45539dcc-61e0-44e2-aff9-5a267c39b584.jpg",
+            "textAttributionSnippet": "(nl) Zicht aan het Wijngaardplein - https://www.europeana.eu/item/534/90bcafbc_1f90_41d4_a42a_e372c0a88778. (nl) Lithogr. Ancot (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/90bcafbc_1f90_41d4_a42a_e372c0a88778' target='_blank' rel='noopener'>Zicht aan het Wijngaardplein</a></dd><dt>Creator</dt><dd lang='nl'>Lithogr. Ancot (Brugge)</dd><dt>Date</dt><dd lang=''>-1895</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/90bcafbc_1f90_41d4_a42a_e372c0a88778/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 125290,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#000000",
+                "#F0E68C",
+                "#BC8F8F",
+                "#C0C0C0",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/90bcafbc_1f90_41d4_a42a_e372c0a88778/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

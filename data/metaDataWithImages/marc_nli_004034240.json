@@ -1,0 +1,61 @@
+{
+    "aggregations_about": "/aggregation/provider/318/marc_nli_004034240",
+    "webResources": [
+        {
+            "about": "https://iiif.nli.org.il/IIIFv21/FL45904819/full/max/0/default.jpg",
+            "textAttributionSnippet": "FREE RON ARAD - https://www.europeana.eu/item/318/marc_nli_004034240. Birk, Beni. National Library of Israel. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/318/marc_nli_004034240' target='_blank' rel='noopener'>FREE RON ARAD</a></dd><dt>Creator</dt><dd lang=''>Birk, Beni</dd><dt>Date</dt><dd lang=''>1992</dd><dt>Institution</dt><dd lang=''>National Library of Israel</dd><dt>Country</dt><dd lang=''>Israel</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.nli.org.il/IIIFv21/FL45904819"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.nli.org.il/IIIFv21/DOCID/NNL_ARCHIVE_AL71244497610005171/manifest"
+            ]
+        },
+        {
+            "about": "https://media.jhn.ngo/proxy?url=https://media.jhn.ngo/NLI/IIIFv21/FL45904819/full/max/0/default.jpg",
+            "textAttributionSnippet": "FREE RON ARAD - https://www.europeana.eu/item/318/marc_nli_004034240. Birk, Beni. National Library of Israel. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/318/marc_nli_004034240' target='_blank' rel='noopener'>FREE RON ARAD</a></dd><dt>Creator</dt><dd lang=''>Birk, Beni</dd><dt>Date</dt><dd lang=''>1992</dd><dt>Institution</dt><dd lang=''>National Library of Israel</dd><dt>Country</dt><dd lang=''>Israel</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/318/marc_nli_004034240/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 125448,
+            "ebucoreWidth": 1235,
+            "ebucoreHeight": 810,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#CD5C5C",
+                "#F5F5DC",
+                "#FFF0F5",
+                "#DCDCDC",
+                "#DB7093"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/318/marc_nli_004034240/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Negative"
+    ],
+    "concept_note": [
+        "Photographs in which the tones or colors are reversed from their appearance in nature, usually on a transparent support of celluloid, acetate, or on paper, intended for the purpose of producing positive prints"
+    ],
+    "edmDatasetName": [
+        "318_Ag_JHN_NationalLibraryIsrael"
+    ],
+    "edmCountry": [
+        "Israel"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National Library of Israel"
+    ],
+    "coordinate": "not showed"
+}

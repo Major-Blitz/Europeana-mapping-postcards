@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/72/S_FBM_photo_2M16_S_0084_44_4",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032wZVavhpe4?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Industrial Hall - https://www.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_4. Falbygdens museum - https://digitaltmuseum.se/021016034487. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_4' target='_blank' rel='noopener'>Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Industrial Hall</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016034487' target='_blank' rel='noopener'>Falbygdens museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/72/S_FBM_photo_2M16_S_0084_44_4/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 424018,
+            "ebucoreWidth": 977,
+            "ebucoreHeight": 619,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#DCDCDC",
+                "#E6E6FA",
+                "#2F4F4F",
+                "#000000",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/032wZVavhpe4?dimension=600x600",
+            "textAttributionSnippet": "(en) Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Industrial Hall - https://www.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_4. Falbygdens museum - https://digitaltmuseum.se/021016034487. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_4' target='_blank' rel='noopener'>Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Industrial Hall</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016034487' target='_blank' rel='noopener'>Falbygdens museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/72/S_FBM_photo_2M16_S_0084_44_4/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 163630,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 380,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#E6E6FA",
+                "#DCDCDC",
+                "#2F4F4F",
+                "#000000",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016034487",
+            "textAttributionSnippet": "(en) Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Industrial Hall - https://www.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_4. Falbygdens museum - https://digitaltmuseum.se/021016034487. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_4' target='_blank' rel='noopener'>Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Industrial Hall</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016034487' target='_blank' rel='noopener'>Falbygdens museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 93166
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/72/S_FBM_photo_2M16_S_0084_44_4/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Negative"
+    ],
+    "concept_note": [
+        "Photographs in which the tones or colors are reversed from their appearance in nature, usually on a transparent support of celluloid, acetate, or on paper, intended for the purpose of producing positive prints"
+    ],
+    "edmDatasetName": [
+        "72_72_Ag_SE_SwedishNationalHeritage_fbm"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

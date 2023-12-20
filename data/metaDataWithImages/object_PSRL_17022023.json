@@ -1,0 +1,90 @@
+{
+    "aggregations_about": "/aggregation/provider/2058631/object_PSRL_17022023",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "\u041b\u0438\u0447\u043d\u0430 \u043a\u043e\u043b\u0435\u043a\u0446\u0438\u044f"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "http://catalog.libvar.bg/view/show_photos.pl?id=151305&SC=id&RC=1&SRV=true&LANG=bg&SA=151305",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg/tiff"
+                ]
+            },
+            "textAttributionSnippet": "(en) Greeting card - https://www.europeana.eu/item/2058631/object_PSRL_17022023. \u0420\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u043d\u0430 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u041f\u0415\u041d\u0427\u041e \u0421\u041b\u0410\u0412\u0415\u0419\u041a\u041e\u0412, \u0412\u0430\u0440\u043d\u0430 - http://catalog.libvar.bg/view/show_photos.pl?id=151305&SC=id&RC=1&SRV=true&LANG=bg&SA=151305. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058631/object_PSRL_17022023' target='_blank' rel='noopener'>Greeting card</a></dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libvar.bg/view/show_photos.pl?id=151305&SC=id&RC=1&SRV=true&LANG=bg&SA=151305' target='_blank' rel='noopener'>\u0420\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u043d\u0430 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u041f\u0415\u041d\u0427\u041e \u0421\u041b\u0410\u0412\u0415\u0419\u041a\u041e\u0412, \u0412\u0430\u0440\u043d\u0430</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 6847
+        },
+        {
+            "about": "http://catalog.libvar.bg/view/show_jpg_image.pl?MATERIAL=photo&image_id=596134124.0843814436809642901",
+            "textAttributionSnippet": "(en) Greeting card - https://www.europeana.eu/item/2058631/object_PSRL_17022023. \u0420\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u043d\u0430 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u041f\u0415\u041d\u0427\u041e \u0421\u041b\u0410\u0412\u0415\u0419\u041a\u041e\u0412, \u0412\u0430\u0440\u043d\u0430 - http://catalog.libvar.bg/view/show_photos.pl?id=151305&SC=id&RC=1&SRV=true&LANG=bg&SA=151305. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058631/object_PSRL_17022023' target='_blank' rel='noopener'>Greeting card</a></dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libvar.bg/view/show_photos.pl?id=151305&SC=id&RC=1&SRV=true&LANG=bg&SA=151305' target='_blank' rel='noopener'>\u0420\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u043d\u0430 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u041f\u0415\u041d\u0427\u041e \u0421\u041b\u0410\u0412\u0415\u0419\u041a\u041e\u0412, \u0412\u0430\u0440\u043d\u0430</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058631/object_PSRL_17022023/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 88965,
+            "ebucoreWidth": 525,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#696969",
+                "#808080",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058631/object_PSRL_17022023/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2058631_Ag_EU_LoCloud_PSRL-e"
+    ],
+    "edmCountry": [
+        "Bulgaria"
+    ],
+    "edmLanguage": [
+        "bg"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": [
+        [
+            43.08124,
+            25.62904
+        ],
+        [
+            43.06667,
+            27.01667
+        ],
+        [
+            43.08124,
+            25.62904
+        ],
+        [
+            43.06667,
+            27.01667
+        ]
+    ]
+}

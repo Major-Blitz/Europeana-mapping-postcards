@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_MZHYRGOU",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-MZHYRGOU",
+            "textAttributionSnippet": "(sl) Schlo\u00df Wurmberg b. Pettau, Schlo\u00dfhof - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_MZHYRGOU. Ivan Potr\u010d Library Ptuj - http://www.dlib.si/details/URN:NBN:SI:IMG-MZHYRGOU. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_MZHYRGOU' target='_blank' rel='noopener'>Schlo\u00df Wurmberg b. Pettau, Schlo\u00dfhof</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-MZHYRGOU' target='_blank' rel='noopener'>Ivan Potr\u010d Library Ptuj</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 29433
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-MZHYRGOU/14762401-9bfb-4ded-b736-f422641a4908/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "2615 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Schlo\u00df Wurmberg b. Pettau, Schlo\u00dfhof - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_MZHYRGOU. Ivan Potr\u010d Library Ptuj - http://www.dlib.si/details/URN:NBN:SI:IMG-MZHYRGOU. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_MZHYRGOU' target='_blank' rel='noopener'>Schlo\u00df Wurmberg b. Pettau, Schlo\u00dfhof</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-MZHYRGOU' target='_blank' rel='noopener'>Ivan Potr\u010d Library Ptuj</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_MZHYRGOU/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 2677784,
+            "ebucoreWidth": 1387,
+            "ebucoreHeight": 2151,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#D2B48C",
+                "#696969",
+                "#808080",
+                "#BC8F8F",
+                "#800000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-MZHYRGOU/maxi/edm",
+            "textAttributionSnippet": "(sl) Schlo\u00df Wurmberg b. Pettau, Schlo\u00dfhof - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_MZHYRGOU. Ivan Potr\u010d Library Ptuj - http://www.dlib.si/details/URN:NBN:SI:IMG-MZHYRGOU. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_MZHYRGOU' target='_blank' rel='noopener'>Schlo\u00df Wurmberg b. Pettau, Schlo\u00dfhof</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-MZHYRGOU' target='_blank' rel='noopener'>Ivan Potr\u010d Library Ptuj</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 41070,
+            "ebucoreWidth": 384,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#D2B48C",
+                "#808080",
+                "#800000",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_MZHYRGOU/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "THE ARTS. RECREATION. ENTERTAINMENT. SPORT"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

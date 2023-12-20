@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_OAAILZLI2G5VL6DRBT6BB3Z72WSVWEN6",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=af03cc13-bb51-47ac-ac3b-089a8bcb91a4",
+            "textAttributionSnippet": "(en) Narva - https://www.europeana.eu/item/401/item_OAAILZLI2G5VL6DRBT6BB3Z72WSVWEN6. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3746694. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_OAAILZLI2G5VL6DRBT6BB3Z72WSVWEN6' target='_blank' rel='noopener'>Narva</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3746694' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_OAAILZLI2G5VL6DRBT6BB3Z72WSVWEN6/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 112619,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 561,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#2F4F4F",
+                "#FFF5EE",
+                "#000000",
+                "#C0C0C0",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3746694",
+            "textAttributionSnippet": "(en) Narva - https://www.europeana.eu/item/401/item_OAAILZLI2G5VL6DRBT6BB3Z72WSVWEN6. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3746694. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_OAAILZLI2G5VL6DRBT6BB3Z72WSVWEN6' target='_blank' rel='noopener'>Narva</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3746694' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_OAAILZLI2G5VL6DRBT6BB3Z72WSVWEN6/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            59.216667,
+            27.3
+        ],
+        [
+            59.379166,
+            28.200556
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_5MT3PJNL4AF5L7IQZ44CD3NKQNDLBCTR",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=337f01c1-499f-40f9-aaa0-6087de5acc6e",
+            "textAttributionSnippet": "(en) Hamburg - https://www.europeana.eu/item/401/item_5MT3PJNL4AF5L7IQZ44CD3NKQNDLBCTR. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3752213. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_5MT3PJNL4AF5L7IQZ44CD3NKQNDLBCTR' target='_blank' rel='noopener'>Hamburg</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3752213' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_5MT3PJNL4AF5L7IQZ44CD3NKQNDLBCTR/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 108639,
+            "ebucoreWidth": 582,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#A9A9A9",
+                "#696969",
+                "#556B2F",
+                "#E6E6FA",
+                "#FFE4C4"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3752213",
+            "textAttributionSnippet": "(en) Hamburg - https://www.europeana.eu/item/401/item_5MT3PJNL4AF5L7IQZ44CD3NKQNDLBCTR. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3752213. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_5MT3PJNL4AF5L7IQZ44CD3NKQNDLBCTR' target='_blank' rel='noopener'>Hamburg</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3752213' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_5MT3PJNL4AF5L7IQZ44CD3NKQNDLBCTR/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            51.0,
+            10.0
+        ]
+    ]
+}

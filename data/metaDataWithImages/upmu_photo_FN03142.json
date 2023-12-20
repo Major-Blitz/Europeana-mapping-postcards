@@ -1,0 +1,104 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03142",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011013981457",
+            "textAttributionSnippet": "(en) Postcard - \u201cFolk School on Luthagen,\u201d Sverker neighborhood, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN03142. Upplandsmuseet - https://digitaltmuseum.se/011013981457. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03142' target='_blank' rel='noopener'>Postcard - \u201cFolk School on Luthagen,\u201d Sverker neighborhood, Uppsala</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981457' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/0236JSDydqqx?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcard - \u201cFolk School on Luthagen,\u201d Sverker neighborhood, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN03142. Upplandsmuseet - https://digitaltmuseum.se/011013981457. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03142' target='_blank' rel='noopener'>Postcard - \u201cFolk School on Luthagen,\u201d Sverker neighborhood, Uppsala</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981457' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03142/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 752952,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 780,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F8F8FF",
+                "#F5FFFA",
+                "#696969",
+                "#2F4F4F",
+                "#808080",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/032s93m5zM26?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcard - \u201cFolk School on Luthagen,\u201d Sverker neighborhood, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN03142. Upplandsmuseet - https://digitaltmuseum.se/011013981457. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03142' target='_blank' rel='noopener'>Postcard - \u201cFolk School on Luthagen,\u201d Sverker neighborhood, Uppsala</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981457' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03142/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 660042,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 736,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#D3D3D3",
+                "#F5F5F5",
+                "#FFFFFF",
+                "#FFF0F5",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03142/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "School"
+    ],
+    "concept_note": [
+        "Institution for the education of students by teachers"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

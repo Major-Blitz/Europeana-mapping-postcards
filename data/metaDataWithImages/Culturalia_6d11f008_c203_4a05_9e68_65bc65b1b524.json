@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_6d11f008_c203_4a05_9e68_65bc65b1b524",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/D3441D950EB94A458F4D54A835280ECA.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_6d11f008_c203_4a05_9e68_65bc65b1b524. Editura Jos. Drotleff; Fotograf V. Roth. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/6d11f008-c203-4a05-9e68-65bc65b1b524/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos. Drotleff; Fotograf V. Roth</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/6d11f008-c203-4a05-9e68-65bc65b1b524/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_6d11f008_c203_4a05_9e68_65bc65b1b524/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 19204720,
+            "ebucoreWidth": 1989,
+            "ebucoreHeight": 3214,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#CD853F",
+                "#DEB887",
+                "#A9A9A9",
+                "#696969",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://culturalia.ro/entities/6d11f008-c203-4a05-9e68-65bc65b1b524/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_6d11f008_c203_4a05_9e68_65bc65b1b524. Editura Jos. Drotleff; Fotograf V. Roth. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/6d11f008-c203-4a05-9e68-65bc65b1b524/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos. Drotleff; Fotograf V. Roth</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/6d11f008-c203-4a05-9e68-65bc65b1b524/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/9635E677361340EE8376275DE04FC961.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_6d11f008_c203_4a05_9e68_65bc65b1b524. Editura Jos. Drotleff; Fotograf V. Roth. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/6d11f008-c203-4a05-9e68-65bc65b1b524/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos. Drotleff; Fotograf V. Roth</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/6d11f008-c203-4a05-9e68-65bc65b1b524/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_6d11f008_c203_4a05_9e68_65bc65b1b524/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 19013742,
+            "ebucoreWidth": 3217,
+            "ebucoreHeight": 1970,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FAF0E6",
+                "#F5DEB3",
+                "#F5F5F5",
+                "#D3D3D3",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_6d11f008_c203_4a05_9e68_65bc65b1b524/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographers"
+    ],
+    "concept_note": [
+        "Individuals who specialize in creating photographs, which are still images produced from radiation-sensitive materials, typically by means of the chemical action of light on a sensitive film, paper, glass, or metal."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

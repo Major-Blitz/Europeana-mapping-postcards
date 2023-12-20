@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7361_ent0",
+    "webResources": [
+        {
+            "about": "https://bivaldi.gva.es/es/consulta/registro.do?id=7361",
+            "textAttributionSnippet": "(en) Municipal Palace [Graphic Material] - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7361_ent0. Exposici\u00f3n Regional Valenciana (1\u00aa: 1909: Val\u00e8ncia). Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=7361. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7361_ent0' target='_blank' rel='noopener'>Municipal Palace [Graphic Material]</a></dd><dt>Creator</dt><dd lang=''>Exposici\u00f3n Regional Valenciana (1\u00aa: 1909: Val\u00e8ncia)</dd><dt>Date</dt><dd lang=''>1909</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=7361' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://bivaldi.gva.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=10633502",
+            "textAttributionSnippet": "(en) Municipal Palace [Graphic Material] - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7361_ent0. Exposici\u00f3n Regional Valenciana (1\u00aa: 1909: Val\u00e8ncia). Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=7361. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7361_ent0' target='_blank' rel='noopener'>Municipal Palace [Graphic Material]</a></dd><dt>Creator</dt><dd lang=''>Exposici\u00f3n Regional Valenciana (1\u00aa: 1909: Val\u00e8ncia)</dd><dt>Date</dt><dd lang=''>1909</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=7361' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7361_ent0/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 147872,
+            "ebucoreWidth": 1096,
+            "ebucoreHeight": 706,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#FAFAD2",
+                "#D2B48C",
+                "#FFFFE0",
+                "#556B2F",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_7361_ent0/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "343_Hispana_BibliotecaValenciana"
+    ],
+    "edmCountry": [
+        "Spain"
+    ],
+    "edmLanguage": [
+        "es"
+    ],
+    "organization_label": [
+        "Hispana"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_c51ef731_588a_46af_92c5_c2fd09c95b83",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/1759096CA8574012BED5BAB4ABC5A1E9.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c51ef731_588a_46af_92c5_c2fd09c95b83. imprimat\u0103/tip\u0103rit\u0103 de Jos. Drotleff, Sibiu; Editura Emil Fischer (fotograf al Cur\u021bii austro-ungare) Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c51ef731-588a-46af-92c5-c2fd09c95b83/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>imprimat\u0103/tip\u0103rit\u0103 de Jos. Drotleff, Sibiu; Editura Emil Fischer (fotograf al Cur\u021bii austro-ungare) Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c51ef731-588a-46af-92c5-c2fd09c95b83/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_c51ef731_588a_46af_92c5_c2fd09c95b83/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 14614962,
+            "ebucoreWidth": 3387,
+            "ebucoreHeight": 2082,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#2F4F4F",
+                "#556B2F",
+                "#FDF5E6",
+                "#FFE4C4",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/4B06C559CC174EA0A25DF8EA98893AC6.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c51ef731_588a_46af_92c5_c2fd09c95b83. imprimat\u0103/tip\u0103rit\u0103 de Jos. Drotleff, Sibiu; Editura Emil Fischer (fotograf al Cur\u021bii austro-ungare) Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c51ef731-588a-46af-92c5-c2fd09c95b83/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>imprimat\u0103/tip\u0103rit\u0103 de Jos. Drotleff, Sibiu; Editura Emil Fischer (fotograf al Cur\u021bii austro-ungare) Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c51ef731-588a-46af-92c5-c2fd09c95b83/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_c51ef731_588a_46af_92c5_c2fd09c95b83/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 10417030,
+            "ebucoreWidth": 3387,
+            "ebucoreHeight": 2082,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#FAF0E6",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#FAEBD7",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/c51ef731-588a-46af-92c5-c2fd09c95b83/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_c51ef731_588a_46af_92c5_c2fd09c95b83. imprimat\u0103/tip\u0103rit\u0103 de Jos. Drotleff, Sibiu; Editura Emil Fischer (fotograf al Cur\u021bii austro-ungare) Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/c51ef731-588a-46af-92c5-c2fd09c95b83/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>imprimat\u0103/tip\u0103rit\u0103 de Jos. Drotleff, Sibiu; Editura Emil Fischer (fotograf al Cur\u021bii austro-ungare) Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/c51ef731-588a-46af-92c5-c2fd09c95b83/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_c51ef731_588a_46af_92c5_c2fd09c95b83/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

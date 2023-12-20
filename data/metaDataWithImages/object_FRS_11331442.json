@@ -1,0 +1,69 @@
+{
+    "aggregations_about": "/aggregation/provider/2058606/object_FRS_11331442",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Istituto Giancarlo Conestabile della Staffa e Luigi Piastrelli"
+                ]
+            },
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/files/original/c483ef51409286b17f17c8f2e2b5012b.jpghttps://istitutoconestabilepiastrelli.locloudhosting.net/files/original/6e3a1edf3d9745bc5a941294f32351b6.jpg",
+            "dcSource": {
+                "def": [
+                    "Archivio privato Dott. Enzo Orioli"
+                ]
+            },
+            "textAttributionSnippet": "(it) San Francesco : un vero cristiano contro i falsi cristiani - https://www.europeana.eu/item/2058606/object_FRS_11331442. (en) Popular Democratic Front. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/232. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331442' target='_blank' rel='noopener'>San Francesco : un vero cristiano contro i falsi cristiani</a></dd><dt>Creator</dt><dd lang='en'>Popular Democratic Front</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/232' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/232",
+            "textAttributionSnippet": "(it) San Francesco : un vero cristiano contro i falsi cristiani - https://www.europeana.eu/item/2058606/object_FRS_11331442. (en) Popular Democratic Front. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/232. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331442' target='_blank' rel='noopener'>San Francesco : un vero cristiano contro i falsi cristiani</a></dd><dt>Creator</dt><dd lang='en'>Popular Democratic Front</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/232' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 15005
+        },
+        {
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/files/original/c483ef51409286b17f17c8f2e2b5012b.jpg",
+            "textAttributionSnippet": "(it) San Francesco : un vero cristiano contro i falsi cristiani - https://www.europeana.eu/item/2058606/object_FRS_11331442. (en) Popular Democratic Front. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/232. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='it'><a href='http://data.europeana.eu/item/2058606/object_FRS_11331442' target='_blank' rel='noopener'>San Francesco : un vero cristiano contro i falsi cristiani</a></dd><dt>Creator</dt><dd lang='en'>Popular Democratic Front</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/232' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331442/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 214401,
+            "ebucoreWidth": 1134,
+            "ebucoreHeight": 1655,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#D2B48C",
+                "#BDB76B",
+                "#FFE4C4",
+                "#556B2F",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331442/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058606_Ag_EU_LoCloud_FRS"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

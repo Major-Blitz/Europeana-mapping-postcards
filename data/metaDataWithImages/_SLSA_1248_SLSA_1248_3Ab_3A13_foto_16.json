@@ -1,0 +1,101 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_16",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00016_0001_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "1"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Torkelsgatan i Viborg ca 1906 - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_16. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_16' target='_blank' rel='noopener'>Torkelsgatan i Viborg ca 1906</a></dd><dt>Date</dt><dd lang=''>1906</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_16/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1951678,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2586,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#FAEBD7",
+                "#FFFAF0",
+                "#FFF0F5",
+                "#F5DEB3",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00016_0002_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "2"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Torkelsgatan i Viborg ca 1906 - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_16. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_16' target='_blank' rel='noopener'>Torkelsgatan i Viborg ca 1906</a></dd><dt>Date</dt><dd lang=''>1906</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_16/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1330946,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2577,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#F5F5DC",
+                "#CD5C5C",
+                "#FFE4B5",
+                "#556B2F",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_16/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "pedestrians"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            28.0
+        ],
+        [
+            66.416664,
+            94.25
+        ],
+        [
+            65.0,
+            27.0
+        ],
+        [
+            60.70402,
+            28.762522
+        ],
+        [
+            60.710556,
+            28.749722
+        ]
+    ]
+}

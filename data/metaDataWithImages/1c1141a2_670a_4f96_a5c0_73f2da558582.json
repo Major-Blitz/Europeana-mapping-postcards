@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/1c1141a2_670a_4f96_a5c0_73f2da558582",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op de schietpers van de Sint-Sebastiaansgilde - https://www.europeana.eu/item/534/1c1141a2_670a_4f96_a5c0_73f2da558582. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/1c1141a2_670a_4f96_a5c0_73f2da558582' target='_blank' rel='noopener'>Zicht op de schietpers van de Sint-Sebastiaansgilde</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/fc0cbb3c-dc40-4be3-9ae7-ed05720c3fba.jpg",
+            "textAttributionSnippet": "(nl) Zicht op de schietpers van de Sint-Sebastiaansgilde - https://www.europeana.eu/item/534/1c1141a2_670a_4f96_a5c0_73f2da558582. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/1c1141a2_670a_4f96_a5c0_73f2da558582' target='_blank' rel='noopener'>Zicht op de schietpers van de Sint-Sebastiaansgilde</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/1c1141a2_670a_4f96_a5c0_73f2da558582/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 149562,
+            "ebucoreWidth": 650,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4B5",
+                "#FFEBCD",
+                "#DEB887",
+                "#FAFAD2",
+                "#C0C0C0",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/1c1141a2_670a_4f96_a5c0_73f2da558582/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

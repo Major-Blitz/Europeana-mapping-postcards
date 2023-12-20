@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_22330639",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Horsens Museum (F\u00e6ngselssamling)"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=2330421",
+            "textAttributionSnippet": "(da) Postkort, to stk., \"A/S Str\u00f8mpefabrikken Alberti\" og \"Vort F\u00f6deland var altid rigt\", karton, Statsf\u00e6ngslet i Horsens, Alberti, Peter Adler, 1910-1912 - https://www.europeana.eu/item/2058618/object_KUAS_22330639. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6855832. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='da'><a href='http://data.europeana.eu/item/2058618/object_KUAS_22330639' target='_blank' rel='noopener'>Postkort, to stk., \"A/S Str\u00f8mpefabrikken Alberti\" og \"Vort F\u00f6deland var altid rigt\", karton, Statsf\u00e6ngslet i Horsens, Alberti, Peter Adler, 1910-1912</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6855832' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_22330639/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 49671,
+            "ebucoreWidth": 209,
+            "ebucoreHeight": 320,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0E68C",
+                "#DEB887",
+                "#FFDEAD",
+                "#000000",
+                "#BDB76B",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6855832",
+            "textAttributionSnippet": "(da) Postkort, to stk., \"A/S Str\u00f8mpefabrikken Alberti\" og \"Vort F\u00f6deland var altid rigt\", karton, Statsf\u00e6ngslet i Horsens, Alberti, Peter Adler, 1910-1912 - https://www.europeana.eu/item/2058618/object_KUAS_22330639. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6855832. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='da'><a href='http://data.europeana.eu/item/2058618/object_KUAS_22330639' target='_blank' rel='noopener'>Postkort, to stk., \"A/S Str\u00f8mpefabrikken Alberti\" og \"Vort F\u00f6deland var altid rigt\", karton, Statsf\u00e6ngslet i Horsens, Alberti, Peter Adler, 1910-1912</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisGenstand.action?genstandId=6855832' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 16608
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_22330639/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

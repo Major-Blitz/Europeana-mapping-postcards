@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/91616/arme_object_AM018734",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/012sB2iwGF8C?dimension=1200x1200",
+            "textAttributionSnippet": "Vapenrock - https://www.europeana.eu/item/91616/arme_object_AM018734. Arm\u00e9museum - https://digitaltmuseum.se/011024374749. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91616/arme_object_AM018734' target='_blank' rel='noopener'>Vapenrock</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024374749' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_object_AM018734/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 496672,
+            "ebucoreWidth": 773,
+            "ebucoreHeight": 1240,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#696969",
+                "#808080",
+                "#BDB76B",
+                "#FFDEAD",
+                "#F4A460"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://mm.dimu.org/image/012sB2iwGF8C?dimension=600x600",
+            "textAttributionSnippet": "Vapenrock - https://www.europeana.eu/item/91616/arme_object_AM018734. Arm\u00e9museum - https://digitaltmuseum.se/011024374749. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91616/arme_object_AM018734' target='_blank' rel='noopener'>Vapenrock</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024374749' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_object_AM018734/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 149210,
+            "ebucoreWidth": 387,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#696969",
+                "#FFDEAD",
+                "#F4A460",
+                "#BDB76B",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011024374749",
+            "textAttributionSnippet": "Vapenrock - https://www.europeana.eu/item/91616/arme_object_AM018734. Arm\u00e9museum - https://digitaltmuseum.se/011024374749. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91616/arme_object_AM018734' target='_blank' rel='noopener'>Vapenrock</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011024374749' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 105598
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91616/arme_object_AM018734/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "91616_Ag_SE_SwedishNationalHeritage_Armemuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

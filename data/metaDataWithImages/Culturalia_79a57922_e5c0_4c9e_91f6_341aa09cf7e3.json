@@ -1,0 +1,84 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_79a57922_e5c0_4c9e_91f6_341aa09cf7e3",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_trifescu_docpatv494/Imagini1/AFA40284902D45EBB81BF75EA0C394C3.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_79a57922_e5c0_4c9e_91f6_341aa09cf7e3. Verlag Franz Wendler. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/79a57922-e5c0-4c9e-91f6-341aa09cf7e3/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Franz Wendler</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/79a57922-e5c0-4c9e-91f6-341aa09cf7e3/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_79a57922_e5c0_4c9e_91f6_341aa09cf7e3/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 19280876,
+            "ebucoreWidth": 3397,
+            "ebucoreHeight": 2157,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#B8860B",
+                "#9ACD32",
+                "#BDB76B",
+                "#D3D3D3",
+                "#778899",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_trifescu_docpatv494/Imagini1/916B2F5650134775891D27F4F1268F04.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_79a57922_e5c0_4c9e_91f6_341aa09cf7e3. Verlag Franz Wendler. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/79a57922-e5c0-4c9e-91f6-341aa09cf7e3/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Franz Wendler</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/79a57922-e5c0-4c9e-91f6-341aa09cf7e3/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_79a57922_e5c0_4c9e_91f6_341aa09cf7e3/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 11320262,
+            "ebucoreWidth": 3364,
+            "ebucoreHeight": 2158,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEFD5",
+                "#808080",
+                "#DCDCDC",
+                "#A9A9A9",
+                "#FAFAD2",
+                "#FFE4C4"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/79a57922-e5c0-4c9e-91f6-341aa09cf7e3/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_79a57922_e5c0_4c9e_91f6_341aa09cf7e3. Verlag Franz Wendler. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/79a57922-e5c0-4c9e-91f6-341aa09cf7e3/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Franz Wendler</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/79a57922-e5c0-4c9e-91f6-341aa09cf7e3/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_79a57922_e5c0_4c9e_91f6_341aa09cf7e3/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            45.0,
+            22.0
+        ]
+    ]
+}

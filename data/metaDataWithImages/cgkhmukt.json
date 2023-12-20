@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/cgkhmukt",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0028132.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "The German Hospital, Dalston: ward (\"Veranda\") for children, with children and nurses. Photograph by Marshall, Keene & Co - https://www.europeana.eu/item/9200579/cgkhmukt. Marshall Keene & Co.. Wellcome Collection - https://wellcomecollection.org/works/cgkhmukt. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/cgkhmukt' target='_blank' rel='noopener'>The German Hospital, Dalston: ward (\"Veranda\") for children, with children and nurses. Photograph by Marshall, Keene & Co</a></dd><dt>Creator</dt><dd lang=''>Marshall Keene & Co.</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/cgkhmukt' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 55373,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 308,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#A9A9A9",
+                "#808080",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/cgkhmukt",
+            "textAttributionSnippet": "The German Hospital, Dalston: ward (\"Veranda\") for children, with children and nurses. Photograph by Marshall, Keene & Co - https://www.europeana.eu/item/9200579/cgkhmukt. Marshall Keene & Co.. Wellcome Collection - https://wellcomecollection.org/works/cgkhmukt. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/cgkhmukt' target='_blank' rel='noopener'>The German Hospital, Dalston: ward (\"Veranda\") for children, with children and nurses. Photograph by Marshall, Keene & Co</a></dd><dt>Creator</dt><dd lang=''>Marshall Keene & Co.</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/cgkhmukt' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 270588
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0028132.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "The German Hospital, Dalston: ward (\"Veranda\") for children, with children and nurses. Photograph by Marshall, Keene & Co - https://www.europeana.eu/item/9200579/cgkhmukt. Marshall Keene & Co.. Wellcome Collection - https://wellcomecollection.org/works/cgkhmukt. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/cgkhmukt' target='_blank' rel='noopener'>The German Hospital, Dalston: ward (\"Veranda\") for children, with children and nurses. Photograph by Marshall, Keene & Co</a></dd><dt>Creator</dt><dd lang=''>Marshall Keene & Co.</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/cgkhmukt' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/L0028132.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/cgkhmukt/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 57604,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 315,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#A9A9A9",
+                "#808080",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/cgkhmukt/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

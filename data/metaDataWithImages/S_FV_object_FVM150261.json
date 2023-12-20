@@ -1,0 +1,55 @@
+{
+    "aggregations_about": "/aggregation/provider/916113/S_FV_object_FVM150261",
+    "webResources": [
+        {
+            "about": "http://digitaltmuseum.se/021025788917",
+            "textAttributionSnippet": "(en) Tavla - https://www.europeana.eu/item/916113/S_FV_object_FVM150261. Flygvapenmuseum - http://digitaltmuseum.se/021025788917. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVM150261' target='_blank' rel='noopener'>Tavla</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021025788917' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/012uPWFRZt7n?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Tavla - https://www.europeana.eu/item/916113/S_FV_object_FVM150261. Flygvapenmuseum - http://digitaltmuseum.se/021025788917. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVM150261' target='_blank' rel='noopener'>Tavla</a></dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021025788917' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVM150261/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 295687,
+            "ebucoreWidth": 666,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#E6E6FA",
+                "#DCDCDC",
+                "#F5F5DC",
+                "#FAF0E6",
+                "#F0FFF0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVM150261/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Work of art"
+    ],
+    "concept_note": [
+        "Aesthetic item or artistic creation"
+    ],
+    "edmDatasetName": [
+        "916113_Ag_SE_Flygvapenmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

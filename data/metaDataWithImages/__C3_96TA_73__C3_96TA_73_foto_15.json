@@ -1,0 +1,85 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/__C3_96TA_73__C3_96TA_73_foto_15",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota/ota73/ota_73_foto_00015_0001_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "1"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort, Argyle Street i Port Alberni - https://www.europeana.eu/item/2021007/__C3_96TA_73__C3_96TA_73_foto_15. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_73__C3_96TA_73_foto_15' target='_blank' rel='noopener'>Vykort, Argyle Street i Port Alberni</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_73__C3_96TA_73_foto_15/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 692822,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2653,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#FFFFF0",
+                "#808080",
+                "#708090",
+                "#F5F5F5",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota/ota73/ota_73_foto_00015_0002_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "2"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort, Argyle Street i Port Alberni - https://www.europeana.eu/item/2021007/__C3_96TA_73__C3_96TA_73_foto_15. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_73__C3_96TA_73_foto_15' target='_blank' rel='noopener'>Vykort, Argyle Street i Port Alberni</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_73__C3_96TA_73_foto_15/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 722676,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2645,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#D2B48C",
+                "#DCDCDC",
+                "#FAEBD7",
+                "#F5F5F5",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_73__C3_96TA_73_foto_15/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "towns and cities"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            56.0,
+            -109.0
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_86067",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46845/thumbnail?customer=knp",
+            "textAttributionSnippet": "(en) Postcard number 7 of the Forest Education Office. The forest is burning! Beware of fire in the forest! (top picture) The trail of the forest fire is terrible (bottom picture) - https://www.europeana.eu/item/2021008/_knp_86067. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86067. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_86067' target='_blank' rel='noopener'>Postcard number 7 of the Forest Education Office. The forest is burning! Beware of fire in the forest! (top picture) The trail of the forest fire is terrible (bottom picture)</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86067' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_86067/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 20995,
+            "ebucoreWidth": 270,
+            "ebucoreHeight": 400,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FFF0F5",
+                "#708090",
+                "#E6E6FA",
+                "#696969",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://finna.fi/Record/lusto.knp-86067",
+            "textAttributionSnippet": "(en) Postcard number 7 of the Forest Education Office. The forest is burning! Beware of fire in the forest! (top picture) The trail of the forest fire is terrible (bottom picture) - https://www.europeana.eu/item/2021008/_knp_86067. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86067. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_86067' target='_blank' rel='noopener'>Postcard number 7 of the Forest Education Office. The forest is burning! Beware of fire in the forest! (top picture) The trail of the forest fire is terrible (bottom picture)</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86067' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_86067/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

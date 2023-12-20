@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_277597",
+    "webResources": [
+        {
+            "about": "https://purl.pt/33679/service/media/cover/max",
+            "textAttributionSnippet": "(pt) Companhia de Diamantes de Angola - https://www.europeana.eu/item/10501/bib_rnod_277597. (pt) Companhia de Diamantes de Angola. Biblioteca Nacional de Portugal - https://purl.pt/33679. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_277597' target='_blank' rel='noopener'>Companhia de Diamantes de Angola</a></dd><dt>Creator</dt><dd lang='pt'>Companhia de Diamantes de Angola</dd><dt>Date</dt><dd lang=''>1946</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33679' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_277597/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1558689,
+            "ebucoreWidth": 2160,
+            "ebucoreHeight": 3377,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#C0C0C0",
+                "#2F4F4F",
+                "#808080",
+                "#D2B48C",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://purl.pt/33679",
+            "textAttributionSnippet": "(pt) Companhia de Diamantes de Angola - https://www.europeana.eu/item/10501/bib_rnod_277597. (pt) Companhia de Diamantes de Angola. Biblioteca Nacional de Portugal - https://purl.pt/33679. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_277597' target='_blank' rel='noopener'>Companhia de Diamantes de Angola</a></dd><dt>Creator</dt><dd lang='pt'>Companhia de Diamantes de Angola</dd><dt>Date</dt><dd lang=''>1946</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33679' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_277597/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": "not showed"
+}

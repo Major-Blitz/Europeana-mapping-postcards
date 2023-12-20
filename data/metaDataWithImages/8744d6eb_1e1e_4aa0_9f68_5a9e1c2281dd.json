@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/8744d6eb_1e1e_4aa0_9f68_5a9e1c2281dd",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Interieur van de kloosterkerk van de Karmelieten in de Ezelstraat - https://www.europeana.eu/item/534/8744d6eb_1e1e_4aa0_9f68_5a9e1c2281dd. (nl) Lagaert (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/8744d6eb_1e1e_4aa0_9f68_5a9e1c2281dd' target='_blank' rel='noopener'>Interieur van de kloosterkerk van de Karmelieten in de Ezelstraat</a></dd><dt>Creator</dt><dd lang='nl'>Lagaert (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/3fc890a7-8d38-4d38-88cd-4aaab92af9b2.jpg",
+            "textAttributionSnippet": "(nl) Interieur van de kloosterkerk van de Karmelieten in de Ezelstraat - https://www.europeana.eu/item/534/8744d6eb_1e1e_4aa0_9f68_5a9e1c2281dd. (nl) Lagaert (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/8744d6eb_1e1e_4aa0_9f68_5a9e1c2281dd' target='_blank' rel='noopener'>Interieur van de kloosterkerk van de Karmelieten in de Ezelstraat</a></dd><dt>Creator</dt><dd lang='nl'>Lagaert (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/8744d6eb_1e1e_4aa0_9f68_5a9e1c2281dd/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 195721,
+            "ebucoreWidth": 664,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#B0C4DE",
+                "#D3D3D3",
+                "#EEE8AA",
+                "#FAEBD7",
+                "#696969"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/8744d6eb_1e1e_4aa0_9f68_5a9e1c2281dd/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

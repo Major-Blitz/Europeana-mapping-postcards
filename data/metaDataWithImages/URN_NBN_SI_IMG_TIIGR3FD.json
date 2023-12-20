@@ -1,0 +1,99 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_TIIGR3FD",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-TIIGR3FD/413a7110-f8dc-48a8-bb11-b86fef3aa375/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "903 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Miklo\u0161i\u010deva cesta; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD' target='_blank' rel='noopener'>Miklo\u0161i\u010deva cesta; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_TIIGR3FD/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 924696,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 2250,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAF0",
+                "#FDF5E6",
+                "#F5DEB3",
+                "#FFFFF0",
+                "#C0C0C0",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-TIIGR3FD/509a8965-9b35-4bf4-a2ff-5ef15896ed8d/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "878 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Miklo\u0161i\u010deva cesta; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD' target='_blank' rel='noopener'>Miklo\u0161i\u010deva cesta; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-TIIGR3FD/maxi/edm",
+            "textAttributionSnippet": "(sl) Miklo\u0161i\u010deva cesta; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD' target='_blank' rel='noopener'>Miklo\u0161i\u010deva cesta; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 32802,
+            "ebucoreWidth": 801,
+            "ebucoreHeight": 599,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#FFF5EE",
+                "#FFFFF0",
+                "#D2B48C",
+                "#F0FFF0",
+                "#FFFAF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD",
+            "textAttributionSnippet": "(sl) Miklo\u0161i\u010deva cesta; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD' target='_blank' rel='noopener'>Miklo\u0161i\u010deva cesta; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 30238
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-TIIGR3FD/37ad5be4-1191-4723-bb43-1e3c9c63aa0b/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "901 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Miklo\u0161i\u010deva cesta; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_TIIGR3FD' target='_blank' rel='noopener'>Miklo\u0161i\u010deva cesta; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-TIIGR3FD' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_TIIGR3FD/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

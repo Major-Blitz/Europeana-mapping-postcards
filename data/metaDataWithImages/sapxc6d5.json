@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/sapxc6d5",
+    "webResources": [
+        {
+            "about": "https://wellcomecollection.org/works/sapxc6d5",
+            "textAttributionSnippet": "A wife sending her husband away on holiday in order to pursue an affair with a \"nerve specialist\" who has got the husband out of the way by recommending a change of scene for him. Colour process print, c. 1920 - https://www.europeana.eu/item/9200579/sapxc6d5. Wellcome Collection - https://wellcomecollection.org/works/sapxc6d5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/sapxc6d5' target='_blank' rel='noopener'>A wife sending her husband away on holiday in order to pursue an affair with a \"nerve specialist\" who has got the husband out of the way by recommending a change of scene for him. Colour process print, c. 1920</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/sapxc6d5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 273346
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0031918.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "A wife sending her husband away on holiday in order to pursue an affair with a \"nerve specialist\" who has got the husband out of the way by recommending a change of scene for him. Colour process print, c. 1920 - https://www.europeana.eu/item/9200579/sapxc6d5. Wellcome Collection - https://wellcomecollection.org/works/sapxc6d5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/sapxc6d5' target='_blank' rel='noopener'>A wife sending her husband away on holiday in order to pursue an affair with a \"nerve specialist\" who has got the husband out of the way by recommending a change of scene for him. Colour process print, c. 1920</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/sapxc6d5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 64122,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 321,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#F5DEB3",
+                "#C0C0C0",
+                "#D2B48C",
+                "#000000",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0031918.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "A wife sending her husband away on holiday in order to pursue an affair with a \"nerve specialist\" who has got the husband out of the way by recommending a change of scene for him. Colour process print, c. 1920 - https://www.europeana.eu/item/9200579/sapxc6d5. Wellcome Collection - https://wellcomecollection.org/works/sapxc6d5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/sapxc6d5' target='_blank' rel='noopener'>A wife sending her husband away on holiday in order to pursue an affair with a \"nerve specialist\" who has got the husband out of the way by recommending a change of scene for him. Colour process print, c. 1920</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/sapxc6d5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/L0031918.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/sapxc6d5/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 66968,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 328,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#D2B48C",
+                "#000000",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/sapxc6d5/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

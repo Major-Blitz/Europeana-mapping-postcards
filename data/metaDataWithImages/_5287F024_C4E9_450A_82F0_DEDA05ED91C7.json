@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_5287F024_C4E9_450A_82F0_DEDA05ED91C7",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.5287F024-C4E9-450A-82F0-DEDA05ED91C7?lng=en-gb",
+            "textAttributionSnippet": "(en) business card; Godt nytt \u00c5r! Happy New Year! - https://www.europeana.eu/item/117/_5287F024_C4E9_450A_82F0_DEDA05ED91C7. (en) Cronvall, J. E. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.5287F024-C4E9-450A-82F0-DEDA05ED91C7?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_5287F024_C4E9_450A_82F0_DEDA05ED91C7' target='_blank' rel='noopener'>business card; Godt nytt \u00c5r! Happy New Year!</a></dd><dt>Creator</dt><dd lang='en'>Cronvall, J. E</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.5287F024-C4E9-450A-82F0-DEDA05ED91C7?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2385403&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) business card; Godt nytt \u00c5r! Happy New Year! - https://www.europeana.eu/item/117/_5287F024_C4E9_450A_82F0_DEDA05ED91C7. (en) Cronvall, J. E. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.5287F024-C4E9-450A-82F0-DEDA05ED91C7?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_5287F024_C4E9_450A_82F0_DEDA05ED91C7' target='_blank' rel='noopener'>business card; Godt nytt \u00c5r! Happy New Year!</a></dd><dt>Creator</dt><dd lang='en'>Cronvall, J. E</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.5287F024-C4E9-450A-82F0-DEDA05ED91C7?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_5287F024_C4E9_450A_82F0_DEDA05ED91C7/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 438208,
+            "ebucoreWidth": 866,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0E68C",
+                "#FFE4C4",
+                "#D2B48C",
+                "#EEE8AA",
+                "#B0C4DE",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_5287F024_C4E9_450A_82F0_DEDA05ED91C7/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

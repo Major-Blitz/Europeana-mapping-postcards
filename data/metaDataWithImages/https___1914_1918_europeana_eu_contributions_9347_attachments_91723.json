@@ -1,0 +1,748 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 413567,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#808080",
+                "#FFF5EE",
+                "#F8F8FF",
+                "#FDF5E6",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0009.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0009.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 302712,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#F5F5F5",
+                "#696969",
+                "#A9A9A9",
+                "#CD853F",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0002.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0002.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 409197,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FFFFFF",
+                "#2F4F4F",
+                "#A0522D",
+                "#8FBC8F",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0007.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0007.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 339437,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#F8F8FF",
+                "#696969",
+                "#F5F5F5",
+                "#F5FFFA",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0013.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0013.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 334589,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#A0522D",
+                "#FFFFFF",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0004.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0004.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 640974,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#A0522D",
+                "#BC8F8F",
+                "#BDB76B",
+                "#DCDCDC",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0015.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0015.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 320948,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E6E6FA",
+                "#F5FFFA",
+                "#FFFAFA",
+                "#FFFAF0",
+                "#8FBC8F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0011.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0011.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 313246,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#A0522D",
+                "#FFFFFF",
+                "#F5FFFA",
+                "#6B8E23",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 294772,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#8FBC8F",
+                "#696969",
+                "#FAF0E6",
+                "#CD853F",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0017.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0017.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 274663,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#CD853F",
+                "#FFFFFF",
+                "#A9A9A9",
+                "#BDB76B",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0008.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0008.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 459494,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F8F8FF",
+                "#2F4F4F",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#F5FFFA",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0003.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0003.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 297487,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#D3D3D3",
+                "#8FBC8F",
+                "#708090",
+                "#FFFFFF",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0006.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0006.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 658292,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E6E6FA",
+                "#FAF0E6",
+                "#556B2F",
+                "#BDB76B",
+                "#BC8F8F",
+                "#F0FFF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0005.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0005.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 314827,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0F8FF",
+                "#696969",
+                "#000000",
+                "#A0522D",
+                "#DCDCDC",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0014.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0014.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 449138,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#F5FFFA",
+                "#FFFFFF",
+                "#2F4F4F",
+                "#DCDCDC",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0016.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0016.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 390280,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#8B4513",
+                "#F5FFFA",
+                "#FFFAFA",
+                "#F5F5DC",
+                "#A52A2A"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0010.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0010.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 374463,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#FFFFFF",
+                "#F5FFFA",
+                "#CD853F",
+                "#8FBC8F",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0012.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-11-19 09:10:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723. europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723' target='_blank' rel='noopener'>02 S\u00e9lection de 9 cartes postales \u00e9crites par Jean Molinier</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/0a9c067bfa0c6a87ec3914ac02cae77d</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/9347.91723.original_Page0012.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 373130,
+            "ebucoreWidth": 2338,
+            "ebucoreHeight": 1652,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#FFFFFF",
+                "#F5F5F5",
+                "#F5FFFA",
+                "#8FBC8F",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9347_attachments_91723/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": "not showed"
+}

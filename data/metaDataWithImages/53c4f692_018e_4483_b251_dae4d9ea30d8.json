@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/53c4f692_018e_4483_b251_dae4d9ea30d8",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/de9df19a-219e-493e-8e45-30537e0d786b.jpg",
+            "textAttributionSnippet": "(nl) Panoramisch gezicht naar het oosten met centraal het Belfort - https://www.europeana.eu/item/534/53c4f692_018e_4483_b251_dae4d9ea30d8. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/53c4f692_018e_4483_b251_dae4d9ea30d8' target='_blank' rel='noopener'>Panoramisch gezicht naar het oosten met centraal het Belfort</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/53c4f692_018e_4483_b251_dae4d9ea30d8/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 149317,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 651,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#BDB76B",
+                "#DCDCDC",
+                "#C0C0C0",
+                "#BC8F8F",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Panoramisch gezicht naar het oosten met centraal het Belfort - https://www.europeana.eu/item/534/53c4f692_018e_4483_b251_dae4d9ea30d8. (nl) Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/53c4f692_018e_4483_b251_dae4d9ea30d8' target='_blank' rel='noopener'>Panoramisch gezicht naar het oosten met centraal het Belfort</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9o De Graeve H\u00e9liotypie/Star (Gent)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/53c4f692_018e_4483_b251_dae4d9ea30d8/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

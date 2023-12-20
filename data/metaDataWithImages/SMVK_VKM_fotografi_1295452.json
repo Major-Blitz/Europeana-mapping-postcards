@@ -1,0 +1,77 @@
+{
+    "aggregations_about": "/aggregation/provider/91609/SMVK_VKM_fotografi_1295452",
+    "webResources": [
+        {
+            "about": "https://collections.smvk.se/carlotta-vkm/web/object/1295452",
+            "textAttributionSnippet": "(en) Sacrifice, Crafts, Photography, - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1295452. (en) Unknown. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1295452. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1295452' target='_blank' rel='noopener'>Sacrifice, Crafts, Photography,</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1295452' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 17705
+        },
+        {
+            "webResourceDcRights": {
+                "sv": [
+                    "Creative Commons - Erk\u00e4nnande-Ickekommersiell-Inga bearbetningar"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1296687/image.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Sacrifice, Crafts, Photography, - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1295452. (en) Unknown. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1295452. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1295452' target='_blank' rel='noopener'>Sacrifice, Crafts, Photography,</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1295452' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1295452/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 46529,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 400,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#C0C0C0",
+                "#2F4F4F",
+                "#FFE4E1",
+                "#BC8F8F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1295452/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91609_SwedishNationalHeritage_smvk_vkmf"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            51.0,
+            10.0
+        ]
+    ]
+}

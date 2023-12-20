@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_ZMAJZHUE3G5GK26UIHKVDKCF3XH2RBHN",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3743890",
+            "textAttributionSnippet": "(et) P\u00f5ltsamaa, Karl August Hermanni monument - https://www.europeana.eu/item/401/item_ZMAJZHUE3G5GK26UIHKVDKCF3XH2RBHN. (en) Scarlet, A. (author); KUNST (publisher). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3743890. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_ZMAJZHUE3G5GK26UIHKVDKCF3XH2RBHN' target='_blank' rel='noopener'>P\u00f5ltsamaa, Karl August Hermanni monument</a></dd><dt>Creator</dt><dd lang='en'>Scarlet, A. (author); KUNST (publisher)</dd><dt>Date</dt><dd lang=''>1966</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3743890' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=d13a882b-44c2-4425-9f45-63c7fd023017",
+            "textAttributionSnippet": "(et) P\u00f5ltsamaa, Karl August Hermanni monument - https://www.europeana.eu/item/401/item_ZMAJZHUE3G5GK26UIHKVDKCF3XH2RBHN. (en) Scarlet, A. (author); KUNST (publisher). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3743890. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_ZMAJZHUE3G5GK26UIHKVDKCF3XH2RBHN' target='_blank' rel='noopener'>P\u00f5ltsamaa, Karl August Hermanni monument</a></dd><dt>Creator</dt><dd lang='en'>Scarlet, A. (author); KUNST (publisher)</dd><dt>Date</dt><dd lang=''>1966</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3743890' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_ZMAJZHUE3G5GK26UIHKVDKCF3XH2RBHN/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 183368,
+            "ebucoreWidth": 599,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#2F4F4F",
+                "#E6E6FA",
+                "#DCDCDC",
+                "#556B2F",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_ZMAJZHUE3G5GK26UIHKVDKCF3XH2RBHN/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

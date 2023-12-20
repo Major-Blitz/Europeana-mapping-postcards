@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_H29GJNS6",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-H29GJNS6",
+            "textAttributionSnippet": "(sl) Koro\u0161ci pozor!!; na\u0161e glasovnice so bele - nem\u0161ke so zelene. !!!! - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_H29GJNS6. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-H29GJNS6. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_H29GJNS6' target='_blank' rel='noopener'>Koro\u0161ci pozor!!; na\u0161e glasovnice so bele - nem\u0161ke so zelene. !!!!</a></dd><dt>Date</dt><dd lang=''>1920</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-H29GJNS6' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 29298
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-H29GJNS6/maxi/edm",
+            "textAttributionSnippet": "(sl) Koro\u0161ci pozor!!; na\u0161e glasovnice so bele - nem\u0161ke so zelene. !!!! - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_H29GJNS6. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-H29GJNS6. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_H29GJNS6' target='_blank' rel='noopener'>Koro\u0161ci pozor!!; na\u0161e glasovnice so bele - nem\u0161ke so zelene. !!!!</a></dd><dt>Date</dt><dd lang=''>1920</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-H29GJNS6' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 69993,
+            "ebucoreWidth": 857,
+            "ebucoreHeight": 597,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#2F4F4F",
+                "#FAF0E6",
+                "#000000",
+                "#FFFFF0",
+                "#FFFAF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-H29GJNS6/a86e2eb6-5e41-4922-a9fc-70a6fd9116e0/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "3802 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Koro\u0161ci pozor!!; na\u0161e glasovnice so bele - nem\u0161ke so zelene. !!!! - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_H29GJNS6. Dr Franc Su\u0161nik's Central Library of Carinthia - http://www.dlib.si/details/URN:NBN:SI:IMG-H29GJNS6. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_H29GJNS6' target='_blank' rel='noopener'>Koro\u0161ci pozor!!; na\u0161e glasovnice so bele - nem\u0161ke so zelene. !!!!</a></dd><dt>Date</dt><dd lang=''>1920</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-H29GJNS6' target='_blank' rel='noopener'>Dr Franc Su\u0161nik's Central Library of Carinthia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_H29GJNS6/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3894069,
+            "ebucoreWidth": 3250,
+            "ebucoreHeight": 2268,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#2F4F4F",
+                "#000000",
+                "#FFFAF0",
+                "#FAF0E6",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_H29GJNS6/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

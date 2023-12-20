@@ -1,0 +1,92 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_305b972c_55a7_484c_9d12_5bd3415cf810",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/305b972c-55a7-484c-9d12-5bd3415cf810/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_305b972c_55a7_484c_9d12_5bd3415cf810. Atelier Dlujanski \u201eFoto Arta\u201d. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/305b972c-55a7-484c-9d12-5bd3415cf810/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Atelier Dlujanski \u201eFoto Arta\u201d</dd><dt>Date</dt><dd lang=''>1924</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/305b972c-55a7-484c-9d12-5bd3415cf810/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-img-stranse_Micu_Bianca_docpatv492_DOCPATv492/Imagini/3E47AB345CF447C2B9843E24C0C0156F.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_305b972c_55a7_484c_9d12_5bd3415cf810. Atelier Dlujanski \u201eFoto Arta\u201d. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/305b972c-55a7-484c-9d12-5bd3415cf810/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Atelier Dlujanski \u201eFoto Arta\u201d</dd><dt>Date</dt><dd lang=''>1924</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/305b972c-55a7-484c-9d12-5bd3415cf810/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_305b972c_55a7_484c_9d12_5bd3415cf810/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 3965368,
+            "ebucoreWidth": 1626,
+            "ebucoreHeight": 1048,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#708090",
+                "#FAEBD7",
+                "#778899",
+                "#808080",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-img-stranse_Micu_Bianca_docpatv492_DOCPATv492/Imagini/0D5A75D6AE3F409AB8DDFE12AB2E8EA0.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_305b972c_55a7_484c_9d12_5bd3415cf810. Atelier Dlujanski \u201eFoto Arta\u201d. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/305b972c-55a7-484c-9d12-5bd3415cf810/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Atelier Dlujanski \u201eFoto Arta\u201d</dd><dt>Date</dt><dd lang=''>1924</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/305b972c-55a7-484c-9d12-5bd3415cf810/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_305b972c_55a7_484c_9d12_5bd3415cf810/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5108156,
+            "ebucoreWidth": 1622,
+            "ebucoreHeight": 1048,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#2F4F4F",
+                "#BC8F8F",
+                "#778899",
+                "#F5F5DC",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_305b972c_55a7_484c_9d12_5bd3415cf810/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "paper (fiber product)"
+    ],
+    "concept_note": [
+        "Refers generally to all types of thin matted or felted sheets or webs of fiber formed and dried on a fine screen from a pulpy water suspension. The fibers may be animal, such as hair, silk or wool, or mineral, such as asbestos, or synthetic. However most paper is made from cellulosic plant fiber, such as from wood pulp, grass, cotton, linen, and straw."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "House of Mure\u0219enilor"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            46.175278,
+            23.914444
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

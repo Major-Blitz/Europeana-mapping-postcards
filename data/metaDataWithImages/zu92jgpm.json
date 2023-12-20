@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/zu92jgpm",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0016600.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "A postcard illustrating the church of Albert in Somme with the church tower in the form of the Virgin crashing to the ground. Process print - https://www.europeana.eu/item/9200579/zu92jgpm. Wellcome Collection - https://wellcomecollection.org/works/zu92jgpm. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/zu92jgpm' target='_blank' rel='noopener'>A postcard illustrating the church of Albert in Somme with the church tower in the form of the Virgin crashing to the ground. Process print</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/zu92jgpm' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 70007,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 329,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#696969",
+                "#2F4F4F",
+                "#808080",
+                "#A9A9A9",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0016600.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "A postcard illustrating the church of Albert in Somme with the church tower in the form of the Virgin crashing to the ground. Process print - https://www.europeana.eu/item/9200579/zu92jgpm. Wellcome Collection - https://wellcomecollection.org/works/zu92jgpm. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/zu92jgpm' target='_blank' rel='noopener'>A postcard illustrating the church of Albert in Somme with the church tower in the form of the Virgin crashing to the ground. Process print</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/zu92jgpm' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0016600.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/zu92jgpm/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 72420,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 336,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#696969",
+                "#2F4F4F",
+                "#808080",
+                "#A9A9A9",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/zu92jgpm",
+            "textAttributionSnippet": "A postcard illustrating the church of Albert in Somme with the church tower in the form of the Virgin crashing to the ground. Process print - https://www.europeana.eu/item/9200579/zu92jgpm. Wellcome Collection - https://wellcomecollection.org/works/zu92jgpm. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/zu92jgpm' target='_blank' rel='noopener'>A postcard illustrating the church of Albert in Somme with the church tower in the form of the Virgin crashing to the ground. Process print</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/zu92jgpm' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 269564
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/zu92jgpm/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

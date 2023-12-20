@@ -1,0 +1,72 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03127",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/03347SnKPrBV?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vykort - S:t Eriks torg och Sysslomansgatan, Uppsala f\u00f6re 1903 - https://www.europeana.eu/item/91617/upmu_photo_FN03127. Upplandsmuseet - https://digitaltmuseum.se/011013981442. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03127' target='_blank' rel='noopener'>Vykort - S:t Eriks torg och Sysslomansgatan, Uppsala f\u00f6re 1903</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981442' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03127/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 821487,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 758,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0F8FF",
+                "#808080",
+                "#F5F5F5",
+                "#FFFFF0",
+                "#F5DEB3",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011013981442",
+            "textAttributionSnippet": "(sv) Vykort - S:t Eriks torg och Sysslomansgatan, Uppsala f\u00f6re 1903 - https://www.europeana.eu/item/91617/upmu_photo_FN03127. Upplandsmuseet - https://digitaltmuseum.se/011013981442. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03127' target='_blank' rel='noopener'>Vykort - S:t Eriks torg och Sysslomansgatan, Uppsala f\u00f6re 1903</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981442' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03127/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Cyclist"
+    ],
+    "concept_note": [
+        "Person who rides a bike"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

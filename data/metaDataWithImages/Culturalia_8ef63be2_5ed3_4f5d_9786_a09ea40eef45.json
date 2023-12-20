@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_8ef63be2_5ed3_4f5d_9786_a09ea40eef45",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_05%20Mai%202020_istorie_voina_docpatv494/Imagini1/3B0EE38F1C834067948D7673A9A168AF.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8ef63be2_5ed3_4f5d_9786_a09ea40eef45. Editura Jos. Drotleff. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8ef63be2-5ed3-4f5d-9786-a09ea40eef45/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos. Drotleff</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8ef63be2-5ed3-4f5d-9786-a09ea40eef45/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_8ef63be2_5ed3_4f5d_9786_a09ea40eef45/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21664816,
+            "ebucoreWidth": 3386,
+            "ebucoreHeight": 2131,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#778899",
+                "#CD5C5C",
+                "#BC8F8F",
+                "#A9A9A9",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/8ef63be2-5ed3-4f5d-9786-a09ea40eef45/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8ef63be2_5ed3_4f5d_9786_a09ea40eef45. Editura Jos. Drotleff. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8ef63be2-5ed3-4f5d-9786-a09ea40eef45/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos. Drotleff</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8ef63be2-5ed3-4f5d-9786-a09ea40eef45/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_05%20Mai%202020_istorie_voina_docpatv494/Imagini1/69D3792EA5E04813A1A7C87F15442A0F.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8ef63be2_5ed3_4f5d_9786_a09ea40eef45. Editura Jos. Drotleff. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8ef63be2-5ed3-4f5d-9786-a09ea40eef45/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos. Drotleff</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8ef63be2-5ed3-4f5d-9786-a09ea40eef45/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_8ef63be2_5ed3_4f5d_9786_a09ea40eef45/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21654650,
+            "ebucoreWidth": 3386,
+            "ebucoreHeight": 2130,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#F5F5DC",
+                "#FFE4C4",
+                "#C0C0C0",
+                "#D3D3D3",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_8ef63be2_5ed3_4f5d_9786_a09ea40eef45/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

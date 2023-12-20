@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_MTS6AUAWCWNDZMWOMI7QCU5NVRMH5VDM",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=c965c5dc-e027-474d-88dc-2cf6004c87b9",
+            "textAttributionSnippet": "(et) Vaateid Eestist - https://www.europeana.eu/item/401/item_MTS6AUAWCWNDZMWOMI7QCU5NVRMH5VDM. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741125. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_MTS6AUAWCWNDZMWOMI7QCU5NVRMH5VDM' target='_blank' rel='noopener'>Vaateid Eestist</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741125' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_MTS6AUAWCWNDZMWOMI7QCU5NVRMH5VDM/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 99217,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 544,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#DEB887",
+                "#FFFAF0",
+                "#8FBC8F",
+                "#DCDCDC",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3741125",
+            "textAttributionSnippet": "(et) Vaateid Eestist - https://www.europeana.eu/item/401/item_MTS6AUAWCWNDZMWOMI7QCU5NVRMH5VDM. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741125. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_MTS6AUAWCWNDZMWOMI7QCU5NVRMH5VDM' target='_blank' rel='noopener'>Vaateid Eestist</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741125' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_MTS6AUAWCWNDZMWOMI7QCU5NVRMH5VDM/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_ENUOZGYVHDSGJ3ZRA5ODGPKVP7MFOYT6",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3748081",
+            "textAttributionSnippet": "(et) Merik\u00fcla - https://www.europeana.eu/item/401/item_ENUOZGYVHDSGJ3ZRA5ODGPKVP7MFOYT6. (et) Triefeldt, Johanna (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3748081. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_ENUOZGYVHDSGJ3ZRA5ODGPKVP7MFOYT6' target='_blank' rel='noopener'>Merik\u00fcla</a></dd><dt>Creator</dt><dd lang='et'>Triefeldt, Johanna (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3748081' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=61441c23-e433-42d7-9658-15e0d5fc3d01",
+            "textAttributionSnippet": "(et) Merik\u00fcla - https://www.europeana.eu/item/401/item_ENUOZGYVHDSGJ3ZRA5ODGPKVP7MFOYT6. (et) Triefeldt, Johanna (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3748081. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_ENUOZGYVHDSGJ3ZRA5ODGPKVP7MFOYT6' target='_blank' rel='noopener'>Merik\u00fcla</a></dd><dt>Creator</dt><dd lang='et'>Triefeldt, Johanna (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3748081' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_ENUOZGYVHDSGJ3ZRA5ODGPKVP7MFOYT6/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 112106,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 555,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#D3D3D3",
+                "#FFEBCD",
+                "#D2B48C",
+                "#2F4F4F",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_ENUOZGYVHDSGJ3ZRA5ODGPKVP7MFOYT6/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            59.216667,
+            27.3
+        ]
+    ]
+}

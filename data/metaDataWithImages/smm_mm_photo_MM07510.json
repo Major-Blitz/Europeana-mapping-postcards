@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916108/smm_mm_photo_MM07510",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/012uN2PWCeE9?dimension=600x600",
+            "textAttributionSnippet": "(en) Karlskrona, the Great Square and Fredrikskyrkan in 1915.Postcards - https://www.europeana.eu/item/916108/smm_mm_photo_MM07510. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/021015563047. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_MM07510' target='_blank' rel='noopener'>Karlskrona, the Great Square and Fredrikskyrkan in 1915.Postcards</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021015563047' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_MM07510/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 185890,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 391,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#2F4F4F",
+                "#696969",
+                "#808080",
+                "#C0C0C0",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021015563047",
+            "textAttributionSnippet": "(en) Karlskrona, the Great Square and Fredrikskyrkan in 1915.Postcards - https://www.europeana.eu/item/916108/smm_mm_photo_MM07510. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/021015563047. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_MM07510' target='_blank' rel='noopener'>Karlskrona, the Great Square and Fredrikskyrkan in 1915.Postcards</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021015563047' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 93003
+        },
+        {
+            "about": "https://mm.dimu.org/image/012uN2PWCeE9?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Karlskrona, the Great Square and Fredrikskyrkan in 1915.Postcards - https://www.europeana.eu/item/916108/smm_mm_photo_MM07510. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/021015563047. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_MM07510' target='_blank' rel='noopener'>Karlskrona, the Great Square and Fredrikskyrkan in 1915.Postcards</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021015563047' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_MM07510/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 692830,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 782,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#2F4F4F",
+                "#696969",
+                "#808080",
+                "#C0C0C0",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_MM07510/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "916108_Ag_SE_SwedishNationalHeritage_Marinmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

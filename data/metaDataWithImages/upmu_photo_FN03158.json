@@ -1,0 +1,99 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03158",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/012s93m5zM6W?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcards - sisters Lydia, Ragnhild, Karin, Maja, Berta and Rosa Nyman, Uppsala, 1906 - https://www.europeana.eu/item/91617/upmu_photo_FN03158. (sv) Ok\u00e4nd,. Upplandsmuseet - https://digitaltmuseum.se/011013981466. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03158' target='_blank' rel='noopener'>Postcards - sisters Lydia, Ragnhild, Karin, Maja, Berta and Rosa Nyman, Uppsala, 1906</a></dd><dt>Creator</dt><dd lang='sv'>Ok\u00e4nd,</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981466' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03158/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 748913,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 827,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF5EE",
+                "#D3D3D3",
+                "#F8F8FF",
+                "#FAEBD7",
+                "#E6E6FA",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011013981466",
+            "textAttributionSnippet": "(en) Postcards - sisters Lydia, Ragnhild, Karin, Maja, Berta and Rosa Nyman, Uppsala, 1906 - https://www.europeana.eu/item/91617/upmu_photo_FN03158. (sv) Ok\u00e4nd,. Upplandsmuseet - https://digitaltmuseum.se/011013981466. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03158' target='_blank' rel='noopener'>Postcards - sisters Lydia, Ragnhild, Karin, Maja, Berta and Rosa Nyman, Uppsala, 1906</a></dd><dt>Creator</dt><dd lang='sv'>Ok\u00e4nd,</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981466' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/012s93m5zM6X?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcards - sisters Lydia, Ragnhild, Karin, Maja, Berta and Rosa Nyman, Uppsala, 1906 - https://www.europeana.eu/item/91617/upmu_photo_FN03158. (sv) Ok\u00e4nd,. Upplandsmuseet - https://digitaltmuseum.se/011013981466. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03158' target='_blank' rel='noopener'>Postcards - sisters Lydia, Ragnhild, Karin, Maja, Berta and Rosa Nyman, Uppsala, 1906</a></dd><dt>Creator</dt><dd lang='sv'>Ok\u00e4nd,</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011013981466' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03158/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 711198,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 848,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#F5FFFA",
+                "#F5F5DC",
+                "#DCDCDC",
+                "#BC8F8F",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03158/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

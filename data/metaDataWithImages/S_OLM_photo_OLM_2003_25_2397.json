@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916121/S_OLM_photo_OLM_2003_25_2397",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032wYWViKsoe?dimension=600x600",
+            "textAttributionSnippet": "(en) View of Great Mellous from the church tower.\nThe picture taken for postcards.\nPublishers: Holm & Lundqvist - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2397. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212211. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2397' target='_blank' rel='noopener'>View of Great Mellous from the church tower.\nThe picture taken for postcards.\nPublishers: Holm & Lundqvist</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212211' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_2397/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 178164,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 465,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#696969",
+                "#87CEEB",
+                "#66CDAA",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016212211",
+            "textAttributionSnippet": "(en) View of Great Mellous from the church tower.\nThe picture taken for postcards.\nPublishers: Holm & Lundqvist - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2397. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212211. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2397' target='_blank' rel='noopener'>View of Great Mellous from the church tower.\nThe picture taken for postcards.\nPublishers: Holm & Lundqvist</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212211' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 100187
+        },
+        {
+            "about": "https://mm.dimu.org/image/032wYWViKsoe?dimension=1200x1200",
+            "textAttributionSnippet": "(en) View of Great Mellous from the church tower.\nThe picture taken for postcards.\nPublishers: Holm & Lundqvist - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2397. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212211. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_2397' target='_blank' rel='noopener'>View of Great Mellous from the church tower.\nThe picture taken for postcards.\nPublishers: Holm & Lundqvist</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212211' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_2397/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 217226,
+            "ebucoreWidth": 709,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#696969",
+                "#87CEEB",
+                "#66CDAA",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_2397/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Yarn"
+    ],
+    "concept_note": [
+        "Long continuous length of interlocked fibers"
+    ],
+    "edmDatasetName": [
+        "916121_Ag_SE_s_olm"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,86 @@
+{
+    "aggregations_about": "/aggregation/provider/73/S_OM_photo_OMEA0001240131",
+    "webResources": [
+        {
+            "about": "http://mm.dimu.org/image/0231uU2nuPHr?dimension=1200x1200",
+            "textAttributionSnippet": "(en) View of Lk\u00f6pping Cathedral during the conversion works in the mid-1880s. View from the southwest - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240131. (en) Bergh, Peter Johansson. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021016405457. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240131' target='_blank' rel='noopener'>View of Lk\u00f6pping Cathedral during the conversion works in the mid-1880s. View from the southwest</a></dd><dt>Creator</dt><dd lang='en'>Bergh, Peter Johansson</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021016405457' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240131/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 719780,
+            "ebucoreWidth": 736,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#FFDEAD",
+                "#000000",
+                "#696969",
+                "#556B2F",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2nuPHr?dimension=600x600",
+            "textAttributionSnippet": "(en) View of Lk\u00f6pping Cathedral during the conversion works in the mid-1880s. View from the southwest - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240131. (en) Bergh, Peter Johansson. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021016405457. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240131' target='_blank' rel='noopener'>View of Lk\u00f6pping Cathedral during the conversion works in the mid-1880s. View from the southwest</a></dd><dt>Creator</dt><dd lang='en'>Bergh, Peter Johansson</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021016405457' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240131/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 195758,
+            "ebucoreWidth": 368,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#FFDEAD",
+                "#000000",
+                "#556B2F",
+                "#696969",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://digitaltmuseum.se/021016405457",
+            "textAttributionSnippet": "(en) View of Lk\u00f6pping Cathedral during the conversion works in the mid-1880s. View from the southwest - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240131. (en) Bergh, Peter Johansson. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021016405457. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240131' target='_blank' rel='noopener'>View of Lk\u00f6pping Cathedral during the conversion works in the mid-1880s. View from the southwest</a></dd><dt>Creator</dt><dd lang='en'>Bergh, Peter Johansson</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021016405457' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240131/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Church building"
+    ],
+    "concept_note": [
+        "Building used for Christian worship"
+    ],
+    "edmDatasetName": [
+        "73_Ag_SE_SwedishNationalHeritage_s_om"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ],
+        [
+            58.410557,
+            15.613611
+        ]
+    ]
+}

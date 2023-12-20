@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA54672_0832",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011014491164",
+            "textAttributionSnippet": "(en) Postcards. A couple in love is represented in a photo studio - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0832. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491164. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0832' target='_blank' rel='noopener'>Postcards. A couple in love is represented in a photo studio</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491164' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 102546
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sBY4Jv2KA?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcards. A couple in love is represented in a photo studio - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0832. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491164. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0832' target='_blank' rel='noopener'>Postcards. A couple in love is represented in a photo studio</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491164' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0832/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 145957,
+            "ebucoreWidth": 346,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#556B2F",
+                "#808080",
+                "#BDB76B",
+                "#000000",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sBY4Jv2KA?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards. A couple in love is represented in a photo studio - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0832. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491164. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0832' target='_blank' rel='noopener'>Postcards. A couple in love is represented in a photo studio</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491164' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0832/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 145957,
+            "ebucoreWidth": 346,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#556B2F",
+                "#808080",
+                "#BDB76B",
+                "#000000",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0832/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Suit"
+    ],
+    "concept_note": [
+        "Western business attire of matching jacket and trousers"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

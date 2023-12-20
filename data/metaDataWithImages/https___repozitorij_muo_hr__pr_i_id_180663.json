@@ -1,0 +1,81 @@
+{
+    "aggregations_about": "/aggregation/provider/378/https___repozitorij_muo_hr__pr_i_id_180663",
+    "webResources": [
+        {
+            "about": "https://repozitorij.muo.hr/?pr=i&id=180663",
+            "textAttributionSnippet": "(en) Residential tower for singles - Youth Sport hotel - Hotel Panorama, Zagreb - https://www.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_180663. Jelinek, Slavko.  - https://repozitorij.muo.hr/?pr=i&id=180663. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_180663' target='_blank' rel='noopener'>Residential tower for singles - Youth Sport hotel - Hotel Panorama, Zagreb</a></dd><dt>Creator</dt><dd lang=''>Jelinek, Slavko</dd><dt>Institution</dt><dt>Country</dt><dd lang=''>Croatia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/4.0/"
+                ]
+            },
+            "about": "https://repozitorij.muo.hr/api/?semantic=resource&id=180663",
+            "textAttributionSnippet": "(en) Residential tower for singles - Youth Sport hotel - Hotel Panorama, Zagreb - https://www.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_180663. Jelinek, Slavko.  - https://repozitorij.muo.hr/?pr=i&id=180663. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_180663' target='_blank' rel='noopener'>Residential tower for singles - Youth Sport hotel - Hotel Panorama, Zagreb</a></dd><dt>Creator</dt><dd lang=''>Jelinek, Slavko</dd><dt>Institution</dt><dt>Country</dt><dd lang=''>Croatia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/378/https___repozitorij_muo_hr__pr_i_id_180663/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1978441,
+            "ebucoreWidth": 6000,
+            "ebucoreHeight": 1438,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#F5DEB3",
+                "#D3D3D3",
+                "#FAEBD7",
+                "#DCDCDC",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/378/https___repozitorij_muo_hr__pr_i_id_180663/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Skyscraper"
+    ],
+    "concept_note": [
+        "Very tall building"
+    ],
+    "edmDatasetName": [
+        "378_Musem_of_Arts_and_Crafts_archeology"
+    ],
+    "edmCountry": [
+        "Croatia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": "not showed",
+    "coordinate": [
+        [
+            45.8,
+            15.9667
+        ],
+        [
+            45.813057,
+            15.977222
+        ],
+        [
+            45.1667,
+            15.5
+        ],
+        [
+            45.25,
+            15.466667
+        ],
+        [
+            45.805588,
+            15.952595
+        ]
+    ]
+}

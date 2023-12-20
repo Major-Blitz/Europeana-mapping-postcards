@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_3WNHYGFUG6RYNHKIQF6JQPPWDIE47ZJY",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=72b9f5d3-a973-44a5-a483-bea45ed9ccbb",
+            "textAttributionSnippet": "(et) Teid tervitab Pihkva - https://www.europeana.eu/item/401/item_3WNHYGFUG6RYNHKIQF6JQPPWDIE47ZJY. Harjumaa Muuseum - https://www.muis.ee/museaalView/1468809. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_3WNHYGFUG6RYNHKIQF6JQPPWDIE47ZJY' target='_blank' rel='noopener'>Teid tervitab Pihkva</a></dd><dt>Date</dt><dd lang=''>1962</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1468809' target='_blank' rel='noopener'>Harjumaa Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_3WNHYGFUG6RYNHKIQF6JQPPWDIE47ZJY/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 266052,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 628,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#000000",
+                "#191970",
+                "#A0522D",
+                "#BDB76B",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/1468809",
+            "textAttributionSnippet": "(et) Teid tervitab Pihkva - https://www.europeana.eu/item/401/item_3WNHYGFUG6RYNHKIQF6JQPPWDIE47ZJY. Harjumaa Muuseum - https://www.muis.ee/museaalView/1468809. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_3WNHYGFUG6RYNHKIQF6JQPPWDIE47ZJY' target='_blank' rel='noopener'>Teid tervitab Pihkva</a></dd><dt>Date</dt><dd lang=''>1962</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1468809' target='_blank' rel='noopener'>Harjumaa Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_3WNHYGFUG6RYNHKIQF6JQPPWDIE47ZJY/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Estonian e-Repository and Conservation of Collections"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

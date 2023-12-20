@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_0F2EC9C8_5A99_49A3_8B8E_F4C27B334C07",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.0F2EC9C8-5A99-49A3-8B8E-F4C27B334C07?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, Christmas card, New Year\u2019s card; En Jul och Ett gott nytt \u00e5r \u00f6nska Adi, Sofia & Fritz - https://www.europeana.eu/item/117/_0F2EC9C8_5A99_49A3_8B8E_F4C27B334C07. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.0F2EC9C8-5A99-49A3-8B8E-F4C27B334C07?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_0F2EC9C8_5A99_49A3_8B8E_F4C27B334C07' target='_blank' rel='noopener'>postcard, Christmas card, New Year\u2019s card; En Jul och Ett gott nytt \u00e5r \u00f6nska Adi, Sofia & Fritz</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.0F2EC9C8-5A99-49A3-8B8E-F4C27B334C07?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2388856&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, Christmas card, New Year\u2019s card; En Jul och Ett gott nytt \u00e5r \u00f6nska Adi, Sofia & Fritz - https://www.europeana.eu/item/117/_0F2EC9C8_5A99_49A3_8B8E_F4C27B334C07. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.0F2EC9C8-5A99-49A3-8B8E-F4C27B334C07?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_0F2EC9C8_5A99_49A3_8B8E_F4C27B334C07' target='_blank' rel='noopener'>postcard, Christmas card, New Year\u2019s card; En Jul och Ett gott nytt \u00e5r \u00f6nska Adi, Sofia & Fritz</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.0F2EC9C8-5A99-49A3-8B8E-F4C27B334C07?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_0F2EC9C8_5A99_49A3_8B8E_F4C27B334C07/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 495818,
+            "ebucoreWidth": 778,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FF7F50",
+                "#808080",
+                "#A9A9A9",
+                "#778899",
+                "#FF0000",
+                "#FAFAD2"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_0F2EC9C8_5A99_49A3_8B8E_F4C27B334C07/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

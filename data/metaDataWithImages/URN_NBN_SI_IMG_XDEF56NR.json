@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_XDEF56NR",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-XDEF56NR/67d97899-2b27-4aa1-8d19-a8c5fa6556f3/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "3174 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Schloss Wurmberg bei Pettau; Grad Vurberg pri Ptuju - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XDEF56NR. Ivan Potr\u010d Library Ptuj - http://www.dlib.si/details/URN:NBN:SI:IMG-XDEF56NR. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XDEF56NR' target='_blank' rel='noopener'>Schloss Wurmberg bei Pettau; Grad Vurberg pri Ptuju</a></dd><dt>Date</dt><dd lang=''>1918</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XDEF56NR' target='_blank' rel='noopener'>Ivan Potr\u010d Library Ptuj</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_XDEF56NR/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3250290,
+            "ebucoreWidth": 2206,
+            "ebucoreHeight": 1410,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#556B2F",
+                "#696969",
+                "#A9A9A9",
+                "#000000",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-XDEF56NR/maxi/edm",
+            "textAttributionSnippet": "(sl) Schloss Wurmberg bei Pettau; Grad Vurberg pri Ptuju - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XDEF56NR. Ivan Potr\u010d Library Ptuj - http://www.dlib.si/details/URN:NBN:SI:IMG-XDEF56NR. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XDEF56NR' target='_blank' rel='noopener'>Schloss Wurmberg bei Pettau; Grad Vurberg pri Ptuju</a></dd><dt>Date</dt><dd lang=''>1918</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XDEF56NR' target='_blank' rel='noopener'>Ivan Potr\u010d Library Ptuj</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 57693,
+            "ebucoreWidth": 941,
+            "ebucoreHeight": 599,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#556B2F",
+                "#A9A9A9",
+                "#000000",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-XDEF56NR",
+            "textAttributionSnippet": "(sl) Schloss Wurmberg bei Pettau; Grad Vurberg pri Ptuju - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XDEF56NR. Ivan Potr\u010d Library Ptuj - http://www.dlib.si/details/URN:NBN:SI:IMG-XDEF56NR. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XDEF56NR' target='_blank' rel='noopener'>Schloss Wurmberg bei Pettau; Grad Vurberg pri Ptuju</a></dd><dt>Date</dt><dd lang=''>1918</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XDEF56NR' target='_blank' rel='noopener'>Ivan Potr\u010d Library Ptuj</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 28652
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_XDEF56NR/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "THE ARTS. RECREATION. ENTERTAINMENT. SPORT"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

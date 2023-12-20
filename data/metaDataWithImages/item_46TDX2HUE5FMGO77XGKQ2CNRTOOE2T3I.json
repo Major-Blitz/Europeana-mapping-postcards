@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_46TDX2HUE5FMGO77XGKQ2CNRTOOE2T3I",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=50e9ee33-a3fa-4434-8ba6-77e80d28d847",
+            "textAttributionSnippet": "(en) postcards with views of Estonian cities 1920-40 - https://www.europeana.eu/item/401/item_46TDX2HUE5FMGO77XGKQ2CNRTOOE2T3I. J\u00e4rvamaa Muuseum - https://www.muis.ee/museaalView/1772423. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_46TDX2HUE5FMGO77XGKQ2CNRTOOE2T3I' target='_blank' rel='noopener'>postcards with views of Estonian cities 1920-40</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1772423' target='_blank' rel='noopener'>J\u00e4rvamaa Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_46TDX2HUE5FMGO77XGKQ2CNRTOOE2T3I/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 159114,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 508,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#BDB76B",
+                "#A0522D",
+                "#556B2F",
+                "#A9A9A9",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/1772423",
+            "textAttributionSnippet": "(en) postcards with views of Estonian cities 1920-40 - https://www.europeana.eu/item/401/item_46TDX2HUE5FMGO77XGKQ2CNRTOOE2T3I. J\u00e4rvamaa Muuseum - https://www.muis.ee/museaalView/1772423. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_46TDX2HUE5FMGO77XGKQ2CNRTOOE2T3I' target='_blank' rel='noopener'>postcards with views of Estonian cities 1920-40</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1772423' target='_blank' rel='noopener'>J\u00e4rvamaa Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_46TDX2HUE5FMGO77XGKQ2CNRTOOE2T3I/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "J\u00e4rvamaa Museum"
+    ],
+    "coordinate": "not showed"
+}

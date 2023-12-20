@@ -1,0 +1,108 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_f0df5f6d_f7e2_420e_b145_90b7fcb30593",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_10%20Octombrie%202019_NECATALOGATE_necatalogate_Muzeul%20ASTRA_necatalogate_octombrie%202019/Imagini/98AC9786190145BD9472BB1E8FF45F0F.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f0df5f6d_f7e2_420e_b145_90b7fcb30593. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/f0df5f6d-f7e2-420e-b145-90b7fcb30593/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f0df5f6d-f7e2-420e-b145-90b7fcb30593/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_f0df5f6d_f7e2_420e_b145_90b7fcb30593/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 4089667,
+            "ebucoreWidth": 1829,
+            "ebucoreHeight": 2732,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#FAF0E6",
+                "#FFE4C4",
+                "#2F4F4F",
+                "#800000",
+                "#FFF8DC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_10%20Octombrie%202019_NECATALOGATE_necatalogate_Muzeul%20ASTRA_necatalogate_octombrie%202019/Imagini/544FE71AB66746C38C2EF31C3A86567B.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f0df5f6d_f7e2_420e_b145_90b7fcb30593. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/f0df5f6d-f7e2-420e-b145-90b7fcb30593/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f0df5f6d-f7e2-420e-b145-90b7fcb30593/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_f0df5f6d_f7e2_420e_b145_90b7fcb30593/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3500975,
+            "ebucoreWidth": 1829,
+            "ebucoreHeight": 2732,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#808080",
+                "#FFDAB9",
+                "#FFFAFA",
+                "#FAF0E6",
+                "#FFF0F5"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://culturalia.ro/entities/f0df5f6d-f7e2-420e-b145-90b7fcb30593/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f0df5f6d_f7e2_420e_b145_90b7fcb30593. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/f0df5f6d-f7e2-420e-b145-90b7fcb30593/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f0df5f6d-f7e2-420e-b145-90b7fcb30593/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_f0df5f6d_f7e2_420e_b145_90b7fcb30593/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "ASTRA National Museum Complex"
+    ],
+    "coordinate": [
+        [
+            45.8,
+            24.15
+        ],
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.79,
+            25.28
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

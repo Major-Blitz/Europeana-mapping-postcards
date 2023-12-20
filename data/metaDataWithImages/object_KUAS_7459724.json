@@ -1,0 +1,59 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_7459724",
+    "webResources": [
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293046",
+            "textAttributionSnippet": "(en) \u00c6r\u00f8sk\u00f8bing, Bym\u00f8llen, postcards - https://www.europeana.eu/item/2058618/object_KUAS_7459724. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293046. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7459724' target='_blank' rel='noopener'>\u00c6r\u00f8sk\u00f8bing, Bym\u00f8llen, postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293046' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 12742
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "\u00c6r\u00f8 Museum"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=857386",
+            "textAttributionSnippet": "(en) \u00c6r\u00f8sk\u00f8bing, Bym\u00f8llen, postcards - https://www.europeana.eu/item/2058618/object_KUAS_7459724. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293046. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7459724' target='_blank' rel='noopener'>\u00c6r\u00f8sk\u00f8bing, Bym\u00f8llen, postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293046' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7459724/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 25182,
+            "ebucoreWidth": 314,
+            "ebucoreHeight": 224,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#AFEEEE",
+                "#7FFFD4",
+                "#87CEFA",
+                "#BDB76B",
+                "#6495ED",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7459724/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

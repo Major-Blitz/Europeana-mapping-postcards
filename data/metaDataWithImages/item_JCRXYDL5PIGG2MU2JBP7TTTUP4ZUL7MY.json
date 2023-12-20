@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_JCRXYDL5PIGG2MU2JBP7TTTUP4ZUL7MY",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=a2850257-168e-41dc-9e0a-83092f5f0e84",
+            "textAttributionSnippet": "(en) Album Bastei, S\u00e4chsische Schweiz - https://www.europeana.eu/item/401/item_JCRXYDL5PIGG2MU2JBP7TTTUP4ZUL7MY. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3753930. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JCRXYDL5PIGG2MU2JBP7TTTUP4ZUL7MY' target='_blank' rel='noopener'>Album Bastei, S\u00e4chsische Schweiz</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3753930' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_JCRXYDL5PIGG2MU2JBP7TTTUP4ZUL7MY/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 123487,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 587,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FFE4E1",
+                "#A0522D",
+                "#708090",
+                "#000000",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3753930",
+            "textAttributionSnippet": "(en) Album Bastei, S\u00e4chsische Schweiz - https://www.europeana.eu/item/401/item_JCRXYDL5PIGG2MU2JBP7TTTUP4ZUL7MY. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3753930. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JCRXYDL5PIGG2MU2JBP7TTTUP4ZUL7MY' target='_blank' rel='noopener'>Album Bastei, S\u00e4chsische Schweiz</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3753930' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_JCRXYDL5PIGG2MU2JBP7TTTUP4ZUL7MY/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": "not showed"
+}

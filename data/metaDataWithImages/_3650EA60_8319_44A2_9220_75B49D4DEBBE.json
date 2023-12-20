@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_3650EA60_8319_44A2_9220_75B49D4DEBBE",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2379927&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, Easter card; Fun Easter - https://www.europeana.eu/item/117/_3650EA60_8319_44A2_9220_75B49D4DEBBE. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.3650EA60-8319-44A2-9220-75B49D4DEBBE?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_3650EA60_8319_44A2_9220_75B49D4DEBBE' target='_blank' rel='noopener'>postcard, Easter card; Fun Easter</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.3650EA60-8319-44A2-9220-75B49D4DEBBE?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_3650EA60_8319_44A2_9220_75B49D4DEBBE/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 563980,
+            "ebucoreWidth": 778,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD5C5C",
+                "#F5F5F5",
+                "#2F4F4F",
+                "#FFC0CB",
+                "#E6E6FA",
+                "#D2691E"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.3650EA60-8319-44A2-9220-75B49D4DEBBE?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, Easter card; Fun Easter - https://www.europeana.eu/item/117/_3650EA60_8319_44A2_9220_75B49D4DEBBE. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.3650EA60-8319-44A2-9220-75B49D4DEBBE?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_3650EA60_8319_44A2_9220_75B49D4DEBBE' target='_blank' rel='noopener'>postcard, Easter card; Fun Easter</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.3650EA60-8319-44A2-9220-75B49D4DEBBE?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_3650EA60_8319_44A2_9220_75B49D4DEBBE/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

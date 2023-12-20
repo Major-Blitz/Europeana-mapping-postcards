@@ -1,0 +1,89 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_UGLONM9W",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-UGLONM9W/474fdae6-5cf5-46da-81f4-59a1aadf4f92/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "857 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) SNG Drama Ljubljana; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_UGLONM9W. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_UGLONM9W' target='_blank' rel='noopener'>SNG Drama Ljubljana; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_UGLONM9W/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 877641,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 2250,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAF0",
+                "#FDF5E6",
+                "#FFFFF0",
+                "#C0C0C0",
+                "#EEE8AA",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W",
+            "textAttributionSnippet": "(sl) SNG Drama Ljubljana; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_UGLONM9W. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_UGLONM9W' target='_blank' rel='noopener'>SNG Drama Ljubljana; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 30353
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-UGLONM9W/b7b0ea51-2226-4d4f-9bd4-a7c2122d99c6/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "906 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) SNG Drama Ljubljana; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_UGLONM9W. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_UGLONM9W' target='_blank' rel='noopener'>SNG Drama Ljubljana; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-UGLONM9W/maxi/edm",
+            "textAttributionSnippet": "(sl) SNG Drama Ljubljana; Ljubljana - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_UGLONM9W. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_UGLONM9W' target='_blank' rel='noopener'>SNG Drama Ljubljana; Ljubljana</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-UGLONM9W' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 32944,
+            "ebucoreWidth": 801,
+            "ebucoreHeight": 599,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#FFF5EE",
+                "#FFFFF0",
+                "#C0C0C0",
+                "#F0FFF0",
+                "#FFFAF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_UGLONM9W/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

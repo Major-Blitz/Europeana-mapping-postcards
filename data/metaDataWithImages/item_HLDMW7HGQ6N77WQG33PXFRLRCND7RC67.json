@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_HLDMW7HGQ6N77WQG33PXFRLRCND7RC67",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3417027",
+            "textAttributionSnippet": "(en) Long Hermann in Tallinn - https://www.europeana.eu/item/401/item_HLDMW7HGQ6N77WQG33PXFRLRCND7RC67. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417027. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_HLDMW7HGQ6N77WQG33PXFRLRCND7RC67' target='_blank' rel='noopener'>Long Hermann in Tallinn</a></dd><dt>Date</dt><dd lang=''>1941</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417027' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=6508b5b0-e9a9-4934-9179-a4b938613e40",
+            "textAttributionSnippet": "(en) Long Hermann in Tallinn - https://www.europeana.eu/item/401/item_HLDMW7HGQ6N77WQG33PXFRLRCND7RC67. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417027. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_HLDMW7HGQ6N77WQG33PXFRLRCND7RC67' target='_blank' rel='noopener'>Long Hermann in Tallinn</a></dd><dt>Date</dt><dd lang=''>1941</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417027' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_HLDMW7HGQ6N77WQG33PXFRLRCND7RC67/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 151151,
+            "ebucoreWidth": 515,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#8FBC8F",
+                "#808080",
+                "#FFFFF0",
+                "#556B2F",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_HLDMW7HGQ6N77WQG33PXFRLRCND7RC67/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

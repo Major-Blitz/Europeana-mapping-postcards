@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_d038275c_25d3_42bb_a8cc_6fd59523250b",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_05%20Mai%202020_istorie_voina_docpatv494/Imagini1/068842E1C1D5451B9FDA402A9B13300B.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d038275c_25d3_42bb_a8cc_6fd59523250b. Editura Libr\u0103riei Arhid. Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d038275c-25d3-42bb-a8cc-6fd59523250b/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Libr\u0103riei Arhid. Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d038275c-25d3-42bb-a8cc-6fd59523250b/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_d038275c_25d3_42bb_a8cc_6fd59523250b/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22641912,
+            "ebucoreWidth": 3362,
+            "ebucoreHeight": 2243,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#BC8F8F",
+                "#D2B48C",
+                "#C0C0C0",
+                "#F5DEB3",
+                "#FFE4C4"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_05%20Mai%202020_istorie_voina_docpatv494/Imagini1/5199DF8833774EFA8D828D455CC421EE.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d038275c_25d3_42bb_a8cc_6fd59523250b. Editura Libr\u0103riei Arhid. Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d038275c-25d3-42bb-a8cc-6fd59523250b/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Libr\u0103riei Arhid. Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d038275c-25d3-42bb-a8cc-6fd59523250b/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_d038275c_25d3_42bb_a8cc_6fd59523250b/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22839830,
+            "ebucoreWidth": 3354,
+            "ebucoreHeight": 2268,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#BC8F8F",
+                "#DEB887",
+                "#696969",
+                "#A0522D",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/d038275c-25d3-42bb-a8cc-6fd59523250b/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d038275c_25d3_42bb_a8cc_6fd59523250b. Editura Libr\u0103riei Arhid. Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d038275c-25d3-42bb-a8cc-6fd59523250b/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Libr\u0103riei Arhid. Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d038275c-25d3-42bb-a8cc-6fd59523250b/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_d038275c_25d3_42bb_a8cc_6fd59523250b/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA53464_1626",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011014348166",
+            "textAttributionSnippet": "(en) According to text in the photo: \u201cHusaby when the church patrol sold postcards. 4/7 1922.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53464_1626. Johansson, Johan. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014348166. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53464_1626' target='_blank' rel='noopener'>According to text in the photo: \u201cHusaby when the church patrol sold postcards. 4/7 1922.\u201d</a></dd><dt>Creator</dt><dd lang=''>Johansson, Johan</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014348166' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 104010
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sAYdcsCqE?dimension=1200x1200",
+            "textAttributionSnippet": "(en) According to text in the photo: \u201cHusaby when the church patrol sold postcards. 4/7 1922.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53464_1626. Johansson, Johan. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014348166. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53464_1626' target='_blank' rel='noopener'>According to text in the photo: \u201cHusaby when the church patrol sold postcards. 4/7 1922.\u201d</a></dd><dt>Creator</dt><dd lang=''>Johansson, Johan</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014348166' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53464_1626/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 92828,
+            "ebucoreWidth": 404,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#800000",
+                "#000000",
+                "#696969",
+                "#A52A2A",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sAYdcsCqE?dimension=600x600",
+            "textAttributionSnippet": "(en) According to text in the photo: \u201cHusaby when the church patrol sold postcards. 4/7 1922.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53464_1626. Johansson, Johan. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014348166. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53464_1626' target='_blank' rel='noopener'>According to text in the photo: \u201cHusaby when the church patrol sold postcards. 4/7 1922.\u201d</a></dd><dt>Creator</dt><dd lang=''>Johansson, Johan</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014348166' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53464_1626/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 92828,
+            "ebucoreWidth": 404,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#800000",
+                "#000000",
+                "#696969",
+                "#A52A2A",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53464_1626/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Church building"
+    ],
+    "concept_note": [
+        "Building used for Christian worship"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

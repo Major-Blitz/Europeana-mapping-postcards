@@ -1,0 +1,97 @@
+{
+    "aggregations_about": "/aggregation/provider/09403/o_gm_4648_CHO",
+    "webResources": [
+        {
+            "about": "http://gams.uni-graz.at/o:gm.4648",
+            "textAttributionSnippet": "(de) Graz, Drei Br\u00fccken. Schlo\u00dfberg.; Seriennumer 32 - https://www.europeana.eu/item/09403/o_gm_4648_CHO. University of Graz - http://gams.uni-graz.at/o:gm.4648. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/at/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/09403/o_gm_4648_CHO' target='_blank' rel='noopener'>Graz, Drei Br\u00fccken. Schlo\u00dfberg.; Seriennumer 32</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://gams.uni-graz.at/o:gm.4648' target='_blank' rel='noopener'>University of Graz</a></dd><dt>Country</dt><dd lang=''>Austria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/at/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://gams.uni-graz.at/iiif/o:gm.4648%2FRECTO/full/full/0/default.jpg",
+            "textAttributionSnippet": "(de) Graz, Drei Br\u00fccken. Schlo\u00dfberg.; Seriennumer 32 - https://www.europeana.eu/item/09403/o_gm_4648_CHO. University of Graz - http://gams.uni-graz.at/o:gm.4648. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/at/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/09403/o_gm_4648_CHO' target='_blank' rel='noopener'>Graz, Drei Br\u00fccken. Schlo\u00dfberg.; Seriennumer 32</a></dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://gams.uni-graz.at/o:gm.4648' target='_blank' rel='noopener'>University of Graz</a></dd><dt>Country</dt><dd lang=''>Austria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/at/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://gams.uni-graz.at/iiif/o:gm.4648%2FRECTO"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/09403/o_gm_4648_CHO/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1710325,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1958,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#C0C0C0",
+                "#D3D3D3",
+                "#D2691E",
+                "#F0E68C",
+                "#9ACD32"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/at/"
+                ]
+            },
+            "about": "https://hdl.handle.net/11471/144.10.4648",
+            "dcDescription": {
+                "en": [
+                    "Funded by: Federal Ministry of Science, Research and Economy"
+                ]
+            },
+            "dctermsIsPartOf": {
+                "def": [
+                    "http://gams.uni-graz.at/gm"
+                ]
+            },
+            "dcCreator": {
+                "de": [
+                    "GrazMuseum",
+                    "Zentrum f\u00fcr Informationsmodellierung - Austrian Centre\n                    for Digital Humanities, Karl-Franzens-Universit\u00e4t Graz"
+                ],
+                "def": [
+                    "http://d-nb.info/gnd/2022740-1",
+                    "http://d-nb.info/gnd/1137284463"
+                ],
+                "en": [
+                    "GrazMuseum",
+                    "Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz"
+                ]
+            },
+            "owlSameAs": [
+                "http://gams.uni-graz.at/o:gm.4648"
+            ],
+            "textAttributionSnippet": "(de) Graz, Drei Br\u00fccken. Schlo\u00dfberg.; Seriennumer 32 - https://www.europeana.eu/item/09403/o_gm_4648_CHO. ; (en) GrazMuseum; Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz. University of Graz - http://gams.uni-graz.at/o:gm.4648. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/at/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/09403/o_gm_4648_CHO' target='_blank' rel='noopener'>Graz, Drei Br\u00fccken. Schlo\u00dfberg.; Seriennumer 32</a></dd><dt>Creator</dt><dd lang='en'>GrazMuseum; Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz</dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''><a href='http://gams.uni-graz.at/o:gm.4648' target='_blank' rel='noopener'>University of Graz</a></dd><dt>Country</dt><dd lang=''>Austria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/at/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/09403/o_gm_4648_CHO/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "paper (fiber product)"
+    ],
+    "concept_note": [
+        "Refers generally to all types of thin matted or felted sheets or webs of fiber formed and dried on a fine screen from a pulpy water suspension. The fibers may be animal, such as hair, silk or wool, or mineral, such as asbestos, or synthetic. However most paper is made from cellulosic plant fiber, such as from wood pulp, grass, cotton, linen, and straw."
+    ],
+    "edmDatasetName": [
+        "09403_Ag_AT_ELocal"
+    ],
+    "edmCountry": [
+        "Austria"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana Local Austria"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,101 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_18",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00018_0002_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "2"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Klostergatan i Viborg, med Viborgs landsf\u00f6rsamlings  .. - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_18. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_18' target='_blank' rel='noopener'>Klostergatan i Viborg, med Viborgs landsf\u00f6rsamlings  ..</a></dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_18/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1105509,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2642,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#FFFFFF",
+                "#808080",
+                "#BDB76B",
+                "#556B2F",
+                "#FFF8DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa/slsa1248/slsa_1248.b.13_foto_00018_0001_01.jpg",
+            "dcDescription": {
+                "swe": [
+                    "1"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Klostergatan i Viborg, med Viborgs landsf\u00f6rsamlings  .. - https://www.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_18. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_18' target='_blank' rel='noopener'>Klostergatan i Viborg, med Viborgs landsf\u00f6rsamlings  ..</a></dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_18/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 868828,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2638,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FFFFFF",
+                "#FFF5EE",
+                "#000000",
+                "#FAF0E6",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLSA_1248_SLSA_1248_3Ab_3A13_foto_18/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "urban environment"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            28.0
+        ],
+        [
+            60.70402,
+            28.762522
+        ],
+        [
+            66.416664,
+            94.25
+        ],
+        [
+            65.0,
+            27.0
+        ],
+        [
+            60.710556,
+            28.749722
+        ]
+    ]
+}

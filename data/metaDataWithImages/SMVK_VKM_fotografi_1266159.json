@@ -1,0 +1,72 @@
+{
+    "aggregations_about": "/aggregation/provider/91609/SMVK_VKM_fotografi_1266159",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "sv": [
+                    "Creative Commons - Erk\u00e4nnande-Ickekommersiell-Inga bearbetningar"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1266435/image.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "landskap, kajak, fjord, fotografi, photograph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1266159. (en) Krabbe, Thomas Neergaard. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1266159. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1266159' target='_blank' rel='noopener'>landskap, kajak, fjord, fotografi, photograph</a></dd><dt>Creator</dt><dd lang='en'>Krabbe, Thomas Neergaard</dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1266159' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1266159/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 65721,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 466,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#A9A9A9",
+                "#F5F5F5",
+                "#FFFFFF",
+                "#D8BFD8",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://collections.smvk.se/carlotta-vkm/web/object/1266159",
+            "textAttributionSnippet": "landskap, kajak, fjord, fotografi, photograph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1266159. (en) Krabbe, Thomas Neergaard. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1266159. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1266159' target='_blank' rel='noopener'>landskap, kajak, fjord, fotografi, photograph</a></dd><dt>Creator</dt><dd lang='en'>Krabbe, Thomas Neergaard</dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1266159' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 21543
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1266159/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91609_SwedishNationalHeritage_smvk_vkmf"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

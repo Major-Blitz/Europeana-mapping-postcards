@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/192/item_772QWFI6OUUOA4WP62KLUNHQX53R4NUJ",
+    "webResources": [
+        {
+            "about": "https://rlp.museum-digital.de/index.php?t=objekt&oges=92355",
+            "textAttributionSnippet": "(de) Postkarte des Schellenturns in Stuttgart - https://www.europeana.eu/item/192/item_772QWFI6OUUOA4WP62KLUNHQX53R4NUJ. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=92355. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/192/item_772QWFI6OUUOA4WP62KLUNHQX53R4NUJ' target='_blank' rel='noopener'>Postkarte des Schellenturns in Stuttgart</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=92355' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://rlp.museum-digital.de/data/rlp/images/55/92355-ton_700/postkarte_des_schellentur/postkarte-des-schellenturns-in-stuttgart-92355-347358.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(de) Postkarte des Schellenturns in Stuttgart - https://www.europeana.eu/item/192/item_772QWFI6OUUOA4WP62KLUNHQX53R4NUJ. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=92355. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/192/item_772QWFI6OUUOA4WP62KLUNHQX53R4NUJ' target='_blank' rel='noopener'>Postkarte des Schellenturns in Stuttgart</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=92355' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/192/item_772QWFI6OUUOA4WP62KLUNHQX53R4NUJ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 261667,
+            "ebucoreWidth": 1694,
+            "ebucoreHeight": 1097,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#BDB76B",
+                "#8FBC8F",
+                "#808080",
+                "#556B2F",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/192/item_772QWFI6OUUOA4WP62KLUNHQX53R4NUJ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "192_DDB_Roscheider"
+    ],
+    "edmCountry": [
+        "Germany"
+    ],
+    "edmLanguage": [
+        "de"
+    ],
+    "organization_label": [
+        "Roscheider Hof Open Air Museum"
+    ],
+    "coordinate": "not showed"
+}

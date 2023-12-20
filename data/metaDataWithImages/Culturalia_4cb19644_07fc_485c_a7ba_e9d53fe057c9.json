@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_4cb19644_07fc_485c_a7ba_e9d53fe057c9",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/4cb19644-07fc-485c-a7ba-e9d53fe057c9/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4cb19644_07fc_485c_a7ba_e9d53fe057c9. Lieblich, Eugen. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/4cb19644-07fc-485c-a7ba-e9d53fe057c9/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Lieblich, Eugen</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4cb19644-07fc-485c-a7ba-e9d53fe057c9/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_12%20Decembrie%202019_Necatalogate_necatalogate_Muzeul%20ASTRA_necatalogate_decembrie_2019/Imagini/7AA199B4DBB44EA4A30584283B5FB1E9.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4cb19644_07fc_485c_a7ba_e9d53fe057c9. Lieblich, Eugen. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/4cb19644-07fc-485c-a7ba-e9d53fe057c9/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Lieblich, Eugen</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4cb19644-07fc-485c-a7ba-e9d53fe057c9/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_4cb19644_07fc_485c_a7ba_e9d53fe057c9/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1525984,
+            "ebucoreWidth": 1360,
+            "ebucoreHeight": 2048,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#483D8B",
+                "#D8BFD8",
+                "#F0F8FF",
+                "#B0C4DE",
+                "#E6E6FA",
+                "#E9967A"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_12%20Decembrie%202019_Necatalogate_necatalogate_Muzeul%20ASTRA_necatalogate_decembrie_2019/Imagini/404573A2611D433E8512B7465925E215.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4cb19644_07fc_485c_a7ba_e9d53fe057c9. Lieblich, Eugen. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/4cb19644-07fc-485c-a7ba-e9d53fe057c9/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Lieblich, Eugen</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4cb19644-07fc-485c-a7ba-e9d53fe057c9/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_4cb19644_07fc_485c_a7ba_e9d53fe057c9/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1402821,
+            "ebucoreWidth": 1365,
+            "ebucoreHeight": 2048,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#F8F8FF",
+                "#696969",
+                "#E6E6FA",
+                "#8B4513",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_4cb19644_07fc_485c_a7ba_e9d53fe057c9/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "dress (culture-related concept)"
+    ],
+    "concept_note": [
+        "Costume and manner of dressing required by custom or etiquette for certain occasions or times of day."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "ASTRA National Museum Complex"
+    ],
+    "coordinate": [
+        [
+            45.8,
+            24.15
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/4f761cc0_323f_49b6_8117_810eedc8c3b2",
+    "webResources": [
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/dff4a6cb-39b0-4048-8148-fc9f4967103f.jpg",
+            "textAttributionSnippet": "(nl) Zicht op het Oud Sint-Janshospitaal - https://www.europeana.eu/item/534/4f761cc0_323f_49b6_8117_810eedc8c3b2. (nl) Th\u00e9odore Van den Heuvel (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/4f761cc0_323f_49b6_8117_810eedc8c3b2' target='_blank' rel='noopener'>Zicht op het Oud Sint-Janshospitaal</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9odore Van den Heuvel (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/4f761cc0_323f_49b6_8117_810eedc8c3b2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 164011,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 639,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#F5DEB3",
+                "#556B2F",
+                "#DCDCDC",
+                "#EEE8AA",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Zicht op het Oud Sint-Janshospitaal - https://www.europeana.eu/item/534/4f761cc0_323f_49b6_8117_810eedc8c3b2. (nl) Th\u00e9odore Van den Heuvel (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/4f761cc0_323f_49b6_8117_810eedc8c3b2' target='_blank' rel='noopener'>Zicht op het Oud Sint-Janshospitaal</a></dd><dt>Creator</dt><dd lang='nl'>Th\u00e9odore Van den Heuvel (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/4f761cc0_323f_49b6_8117_810eedc8c3b2/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

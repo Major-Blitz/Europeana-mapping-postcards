@@ -1,0 +1,148 @@
+{
+    "aggregations_about": "/aggregation/provider/2048128/370854",
+    "webResources": [
+        {
+            "about": "https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola",
+            "textAttributionSnippet": "(hu) Magyar Kir\u00e1lyi Honv\u00e9d Hadapr\u00f3diskola - https://www.europeana.eu/item/2048128/370854. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/370854' target='_blank' rel='noopener'>Magyar Kir\u00e1lyi Honv\u00e9d Hadapr\u00f3diskola</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/624267/default/doc_url/csgyk_fototar_pecs_hadaprod_iskola_1890_2.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcard from the end of the 1890s. Royal Hungarian Cadet School.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "\u00dcdv\u00f6zlet P\u00e9csr\u0151l. K\u00e9pes levelez\u0151lapok az 1890-es \u00e9vek v\u00e9g\u00e9r\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Magyar Kir\u00e1lyi Honv\u00e9d Hadapr\u00f3diskola - https://www.europeana.eu/item/2048128/370854. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/370854' target='_blank' rel='noopener'>Magyar Kir\u00e1lyi Honv\u00e9d Hadapr\u00f3diskola</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/370854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 225299,
+            "ebucoreWidth": 1342,
+            "ebucoreHeight": 891,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#D8BFD8",
+                "#FAEBD7",
+                "#FAF0E6",
+                "#FFE4E1",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mandadb.hu/mandadb/webimage/4/1/9/4/7/7/wimage/lead_csgyk_fototar_pecs_hadaprod_iskola_1890_2.jpg",
+            "textAttributionSnippet": "(hu) Magyar Kir\u00e1lyi Honv\u00e9d Hadapr\u00f3diskola - https://www.europeana.eu/item/2048128/370854. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/370854' target='_blank' rel='noopener'>Magyar Kir\u00e1lyi Honv\u00e9d Hadapr\u00f3diskola</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 31917,
+            "ebucoreWidth": 400,
+            "ebucoreHeight": 266,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#D2B48C",
+                "#D8BFD8",
+                "#BDB76B",
+                "#DCDCDC",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/600423/default/doc_url/csgyk_fototar_pecs_hadaprod_iskola_1890.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcard from the end of the 1890s. Royal Hungarian Cadet School.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "\u00dcdv\u00f6zlet P\u00e9csr\u0151l. K\u00e9pes levelez\u0151lapok az 1890-es \u00e9vek v\u00e9g\u00e9r\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Magyar Kir\u00e1lyi Honv\u00e9d Hadapr\u00f3diskola - https://www.europeana.eu/item/2048128/370854. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/370854' target='_blank' rel='noopener'>Magyar Kir\u00e1lyi Honv\u00e9d Hadapr\u00f3diskola</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/370854/Magyar_Kiralyi_Honved_Hadaprodiskola' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/370854/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 326676,
+            "ebucoreWidth": 1590,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#800000",
+                "#C0C0C0",
+                "#808080",
+                "#FFDAB9",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2048128/370854/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Architecture"
+    ],
+    "concept_note": [
+        "Both the process and product of planning, designing and construction"
+    ],
+    "edmDatasetName": [
+        "2048128_Ag_HU_MaNDA_OAI"
+    ],
+    "edmCountry": [
+        "Hungary"
+    ],
+    "edmLanguage": [
+        "hu"
+    ],
+    "organization_label": [
+        "Forum Hungaricum Non-profit Ltd."
+    ],
+    "coordinate": "not showed"
+}

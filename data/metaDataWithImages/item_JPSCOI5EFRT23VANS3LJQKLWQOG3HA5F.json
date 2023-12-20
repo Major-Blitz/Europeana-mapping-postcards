@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_JPSCOI5EFRT23VANS3LJQKLWQOG3HA5F",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=9722056a-c75b-4d1d-a57b-a89f908bb4ff",
+            "textAttributionSnippet": "(en) Tallinn in watercolour card set - https://www.europeana.eu/item/401/item_JPSCOI5EFRT23VANS3LJQKLWQOG3HA5F. (en) KUNST (publisher). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741724. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JPSCOI5EFRT23VANS3LJQKLWQOG3HA5F' target='_blank' rel='noopener'>Tallinn in watercolour card set</a></dd><dt>Creator</dt><dd lang='en'>KUNST (publisher)</dd><dt>Date</dt><dd lang=''>1968</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741724' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_JPSCOI5EFRT23VANS3LJQKLWQOG3HA5F/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 88596,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 423,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0F8FF",
+                "#CD5C5C",
+                "#6B8E23",
+                "#FFFFE0",
+                "#BC8F8F",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3741724",
+            "textAttributionSnippet": "(en) Tallinn in watercolour card set - https://www.europeana.eu/item/401/item_JPSCOI5EFRT23VANS3LJQKLWQOG3HA5F. (en) KUNST (publisher). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741724. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JPSCOI5EFRT23VANS3LJQKLWQOG3HA5F' target='_blank' rel='noopener'>Tallinn in watercolour card set</a></dd><dt>Creator</dt><dd lang='en'>KUNST (publisher)</dd><dt>Date</dt><dd lang=''>1968</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741724' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_JPSCOI5EFRT23VANS3LJQKLWQOG3HA5F/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

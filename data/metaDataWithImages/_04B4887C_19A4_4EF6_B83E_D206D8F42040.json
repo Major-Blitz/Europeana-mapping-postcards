@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_04B4887C_19A4_4EF6_B83E_D206D8F42040",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2383902&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Bonne Ann\u00e9e - https://www.europeana.eu/item/117/_04B4887C_19A4_4EF6_B83E_D206D8F42040. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.04B4887C-19A4-4EF6-B83E-D206D8F42040?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_04B4887C_19A4_4EF6_B83E_D206D8F42040' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Bonne Ann\u00e9e</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.04B4887C-19A4-4EF6-B83E-D206D8F42040?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_04B4887C_19A4_4EF6_B83E_D206D8F42040/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 345359,
+            "ebucoreWidth": 931,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD5C5C",
+                "#483D8B",
+                "#DC143C",
+                "#800000",
+                "#556B2F",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.04B4887C-19A4-4EF6-B83E-D206D8F42040?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Bonne Ann\u00e9e - https://www.europeana.eu/item/117/_04B4887C_19A4_4EF6_B83E_D206D8F42040. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.04B4887C-19A4-4EF6-B83E-D206D8F42040?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_04B4887C_19A4_4EF6_B83E_D206D8F42040' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Bonne Ann\u00e9e</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.04B4887C-19A4-4EF6-B83E-D206D8F42040?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_04B4887C_19A4_4EF6_B83E_D206D8F42040/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

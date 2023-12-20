@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/__C3_96TA_247__C3_B6ta_247_foto_29",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota247/ota247_foto_29.jpg",
+            "dcDescription": {
+                "swe": [
+                    "Fotografi"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Postkort av fotografi - https://www.europeana.eu/item/2021007/__C3_96TA_247__C3_B6ta_247_foto_29. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_247__C3_B6ta_247_foto_29' target='_blank' rel='noopener'>Postkort av fotografi</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Date</dt><dd lang=''>1916</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_247__C3_B6ta_247_foto_29/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3108513,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2587,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAF0",
+                "#FFFAFA",
+                "#FDF5E6",
+                "#A0522D",
+                "#A9A9A9",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_247__C3_B6ta_247_foto_29/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "kicksleds"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            65.0,
+            26.0
+        ],
+        [
+            64.26667,
+            25.866667
+        ],
+        [
+            65.0,
+            27.0
+        ]
+    ]
+}

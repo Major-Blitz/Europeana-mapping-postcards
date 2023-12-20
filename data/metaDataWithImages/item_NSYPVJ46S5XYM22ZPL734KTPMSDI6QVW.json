@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_NSYPVJ46S5XYM22ZPL734KTPMSDI6QVW",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=e0800c44-3023-4369-8655-1989b00f149c",
+            "textAttributionSnippet": "(en) Otep\u00e4\u00e4, Haanjamaa - https://www.europeana.eu/item/401/item_NSYPVJ46S5XYM22ZPL734KTPMSDI6QVW. (et) Triefeldt, Johanna (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3744331. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_NSYPVJ46S5XYM22ZPL734KTPMSDI6QVW' target='_blank' rel='noopener'>Otep\u00e4\u00e4, Haanjamaa</a></dd><dt>Creator</dt><dd lang='et'>Triefeldt, Johanna (valmistaja)</dd><dt>Date</dt><dd lang=''>1939</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3744331' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_NSYPVJ46S5XYM22ZPL734KTPMSDI6QVW/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 104960,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 603,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#2F4F4F",
+                "#D2B48C",
+                "#FAFAD2",
+                "#F5F5DC",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3744331",
+            "textAttributionSnippet": "(en) Otep\u00e4\u00e4, Haanjamaa - https://www.europeana.eu/item/401/item_NSYPVJ46S5XYM22ZPL734KTPMSDI6QVW. (et) Triefeldt, Johanna (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3744331. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_NSYPVJ46S5XYM22ZPL734KTPMSDI6QVW' target='_blank' rel='noopener'>Otep\u00e4\u00e4, Haanjamaa</a></dd><dt>Creator</dt><dd lang='et'>Triefeldt, Johanna (valmistaja)</dd><dt>Date</dt><dd lang=''>1939</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3744331' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_NSYPVJ46S5XYM22ZPL734KTPMSDI6QVW/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            57.84861,
+            26.992777
+        ]
+    ]
+}

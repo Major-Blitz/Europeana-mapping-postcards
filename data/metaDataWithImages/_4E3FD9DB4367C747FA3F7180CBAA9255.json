@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_4E3FD9DB4367C747FA3F7180CBAA9255",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=1037667&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(fi) nainen ja mies katsovat kaukaisuuteen - https://www.europeana.eu/item/2021009/_4E3FD9DB4367C747FA3F7180CBAA9255. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.4E3FD9DB4367C747FA3F7180CBAA9255?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_4E3FD9DB4367C747FA3F7180CBAA9255' target='_blank' rel='noopener'>nainen ja mies katsovat kaukaisuuteen</a></dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.4E3FD9DB4367C747FA3F7180CBAA9255?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_4E3FD9DB4367C747FA3F7180CBAA9255/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 374397,
+            "ebucoreWidth": 771,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#C0C0C0",
+                "#FFFAF0",
+                "#D2B48C",
+                "#808080",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.4E3FD9DB4367C747FA3F7180CBAA9255?lng=en-gb",
+            "textAttributionSnippet": "(fi) nainen ja mies katsovat kaukaisuuteen - https://www.europeana.eu/item/2021009/_4E3FD9DB4367C747FA3F7180CBAA9255. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.4E3FD9DB4367C747FA3F7180CBAA9255?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_4E3FD9DB4367C747FA3F7180CBAA9255' target='_blank' rel='noopener'>nainen ja mies katsovat kaukaisuuteen</a></dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.4E3FD9DB4367C747FA3F7180CBAA9255?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_4E3FD9DB4367C747FA3F7180CBAA9255/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

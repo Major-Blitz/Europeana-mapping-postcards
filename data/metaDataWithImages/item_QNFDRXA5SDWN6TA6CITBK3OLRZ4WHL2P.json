@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_QNFDRXA5SDWN6TA6CITBK3OLRZ4WHL2P",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=157e22df-134e-4370-a045-c4eb9cf5221e",
+            "textAttributionSnippet": "(en) Narva - https://www.europeana.eu/item/401/item_QNFDRXA5SDWN6TA6CITBK3OLRZ4WHL2P. (et) O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3747697. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_QNFDRXA5SDWN6TA6CITBK3OLRZ4WHL2P' target='_blank' rel='noopener'>Narva</a></dd><dt>Creator</dt><dd lang='et'>O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3747697' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_QNFDRXA5SDWN6TA6CITBK3OLRZ4WHL2P/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 141158,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 529,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#EEE8AA",
+                "#F5DEB3",
+                "#F5F5DC",
+                "#FFFAF0",
+                "#F0F8FF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3747697",
+            "textAttributionSnippet": "(en) Narva - https://www.europeana.eu/item/401/item_QNFDRXA5SDWN6TA6CITBK3OLRZ4WHL2P. (et) O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3747697. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_QNFDRXA5SDWN6TA6CITBK3OLRZ4WHL2P' target='_blank' rel='noopener'>Narva</a></dd><dt>Creator</dt><dd lang='et'>O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3747697' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_QNFDRXA5SDWN6TA6CITBK3OLRZ4WHL2P/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            59.216667,
+            27.3
+        ],
+        [
+            59.379166,
+            28.200556
+        ]
+    ]
+}

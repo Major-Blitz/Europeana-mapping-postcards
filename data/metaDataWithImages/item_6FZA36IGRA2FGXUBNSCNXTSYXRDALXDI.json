@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_6FZA36IGRA2FGXUBNSCNXTSYXRDALXDI",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3657111",
+            "textAttributionSnippet": "(en) Monte Carlo - https://www.europeana.eu/item/401/item_6FZA36IGRA2FGXUBNSCNXTSYXRDALXDI. (en) Giletta, Jean (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3657111. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_6FZA36IGRA2FGXUBNSCNXTSYXRDALXDI' target='_blank' rel='noopener'>Monte Carlo</a></dd><dt>Creator</dt><dd lang='en'>Giletta, Jean (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3657111' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=2a75244c-e650-480d-8d00-b61f84cb327d",
+            "textAttributionSnippet": "(en) Monte Carlo - https://www.europeana.eu/item/401/item_6FZA36IGRA2FGXUBNSCNXTSYXRDALXDI. (en) Giletta, Jean (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3657111. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_6FZA36IGRA2FGXUBNSCNXTSYXRDALXDI' target='_blank' rel='noopener'>Monte Carlo</a></dd><dt>Creator</dt><dd lang='en'>Giletta, Jean (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3657111' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_6FZA36IGRA2FGXUBNSCNXTSYXRDALXDI/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 145223,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 534,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#BC8F8F",
+                "#708090",
+                "#BDB76B",
+                "#556B2F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_6FZA36IGRA2FGXUBNSCNXTSYXRDALXDI/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            43.73111,
+            7.42
+        ]
+    ]
+}

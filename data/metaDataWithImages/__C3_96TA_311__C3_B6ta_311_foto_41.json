@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/__C3_96TA_311__C3_B6ta_311_foto_41",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota311/ota311_foto_41.jpg",
+            "dcDescription": {
+                "swe": [
+                    "Fotografi"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Tomt postkort med motiv av Sylvia Hilden - https://www.europeana.eu/item/2021007/__C3_96TA_311__C3_B6ta_311_foto_41. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_311__C3_B6ta_311_foto_41' target='_blank' rel='noopener'>Tomt postkort med motiv av Sylvia Hilden</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_311__C3_B6ta_311_foto_41/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 6449004,
+            "ebucoreWidth": 2819,
+            "ebucoreHeight": 4000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#6B8E23",
+                "#FFFAFA",
+                "#8FBC8F",
+                "#808080",
+                "#FFFACD",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_311__C3_B6ta_311_foto_41/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "acrobats"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": "not showed"
+}

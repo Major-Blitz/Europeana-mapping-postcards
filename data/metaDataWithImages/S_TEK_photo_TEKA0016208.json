@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916118/S_TEK_photo_TEKA0016208",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/021017104155",
+            "textAttributionSnippet": "(en) The craft propaganda exhibition: Sale of postcards. Organizer Stockholm City\u2019s workshop schools - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0016208. (en) Unknown. Tekniska museet - https://digitaltmuseum.se/021017104155. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0016208' target='_blank' rel='noopener'>The craft propaganda exhibition: Sale of postcards. Organizer Stockholm City\u2019s workshop schools</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017104155' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 95407
+        },
+        {
+            "about": "https://mm.dimu.org/image/022ykVUQKdxB?dimension=1200x1200",
+            "textAttributionSnippet": "(en) The craft propaganda exhibition: Sale of postcards. Organizer Stockholm City\u2019s workshop schools - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0016208. (en) Unknown. Tekniska museet - https://digitaltmuseum.se/021017104155. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0016208' target='_blank' rel='noopener'>The craft propaganda exhibition: Sale of postcards. Organizer Stockholm City\u2019s workshop schools</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017104155' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0016208/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 501287,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 893,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022ykVUQKdxB?dimension=600x600",
+            "textAttributionSnippet": "(en) The craft propaganda exhibition: Sale of postcards. Organizer Stockholm City\u2019s workshop schools - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0016208. (en) Unknown. Tekniska museet - https://digitaltmuseum.se/021017104155. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0016208' target='_blank' rel='noopener'>The craft propaganda exhibition: Sale of postcards. Organizer Stockholm City\u2019s workshop schools</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021017104155' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0016208/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 135272,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 447,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#000000",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0016208/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916118_Ag_SE_Tekniskamuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

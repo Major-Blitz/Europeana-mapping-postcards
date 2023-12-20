@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/ttfn8a73",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0016596.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "A postcard illustrating a soldier sending good luck and wishes to his sweetheart via a variety of good luck charms. Chromolithograph after E.M - https://www.europeana.eu/item/9200579/ttfn8a73. Wellcome Collection - https://wellcomecollection.org/works/ttfn8a73. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/ttfn8a73' target='_blank' rel='noopener'>A postcard illustrating a soldier sending good luck and wishes to his sweetheart via a variety of good luck charms. Chromolithograph after E.M</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/ttfn8a73' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 77120,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 314,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#696969",
+                "#BC8F8F",
+                "#556B2F",
+                "#C0C0C0",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0016596.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "A postcard illustrating a soldier sending good luck and wishes to his sweetheart via a variety of good luck charms. Chromolithograph after E.M - https://www.europeana.eu/item/9200579/ttfn8a73. Wellcome Collection - https://wellcomecollection.org/works/ttfn8a73. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/ttfn8a73' target='_blank' rel='noopener'>A postcard illustrating a soldier sending good luck and wishes to his sweetheart via a variety of good luck charms. Chromolithograph after E.M</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/ttfn8a73' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0016596.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/ttfn8a73/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 80354,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 322,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#696969",
+                "#556B2F",
+                "#BC8F8F",
+                "#C0C0C0",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/ttfn8a73",
+            "textAttributionSnippet": "A postcard illustrating a soldier sending good luck and wishes to his sweetheart via a variety of good luck charms. Chromolithograph after E.M - https://www.europeana.eu/item/9200579/ttfn8a73. Wellcome Collection - https://wellcomecollection.org/works/ttfn8a73. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/ttfn8a73' target='_blank' rel='noopener'>A postcard illustrating a soldier sending good luck and wishes to his sweetheart via a variety of good luck charms. Chromolithograph after E.M</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/ttfn8a73' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 276179
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/ttfn8a73/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

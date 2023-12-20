@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_051b4098_007e_4dad_b002_ab9e105f0097",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2020_02%20Februarie%202020_catalogate_Muzeul%20ASTRA%20_Cretu%20Mirela_Muzeul%20ASTRA%20_Cretu%20Mirela_februarie_2020/Imagini/09AAF7837D3C436997B076A5DC624282.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_051b4098_007e_4dad_b002_ab9e105f0097. Emil Fischer. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/051b4098-007e-4dad-b002-ab9e105f0097/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Emil Fischer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/051b4098-007e-4dad-b002-ab9e105f0097/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_051b4098_007e_4dad_b002_ab9e105f0097/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1337257,
+            "ebucoreWidth": 2048,
+            "ebucoreHeight": 1365,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#F5DEB3",
+                "#4682B4",
+                "#F0FFF0",
+                "#87CEEB",
+                "#6495ED"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/051b4098-007e-4dad-b002-ab9e105f0097/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_051b4098_007e_4dad_b002_ab9e105f0097. Emil Fischer. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/051b4098-007e-4dad-b002-ab9e105f0097/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Emil Fischer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/051b4098-007e-4dad-b002-ab9e105f0097/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2020_02%20Februarie%202020_catalogate_Muzeul%20ASTRA%20_Cretu%20Mirela_Muzeul%20ASTRA%20_Cretu%20Mirela_februarie_2020/Imagini/ADB77F639E96487A86F358DBB1BA7C98.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_051b4098_007e_4dad_b002_ab9e105f0097. Emil Fischer. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/051b4098-007e-4dad-b002-ab9e105f0097/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Emil Fischer</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/051b4098-007e-4dad-b002-ab9e105f0097/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_051b4098_007e_4dad_b002_ab9e105f0097/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 2088839,
+            "ebucoreWidth": 2048,
+            "ebucoreHeight": 1365,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D8BFD8",
+                "#556B2F",
+                "#FFB6C1",
+                "#F5F5F5",
+                "#E9967A",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_051b4098_007e_4dad_b002_ab9e105f0097/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "ASTRA National Museum Complex"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

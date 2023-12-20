@@ -1,0 +1,51 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_316752",
+    "webResources": [
+        {
+            "about": "https://purl.pt/39770",
+            "textAttributionSnippet": "(en) Three-Maritime History - https://www.europeana.eu/item/10501/bib_rnod_316752. Biblioteca Nacional de Portugal - https://purl.pt/39770. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/10501/bib_rnod_316752' target='_blank' rel='noopener'>Three-Maritime History</a></dd><dt>Date</dt><dd lang=''>1988</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/39770' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://purl.pt/39770/service/media/cover/max",
+            "textAttributionSnippet": "(en) Three-Maritime History - https://www.europeana.eu/item/10501/bib_rnod_316752. Biblioteca Nacional de Portugal - https://purl.pt/39770. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/10501/bib_rnod_316752' target='_blank' rel='noopener'>Three-Maritime History</a></dd><dt>Date</dt><dd lang=''>1988</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/39770' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_316752/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 83525,
+            "ebucoreWidth": 624,
+            "ebucoreHeight": 889,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#8FBC8F",
+                "#BDB76B",
+                "#2F4F4F",
+                "#FFFFE0",
+                "#FFEFD5"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_316752/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": "not showed"
+}

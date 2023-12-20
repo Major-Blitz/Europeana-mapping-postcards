@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_APGJDQHQLAJ55FRCBFVEUHKH2ERZKP7S",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3635281",
+            "textAttributionSnippet": "(en) Paris Colonial Exhibition - https://www.europeana.eu/item/401/item_APGJDQHQLAJ55FRCBFVEUHKH2ERZKP7S. (et) Braun & Cie (autor). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3635281. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_APGJDQHQLAJ55FRCBFVEUHKH2ERZKP7S' target='_blank' rel='noopener'>Paris Colonial Exhibition</a></dd><dt>Creator</dt><dd lang='et'>Braun & Cie (autor)</dd><dt>Date</dt><dd lang=''>1931</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3635281' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=3c290e7b-df9c-4336-a498-64e46660fcd2",
+            "textAttributionSnippet": "(en) Paris Colonial Exhibition - https://www.europeana.eu/item/401/item_APGJDQHQLAJ55FRCBFVEUHKH2ERZKP7S. (et) Braun & Cie (autor). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3635281. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_APGJDQHQLAJ55FRCBFVEUHKH2ERZKP7S' target='_blank' rel='noopener'>Paris Colonial Exhibition</a></dd><dt>Creator</dt><dd lang='et'>Braun & Cie (autor)</dd><dt>Date</dt><dd lang=''>1931</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3635281' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_APGJDQHQLAJ55FRCBFVEUHKH2ERZKP7S/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 121495,
+            "ebucoreWidth": 531,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#D2B48C",
+                "#000000",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_APGJDQHQLAJ55FRCBFVEUHKH2ERZKP7S/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            47.0,
+            2.0
+        ]
+    ]
+}

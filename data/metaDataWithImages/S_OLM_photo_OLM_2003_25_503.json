@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916121/S_OLM_photo_OLM_2003_25_503",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/022wYWVjnXEb?dimension=600x600",
+            "textAttributionSnippet": "(en) Motif from \u00c5torp, Let\u00e4lven.\nThe picture taken for postcards - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_503. (sv) Olof Lilljeqvists Konstf\u00f6rlag. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212976. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_503' target='_blank' rel='noopener'>Motif from \u00c5torp, Let\u00e4lven.\nThe picture taken for postcards</a></dd><dt>Creator</dt><dd lang='sv'>Olof Lilljeqvists Konstf\u00f6rlag</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212976' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_503/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 133448,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 406,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#000000",
+                "#DCDCDC",
+                "#2F4F4F",
+                "#696969",
+                "#E6E6FA",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022wYWVjnXEb?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Motif from \u00c5torp, Let\u00e4lven.\nThe picture taken for postcards - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_503. (sv) Olof Lilljeqvists Konstf\u00f6rlag. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212976. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_503' target='_blank' rel='noopener'>Motif from \u00c5torp, Let\u00e4lven.\nThe picture taken for postcards</a></dd><dt>Creator</dt><dd lang='sv'>Olof Lilljeqvists Konstf\u00f6rlag</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212976' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_503/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 174612,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 508,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#808080",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016212976",
+            "textAttributionSnippet": "(en) Motif from \u00c5torp, Let\u00e4lven.\nThe picture taken for postcards - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_503. (sv) Olof Lilljeqvists Konstf\u00f6rlag. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212976. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_503' target='_blank' rel='noopener'>Motif from \u00c5torp, Let\u00e4lven.\nThe picture taken for postcards</a></dd><dt>Creator</dt><dd lang='sv'>Olof Lilljeqvists Konstf\u00f6rlag</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212976' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 99314
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_503/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Yarn"
+    ],
+    "concept_note": [
+        "Long continuous length of interlocked fibers"
+    ],
+    "edmDatasetName": [
+        "916121_Ag_SE_s_olm"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

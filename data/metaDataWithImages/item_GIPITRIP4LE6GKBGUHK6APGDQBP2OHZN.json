@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/192/item_GIPITRIP4LE6GKBGUHK6APGDQBP2OHZN",
+    "webResources": [
+        {
+            "about": "https://rlp.museum-digital.de/index.php?t=objekt&oges=92251",
+            "textAttributionSnippet": "(en) Photopost map of the Litzner SeehornFoin Silvretta - https://www.europeana.eu/item/192/item_GIPITRIP4LE6GKBGUHK6APGDQBP2OHZN. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=92251. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/192/item_GIPITRIP4LE6GKBGUHK6APGDQBP2OHZN' target='_blank' rel='noopener'>Photopost map of the Litzner SeehornFoin Silvretta</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=92251' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://rlp.museum-digital.de/data/rlp/images/55/92251-ton_684/fotopostkarte_eines_bergm/fotopostkarte-eines-bergmassivs-92251-381808.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Photopost map of the Litzner SeehornFoin Silvretta - https://www.europeana.eu/item/192/item_GIPITRIP4LE6GKBGUHK6APGDQBP2OHZN. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=92251. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/192/item_GIPITRIP4LE6GKBGUHK6APGDQBP2OHZN' target='_blank' rel='noopener'>Photopost map of the Litzner SeehornFoin Silvretta</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=92251' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/192/item_GIPITRIP4LE6GKBGUHK6APGDQBP2OHZN/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 263912,
+            "ebucoreWidth": 1667,
+            "ebucoreHeight": 1079,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#808080",
+                "#D3D3D3",
+                "#FAEBD7",
+                "#708090",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/192/item_GIPITRIP4LE6GKBGUHK6APGDQBP2OHZN/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "192_DDB_Roscheider"
+    ],
+    "edmCountry": [
+        "Germany"
+    ],
+    "edmLanguage": [
+        "de"
+    ],
+    "organization_label": [
+        "Roscheider Hof Open Air Museum"
+    ],
+    "coordinate": "not showed"
+}

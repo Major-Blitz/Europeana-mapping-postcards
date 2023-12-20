@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLS_105_b_SLS_105b_60",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/sls105/sls105b_foto_060.jpg",
+            "dcDescription": {
+                "swe": [
+                    "Fotografi"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Vargata, V\u00e5rd\u00f6 - https://www.europeana.eu/item/2021007/_SLS_105_b_SLS_105b_60. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLS_105_b_SLS_105b_60' target='_blank' rel='noopener'>Vargata, V\u00e5rd\u00f6</a></dd><dt>Date</dt><dd lang=''>1900</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLS_105_b_SLS_105b_60/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 4893423,
+            "ebucoreWidth": 4000,
+            "ebucoreHeight": 2582,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF8DC",
+                "#C0C0C0",
+                "#808080",
+                "#F5DEB3",
+                "#696969",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLS_105_b_SLS_105b_60/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "shores"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            65.0,
+            27.0
+        ],
+        [
+            60.11667,
+            19.9
+        ],
+        [
+            60.25,
+            20.0
+        ]
+    ]
+}

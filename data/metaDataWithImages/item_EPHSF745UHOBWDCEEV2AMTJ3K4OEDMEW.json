@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_EPHSF745UHOBWDCEEV2AMTJ3K4OEDMEW",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=e3a2f243-8b34-46c8-beb9-74f868847738",
+            "textAttributionSnippet": "(et) \u00d5nnistamise p\u00e4eva kaart - https://www.europeana.eu/item/401/item_EPHSF745UHOBWDCEEV2AMTJ3K4OEDMEW. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3416950. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_EPHSF745UHOBWDCEEV2AMTJ3K4OEDMEW' target='_blank' rel='noopener'>\u00d5nnistamise p\u00e4eva kaart</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3416950' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_EPHSF745UHOBWDCEEV2AMTJ3K4OEDMEW/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 94190,
+            "ebucoreWidth": 490,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#006400",
+                "#9ACD32",
+                "#6B8E23",
+                "#FAFAD2",
+                "#2F4F4F",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3416950",
+            "textAttributionSnippet": "(et) \u00d5nnistamise p\u00e4eva kaart - https://www.europeana.eu/item/401/item_EPHSF745UHOBWDCEEV2AMTJ3K4OEDMEW. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3416950. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_EPHSF745UHOBWDCEEV2AMTJ3K4OEDMEW' target='_blank' rel='noopener'>\u00d5nnistamise p\u00e4eva kaart</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3416950' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_EPHSF745UHOBWDCEEV2AMTJ3K4OEDMEW/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": "not showed"
+}

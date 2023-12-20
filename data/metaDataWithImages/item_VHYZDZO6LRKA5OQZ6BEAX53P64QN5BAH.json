@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_VHYZDZO6LRKA5OQZ6BEAX53P64QN5BAH",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=74b7a0fb-2390-4e1c-a08c-2473df19848e",
+            "textAttributionSnippet": "(en) Otep\u00e4\u00e4, Haanjamaa - https://www.europeana.eu/item/401/item_VHYZDZO6LRKA5OQZ6BEAX53P64QN5BAH. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3744326. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_VHYZDZO6LRKA5OQZ6BEAX53P64QN5BAH' target='_blank' rel='noopener'>Otep\u00e4\u00e4, Haanjamaa</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3744326' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_VHYZDZO6LRKA5OQZ6BEAX53P64QN5BAH/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 94947,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 662,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#F5DEB3",
+                "#696969",
+                "#FDF5E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3744326",
+            "textAttributionSnippet": "(en) Otep\u00e4\u00e4, Haanjamaa - https://www.europeana.eu/item/401/item_VHYZDZO6LRKA5OQZ6BEAX53P64QN5BAH. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3744326. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_VHYZDZO6LRKA5OQZ6BEAX53P64QN5BAH' target='_blank' rel='noopener'>Otep\u00e4\u00e4, Haanjamaa</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3744326' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_VHYZDZO6LRKA5OQZ6BEAX53P64QN5BAH/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

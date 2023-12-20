@@ -1,0 +1,55 @@
+{
+    "aggregations_about": "/aggregation/provider/916113/S_FV_object_FVMA000004",
+    "webResources": [
+        {
+            "about": "http://digitaltmuseum.se/021026912678",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/916113/S_FV_object_FVMA000004. (en) Air Force Museum. Flygvapenmuseum - http://digitaltmuseum.se/021026912678. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVMA000004' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>Air Force Museum</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021026912678' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/022yjVFt4LrC?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/916113/S_FV_object_FVMA000004. (en) Air Force Museum. Flygvapenmuseum - http://digitaltmuseum.se/021026912678. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVMA000004' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>Air Force Museum</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021026912678' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVMA000004/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 469144,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 859,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#FAEBD7",
+                "#FFE4C4",
+                "#CD853F",
+                "#F5F5DC",
+                "#FAFAD2"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVMA000004/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "916113_Ag_SE_Flygvapenmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

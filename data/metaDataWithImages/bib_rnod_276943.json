@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_276943",
+    "webResources": [
+        {
+            "about": "https://purl.pt/33155/service/media/cover/max",
+            "textAttributionSnippet": "(pt) Nova Lisboa: [aspectos v\u00e1rios] - https://www.europeana.eu/item/10501/bib_rnod_276943. Biblioteca Nacional de Portugal - https://purl.pt/33155. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_276943' target='_blank' rel='noopener'>Nova Lisboa: [aspectos v\u00e1rios]</a></dd><dt>Date</dt><dd lang=''>1967</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33155' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_276943/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 2102869,
+            "ebucoreWidth": 3460,
+            "ebucoreHeight": 2460,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#483D8B",
+                "#A9A9A9",
+                "#CD853F",
+                "#C0C0C0",
+                "#2F4F4F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://purl.pt/33155",
+            "textAttributionSnippet": "(pt) Nova Lisboa: [aspectos v\u00e1rios] - https://www.europeana.eu/item/10501/bib_rnod_276943. Biblioteca Nacional de Portugal - https://purl.pt/33155. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_276943' target='_blank' rel='noopener'>Nova Lisboa: [aspectos v\u00e1rios]</a></dd><dt>Date</dt><dd lang=''>1967</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33155' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_276943/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": "not showed"
+}

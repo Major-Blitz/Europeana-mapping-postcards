@@ -1,0 +1,1468 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0015.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0015.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 307289,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1924,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#BDB76B",
+                "#696969",
+                "#FFFFFF",
+                "#BC8F8F",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0006.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0006.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 412998,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1938,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#708090",
+                "#FFE4C4",
+                "#FAEBD7",
+                "#C0C0C0",
+                "#778899"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0033.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0033.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 324424,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1912,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#FAF0E6",
+                "#C0C0C0",
+                "#E6E6FA",
+                "#A9A9A9",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0020.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0020.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 470543,
+            "ebucoreWidth": 1939,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFF0",
+                "#FFFFFF",
+                "#556B2F",
+                "#D8BFD8",
+                "#C0C0C0",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0011.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0011.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 322513,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1966,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#FFEBCD",
+                "#B0C4DE",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#FFFAFA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0024.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0024.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 442250,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1904,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#D2B48C",
+                "#F8F8FF",
+                "#EEE8AA",
+                "#F0F8FF",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 312826,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1906,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#E6E6FA",
+                "#D3D3D3",
+                "#808080",
+                "#F5F5F5",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0029.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0029.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 317163,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1928,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#B0C4DE",
+                "#FFE4B5",
+                "#BC8F8F",
+                "#F5FFFA",
+                "#EEE8AA",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0005.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0005.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 298572,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1939,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#FFFFFF",
+                "#808080",
+                "#B0C4DE",
+                "#FAF0E6",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0023.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0023.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 336427,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1934,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#696969",
+                "#E6E6FA",
+                "#D3D3D3",
+                "#FAF0E6",
+                "#CD5C5C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0007.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0007.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 310821,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1940,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#FDF5E6",
+                "#FFE4B5",
+                "#C0C0C0",
+                "#FAF0E6",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0032.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0032.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 473252,
+            "ebucoreWidth": 1932,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#708090",
+                "#808080",
+                "#D2B48C",
+                "#FFF5EE",
+                "#E0FFFF"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0014.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0014.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 408824,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1888,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E6E6FA",
+                "#D3D3D3",
+                "#F5FFFA",
+                "#F0FFF0",
+                "#FFFAF0",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0027.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0027.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 385162,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1891,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#FAF0E6",
+                "#E6E6FA",
+                "#F5F5DC",
+                "#DCDCDC",
+                "#DEB887"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0010.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0010.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 532190,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1948,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF5EE",
+                "#FAF0E6",
+                "#FFFAFA",
+                "#FFE4C4",
+                "#F5F5F5",
+                "#FFE4E1"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 280757,
+            "ebucoreWidth": 1939,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#C0C0C0",
+                "#FFFAF0",
+                "#CD853F",
+                "#DCDCDC",
+                "#FFFFF0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0004.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0004.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 436562,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1963,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#EEE8AA",
+                "#D2B48C",
+                "#F0F8FF",
+                "#FFFFFF",
+                "#FFFAF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0017.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0017.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 386587,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1938,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#F5F5DC",
+                "#8FBC8F",
+                "#F0FFFF",
+                "#E6E6FA",
+                "#DEB887"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0031.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0031.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 344584,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1920,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#BDB76B",
+                "#C0C0C0",
+                "#FAF0E6",
+                "#F5F5F5",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0022.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0022.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 446602,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1934,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E6E6FA",
+                "#F0FFFF",
+                "#C0C0C0",
+                "#EEE8AA",
+                "#FFFAF0",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0013.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0013.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 310532,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1971,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEFD5",
+                "#EEE8AA",
+                "#F8F8FF",
+                "#F5FFFA",
+                "#FFE4B5",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0008.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0008.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 395309,
+            "ebucoreWidth": 1968,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#CD853F",
+                "#556B2F",
+                "#BC8F8F",
+                "#808080",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0026.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0026.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 476893,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1896,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#D3D3D3",
+                "#E6E6FA",
+                "#FFFAFA",
+                "#FFE4C4",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0035.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0035.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 373095,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1920,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#B0C4DE",
+                "#FAF0E6",
+                "#F0F8FF",
+                "#E0FFFF",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0018.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0018.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 409048,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1906,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#808080",
+                "#F5DEB3",
+                "#8FBC8F",
+                "#B0C4DE",
+                "#DEB887"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0003.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0003.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 288307,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1963,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#BDB76B",
+                "#FFF5EE",
+                "#FFFAF0",
+                "#8FBC8F",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0016.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0016.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 437281,
+            "ebucoreWidth": 1930,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#FFE4E1",
+                "#778899",
+                "#B0C4DE",
+                "#F5F5F5",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0021.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0021.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 390848,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1943,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#F5DEB3",
+                "#F0FFF0",
+                "#A9A9A9",
+                "#808080",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0009.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0009.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 299222,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1968,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#F8F8FF",
+                "#F5FFFA",
+                "#8FBC8F",
+                "#D3D3D3",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0034.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0034.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 568798,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1915,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#191970",
+                "#F5F5DC",
+                "#BDB76B",
+                "#F0FFF0",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0012.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0012.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 386092,
+            "ebucoreWidth": 1940,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#B0C4DE",
+                "#F0FFFF",
+                "#F0F8FF",
+                "#2F4F4F",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0025.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0025.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 337303,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1877,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#808080",
+                "#696969",
+                "#FAEBD7",
+                "#F8F8FF",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0028.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0028.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 383784,
+            "ebucoreWidth": 1928,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#F5FFFA",
+                "#DEB887",
+                "#C0C0C0",
+                "#F0F8FF",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0019.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0019.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 314085,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1884,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FDF5E6",
+                "#808080",
+                "#C0C0C0",
+                "#FFF5EE",
+                "#CD853F",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0002.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0002.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 236428,
+            "ebucoreWidth": 1925,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF5EE",
+                "#708090",
+                "#B0C4DE",
+                "#F5F5DC",
+                "#F5F5F5",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0030.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-03-17 16:17:39 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123. europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123' target='_blank' rel='noopener'>Cartes postales envoy\u00e9es par Edmond GAULT \u00e0 sa femme Henriette DUMONT et ses enfants</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/4109a045ff3604f0c39e69f1e1c355e3</dd><dt>Date</dt><dd lang=''>1915; 1917</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/14384.147123.original_Page0030.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 435753,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 1925,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F8F8FF",
+                "#000000",
+                "#E6E6FA",
+                "#808080",
+                "#FFF5EE",
+                "#FFF0F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_14384_attachments_147123/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": "not showed"
+}

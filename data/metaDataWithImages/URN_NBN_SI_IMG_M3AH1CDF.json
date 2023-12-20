@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_M3AH1CDF",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-M3AH1CDF/maxi/edm",
+            "textAttributionSnippet": "(sl) Ljubljana (Aleksandrova cesta) - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_M3AH1CDF. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-M3AH1CDF. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_M3AH1CDF' target='_blank' rel='noopener'>Ljubljana (Aleksandrova cesta)</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-M3AH1CDF' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 27819,
+            "ebucoreWidth": 381,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#D3D3D3",
+                "#F5DEB3",
+                "#696969",
+                "#C0C0C0",
+                "#FFE4C4"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-M3AH1CDF",
+            "textAttributionSnippet": "(sl) Ljubljana (Aleksandrova cesta) - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_M3AH1CDF. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-M3AH1CDF. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_M3AH1CDF' target='_blank' rel='noopener'>Ljubljana (Aleksandrova cesta)</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-M3AH1CDF' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 29489
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-M3AH1CDF/d8eb1710-b948-41b1-a49d-fbd2a218131f/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "1029 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Ljubljana (Aleksandrova cesta) - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_M3AH1CDF. National and University Library of Slovenia - http://www.dlib.si/details/URN:NBN:SI:IMG-M3AH1CDF. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_M3AH1CDF' target='_blank' rel='noopener'>Ljubljana (Aleksandrova cesta)</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-M3AH1CDF' target='_blank' rel='noopener'>National and University Library of Slovenia</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_M3AH1CDF/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1054556,
+            "ebucoreWidth": 1152,
+            "ebucoreHeight": 1725,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#D3D3D3",
+                "#F5DEB3",
+                "#696969",
+                "#F5F5F5",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_M3AH1CDF/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Graphic art, printmaking. Graphics"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

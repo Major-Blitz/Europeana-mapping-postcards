@@ -1,0 +1,88 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_ddcb3750_fad9_41a5_9520_525d869013ca",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/ddcb3750-fad9-41a5-9520-525d869013ca/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ddcb3750_fad9_41a5_9520_525d869013ca. Verlag Hans Harth. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ddcb3750-fad9-41a5-9520-525d869013ca/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Hans Harth</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ddcb3750-fad9-41a5-9520-525d869013ca/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_trifescu_docpatv494/Imagini1/4C7AA98D10444CFB853635B8DC977AB9.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ddcb3750_fad9_41a5_9520_525d869013ca. Verlag Hans Harth. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ddcb3750-fad9-41a5-9520-525d869013ca/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Hans Harth</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ddcb3750-fad9-41a5-9520-525d869013ca/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_ddcb3750_fad9_41a5_9520_525d869013ca/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22059920,
+            "ebucoreWidth": 3378,
+            "ebucoreHeight": 2175,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#EEE8AA",
+                "#C0C0C0",
+                "#FFE4C4",
+                "#BDB76B",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_trifescu_docpatv494/Imagini1/3195F5E8D7154E40A083D65FA4977714.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ddcb3750_fad9_41a5_9520_525d869013ca. Verlag Hans Harth. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ddcb3750-fad9-41a5-9520-525d869013ca/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Verlag Hans Harth</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ddcb3750-fad9-41a5-9520-525d869013ca/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_ddcb3750_fad9_41a5_9520_525d869013ca/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 14010306,
+            "ebucoreWidth": 2171,
+            "ebucoreHeight": 3339,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#D2B48C",
+                "#808080",
+                "#CD853F",
+                "#F5DEB3",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_ddcb3750_fad9_41a5_9520_525d869013ca/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

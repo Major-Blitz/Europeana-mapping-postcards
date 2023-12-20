@@ -1,0 +1,88 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_2e27bbf1_5acf_4f84_8ee5_7667dede5926",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-img-stranse_Micu_Bianca_docpatv492_DOCPATv492/Imagini/44BBAE9B276D4D338A4C6BFCCECDF1E5.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_2e27bbf1_5acf_4f84_8ee5_7667dede5926. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/2e27bbf1-5acf-4f84-8ee5-7667dede5926/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/2e27bbf1-5acf-4f84-8ee5-7667dede5926/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_2e27bbf1_5acf_4f84_8ee5_7667dede5926/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 4932376,
+            "ebucoreWidth": 1606,
+            "ebucoreHeight": 1022,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFDEAD",
+                "#BC8F8F",
+                "#F4A460",
+                "#708090",
+                "#FFEFD5",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/2e27bbf1-5acf-4f84-8ee5-7667dede5926/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_2e27bbf1_5acf_4f84_8ee5_7667dede5926. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/2e27bbf1-5acf-4f84-8ee5-7667dede5926/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/2e27bbf1-5acf-4f84-8ee5-7667dede5926/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-img-stranse_Micu_Bianca_docpatv492_DOCPATv492/Imagini/E360CCCB28504FC898EAFF7A2C9F6973.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_2e27bbf1_5acf_4f84_8ee5_7667dede5926. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/2e27bbf1-5acf-4f84-8ee5-7667dede5926/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/2e27bbf1-5acf-4f84-8ee5-7667dede5926/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_2e27bbf1_5acf_4f84_8ee5_7667dede5926/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 4900856,
+            "ebucoreWidth": 1602,
+            "ebucoreHeight": 1018,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#BDB76B",
+                "#A9A9A9",
+                "#FAEBD7",
+                "#D2B48C",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_2e27bbf1_5acf_4f84_8ee5_7667dede5926/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "paper (fiber product)"
+    ],
+    "concept_note": [
+        "Refers generally to all types of thin matted or felted sheets or webs of fiber formed and dried on a fine screen from a pulpy water suspension. The fibers may be animal, such as hair, silk or wool, or mineral, such as asbestos, or synthetic. However most paper is made from cellulosic plant fiber, such as from wood pulp, grass, cotton, linen, and straw."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "House of Mure\u0219enilor"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

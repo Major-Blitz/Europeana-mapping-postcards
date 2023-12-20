@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_10699_ent0",
+    "webResources": [
+        {
+            "about": "https://bivaldi.gva.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=11001219",
+            "textAttributionSnippet": "(en) Bodegas de Oria de Rueda [Material Bo]]: Bodegas de elaboraci\u00f3n: Casa Nueva: Requena (Valencia) - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_10699_ent0. An\u00f3nimo. Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=10699. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_10699_ent0' target='_blank' rel='noopener'>Bodegas de Oria de Rueda [Material Bo]]: Bodegas de elaboraci\u00f3n: Casa Nueva: Requena (Valencia)</a></dd><dt>Creator</dt><dd lang=''>An\u00f3nimo</dd><dt>Date</dt><dd lang=''>1909</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=10699' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_10699_ent0/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 659586,
+            "ebucoreWidth": 1137,
+            "ebucoreHeight": 753,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFE0",
+                "#A9A9A9",
+                "#FFB6C1",
+                "#000000",
+                "#BDB76B",
+                "#FF7F50"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://bivaldi.gva.es/es/consulta/registro.do?id=10699",
+            "textAttributionSnippet": "(en) Bodegas de Oria de Rueda [Material Bo]]: Bodegas de elaboraci\u00f3n: Casa Nueva: Requena (Valencia) - https://www.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_10699_ent0. An\u00f3nimo. Biblioteca Valenciana Digital - https://bivaldi.gva.es/es/consulta/registro.do?id=10699. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_10699_ent0' target='_blank' rel='noopener'>Bodegas de Oria de Rueda [Material Bo]]: Bodegas de elaboraci\u00f3n: Casa Nueva: Requena (Valencia)</a></dd><dt>Creator</dt><dd lang=''>An\u00f3nimo</dd><dt>Date</dt><dd lang=''>1909</dd><dt>Institution</dt><dd lang=''><a href='https://bivaldi.gva.es/es/consulta/registro.do?id=10699' target='_blank' rel='noopener'>Biblioteca Valenciana Digital</a></dd><dt>Country</dt><dd lang=''>Spain</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/343/https___hispana_mcu_es_lod_oai_bivaldi_gva_es_10699_ent0/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "343_Hispana_BibliotecaValenciana"
+    ],
+    "edmCountry": [
+        "Spain"
+    ],
+    "edmLanguage": [
+        "es"
+    ],
+    "organization_label": [
+        "Hispana"
+    ],
+    "coordinate": "not showed"
+}

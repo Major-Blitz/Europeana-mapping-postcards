@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_99ad4e6c_f5fc_4711_a270_2554ac195486",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_04%20Aprilie%202020_istorie_georgescu_docpatv494/Imagini1/22B314789B0D4A1B9C8EA497E48CA956.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_99ad4e6c_f5fc_4711_a270_2554ac195486. Fotograf Jainek. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/99ad4e6c-f5fc-4711-a270-2554ac195486/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf Jainek</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/99ad4e6c-f5fc-4711-a270-2554ac195486/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_99ad4e6c_f5fc_4711_a270_2554ac195486/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22341956,
+            "ebucoreWidth": 3453,
+            "ebucoreHeight": 2155,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#FFF5EE",
+                "#F5FFFA",
+                "#BC8F8F",
+                "#FAF0E6",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/99ad4e6c-f5fc-4711-a270-2554ac195486/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_99ad4e6c_f5fc_4711_a270_2554ac195486. Fotograf Jainek. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/99ad4e6c-f5fc-4711-a270-2554ac195486/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf Jainek</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/99ad4e6c-f5fc-4711-a270-2554ac195486/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_04%20Aprilie%202020_istorie_georgescu_docpatv494/Imagini1/518D704DF5E5460CBEB7D7A303385155.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_99ad4e6c_f5fc_4711_a270_2554ac195486. Fotograf Jainek. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/99ad4e6c-f5fc-4711-a270-2554ac195486/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf Jainek</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/99ad4e6c-f5fc-4711-a270-2554ac195486/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_99ad4e6c_f5fc_4711_a270_2554ac195486/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22341956,
+            "ebucoreWidth": 3453,
+            "ebucoreHeight": 2155,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEFD5",
+                "#BDB76B",
+                "#FAEBD7",
+                "#DCDCDC",
+                "#FAF0E6",
+                "#FFC0CB"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_99ad4e6c_f5fc_4711_a270_2554ac195486/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographers"
+    ],
+    "concept_note": [
+        "Individuals who specialize in creating photographs, which are still images produced from radiation-sensitive materials, typically by means of the chemical action of light on a sensitive film, paper, glass, or metal."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

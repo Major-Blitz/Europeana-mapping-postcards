@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_JCOESTEDSBNPVWSKJHORRWV6IGXPALYJ",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=4c74c1fd-e621-4709-837a-fde263b18d9e",
+            "textAttributionSnippet": "(en) Estonia P\u00e4ite - https://www.europeana.eu/item/401/item_JCOESTEDSBNPVWSKJHORRWV6IGXPALYJ. (et) Triefeldt, Johanna (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3748577. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JCOESTEDSBNPVWSKJHORRWV6IGXPALYJ' target='_blank' rel='noopener'>Estonia P\u00e4ite</a></dd><dt>Creator</dt><dd lang='et'>Triefeldt, Johanna (valmistaja)</dd><dt>Date</dt><dd lang=''>1939</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3748577' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_JCOESTEDSBNPVWSKJHORRWV6IGXPALYJ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 107184,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 588,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#BDB76B",
+                "#696969",
+                "#FFE4B5",
+                "#FAF0E6",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3748577",
+            "textAttributionSnippet": "(en) Estonia P\u00e4ite - https://www.europeana.eu/item/401/item_JCOESTEDSBNPVWSKJHORRWV6IGXPALYJ. (et) Triefeldt, Johanna (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3748577. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JCOESTEDSBNPVWSKJHORRWV6IGXPALYJ' target='_blank' rel='noopener'>Estonia P\u00e4ite</a></dd><dt>Creator</dt><dd lang='et'>Triefeldt, Johanna (valmistaja)</dd><dt>Date</dt><dd lang=''>1939</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3748577' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_JCOESTEDSBNPVWSKJHORRWV6IGXPALYJ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            59.216667,
+            27.3
+        ]
+    ]
+}

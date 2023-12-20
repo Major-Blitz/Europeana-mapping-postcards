@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_HZ5XDGQMDLFEL7JXSFN5GUYORIFWZQGD",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=b1525572-aa61-42fe-8d10-07ebd7cb841a",
+            "textAttributionSnippet": "(et) V\u00f5ru - https://www.europeana.eu/item/401/item_HZ5XDGQMDLFEL7JXSFN5GUYORIFWZQGD. (et) O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (tr\u00fckkija (valmistaja)). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741203. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_HZ5XDGQMDLFEL7JXSFN5GUYORIFWZQGD' target='_blank' rel='noopener'>V\u00f5ru</a></dd><dt>Creator</dt><dd lang='et'>O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (tr\u00fckkija (valmistaja))</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741203' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_HZ5XDGQMDLFEL7JXSFN5GUYORIFWZQGD/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 115062,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 527,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFFF",
+                "#DEB887",
+                "#556B2F",
+                "#F0FFF0",
+                "#696969",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3741203",
+            "textAttributionSnippet": "(et) V\u00f5ru - https://www.europeana.eu/item/401/item_HZ5XDGQMDLFEL7JXSFN5GUYORIFWZQGD. (et) O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (tr\u00fckkija (valmistaja)). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741203. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_HZ5XDGQMDLFEL7JXSFN5GUYORIFWZQGD' target='_blank' rel='noopener'>V\u00f5ru</a></dd><dt>Creator</dt><dd lang='et'>O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (tr\u00fckkija (valmistaja))</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741203' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_HZ5XDGQMDLFEL7JXSFN5GUYORIFWZQGD/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            57.84861,
+            26.992777
+        ]
+    ]
+}

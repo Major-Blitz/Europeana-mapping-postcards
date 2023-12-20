@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/8c3da460_abd3_4b74_9265_416c8a7c9889",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Mess der onderofficieren in \u00e9\u00e9n van de gebouwen van de kazerne Rademakers - https://www.europeana.eu/item/534/8c3da460_abd3_4b74_9265_416c8a7c9889. (nl) E. Desaix (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/8c3da460_abd3_4b74_9265_416c8a7c9889' target='_blank' rel='noopener'>Mess der onderofficieren in \u00e9\u00e9n van de gebouwen van de kazerne Rademakers</a></dd><dt>Creator</dt><dd lang='nl'>E. Desaix (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/b8e4f9e5-f300-4515-94ae-197a66448872.jpg",
+            "textAttributionSnippet": "(nl) Mess der onderofficieren in \u00e9\u00e9n van de gebouwen van de kazerne Rademakers - https://www.europeana.eu/item/534/8c3da460_abd3_4b74_9265_416c8a7c9889. (nl) E. Desaix (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/8c3da460_abd3_4b74_9265_416c8a7c9889' target='_blank' rel='noopener'>Mess der onderofficieren in \u00e9\u00e9n van de gebouwen van de kazerne Rademakers</a></dd><dt>Creator</dt><dd lang='nl'>E. Desaix (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/8c3da460_abd3_4b74_9265_416c8a7c9889/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 155601,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 645,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#D3D3D3",
+                "#FFE4C4",
+                "#808080",
+                "#2F4F4F",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/8c3da460_abd3_4b74_9265_416c8a7c9889/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

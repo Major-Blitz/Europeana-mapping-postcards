@@ -1,0 +1,55 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_2JMU33L5Y3FO6FGLQJ4SFAT3X24AA2RF",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=1fac1da0-786d-487d-b94f-5022b84cfeea",
+            "textAttributionSnippet": "(et) Muusikud, kunstnikud, avaliku elu tegelased - https://www.europeana.eu/item/401/item_2JMU33L5Y3FO6FGLQJ4SFAT3X24AA2RF. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3830861. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_2JMU33L5Y3FO6FGLQJ4SFAT3X24AA2RF' target='_blank' rel='noopener'>Muusikud, kunstnikud, avaliku elu tegelased</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3830861' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_2JMU33L5Y3FO6FGLQJ4SFAT3X24AA2RF/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 94482,
+            "ebucoreWidth": 605,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#D2B48C",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#808080"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3830861",
+            "textAttributionSnippet": "(et) Muusikud, kunstnikud, avaliku elu tegelased - https://www.europeana.eu/item/401/item_2JMU33L5Y3FO6FGLQJ4SFAT3X24AA2RF. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3830861. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_2JMU33L5Y3FO6FGLQJ4SFAT3X24AA2RF' target='_blank' rel='noopener'>Muusikud, kunstnikud, avaliku elu tegelased</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3830861' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_2JMU33L5Y3FO6FGLQJ4SFAT3X24AA2RF/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_4F0139833B49925ABFAF8C356922CA87",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=1148731&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(en) blue flag with crown lion battery in the middle, postcard - https://www.europeana.eu/item/2021009/_4F0139833B49925ABFAF8C356922CA87. (en) JOL. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.4F0139833B49925ABFAF8C356922CA87?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_4F0139833B49925ABFAF8C356922CA87' target='_blank' rel='noopener'>blue flag with crown lion battery in the middle, postcard</a></dd><dt>Creator</dt><dd lang='en'>JOL</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.4F0139833B49925ABFAF8C356922CA87?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_4F0139833B49925ABFAF8C356922CA87/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 347646,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 757,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFF0",
+                "#8FBC8F",
+                "#483D8B",
+                "#FFF5EE",
+                "#DCDCDC",
+                "#FFF8DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.4F0139833B49925ABFAF8C356922CA87?lng=en-gb",
+            "textAttributionSnippet": "(en) blue flag with crown lion battery in the middle, postcard - https://www.europeana.eu/item/2021009/_4F0139833B49925ABFAF8C356922CA87. (en) JOL. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.4F0139833B49925ABFAF8C356922CA87?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_4F0139833B49925ABFAF8C356922CA87' target='_blank' rel='noopener'>blue flag with crown lion battery in the middle, postcard</a></dd><dt>Creator</dt><dd lang='en'>JOL</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.4F0139833B49925ABFAF8C356922CA87?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_4F0139833B49925ABFAF8C356922CA87/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

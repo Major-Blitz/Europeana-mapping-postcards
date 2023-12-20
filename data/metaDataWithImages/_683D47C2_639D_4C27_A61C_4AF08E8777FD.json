@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_683D47C2_639D_4C27_A61C_4AF08E8777FD",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.683D47C2-639D-4C27-A61C-4AF08E8777FD?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; En godt nytt \u00e5r v\u00e4nnerna i Tammerfors - https://www.europeana.eu/item/117/_683D47C2_639D_4C27_A61C_4AF08E8777FD. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.683D47C2-639D-4C27-A61C-4AF08E8777FD?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_683D47C2_639D_4C27_A61C_4AF08E8777FD' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; En godt nytt \u00e5r v\u00e4nnerna i Tammerfors</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.683D47C2-639D-4C27-A61C-4AF08E8777FD?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2375842&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; En godt nytt \u00e5r v\u00e4nnerna i Tammerfors - https://www.europeana.eu/item/117/_683D47C2_639D_4C27_A61C_4AF08E8777FD. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.683D47C2-639D-4C27-A61C-4AF08E8777FD?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_683D47C2_639D_4C27_A61C_4AF08E8777FD' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; En godt nytt \u00e5r v\u00e4nnerna i Tammerfors</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.683D47C2-639D-4C27-A61C-4AF08E8777FD?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_683D47C2_639D_4C27_A61C_4AF08E8777FD/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 432545,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 773,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#BDB76B",
+                "#2F4F4F",
+                "#D2B48C",
+                "#FFE4E1",
+                "#FFC0CB"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_683D47C2_639D_4C27_A61C_4AF08E8777FD/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": [
+        [
+            61.498055,
+            23.76
+        ]
+    ]
+}

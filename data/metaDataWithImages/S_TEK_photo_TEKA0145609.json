@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916118/S_TEK_photo_TEKA0145609",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032wZVorsZA9?dimension=600x600",
+            "textAttributionSnippet": "(en) Photography for production of postcards. Facilities in the Str\u00f6msholm Canal, Ramn\u00e4s, Degerfors - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145609. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320696. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145609' target='_blank' rel='noopener'>Photography for production of postcards. Facilities in the Str\u00f6msholm Canal, Ramn\u00e4s, Degerfors</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320696' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145609/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 179397,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 431,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#C0C0C0",
+                "#A9A9A9",
+                "#696969",
+                "#D3D3D3",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016320696",
+            "textAttributionSnippet": "(en) Photography for production of postcards. Facilities in the Str\u00f6msholm Canal, Ramn\u00e4s, Degerfors - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145609. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320696. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145609' target='_blank' rel='noopener'>Photography for production of postcards. Facilities in the Str\u00f6msholm Canal, Ramn\u00e4s, Degerfors</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320696' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 97619
+        },
+        {
+            "about": "https://mm.dimu.org/image/032wZVorsZA9?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Photography for production of postcards. Facilities in the Str\u00f6msholm Canal, Ramn\u00e4s, Degerfors - https://www.europeana.eu/item/916118/S_TEK_photo_TEKA0145609. (en) Gehrman, Thorvald. Tekniska museet - https://digitaltmuseum.se/021016320696. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916118/S_TEK_photo_TEKA0145609' target='_blank' rel='noopener'>Photography for production of postcards. Facilities in the Str\u00f6msholm Canal, Ramn\u00e4s, Degerfors</a></dd><dt>Creator</dt><dd lang='en'>Gehrman, Thorvald</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016320696' target='_blank' rel='noopener'>Tekniska museet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145609/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 664361,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 862,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#C0C0C0",
+                "#696969",
+                "#D3D3D3",
+                "#A9A9A9",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916118/S_TEK_photo_TEKA0145609/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916118_Ag_SE_Tekniskamuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_DS7KA6S5MMNQRG6UUWHJ2VHZ44QLT6YL",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3741701",
+            "textAttributionSnippet": "(et) Tallinn, kindlustuse tornid - https://www.europeana.eu/item/401/item_DS7KA6S5MMNQRG6UUWHJ2VHZ44QLT6YL. (en) Lego, K (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741701. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_DS7KA6S5MMNQRG6UUWHJ2VHZ44QLT6YL' target='_blank' rel='noopener'>Tallinn, kindlustuse tornid</a></dd><dt>Creator</dt><dd lang='en'>Lego, K (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741701' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=da8e02b4-72c8-4525-bc87-73082c3b3b1b",
+            "textAttributionSnippet": "(et) Tallinn, kindlustuse tornid - https://www.europeana.eu/item/401/item_DS7KA6S5MMNQRG6UUWHJ2VHZ44QLT6YL. (en) Lego, K (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741701. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_DS7KA6S5MMNQRG6UUWHJ2VHZ44QLT6YL' target='_blank' rel='noopener'>Tallinn, kindlustuse tornid</a></dd><dt>Creator</dt><dd lang='en'>Lego, K (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741701' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_DS7KA6S5MMNQRG6UUWHJ2VHZ44QLT6YL/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 129229,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 542,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#F5F5F5",
+                "#BDB76B",
+                "#F5DEB3",
+                "#708090",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_DS7KA6S5MMNQRG6UUWHJ2VHZ44QLT6YL/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

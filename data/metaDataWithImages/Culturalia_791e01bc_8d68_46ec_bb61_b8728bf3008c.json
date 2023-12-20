@@ -1,0 +1,92 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_791e01bc_8d68_46ec_bb61_b8728bf3008c",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-transa-2-pt-import_docpatv4965-BV-CM-nr-inv-duplicat-UNIT_docpatv4965-BV-CM-nr-inv-duplicat-UNIT/Imagini/ECEC384938614DD99E5BB2674E30FC6E.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_791e01bc_8d68_46ec_bb61_b8728bf3008c. Koch, Gustav. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/791e01bc-8d68-46ec-bb61-b8728bf3008c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Koch, Gustav</dd><dt>Date</dt><dd lang=''>1927</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/791e01bc-8d68-46ec-bb61-b8728bf3008c/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_791e01bc_8d68_46ec_bb61_b8728bf3008c/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5222708,
+            "ebucoreWidth": 1668,
+            "ebucoreHeight": 1042,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4B5",
+                "#CD853F",
+                "#FFEBCD",
+                "#E9967A",
+                "#C0C0C0",
+                "#FFDAB9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-transa-2-pt-import_docpatv4965-BV-CM-nr-inv-duplicat-UNIT_docpatv4965-BV-CM-nr-inv-duplicat-UNIT/Imagini/4C0B939DF16F450C99CB4AA8BCE9D815.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_791e01bc_8d68_46ec_bb61_b8728bf3008c. Koch, Gustav. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/791e01bc-8d68-46ec-bb61-b8728bf3008c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Koch, Gustav</dd><dt>Date</dt><dd lang=''>1927</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/791e01bc-8d68-46ec-bb61-b8728bf3008c/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_791e01bc_8d68_46ec_bb61_b8728bf3008c/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5217772,
+            "ebucoreWidth": 1054,
+            "ebucoreHeight": 1648,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#778899",
+                "#FFEBCD",
+                "#CD853F",
+                "#696969",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://culturalia.ro/entities/791e01bc-8d68-46ec-bb61-b8728bf3008c/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_791e01bc_8d68_46ec_bb61_b8728bf3008c. Koch, Gustav. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/791e01bc-8d68-46ec-bb61-b8728bf3008c/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Koch, Gustav</dd><dt>Date</dt><dd lang=''>1927</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/791e01bc-8d68-46ec-bb61-b8728bf3008c/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_791e01bc_8d68_46ec_bb61_b8728bf3008c/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "House of Mure\u0219enilor"
+    ],
+    "coordinate": [
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

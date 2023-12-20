@@ -1,0 +1,77 @@
+{
+    "aggregations_about": "/aggregation/provider/91609/SMVK_VKM_fotografi_1295518",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "sv": [
+                    "Creative Commons - Erk\u00e4nnande-Ickekommersiell-Inga bearbetningar"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1296951/image.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) group portraits, Indian, woman, man, child, photography, ph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1295518. (en) Unknown. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1295518. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1295518' target='_blank' rel='noopener'>group portraits, Indian, woman, man, child, photography, ph</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1295518' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1295518/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 73445,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 451,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#FFFFFF",
+                "#708090",
+                "#E6E6FA",
+                "#556B2F",
+                "#FFFAFA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://collections.smvk.se/carlotta-vkm/web/object/1295518",
+            "textAttributionSnippet": "(en) group portraits, Indian, woman, man, child, photography, ph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1295518. (en) Unknown. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1295518. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1295518' target='_blank' rel='noopener'>group portraits, Indian, woman, man, child, photography, ph</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1295518' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 21650
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1295518/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91609_SwedishNationalHeritage_smvk_vkmf"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            4.0,
+            -73.25
+        ]
+    ]
+}

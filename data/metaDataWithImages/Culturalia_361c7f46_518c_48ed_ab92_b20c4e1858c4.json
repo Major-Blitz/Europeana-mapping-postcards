@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_361c7f46_518c_48ed_ab92_b20c4e1858c4",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_voina_docpatv494/Imagini1/63303F887D10469D9E5FC5AA9F4619AE.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_361c7f46_518c_48ed_ab92_b20c4e1858c4. Editura Rafail. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/361c7f46-518c-48ed-ab92-b20c4e1858c4/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Rafail</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/361c7f46-518c-48ed-ab92-b20c4e1858c4/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_361c7f46_518c_48ed_ab92_b20c4e1858c4/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 14860054,
+            "ebucoreWidth": 2085,
+            "ebucoreHeight": 3300,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#BC8F8F",
+                "#D3D3D3",
+                "#FAF0E6",
+                "#C0C0C0",
+                "#696969"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_voina_docpatv494/Imagini1/DEF1CEF681E5476297D1ECE0C0B3162A.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_361c7f46_518c_48ed_ab92_b20c4e1858c4. Editura Rafail. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/361c7f46-518c-48ed-ab92-b20c4e1858c4/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Rafail</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/361c7f46-518c-48ed-ab92-b20c4e1858c4/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_361c7f46_518c_48ed_ab92_b20c4e1858c4/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 10079780,
+            "ebucoreWidth": 3283,
+            "ebucoreHeight": 2118,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#CD5C5C",
+                "#BC8F8F",
+                "#FFC0CB",
+                "#F08080",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/361c7f46-518c-48ed-ab92-b20c4e1858c4/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_361c7f46_518c_48ed_ab92_b20c4e1858c4. Editura Rafail. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/361c7f46-518c-48ed-ab92-b20c4e1858c4/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Rafail</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/361c7f46-518c-48ed-ab92-b20c4e1858c4/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_361c7f46_518c_48ed_ab92_b20c4e1858c4/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

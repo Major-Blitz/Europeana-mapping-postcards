@@ -1,0 +1,99 @@
+{
+    "aggregations_about": "/aggregation/provider/900/nbm_bildarkiv_62002",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc/4.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/159430/BAAEAIX.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) postcard - https://www.europeana.eu/item/900/nbm_bildarkiv_62002. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/62002. CC BY-NC - http://creativecommons.org/licenses/by-nc/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_62002' target='_blank' rel='noopener'>postcard</a></dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/62002' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/>CC BY-NC</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_62002/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 34340,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 306,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#FFFAFA",
+                "#808080",
+                "#E6E6FA",
+                "#FAF0E6",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc/4.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/159433/BAAEAIZ.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) postcard - https://www.europeana.eu/item/900/nbm_bildarkiv_62002. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/62002. CC BY-NC - http://creativecommons.org/licenses/by-nc/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_62002' target='_blank' rel='noopener'>postcard</a></dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/62002' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/>CC BY-NC</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_62002/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 38528,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 293,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#B0C4DE",
+                "#C0C0C0",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#BC8F8F",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://samlingar.norrbottensmuseum.se/web/object/62002",
+            "textAttributionSnippet": "(en) postcard - https://www.europeana.eu/item/900/nbm_bildarkiv_62002. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/62002. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_62002' target='_blank' rel='noopener'>postcard</a></dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/62002' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 11541
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_62002/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "900__Norrbottens_museum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Norrbottens Museum"
+    ],
+    "coordinate": "not showed"
+}

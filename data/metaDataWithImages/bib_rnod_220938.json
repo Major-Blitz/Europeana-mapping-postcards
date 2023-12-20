@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_220938",
+    "webResources": [
+        {
+            "about": "https://purl.pt/27870",
+            "textAttributionSnippet": "(en) Churches of Macau = Macau - https://www.europeana.eu/item/10501/bib_rnod_220938. Biblioteca Nacional de Portugal - https://purl.pt/27870. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/10501/bib_rnod_220938' target='_blank' rel='noopener'>Churches of Macau = Macau</a></dd><dt>Date</dt><dd lang=''>1993</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/27870' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://purl.pt/27870/service/media/cover/max",
+            "textAttributionSnippet": "(en) Churches of Macau = Macau - https://www.europeana.eu/item/10501/bib_rnod_220938. Biblioteca Nacional de Portugal - https://purl.pt/27870. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/10501/bib_rnod_220938' target='_blank' rel='noopener'>Churches of Macau = Macau</a></dd><dt>Date</dt><dd lang=''>1993</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/27870' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_220938/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 326723,
+            "ebucoreWidth": 1053,
+            "ebucoreHeight": 694,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#8FBC8F",
+                "#556B2F",
+                "#CD5C5C",
+                "#2F4F4F",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_220938/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": [
+        [
+            46.22,
+            20.47889
+        ],
+        [
+            47.0,
+            19.0
+        ]
+    ]
+}

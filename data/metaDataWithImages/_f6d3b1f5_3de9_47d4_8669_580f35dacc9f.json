@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/636/_f6d3b1f5_3de9_47d4_8669_580f35dacc9f",
+    "webResources": [
+        {
+            "about": "http://mfa.finna.fi/Record/mfa.f6d3b1f5-3de9-47d4-8669-580f35dacc9f?lng=en-gb",
+            "textAttributionSnippet": "(fi) Eliel ja Loja Saarisen postikortti Emil Wikstr\u00f6mille Roomasta (Eliel Saarisen albumi nro. 1) - https://www.europeana.eu/item/636/_f6d3b1f5_3de9_47d4_8669_580f35dacc9f. Saarinen, Eliel. Museum of Finnish Architecture - http://mfa.finna.fi/Record/mfa.f6d3b1f5-3de9-47d4-8669-580f35dacc9f?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/636/_f6d3b1f5_3de9_47d4_8669_580f35dacc9f' target='_blank' rel='noopener'>Eliel ja Loja Saarisen postikortti Emil Wikstr\u00f6mille Roomasta (Eliel Saarisen albumi nro. 1)</a></dd><dt>Creator</dt><dd lang=''>Saarinen, Eliel</dd><dt>Institution</dt><dd lang=''><a href='http://mfa.finna.fi/Record/mfa.f6d3b1f5-3de9-47d4-8669-580f35dacc9f?lng=en-gb' target='_blank' rel='noopener'>Museum of Finnish Architecture</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://museoliittorepox.vserver.fi/mpthumbnailhelper/download?id=3317120&size=extra_large&key=T3st1&orgid=18027",
+            "textAttributionSnippet": "(fi) Eliel ja Loja Saarisen postikortti Emil Wikstr\u00f6mille Roomasta (Eliel Saarisen albumi nro. 1) - https://www.europeana.eu/item/636/_f6d3b1f5_3de9_47d4_8669_580f35dacc9f. Saarinen, Eliel. Museum of Finnish Architecture - http://mfa.finna.fi/Record/mfa.f6d3b1f5-3de9-47d4-8669-580f35dacc9f?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/636/_f6d3b1f5_3de9_47d4_8669_580f35dacc9f' target='_blank' rel='noopener'>Eliel ja Loja Saarisen postikortti Emil Wikstr\u00f6mille Roomasta (Eliel Saarisen albumi nro. 1)</a></dd><dt>Creator</dt><dd lang=''>Saarinen, Eliel</dd><dt>Institution</dt><dd lang=''><a href='http://mfa.finna.fi/Record/mfa.f6d3b1f5-3de9-47d4-8669-580f35dacc9f?lng=en-gb' target='_blank' rel='noopener'>Museum of Finnish Architecture</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/636/_f6d3b1f5_3de9_47d4_8669_580f35dacc9f/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 174779,
+            "ebucoreWidth": 931,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#F5F5F5",
+                "#2E8B57",
+                "#6B8E23",
+                "#D3D3D3",
+                "#F0FFF0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/636/_f6d3b1f5_3de9_47d4_8669_580f35dacc9f/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Letter"
+    ],
+    "concept_note": [
+        "Written message from one to another"
+    ],
+    "edmDatasetName": [
+        "636_Ag_IF_MFA"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Museum of Finnish Architecture"
+    ],
+    "coordinate": "not showed"
+}

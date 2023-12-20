@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/73ffefc0_6537_421d_9768_2a1aa8b02fed",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) Het praalgraf van Karel de Stoute in de Onze-Lieve-Vrouwekerk - https://www.europeana.eu/item/534/73ffefc0_6537_421d_9768_2a1aa8b02fed. (nl) E. Desaix (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/73ffefc0_6537_421d_9768_2a1aa8b02fed' target='_blank' rel='noopener'>Het praalgraf van Karel de Stoute in de Onze-Lieve-Vrouwekerk</a></dd><dt>Creator</dt><dd lang='nl'>E. Desaix (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/1951f5c0-f5cb-4a7e-92e4-0b90d23cf320.jpg",
+            "textAttributionSnippet": "(nl) Het praalgraf van Karel de Stoute in de Onze-Lieve-Vrouwekerk - https://www.europeana.eu/item/534/73ffefc0_6537_421d_9768_2a1aa8b02fed. (nl) E. Desaix (Brussel). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/73ffefc0_6537_421d_9768_2a1aa8b02fed' target='_blank' rel='noopener'>Het praalgraf van Karel de Stoute in de Onze-Lieve-Vrouwekerk</a></dd><dt>Creator</dt><dd lang='nl'>E. Desaix (Brussel)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/73ffefc0_6537_421d_9768_2a1aa8b02fed/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 160723,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 649,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFB6C1",
+                "#BDB76B",
+                "#E9967A",
+                "#CD853F",
+                "#CD5C5C",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/73ffefc0_6537_421d_9768_2a1aa8b02fed/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

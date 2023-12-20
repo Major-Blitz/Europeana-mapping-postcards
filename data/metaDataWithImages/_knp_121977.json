@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_121977",
+    "webResources": [
+        {
+            "about": "http://finna.fi/Record/lusto.knp-121977",
+            "textAttributionSnippet": "(fi) \"Hakkausalan kulottaminen. Vilppula.\" Mets\u00e4taloudellisen valistustoimiston postikortti numero 38 - https://www.europeana.eu/item/2021008/_knp_121977. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-121977. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_121977' target='_blank' rel='noopener'>\"Hakkausalan kulottaminen. Vilppula.\" Mets\u00e4taloudellisen valistustoimiston postikortti numero 38</a></dd><dt>Date</dt><dd lang=''>1928</dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-121977' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/94726/highres?customer=knp",
+            "textAttributionSnippet": "(fi) \"Hakkausalan kulottaminen. Vilppula.\" Mets\u00e4taloudellisen valistustoimiston postikortti numero 38 - https://www.europeana.eu/item/2021008/_knp_121977. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-121977. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_121977' target='_blank' rel='noopener'>\"Hakkausalan kulottaminen. Vilppula.\" Mets\u00e4taloudellisen valistustoimiston postikortti numero 38</a></dd><dt>Date</dt><dd lang=''>1928</dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-121977' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_121977/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 64245,
+            "ebucoreWidth": 602,
+            "ebucoreHeight": 383,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#BDB76B",
+                "#FFFAFA",
+                "#000000",
+                "#DCDCDC",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_121977/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

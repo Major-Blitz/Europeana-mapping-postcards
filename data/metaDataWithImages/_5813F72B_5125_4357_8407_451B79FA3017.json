@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_5813F72B_5125_4357_8407_451B79FA3017",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.5813F72B-5125-4357-8407-451B79FA3017?lng=en-gb",
+            "textAttributionSnippet": "(en) travel guide, map; Ledsven i Helsingfors Serie 3 - https://www.europeana.eu/item/117/_5813F72B_5125_4357_8407_451B79FA3017. (en) Lilius & Hertzberg; Paul, Aksel; Aksel Pauls Reseb\u00f6cker \u00f6fver Finland. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.5813F72B-5125-4357-8407-451B79FA3017?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_5813F72B_5125_4357_8407_451B79FA3017' target='_blank' rel='noopener'>travel guide, map; Ledsven i Helsingfors Serie 3</a></dd><dt>Creator</dt><dd lang='en'>Lilius & Hertzberg; Paul, Aksel; Aksel Pauls Reseb\u00f6cker \u00f6fver Finland</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.5813F72B-5125-4357-8407-451B79FA3017?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2375536&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) travel guide, map; Ledsven i Helsingfors Serie 3 - https://www.europeana.eu/item/117/_5813F72B_5125_4357_8407_451B79FA3017. (en) Lilius & Hertzberg; Paul, Aksel; Aksel Pauls Reseb\u00f6cker \u00f6fver Finland. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.5813F72B-5125-4357-8407-451B79FA3017?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_5813F72B_5125_4357_8407_451B79FA3017' target='_blank' rel='noopener'>travel guide, map; Ledsven i Helsingfors Serie 3</a></dd><dt>Creator</dt><dd lang='en'>Lilius & Hertzberg; Paul, Aksel; Aksel Pauls Reseb\u00f6cker \u00f6fver Finland</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.5813F72B-5125-4357-8407-451B79FA3017?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_5813F72B_5125_4357_8407_451B79FA3017/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 822002,
+            "ebucoreWidth": 1181,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#EEE8AA",
+                "#BC8F8F",
+                "#808080",
+                "#000000",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_5813F72B_5125_4357_8407_451B79FA3017/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

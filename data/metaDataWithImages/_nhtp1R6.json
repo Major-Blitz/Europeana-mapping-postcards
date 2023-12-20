@@ -1,0 +1,61 @@
+{
+    "aggregations_about": "/aggregation/provider/0940429/_nhtp1R6",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://glam.uni.wroc.pl/iiif/image-api/OZG_INW_FOT_3794_41666_0001/full/full/0/default.jpg",
+            "textAttributionSnippet": "(en) Admiral Sir David Beatty - https://www.europeana.eu/item/0940429/_nhtp1R6. (en) Atelier Russell & Sons (ca 1850-ca 1945). Fig. Biblioteka Uniwersytecka we Wroc\u0142awiu - http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99056. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/0940429/_nhtp1R6' target='_blank' rel='noopener'>Admiral Sir David Beatty</a></dd><dt>Creator</dt><dd lang='en'>Atelier Russell & Sons (ca 1850-ca 1945). Fig</dd><dt>Date</dt><dd lang=''>1915</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99056' target='_blank' rel='noopener'>Biblioteka Uniwersytecka we Wroc\u0142awiu</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "svcsHasService": [
+                "https://glam.uni.wroc.pl/iiif/image-api/OZG_INW_FOT_3794_41666_0001"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://glam.uni.wroc.pl/iiif/OZG_INW_FOT_3794_41666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3520978,
+            "ebucoreWidth": 4019,
+            "ebucoreHeight": 6359,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD5C5C",
+                "#DEB887",
+                "#8B4513",
+                "#CD853F",
+                "#DCDCDC",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99056",
+            "textAttributionSnippet": "(en) Admiral Sir David Beatty - https://www.europeana.eu/item/0940429/_nhtp1R6. (en) Atelier Russell & Sons (ca 1850-ca 1945). Fig. Biblioteka Uniwersytecka we Wroc\u0142awiu - http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99056. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/0940429/_nhtp1R6' target='_blank' rel='noopener'>Admiral Sir David Beatty</a></dd><dt>Creator</dt><dd lang='en'>Atelier Russell & Sons (ca 1850-ca 1945). Fig</dd><dt>Date</dt><dd lang=''>1915</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:www.bibliotekacyfrowa.pl:99056' target='_blank' rel='noopener'>Biblioteka Uniwersytecka we Wroc\u0142awiu</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        }
+    ],
+    "concept_label": [
+        "Photography genre"
+    ],
+    "concept_note": [
+        "Type of genre; form of photography in terms of a theme or subject"
+    ],
+    "edmDatasetName": [
+        "0940429_Biblioteka_Cyfrowa_Uniwersytetu_Wroclawskiego"
+    ],
+    "edmCountry": [
+        "Poland"
+    ],
+    "edmLanguage": [
+        "pl"
+    ],
+    "organization_label": [
+        "Digital Libraries Federation"
+    ],
+    "coordinate": "not showed"
+}

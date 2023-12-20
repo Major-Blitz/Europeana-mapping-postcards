@@ -1,0 +1,99 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN05289",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/013AktbGzU5m?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Letter card - the schoolhouse at \u00d6sterbybruk, Uppland - https://www.europeana.eu/item/91617/upmu_photo_FN05289. (sv) Ok\u00e4nd,. Upplandsmuseet - https://digitaltmuseum.se/0210111664907. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN05289' target='_blank' rel='noopener'>Letter card - the schoolhouse at \u00d6sterbybruk, Uppland</a></dd><dt>Creator</dt><dd lang='sv'>Ok\u00e4nd,</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210111664907' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN05289/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 836366,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 784,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#8FBC8F",
+                "#FDF5E6",
+                "#FAF0E6",
+                "#708090",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/0210111664907",
+            "textAttributionSnippet": "(en) Letter card - the schoolhouse at \u00d6sterbybruk, Uppland - https://www.europeana.eu/item/91617/upmu_photo_FN05289. (sv) Ok\u00e4nd,. Upplandsmuseet - https://digitaltmuseum.se/0210111664907. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN05289' target='_blank' rel='noopener'>Letter card - the schoolhouse at \u00d6sterbybruk, Uppland</a></dd><dt>Creator</dt><dd lang='sv'>Ok\u00e4nd,</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210111664907' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/013AktbGznsx?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Letter card - the schoolhouse at \u00d6sterbybruk, Uppland - https://www.europeana.eu/item/91617/upmu_photo_FN05289. (sv) Ok\u00e4nd,. Upplandsmuseet - https://digitaltmuseum.se/0210111664907. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN05289' target='_blank' rel='noopener'>Letter card - the schoolhouse at \u00d6sterbybruk, Uppland</a></dd><dt>Creator</dt><dd lang='sv'>Ok\u00e4nd,</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210111664907' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN05289/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 749741,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#8FBC8F",
+                "#FAF0E6",
+                "#808080",
+                "#FAEBD7",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN05289/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "School"
+    ],
+    "concept_note": [
+        "Institution for the education of students by teachers"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

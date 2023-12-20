@@ -1,0 +1,833 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0008.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0008.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 159430,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#6B8E23",
+                "#A9A9A9",
+                "#556B2F",
+                "#F8F8FF",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0006.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0006.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 184533,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#FFFAFA",
+                "#FFF0F5",
+                "#A9A9A9",
+                "#A0522D",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 175417,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5FFFA",
+                "#000000",
+                "#E6E6FA",
+                "#FFFAFA",
+                "#2F4F4F",
+                "#F8F8FF"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0010.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0010.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 183532,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#FFFAFA",
+                "#808080",
+                "#A9A9A9",
+                "#F5FFFA",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0012.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0012.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 203178,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#808000",
+                "#6B8E23",
+                "#808080",
+                "#A9A9A9",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0005.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0005.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 207121,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#FFFAFA",
+                "#CD853F",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0014.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0014.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 388434,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#FFFAFA",
+                "#BC8F8F",
+                "#006400",
+                "#DCDCDC",
+                "#696969"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0018.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0018.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 190215,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#BDB76B",
+                "#2F4F4F",
+                "#696969",
+                "#808080",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0003.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0003.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 178921,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#2F4F4F",
+                "#E6E6FA",
+                "#CD853F",
+                "#FFFAFA",
+                "#F5FFFA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0016.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0016.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 212338,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#800000",
+                "#BDB76B",
+                "#808080",
+                "#FFFAFA",
+                "#A9A9A9",
+                "#F5FFFA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0009.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0009.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 185443,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#BC8F8F",
+                "#FFFFF0",
+                "#F5F5F5",
+                "#000000",
+                "#006400"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0007.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0007.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 177013,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#006400",
+                "#FFFAFA",
+                "#000000",
+                "#800000",
+                "#6B8E23"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 174805,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#6B8E23",
+                "#FFFAFA",
+                "#BDB76B",
+                "#F5F5F5",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0011.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0011.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 187278,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#FFFAFA",
+                "#000000",
+                "#BC8F8F",
+                "#F0F8FF",
+                "#6B8E23"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0013.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0013.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 176425,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#696969",
+                "#C0C0C0",
+                "#9ACD32",
+                "#808000",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0019.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0019.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 182702,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#6B8E23",
+                "#D3D3D3",
+                "#8B4513",
+                "#808000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0004.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0004.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 187554,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#708090",
+                "#808080",
+                "#CD853F",
+                "#FFFAFA",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0015.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0015.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 189347,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#556B2F",
+                "#006400",
+                "#CD853F",
+                "#A0522D",
+                "#6B8E23"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0017.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0017.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 253971,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FFFAFA",
+                "#800000",
+                "#808000",
+                "#A0522D",
+                "#808080"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0002.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2014-01-06 13:22:46 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916) - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666. europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666' target='_blank' rel='noopener'>Ensemble de 10 cartes postales d'Estelle Delmotte-Var\u00e9e \u00e0 sa soeur Rosa Robillard-Var\u00e9e (1915-1916)</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/d58ac83717906f7caa5c0596aadbee03</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/11704.119666.original_Page0002.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 185922,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 2338,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#E6E6FA",
+                "#800000",
+                "#FFFAFA",
+                "#A0522D",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_11704_attachments_119666/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Letter"
+    ],
+    "concept_note": [
+        "Written message from one to another"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": [
+        [
+            50.44657,
+            2.720867
+        ]
+    ]
+}

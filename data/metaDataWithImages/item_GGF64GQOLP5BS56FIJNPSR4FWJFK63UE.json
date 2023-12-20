@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_GGF64GQOLP5BS56FIJNPSR4FWJFK63UE",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=4620caa2-a99f-49df-9e79-dd7e89edb734",
+            "textAttributionSnippet": "(en) Le Musee du Bardo - https://www.europeana.eu/item/401/item_GGF64GQOLP5BS56FIJNPSR4FWJFK63UE. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3685804. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_GGF64GQOLP5BS56FIJNPSR4FWJFK63UE' target='_blank' rel='noopener'>Le Musee du Bardo</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3685804' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_GGF64GQOLP5BS56FIJNPSR4FWJFK63UE/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 139356,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 575,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#D3D3D3",
+                "#BDB76B",
+                "#708090",
+                "#000000",
+                "#D8BFD8"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3685804",
+            "textAttributionSnippet": "(en) Le Musee du Bardo - https://www.europeana.eu/item/401/item_GGF64GQOLP5BS56FIJNPSR4FWJFK63UE. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3685804. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_GGF64GQOLP5BS56FIJNPSR4FWJFK63UE' target='_blank' rel='noopener'>Le Musee du Bardo</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3685804' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_GGF64GQOLP5BS56FIJNPSR4FWJFK63UE/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            34.0,
+            10.0
+        ]
+    ]
+}

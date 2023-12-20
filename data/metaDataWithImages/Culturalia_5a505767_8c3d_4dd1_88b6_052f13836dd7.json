@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_5a505767_8c3d_4dd1_88b6_052f13836dd7",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/5a505767-8c3d-4dd1-88b6-052f13836dd7/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5a505767_8c3d_4dd1_88b6_052f13836dd7. nespecificat. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/5a505767-8c3d-4dd1-88b6-052f13836dd7/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>nespecificat</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5a505767-8c3d-4dd1-88b6-052f13836dd7/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-img-stranse_Domocos_Lorena_docpatv492_DOCPATv492/Imagini/7AD64270DB3248599E80C572A9F9596C.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5a505767_8c3d_4dd1_88b6_052f13836dd7. nespecificat. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/5a505767-8c3d-4dd1-88b6-052f13836dd7/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>nespecificat</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5a505767-8c3d-4dd1-88b6-052f13836dd7/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_5a505767_8c3d_4dd1_88b6_052f13836dd7/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5268404,
+            "ebucoreWidth": 1654,
+            "ebucoreHeight": 1060,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#A9A9A9",
+                "#DEB887",
+                "#DCDCDC",
+                "#5F9EA0",
+                "#483D8B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_BV-CM-img-stranse_Domocos_Lorena_docpatv492_DOCPATv492/Imagini/88D89686CC99455F8D2C4307AC214C7B.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5a505767_8c3d_4dd1_88b6_052f13836dd7. nespecificat. Muzeul Casa Mure\u0219enilor - https://culturalia.ro/entities/5a505767-8c3d-4dd1-88b6-052f13836dd7/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>nespecificat</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5a505767-8c3d-4dd1-88b6-052f13836dd7/view' target='_blank' rel='noopener'>Muzeul Casa Mure\u0219enilor</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_5a505767_8c3d_4dd1_88b6_052f13836dd7/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 5262044,
+            "ebucoreWidth": 1652,
+            "ebucoreHeight": 1060,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#2F4F4F",
+                "#556B2F",
+                "#E9967A",
+                "#FFE4C4",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_5a505767_8c3d_4dd1_88b6_052f13836dd7/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "paper (fiber product)"
+    ],
+    "concept_note": [
+        "Refers generally to all types of thin matted or felted sheets or webs of fiber formed and dried on a fine screen from a pulpy water suspension. The fibers may be animal, such as hair, silk or wool, or mineral, such as asbestos, or synthetic. However most paper is made from cellulosic plant fiber, such as from wood pulp, grass, cotton, linen, and straw."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "House of Mure\u0219enilor"
+    ],
+    "coordinate": [
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

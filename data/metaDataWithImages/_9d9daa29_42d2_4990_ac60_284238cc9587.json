@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/636/_9d9daa29_42d2_4990_ac60_284238cc9587",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://museoliittorepox.vserver.fi/mpthumbnailhelper/download?id=3317115&size=extra_large&key=T3st1&orgid=18027",
+            "textAttributionSnippet": "(fi) Eliel ja Loja Saarisen postikortti Emil Wikstr\u00f6mille Budapestist\u00e4 (Eliel Saarisen albumi nro. 1) - https://www.europeana.eu/item/636/_9d9daa29_42d2_4990_ac60_284238cc9587. Saarinen, Eliel. Museum of Finnish Architecture - http://mfa.finna.fi/Record/mfa.9d9daa29-42d2-4990-ac60-284238cc9587?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/636/_9d9daa29_42d2_4990_ac60_284238cc9587' target='_blank' rel='noopener'>Eliel ja Loja Saarisen postikortti Emil Wikstr\u00f6mille Budapestist\u00e4 (Eliel Saarisen albumi nro. 1)</a></dd><dt>Creator</dt><dd lang=''>Saarinen, Eliel</dd><dt>Institution</dt><dd lang=''><a href='http://mfa.finna.fi/Record/mfa.9d9daa29-42d2-4990-ac60-284238cc9587?lng=en-gb' target='_blank' rel='noopener'>Museum of Finnish Architecture</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/636/_9d9daa29_42d2_4990_ac60_284238cc9587/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 175839,
+            "ebucoreWidth": 934,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FF6347",
+                "#808080",
+                "#FFDAB9",
+                "#F08080",
+                "#CD5C5C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mfa.finna.fi/Record/mfa.9d9daa29-42d2-4990-ac60-284238cc9587?lng=en-gb",
+            "textAttributionSnippet": "(fi) Eliel ja Loja Saarisen postikortti Emil Wikstr\u00f6mille Budapestist\u00e4 (Eliel Saarisen albumi nro. 1) - https://www.europeana.eu/item/636/_9d9daa29_42d2_4990_ac60_284238cc9587. Saarinen, Eliel. Museum of Finnish Architecture - http://mfa.finna.fi/Record/mfa.9d9daa29-42d2-4990-ac60-284238cc9587?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/636/_9d9daa29_42d2_4990_ac60_284238cc9587' target='_blank' rel='noopener'>Eliel ja Loja Saarisen postikortti Emil Wikstr\u00f6mille Budapestist\u00e4 (Eliel Saarisen albumi nro. 1)</a></dd><dt>Creator</dt><dd lang=''>Saarinen, Eliel</dd><dt>Institution</dt><dd lang=''><a href='http://mfa.finna.fi/Record/mfa.9d9daa29-42d2-4990-ac60-284238cc9587?lng=en-gb' target='_blank' rel='noopener'>Museum of Finnish Architecture</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/636/_9d9daa29_42d2_4990_ac60_284238cc9587/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Letter"
+    ],
+    "concept_note": [
+        "Written message from one to another"
+    ],
+    "edmDatasetName": [
+        "636_Ag_IF_MFA"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Museum of Finnish Architecture"
+    ],
+    "coordinate": "not showed"
+}

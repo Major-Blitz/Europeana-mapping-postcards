@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_7OHGYI6BSBK4VZD6F6OHNJCZSDZHXEI5",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=3f786071-ad3f-46be-9b93-d00c046068d9",
+            "textAttributionSnippet": "(en) Constantine - https://www.europeana.eu/item/401/item_7OHGYI6BSBK4VZD6F6OHNJCZSDZHXEI5. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3688086. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_7OHGYI6BSBK4VZD6F6OHNJCZSDZHXEI5' target='_blank' rel='noopener'>Constantine</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3688086' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_7OHGYI6BSBK4VZD6F6OHNJCZSDZHXEI5/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 133596,
+            "ebucoreWidth": 538,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#D8BFD8",
+                "#A0522D",
+                "#2F4F4F",
+                "#D2B48C",
+                "#696969"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3688086",
+            "textAttributionSnippet": "(en) Constantine - https://www.europeana.eu/item/401/item_7OHGYI6BSBK4VZD6F6OHNJCZSDZHXEI5. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3688086. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_7OHGYI6BSBK4VZD6F6OHNJCZSDZHXEI5' target='_blank' rel='noopener'>Constantine</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3688086' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_7OHGYI6BSBK4VZD6F6OHNJCZSDZHXEI5/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            28.0,
+            1.0
+        ]
+    ]
+}

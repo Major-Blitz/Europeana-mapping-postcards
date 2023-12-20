@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_86059",
+    "webResources": [
+        {
+            "about": "http://finna.fi/Record/lusto.knp-86059",
+            "textAttributionSnippet": "(en) Postcard number 17 of the Forest Education Office. 100 year old pine rope with a bazag frame in Valkj\u00e4rvi. Wooden volume 500 m3 per hectare. Lake Valkj\u00e4rvi, Karelia? - https://www.europeana.eu/item/2021008/_knp_86059. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86059. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_86059' target='_blank' rel='noopener'>Postcard number 17 of the Forest Education Office. 100 year old pine rope with a bazag frame in Valkj\u00e4rvi. Wooden volume 500 m3 per hectare. Lake Valkj\u00e4rvi, Karelia?</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86059' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46837/thumbnail?customer=knp",
+            "textAttributionSnippet": "(en) Postcard number 17 of the Forest Education Office. 100 year old pine rope with a bazag frame in Valkj\u00e4rvi. Wooden volume 500 m3 per hectare. Lake Valkj\u00e4rvi, Karelia? - https://www.europeana.eu/item/2021008/_knp_86059. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86059. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_86059' target='_blank' rel='noopener'>Postcard number 17 of the Forest Education Office. 100 year old pine rope with a bazag frame in Valkj\u00e4rvi. Wooden volume 500 m3 per hectare. Lake Valkj\u00e4rvi, Karelia?</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86059' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_86059/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 28290,
+            "ebucoreWidth": 245,
+            "ebucoreHeight": 400,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#D3D3D3",
+                "#DCDCDC",
+                "#BDB76B",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_86059/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

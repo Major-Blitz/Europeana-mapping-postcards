@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_1E2844C0D41C251A7EAA56F58306FCA2",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=815465&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(en) Village photo of the Rohdais of Pyh\u00e4ranta, windmill in the foreground - https://www.europeana.eu/item/2021009/_1E2844C0D41C251A7EAA56F58306FCA2. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.1E2844C0D41C251A7EAA56F58306FCA2?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_1E2844C0D41C251A7EAA56F58306FCA2' target='_blank' rel='noopener'>Village photo of the Rohdais of Pyh\u00e4ranta, windmill in the foreground</a></dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.1E2844C0D41C251A7EAA56F58306FCA2?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_1E2844C0D41C251A7EAA56F58306FCA2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 419511,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 745,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#C0C0C0",
+                "#FAFAD2",
+                "#BDB76B",
+                "#D3D3D3",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.1E2844C0D41C251A7EAA56F58306FCA2?lng=en-gb",
+            "textAttributionSnippet": "(en) Village photo of the Rohdais of Pyh\u00e4ranta, windmill in the foreground - https://www.europeana.eu/item/2021009/_1E2844C0D41C251A7EAA56F58306FCA2. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.1E2844C0D41C251A7EAA56F58306FCA2?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_1E2844C0D41C251A7EAA56F58306FCA2' target='_blank' rel='noopener'>Village photo of the Rohdais of Pyh\u00e4ranta, windmill in the foreground</a></dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.1E2844C0D41C251A7EAA56F58306FCA2?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_1E2844C0D41C251A7EAA56F58306FCA2/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

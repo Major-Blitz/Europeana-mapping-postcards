@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/y56hpy9b",
+    "webResources": [
+        {
+            "about": "https://wellcomecollection.org/works/y56hpy9b",
+            "textAttributionSnippet": "Chastity belt,[French?], early 17th Century - https://www.europeana.eu/item/9200579/y56hpy9b. Wellcome Collection - https://wellcomecollection.org/works/y56hpy9b. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/y56hpy9b' target='_blank' rel='noopener'>Chastity belt,[French?], early 17th Century</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/y56hpy9b' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 264098
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0019671.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "Chastity belt,[French?], early 17th Century - https://www.europeana.eu/item/9200579/y56hpy9b. Wellcome Collection - https://wellcomecollection.org/works/y56hpy9b. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/y56hpy9b' target='_blank' rel='noopener'>Chastity belt,[French?], early 17th Century</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/y56hpy9b' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 65754,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 314,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#808080",
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0019671.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "Chastity belt,[French?], early 17th Century - https://www.europeana.eu/item/9200579/y56hpy9b. Wellcome Collection - https://wellcomecollection.org/works/y56hpy9b. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/y56hpy9b' target='_blank' rel='noopener'>Chastity belt,[French?], early 17th Century</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/y56hpy9b' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/L0019671.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/y56hpy9b/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 69080,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 322,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#808080",
+                "#696969",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/y56hpy9b/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Book"
+    ],
+    "concept_note": [
+        "Medium for recording information (words or images) typically on bound pages or more abstractly in electronic or audio form"
+    ],
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

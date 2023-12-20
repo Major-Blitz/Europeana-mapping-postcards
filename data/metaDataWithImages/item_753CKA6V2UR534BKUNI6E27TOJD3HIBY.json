@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_753CKA6V2UR534BKUNI6E27TOJD3HIBY",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3743473",
+            "textAttributionSnippet": "(et) Tallinn, Tornide v\u00e4ljak - https://www.europeana.eu/item/401/item_753CKA6V2UR534BKUNI6E27TOJD3HIBY. (en) Lego, K (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3743473. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_753CKA6V2UR534BKUNI6E27TOJD3HIBY' target='_blank' rel='noopener'>Tallinn, Tornide v\u00e4ljak</a></dd><dt>Creator</dt><dd lang='en'>Lego, K (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3743473' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=1c36c305-286c-44b9-9ff8-c7621db52132",
+            "textAttributionSnippet": "(et) Tallinn, Tornide v\u00e4ljak - https://www.europeana.eu/item/401/item_753CKA6V2UR534BKUNI6E27TOJD3HIBY. (en) Lego, K (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3743473. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_753CKA6V2UR534BKUNI6E27TOJD3HIBY' target='_blank' rel='noopener'>Tallinn, Tornide v\u00e4ljak</a></dd><dt>Creator</dt><dd lang='en'>Lego, K (author)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3743473' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_753CKA6V2UR534BKUNI6E27TOJD3HIBY/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 144527,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 587,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#696969",
+                "#F0FFF0",
+                "#FFFAFA",
+                "#F5DEB3",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_753CKA6V2UR534BKUNI6E27TOJD3HIBY/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

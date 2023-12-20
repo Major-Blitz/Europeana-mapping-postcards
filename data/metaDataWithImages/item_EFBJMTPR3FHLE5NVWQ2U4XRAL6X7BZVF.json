@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_EFBJMTPR3FHLE5NVWQ2U4XRAL6X7BZVF",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=8cf1a470-baa5-4a97-b169-7988279927ed",
+            "textAttributionSnippet": "(en) Fez - https://www.europeana.eu/item/401/item_EFBJMTPR3FHLE5NVWQ2U4XRAL6X7BZVF. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3660988. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_EFBJMTPR3FHLE5NVWQ2U4XRAL6X7BZVF' target='_blank' rel='noopener'>Fez</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3660988' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_EFBJMTPR3FHLE5NVWQ2U4XRAL6X7BZVF/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 179917,
+            "ebucoreWidth": 535,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#A9A9A9",
+                "#FFE4E1",
+                "#808080",
+                "#000000",
+                "#FFF0F5"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3660988",
+            "textAttributionSnippet": "(en) Fez - https://www.europeana.eu/item/401/item_EFBJMTPR3FHLE5NVWQ2U4XRAL6X7BZVF. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3660988. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_EFBJMTPR3FHLE5NVWQ2U4XRAL6X7BZVF' target='_blank' rel='noopener'>Fez</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3660988' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_EFBJMTPR3FHLE5NVWQ2U4XRAL6X7BZVF/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            32.0,
+            -6.0
+        ]
+    ]
+}

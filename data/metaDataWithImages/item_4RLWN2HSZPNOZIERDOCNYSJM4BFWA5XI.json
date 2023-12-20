@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_4RLWN2HSZPNOZIERDOCNYSJM4BFWA5XI",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=65b78dc7-2f9f-4507-87e1-b66aefb4677b",
+            "textAttributionSnippet": "(en) Narva-Rivermouth Gorge - https://www.europeana.eu/item/401/item_4RLWN2HSZPNOZIERDOCNYSJM4BFWA5XI. (en) Oak, Heino (printer (maker)). Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417021. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4RLWN2HSZPNOZIERDOCNYSJM4BFWA5XI' target='_blank' rel='noopener'>Narva-Rivermouth Gorge</a></dd><dt>Creator</dt><dd lang='en'>Oak, Heino (printer (maker))</dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417021' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_4RLWN2HSZPNOZIERDOCNYSJM4BFWA5XI/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 164193,
+            "ebucoreWidth": 517,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFF0",
+                "#F0FFFF",
+                "#FFFAF0",
+                "#F4A460",
+                "#F0E68C",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3417021",
+            "textAttributionSnippet": "(en) Narva-Rivermouth Gorge - https://www.europeana.eu/item/401/item_4RLWN2HSZPNOZIERDOCNYSJM4BFWA5XI. (en) Oak, Heino (printer (maker)). Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417021. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4RLWN2HSZPNOZIERDOCNYSJM4BFWA5XI' target='_blank' rel='noopener'>Narva-Rivermouth Gorge</a></dd><dt>Creator</dt><dd lang='en'>Oak, Heino (printer (maker))</dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417021' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_4RLWN2HSZPNOZIERDOCNYSJM4BFWA5XI/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

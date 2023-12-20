@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_3JXVXBD7ETZUQ4O7LBLWJE6KVVEIEDXV",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=ec290e5d-bf43-4193-bb80-bb3d444678e0",
+            "textAttributionSnippet": "(en) Toledo - https://www.europeana.eu/item/401/item_3JXVXBD7ETZUQ4O7LBLWJE6KVVEIEDXV. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3693305. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_3JXVXBD7ETZUQ4O7LBLWJE6KVVEIEDXV' target='_blank' rel='noopener'>Toledo</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3693305' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_3JXVXBD7ETZUQ4O7LBLWJE6KVVEIEDXV/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 150017,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 543,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#E6E6FA",
+                "#F5DEB3",
+                "#FFFAFA",
+                "#FFF5EE",
+                "#FFF0F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3693305",
+            "textAttributionSnippet": "(en) Toledo - https://www.europeana.eu/item/401/item_3JXVXBD7ETZUQ4O7LBLWJE6KVVEIEDXV. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3693305. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_3JXVXBD7ETZUQ4O7LBLWJE6KVVEIEDXV' target='_blank' rel='noopener'>Toledo</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3693305' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_3JXVXBD7ETZUQ4O7LBLWJE6KVVEIEDXV/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            40.2,
+            -3.5
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/fjgq2ug2",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0034277.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "Ruby Westwood Age 13 years., weight 17st. 3lb, Born at Foxton, New Zealand, riding a large three wheeled bicycle - https://www.europeana.eu/item/9200579/fjgq2ug2. Wellcome Collection - https://wellcomecollection.org/works/fjgq2ug2. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/fjgq2ug2' target='_blank' rel='noopener'>Ruby Westwood Age 13 years., weight 17st. 3lb, Born at Foxton, New Zealand, riding a large three wheeled bicycle</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/fjgq2ug2' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/L0034277.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/fjgq2ug2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 107546,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 727,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#C0C0C0",
+                "#808080",
+                "#A9A9A9",
+                "#DCDCDC",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/fjgq2ug2",
+            "textAttributionSnippet": "Ruby Westwood Age 13 years., weight 17st. 3lb, Born at Foxton, New Zealand, riding a large three wheeled bicycle - https://www.europeana.eu/item/9200579/fjgq2ug2. Wellcome Collection - https://wellcomecollection.org/works/fjgq2ug2. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/fjgq2ug2' target='_blank' rel='noopener'>Ruby Westwood Age 13 years., weight 17st. 3lb, Born at Foxton, New Zealand, riding a large three wheeled bicycle</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/fjgq2ug2' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 266013
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0034277.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "Ruby Westwood Age 13 years., weight 17st. 3lb, Born at Foxton, New Zealand, riding a large three wheeled bicycle - https://www.europeana.eu/item/9200579/fjgq2ug2. Wellcome Collection - https://wellcomecollection.org/works/fjgq2ug2. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/fjgq2ug2' target='_blank' rel='noopener'>Ruby Westwood Age 13 years., weight 17st. 3lb, Born at Foxton, New Zealand, riding a large three wheeled bicycle</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/fjgq2ug2' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 103160,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 710,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#C0C0C0",
+                "#808080",
+                "#DCDCDC",
+                "#A9A9A9",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/fjgq2ug2/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Transport"
+    ],
+    "concept_note": [
+        "Human-directed movement of things or people between locations"
+    ],
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_89a9288f_2bb0_4b8c_9a76_094ab8715a18",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_georgescu_docpatv494/Imagini1/3C4EDF01CFE84616807E7553BA7831BB.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_89a9288f_2bb0_4b8c_9a76_094ab8715a18. Editura Karl Graef, libr\u0103rie, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/89a9288f-2bb0-4b8c-9a76-094ab8715a18/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Graef, libr\u0103rie, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/89a9288f-2bb0-4b8c-9a76-094ab8715a18/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_89a9288f_2bb0_4b8c_9a76_094ab8715a18/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 15931238,
+            "ebucoreWidth": 2190,
+            "ebucoreHeight": 3424,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#BC8F8F",
+                "#FAF0E6",
+                "#2F4F4F",
+                "#FFEBCD",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_georgescu_docpatv494/Imagini1/0CC1E8704C59476FA9F31CBBB7FE0615.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_89a9288f_2bb0_4b8c_9a76_094ab8715a18. Editura Karl Graef, libr\u0103rie, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/89a9288f-2bb0-4b8c-9a76-094ab8715a18/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Graef, libr\u0103rie, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/89a9288f-2bb0-4b8c-9a76-094ab8715a18/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_89a9288f_2bb0_4b8c_9a76_094ab8715a18/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22514270,
+            "ebucoreWidth": 3424,
+            "ebucoreHeight": 2190,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAF0",
+                "#A9A9A9",
+                "#FFFACD",
+                "#FFE4B5",
+                "#BC8F8F",
+                "#66CDAA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/89a9288f-2bb0-4b8c-9a76-094ab8715a18/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_89a9288f_2bb0_4b8c_9a76_094ab8715a18. Editura Karl Graef, libr\u0103rie, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/89a9288f-2bb0-4b8c-9a76-094ab8715a18/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Graef, libr\u0103rie, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/89a9288f-2bb0-4b8c-9a76-094ab8715a18/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_89a9288f_2bb0_4b8c_9a76_094ab8715a18/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

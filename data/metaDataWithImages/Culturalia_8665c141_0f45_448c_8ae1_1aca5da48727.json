@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_8665c141_0f45_448c_8ae1_1aca5da48727",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/8665c141-0f45-448c-8ae1-1aca5da48727/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8665c141_0f45_448c_8ae1_1aca5da48727. Editura Libr\u0103riei Arhidiecezane Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8665c141-0f45-448c-8ae1-1aca5da48727/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Libr\u0103riei Arhidiecezane Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8665c141-0f45-448c-8ae1-1aca5da48727/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/5892FD8FBE094B57AFB3C4F2664EC435.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8665c141_0f45_448c_8ae1_1aca5da48727. Editura Libr\u0103riei Arhidiecezane Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8665c141-0f45-448c-8ae1-1aca5da48727/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Libr\u0103riei Arhidiecezane Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8665c141-0f45-448c-8ae1-1aca5da48727/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_8665c141_0f45_448c_8ae1_1aca5da48727/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 17220978,
+            "ebucoreWidth": 3437,
+            "ebucoreHeight": 2142,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#BC8F8F",
+                "#F5F5DC",
+                "#808080",
+                "#FFF5EE",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_georgescu%20adrian_docpatv494/Imagini1/D25B9D68FBB0463BA2E3FFCA3CC1BD11.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8665c141_0f45_448c_8ae1_1aca5da48727. Editura Libr\u0103riei Arhidiecezane Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8665c141-0f45-448c-8ae1-1aca5da48727/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Libr\u0103riei Arhidiecezane Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8665c141-0f45-448c-8ae1-1aca5da48727/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_8665c141_0f45_448c_8ae1_1aca5da48727/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 12118370,
+            "ebucoreWidth": 3437,
+            "ebucoreHeight": 2142,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#C0C0C0",
+                "#FFE4C4",
+                "#FAEBD7",
+                "#BC8F8F",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_8665c141_0f45_448c_8ae1_1aca5da48727/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

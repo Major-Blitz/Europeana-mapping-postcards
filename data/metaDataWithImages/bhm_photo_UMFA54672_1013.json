@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA54672_1013",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/012sBY4JvhGs?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcard. \u201cGranate.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_1013. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491355. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_1013' target='_blank' rel='noopener'>Postcard. \u201cGranate.\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491355' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_1013/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 232824,
+            "ebucoreWidth": 364,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#F0E68C",
+                "#D2B48C",
+                "#556B2F",
+                "#CD853F",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://mm.dimu.org/image/012sBY4JvhGs?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcard. \u201cGranate.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_1013. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491355. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_1013' target='_blank' rel='noopener'>Postcard. \u201cGranate.\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491355' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_1013/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 232824,
+            "ebucoreWidth": 364,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#F0E68C",
+                "#D2B48C",
+                "#556B2F",
+                "#CD853F",
+                "#EEE8AA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014491355",
+            "textAttributionSnippet": "(en) Postcard. \u201cGranate.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_1013. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491355. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_1013' target='_blank' rel='noopener'>Postcard. \u201cGranate.\u201d</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491355' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 99976
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_1013/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Jewelry"
+    ],
+    "concept_note": [
+        "Creation of objects of personal adornment, which may fulfill both decorative and functional purposes"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

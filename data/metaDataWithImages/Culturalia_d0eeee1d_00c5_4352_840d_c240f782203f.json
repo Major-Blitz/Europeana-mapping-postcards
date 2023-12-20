@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_d0eeee1d_00c5_4352_840d_c240f782203f",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/d0eeee1d-00c5-4352-840d-c240f782203f/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d0eeee1d_00c5_4352_840d_c240f782203f. Fotograf E. Fischer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d0eeee1d-00c5-4352-840d-c240f782203f/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf E. Fischer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d0eeee1d-00c5-4352-840d-c240f782203f/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_georgescu_docpatv494/Imagini1/FFF334653472433CAF673F00A8CD39C4.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d0eeee1d_00c5_4352_840d_c240f782203f. Fotograf E. Fischer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d0eeee1d-00c5-4352-840d-c240f782203f/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf E. Fischer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d0eeee1d-00c5-4352-840d-c240f782203f/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_d0eeee1d_00c5_4352_840d_c240f782203f/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 23838192,
+            "ebucoreWidth": 3443,
+            "ebucoreHeight": 2306,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEFD5",
+                "#FAEBD7",
+                "#C0C0C0",
+                "#F5F5F5",
+                "#FFFFF0",
+                "#FFF8DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_georgescu_docpatv494/Imagini1/A93E6CD86EA04BF39C2BFB80B96E34D9.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_d0eeee1d_00c5_4352_840d_c240f782203f. Fotograf E. Fischer, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/d0eeee1d-00c5-4352-840d-c240f782203f/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Fotograf E. Fischer, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/d0eeee1d-00c5-4352-840d-c240f782203f/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_d0eeee1d_00c5_4352_840d_c240f782203f/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 23838192,
+            "ebucoreWidth": 3443,
+            "ebucoreHeight": 2306,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#FFFAF0",
+                "#808080",
+                "#BDB76B",
+                "#F5F5DC",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_d0eeee1d_00c5_4352_840d_c240f782203f/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographers"
+    ],
+    "concept_note": [
+        "Individuals who specialize in creating photographs, which are still images produced from radiation-sensitive materials, typically by means of the chemical action of light on a sensitive film, paper, glass, or metal."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

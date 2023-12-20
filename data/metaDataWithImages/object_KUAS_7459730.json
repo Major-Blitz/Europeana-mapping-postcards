@@ -1,0 +1,59 @@
+{
+    "aggregations_about": "/aggregation/provider/2058618/object_KUAS_7459730",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "\u00c6r\u00f8 Museum"
+                ]
+            },
+            "about": "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=881163",
+            "textAttributionSnippet": "(en) Doors, postcards, \u00c6r\u00f8sk\u00f8bing - https://www.europeana.eu/item/2058618/object_KUAS_7459730. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293137. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7459730' target='_blank' rel='noopener'>Doors, postcards, \u00c6r\u00f8sk\u00f8bing</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293137' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7459730/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 30482,
+            "ebucoreWidth": 314,
+            "ebucoreHeight": 222,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#708090",
+                "#556B2F",
+                "#4682B4",
+                "#5F9EA0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293137",
+            "textAttributionSnippet": "(en) Doors, postcards, \u00c6r\u00f8sk\u00f8bing - https://www.europeana.eu/item/2058618/object_KUAS_7459730. Kulturarvsstyrelsen - https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293137. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2058618/object_KUAS_7459730' target='_blank' rel='noopener'>Doors, postcards, \u00c6r\u00f8sk\u00f8bing</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=293137' target='_blank' rel='noopener'>Kulturarvsstyrelsen</a></dd><dt>Country</dt><dd lang=''>Denmark</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 12993
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058618/object_KUAS_7459730/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058618_Ag_EU_LoCloud_KUAS"
+    ],
+    "edmCountry": [
+        "Denmark"
+    ],
+    "edmLanguage": [
+        "da"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

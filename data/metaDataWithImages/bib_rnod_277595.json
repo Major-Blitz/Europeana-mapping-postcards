@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_277595",
+    "webResources": [
+        {
+            "about": "https://purl.pt/33680/service/media/cover/max",
+            "textAttributionSnippet": "(en) Angola Diamond Company: Dundo - https://www.europeana.eu/item/10501/bib_rnod_277595. (pt) Companhia de Diamantes de Angola. Biblioteca Nacional de Portugal - https://purl.pt/33680. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/10501/bib_rnod_277595' target='_blank' rel='noopener'>Angola Diamond Company: Dundo</a></dd><dt>Creator</dt><dd lang='pt'>Companhia de Diamantes de Angola</dd><dt>Date</dt><dd lang=''>1946</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33680' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_277595/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1646977,
+            "ebucoreWidth": 3358,
+            "ebucoreHeight": 2163,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#DCDCDC",
+                "#8FBC8F",
+                "#A9A9A9",
+                "#BC8F8F",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://purl.pt/33680",
+            "textAttributionSnippet": "(en) Angola Diamond Company: Dundo - https://www.europeana.eu/item/10501/bib_rnod_277595. (pt) Companhia de Diamantes de Angola. Biblioteca Nacional de Portugal - https://purl.pt/33680. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/10501/bib_rnod_277595' target='_blank' rel='noopener'>Angola Diamond Company: Dundo</a></dd><dt>Creator</dt><dd lang='pt'>Companhia de Diamantes de Angola</dd><dt>Date</dt><dd lang=''>1946</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33680' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_277595/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": "not showed"
+}

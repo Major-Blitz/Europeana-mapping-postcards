@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/91668/GSM_objekt_483907",
+    "webResources": [
+        {
+            "about": "https://samlingar.goteborgsstadsmuseum.se/carlotta/web/image/zoom/483910/GMA_12113.jpg",
+            "textAttributionSnippet": "(en) postcards, pictures - https://www.europeana.eu/item/91668/GSM_objekt_483907. (sv) G\u00f6teborgs Nya Konstf\u00f6rlag, AB. G\u00f6teborgs stadsmuseum - https://samlingar.goteborgsstadsmuseum.se/carlotta/web/object/483907. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91668/GSM_objekt_483907' target='_blank' rel='noopener'>postcards, pictures</a></dd><dt>Creator</dt><dd lang='sv'>G\u00f6teborgs Nya Konstf\u00f6rlag, AB</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.goteborgsstadsmuseum.se/carlotta/web/object/483907' target='_blank' rel='noopener'>G\u00f6teborgs stadsmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91668/GSM_objekt_483907/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 41808,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 318,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#696969",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#000000",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://samlingar.goteborgsstadsmuseum.se/carlotta/web/object/483907",
+            "textAttributionSnippet": "(en) postcards, pictures - https://www.europeana.eu/item/91668/GSM_objekt_483907. (sv) G\u00f6teborgs Nya Konstf\u00f6rlag, AB. G\u00f6teborgs stadsmuseum - https://samlingar.goteborgsstadsmuseum.se/carlotta/web/object/483907. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91668/GSM_objekt_483907' target='_blank' rel='noopener'>postcards, pictures</a></dd><dt>Creator</dt><dd lang='sv'>G\u00f6teborgs Nya Konstf\u00f6rlag, AB</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.goteborgsstadsmuseum.se/carlotta/web/object/483907' target='_blank' rel='noopener'>G\u00f6teborgs stadsmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 22778
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91668/GSM_objekt_483907/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "91668_SOCH_gsm"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

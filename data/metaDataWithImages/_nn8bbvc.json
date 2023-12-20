@@ -1,0 +1,86 @@
+{
+    "aggregations_about": "/aggregation/provider/454/_nn8bbvc",
+    "webResources": [
+        {
+            "about": "http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:279426",
+            "textAttributionSnippet": "(en) Three men suspected of espionage, hanged by the verdict of the Austrian military court - https://www.europeana.eu/item/454/_nn8bbvc. Biblioteka Jagiello\u0144ska - http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:279426. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/454/_nn8bbvc' target='_blank' rel='noopener'>Three men suspected of espionage, hanged by the verdict of the Austrian military court</a></dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:279426' target='_blank' rel='noopener'>Biblioteka Jagiello\u0144ska</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://jbc.bj.uj.edu.pl/Content/279426/d2j:big,1/NDIGGRAF011019_0002_2854396.djvu.jpg",
+            "isNextInSequence": "https://jbc.bj.uj.edu.pl/Content/279426/d2j:big,0/NDIGGRAF011019_0001_2854395.djvu.jpg",
+            "textAttributionSnippet": "(en) Three men suspected of espionage, hanged by the verdict of the Austrian military court - https://www.europeana.eu/item/454/_nn8bbvc. Biblioteka Jagiello\u0144ska - http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:279426. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/454/_nn8bbvc' target='_blank' rel='noopener'>Three men suspected of espionage, hanged by the verdict of the Austrian military court</a></dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:279426' target='_blank' rel='noopener'>Biblioteka Jagiello\u0144ska</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/454/_nn8bbvc/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 16965,
+            "ebucoreWidth": 577,
+            "ebucoreHeight": 376,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#FAF0E6",
+                "#F5F5DC",
+                "#FAEBD7",
+                "#000000",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://jbc.bj.uj.edu.pl/Content/279426/d2j:big,0/NDIGGRAF011019_0001_2854395.djvu.jpg",
+            "textAttributionSnippet": "(en) Three men suspected of espionage, hanged by the verdict of the Austrian military court - https://www.europeana.eu/item/454/_nn8bbvc. Biblioteka Jagiello\u0144ska - http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:279426. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/454/_nn8bbvc' target='_blank' rel='noopener'>Three men suspected of espionage, hanged by the verdict of the Austrian military court</a></dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:279426' target='_blank' rel='noopener'>Biblioteka Jagiello\u0144ska</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/454/_nn8bbvc/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 24863,
+            "ebucoreWidth": 577,
+            "ebucoreHeight": 376,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#DCDCDC",
+                "#FAEBD7",
+                "#800000",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/454/_nn8bbvc/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "454_FBC_Jagiellonska_Biblioteka_Cyfrowa_Part7"
+    ],
+    "edmCountry": [
+        "Poland"
+    ],
+    "edmLanguage": [
+        "pl"
+    ],
+    "organization_label": [
+        "Jagiellonian Library"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/92058/URN_NBN_SI_IMG_XMMB6QCW",
+    "webResources": [
+        {
+            "about": "http://www.dlib.si/details/URN:NBN:SI:IMG-XMMB6QCW",
+            "textAttributionSnippet": "(sl) Gruss aus Wurmberg - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XMMB6QCW. Photo-Iris. University Library Maribor - http://www.dlib.si/details/URN:NBN:SI:IMG-XMMB6QCW. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XMMB6QCW' target='_blank' rel='noopener'>Gruss aus Wurmberg</a></dd><dt>Creator</dt><dd lang=''>Photo-Iris</dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XMMB6QCW' target='_blank' rel='noopener'>University Library Maribor</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 28994
+        },
+        {
+            "about": "http://www.dlib.si/streamdb/URN:NBN:SI:IMG-XMMB6QCW/maxi/edm",
+            "textAttributionSnippet": "(sl) Gruss aus Wurmberg - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XMMB6QCW. Photo-Iris. University Library Maribor - http://www.dlib.si/details/URN:NBN:SI:IMG-XMMB6QCW. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XMMB6QCW' target='_blank' rel='noopener'>Gruss aus Wurmberg</a></dd><dt>Creator</dt><dd lang=''>Photo-Iris</dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XMMB6QCW' target='_blank' rel='noopener'>University Library Maribor</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 53366,
+            "ebucoreWidth": 948,
+            "ebucoreHeight": 598,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#C0C0C0",
+                "#696969",
+                "#556B2F",
+                "#D3D3D3",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://www.dlib.si/stream/URN:NBN:SI:IMG-XMMB6QCW/77a4deba-08c1-4622-b70b-a06c8f3908d8/IMAGE",
+            "dctermsExtent": {
+                "def": [
+                    "2701 KB"
+                ]
+            },
+            "textAttributionSnippet": "(sl) Gruss aus Wurmberg - https://www.europeana.eu/item/92058/URN_NBN_SI_IMG_XMMB6QCW. Photo-Iris. University Library Maribor - http://www.dlib.si/details/URN:NBN:SI:IMG-XMMB6QCW. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sl'><a href='http://data.europeana.eu/item/92058/URN_NBN_SI_IMG_XMMB6QCW' target='_blank' rel='noopener'>Gruss aus Wurmberg</a></dd><dt>Creator</dt><dd lang=''>Photo-Iris</dd><dt>Date</dt><dd lang=''>1908</dd><dt>Institution</dt><dd lang=''><a href='http://www.dlib.si/details/URN:NBN:SI:IMG-XMMB6QCW' target='_blank' rel='noopener'>University Library Maribor</a></dd><dt>Country</dt><dd lang=''>Slovenia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_XMMB6QCW/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 2766759,
+            "ebucoreWidth": 2206,
+            "ebucoreHeight": 1398,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#C0C0C0",
+                "#696969",
+                "#8B4513",
+                "#D3D3D3",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/92058/URN_NBN_SI_IMG_XMMB6QCW/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "THE ARTS. RECREATION. ENTERTAINMENT. SPORT"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "92058_Slovenia_Postcards"
+    ],
+    "edmCountry": [
+        "Slovenia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "National and University Library of Slovenia"
+    ],
+    "coordinate": "not showed"
+}

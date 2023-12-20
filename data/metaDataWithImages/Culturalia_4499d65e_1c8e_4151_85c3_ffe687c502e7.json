@@ -1,0 +1,108 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_4499d65e_1c8e_4151_85c3_ffe687c502e7",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/4499d65e-1c8e-4151-85c3-ffe687c502e7/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4499d65e_1c8e_4151_85c3_ffe687c502e7. Emil Fischer. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/4499d65e-1c8e-4151-85c3-ffe687c502e7/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Emil Fischer</dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4499d65e-1c8e-4151-85c3-ffe687c502e7/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_12%20Decembrie%202019_Catalogate_Cretu%20Mirela_Muzeul%20ASTRA%20_Cretu%20Mirela_decembrie_2019/Imagini/1C30C54B4BDA49108718EE5369C8F39B.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4499d65e_1c8e_4151_85c3_ffe687c502e7. Emil Fischer. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/4499d65e-1c8e-4151-85c3-ffe687c502e7/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Emil Fischer</dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4499d65e-1c8e-4151-85c3-ffe687c502e7/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_4499d65e_1c8e_4151_85c3_ffe687c502e7/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1054704,
+            "ebucoreWidth": 1365,
+            "ebucoreHeight": 2048,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#7B68EE",
+                "#B0C4DE",
+                "#0000CD",
+                "#6A5ACD",
+                "#DCDCDC",
+                "#FFFAFA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-CNMA-validat_2019_12%20Decembrie%202019_Catalogate_Cretu%20Mirela_Muzeul%20ASTRA%20_Cretu%20Mirela_decembrie_2019/Imagini/36257F1C7ADA4649B66C7A3E27D03F8C.jpg",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_4499d65e_1c8e_4151_85c3_ffe687c502e7. Emil Fischer. Complexul Na\u021bional Muzeal Astra - https://culturalia.ro/entities/4499d65e-1c8e-4151-85c3-ffe687c502e7/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Emil Fischer</dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/4499d65e-1c8e-4151-85c3-ffe687c502e7/view' target='_blank' rel='noopener'>Complexul Na\u021bional Muzeal Astra</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_4499d65e_1c8e_4151_85c3_ffe687c502e7/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1456210,
+            "ebucoreWidth": 2048,
+            "ebucoreHeight": 1365,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#CD853F",
+                "#A0522D",
+                "#696969",
+                "#E6E6FA",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_4499d65e_1c8e_4151_85c3_ffe687c502e7/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "photographic paper"
+    ],
+    "concept_note": [
+        "Paper used for making photographic prints that consists of a base material with a white or near-white surface that is coated with one or more emulsion layers. It is typically a high grade of paper traditionally made from 100% cotton or linen rags, because lignin and other residues in other paper would react with the photosensitive salts and destroy the image. Photographic paper is strong, uniform, and dimensionally stable when wet and dry. For increased wet-strength, the papers are sized with animal glue, starch, stearic acid, or synthetic resins, such as melamine (used since 1948). One or more fillers, such as barium sulfate, titanium dioxide, clay, starch, or polyacrylamide, are also added for opacity, color, and strength. The papers were calendered to produce a smooth, nonporous surface. Since the late 1960s, most color photographic papers have been made from cellulose fibers coated on both sides with polyethylene."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "ASTRA National Museum Complex"
+    ],
+    "coordinate": [
+        [
+            45.8,
+            24.15
+        ],
+        [
+            45.6601,
+            23.708994
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.6601,
+            23.708994
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

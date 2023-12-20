@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_W5KQTQJKTA5ETB4VSKNGMPRJ4FRNJV2Z",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3743494",
+            "textAttributionSnippet": "(en) Tallinn, Siuru Tower - https://www.europeana.eu/item/401/item_W5KQTQJKTA5ETB4VSKNGMPRJ4FRNJV2Z. (en) Parish (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3743494. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_W5KQTQJKTA5ETB4VSKNGMPRJ4FRNJV2Z' target='_blank' rel='noopener'>Tallinn, Siuru Tower</a></dd><dt>Creator</dt><dd lang='en'>Parish (author)</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3743494' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=e76b0f82-4e0d-49ed-b420-1eeb8657cfe6",
+            "textAttributionSnippet": "(en) Tallinn, Siuru Tower - https://www.europeana.eu/item/401/item_W5KQTQJKTA5ETB4VSKNGMPRJ4FRNJV2Z. (en) Parish (author). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3743494. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_W5KQTQJKTA5ETB4VSKNGMPRJ4FRNJV2Z' target='_blank' rel='noopener'>Tallinn, Siuru Tower</a></dd><dt>Creator</dt><dd lang='en'>Parish (author)</dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3743494' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_W5KQTQJKTA5ETB4VSKNGMPRJ4FRNJV2Z/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 108777,
+            "ebucoreWidth": 798,
+            "ebucoreHeight": 521,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#A9A9A9",
+                "#E6E6FA",
+                "#F5FFFA",
+                "#000000",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_W5KQTQJKTA5ETB4VSKNGMPRJ4FRNJV2Z/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

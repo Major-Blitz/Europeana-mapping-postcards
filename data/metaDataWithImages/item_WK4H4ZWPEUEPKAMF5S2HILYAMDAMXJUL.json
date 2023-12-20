@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_WK4H4ZWPEUEPKAMF5S2HILYAMDAMXJUL",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3741715",
+            "textAttributionSnippet": "(en) Tallinn - https://www.europeana.eu/item/401/item_WK4H4ZWPEUEPKAMF5S2HILYAMDAMXJUL. (en) Tailor, A. (author); KUNST (publisher). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741715. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_WK4H4ZWPEUEPKAMF5S2HILYAMDAMXJUL' target='_blank' rel='noopener'>Tallinn</a></dd><dt>Creator</dt><dd lang='en'>Tailor, A. (author); KUNST (publisher)</dd><dt>Date</dt><dd lang=''>1966</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741715' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=73b857c2-39cc-4718-9e66-20c91493d378",
+            "textAttributionSnippet": "(en) Tallinn - https://www.europeana.eu/item/401/item_WK4H4ZWPEUEPKAMF5S2HILYAMDAMXJUL. (en) Tailor, A. (author); KUNST (publisher). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3741715. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_WK4H4ZWPEUEPKAMF5S2HILYAMDAMXJUL' target='_blank' rel='noopener'>Tallinn</a></dd><dt>Creator</dt><dd lang='en'>Tailor, A. (author); KUNST (publisher)</dd><dt>Date</dt><dd lang=''>1966</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3741715' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_WK4H4ZWPEUEPKAMF5S2HILYAMDAMXJUL/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 151467,
+            "ebucoreWidth": 595,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#FFFAF0",
+                "#F5FFFA",
+                "#FFFAFA",
+                "#FFE4E1",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_WK4H4ZWPEUEPKAMF5S2HILYAMDAMXJUL/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}

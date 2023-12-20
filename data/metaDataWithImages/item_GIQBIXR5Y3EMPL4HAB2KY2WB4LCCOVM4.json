@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/192/item_GIQBIXR5Y3EMPL4HAB2KY2WB4LCCOVM4",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://rlp.museum-digital.de/data/rlp/images/55/80071-jjs_425_2021/postkarte_die_besten_wuen/postkarte-die-besten-wuensche-zum-neuen-jahr-80071.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(de) Postkarte: \u201eDie besten W\u00fcnsche zum neuen Jahr\u201c - https://www.europeana.eu/item/192/item_GIQBIXR5Y3EMPL4HAB2KY2WB4LCCOVM4. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=80071. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/192/item_GIQBIXR5Y3EMPL4HAB2KY2WB4LCCOVM4' target='_blank' rel='noopener'>Postkarte: \u201eDie besten W\u00fcnsche zum neuen Jahr\u201c</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=80071' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/192/item_GIQBIXR5Y3EMPL4HAB2KY2WB4LCCOVM4/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 187129,
+            "ebucoreWidth": 1549,
+            "ebucoreHeight": 1029,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4E1",
+                "#D2691E",
+                "#F5F5F5",
+                "#778899",
+                "#DEB887",
+                "#FFC0CB"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://rlp.museum-digital.de/index.php?t=objekt&oges=80071",
+            "textAttributionSnippet": "(de) Postkarte: \u201eDie besten W\u00fcnsche zum neuen Jahr\u201c - https://www.europeana.eu/item/192/item_GIQBIXR5Y3EMPL4HAB2KY2WB4LCCOVM4. Freilichtmuseum Roscheider Hof - https://rlp.museum-digital.de/index.php?t=objekt&oges=80071. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='de'><a href='http://data.europeana.eu/item/192/item_GIQBIXR5Y3EMPL4HAB2KY2WB4LCCOVM4' target='_blank' rel='noopener'>Postkarte: \u201eDie besten W\u00fcnsche zum neuen Jahr\u201c</a></dd><dt>Institution</dt><dd lang=''><a href='https://rlp.museum-digital.de/index.php?t=objekt&oges=80071' target='_blank' rel='noopener'>Freilichtmuseum Roscheider Hof</a></dd><dt>Country</dt><dd lang=''>Germany</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/192/item_GIQBIXR5Y3EMPL4HAB2KY2WB4LCCOVM4/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "192_DDB_Roscheider"
+    ],
+    "edmCountry": [
+        "Germany"
+    ],
+    "edmLanguage": [
+        "de"
+    ],
+    "organization_label": [
+        "Roscheider Hof Open Air Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_7C41E376_86B0_4E67_9818_14C495EA379D",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2376236&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Godt nytt \u00e5r \u00f6nska Elvira och Emil Standertskj\u00f6ld - https://www.europeana.eu/item/117/_7C41E376_86B0_4E67_9818_14C495EA379D. (en) Standertskj\u00f6ld, Emil; Standertskj\u00f6ld, Elvira. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.7C41E376-86B0-4E67-9818-14C495EA379D?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_7C41E376_86B0_4E67_9818_14C495EA379D' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Godt nytt \u00e5r \u00f6nska Elvira och Emil Standertskj\u00f6ld</a></dd><dt>Creator</dt><dd lang='en'>Standertskj\u00f6ld, Emil; Standertskj\u00f6ld, Elvira</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.7C41E376-86B0-4E67-9818-14C495EA379D?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_7C41E376_86B0_4E67_9818_14C495EA379D/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 281776,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 852,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#F5DEB3",
+                "#FFF8DC",
+                "#F5F5DC",
+                "#696969",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.7C41E376-86B0-4E67-9818-14C495EA379D?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Godt nytt \u00e5r \u00f6nska Elvira och Emil Standertskj\u00f6ld - https://www.europeana.eu/item/117/_7C41E376_86B0_4E67_9818_14C495EA379D. (en) Standertskj\u00f6ld, Emil; Standertskj\u00f6ld, Elvira. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.7C41E376-86B0-4E67-9818-14C495EA379D?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_7C41E376_86B0_4E67_9818_14C495EA379D' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Godt nytt \u00e5r \u00f6nska Elvira och Emil Standertskj\u00f6ld</a></dd><dt>Creator</dt><dd lang='en'>Standertskj\u00f6ld, Emil; Standertskj\u00f6ld, Elvira</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.7C41E376-86B0-4E67-9818-14C495EA379D?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_7C41E376_86B0_4E67_9818_14C495EA379D/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

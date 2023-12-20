@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA54672_0196",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011014490494",
+            "textAttributionSnippet": "(sv) Vykort. G\u00f6teborg. Stigbergsliden - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0196. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014490494. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0196' target='_blank' rel='noopener'>Vykort. G\u00f6teborg. Stigbergsliden</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014490494' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 104310
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sBY4HT3hr?dimension=1200x1200",
+            "textAttributionSnippet": "(sv) Vykort. G\u00f6teborg. Stigbergsliden - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0196. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014490494. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0196' target='_blank' rel='noopener'>Vykort. G\u00f6teborg. Stigbergsliden</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014490494' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0196/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 859027,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 790,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#556B2F",
+                "#EEE8AA",
+                "#BDB76B",
+                "#696969",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sBY4HT3hr?dimension=600x600",
+            "textAttributionSnippet": "(sv) Vykort. G\u00f6teborg. Stigbergsliden - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0196. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014490494. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0196' target='_blank' rel='noopener'>Vykort. G\u00f6teborg. Stigbergsliden</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014490494' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0196/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 260140,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 395,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#556B2F",
+                "#EEE8AA",
+                "#BDB76B",
+                "#696969",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0196/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

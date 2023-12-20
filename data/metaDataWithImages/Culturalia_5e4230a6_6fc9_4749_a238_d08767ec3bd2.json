@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_5e4230a6_6fc9_4749_a238_d08767ec3bd2",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/5e4230a6-6fc9-4749-a238-d08767ec3bd2/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5e4230a6_6fc9_4749_a238_d08767ec3bd2. Angerer and G\u00f6schl, Viena (retu\u0219are Theodor Glatz, Sibiu). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/5e4230a6-6fc9-4749-a238-d08767ec3bd2/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Angerer and G\u00f6schl, Viena (retu\u0219are Theodor Glatz, Sibiu)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5e4230a6-6fc9-4749-a238-d08767ec3bd2/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_04%20Aprilie%202020_istorie_georgescu_docpatv494/Imagini1/4E630B31B8BC4C249B2C7213FC8CE13F.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5e4230a6_6fc9_4749_a238_d08767ec3bd2. Angerer and G\u00f6schl, Viena (retu\u0219are Theodor Glatz, Sibiu). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/5e4230a6-6fc9-4749-a238-d08767ec3bd2/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Angerer and G\u00f6schl, Viena (retu\u0219are Theodor Glatz, Sibiu)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5e4230a6-6fc9-4749-a238-d08767ec3bd2/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_5e4230a6_6fc9_4749_a238_d08767ec3bd2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22105568,
+            "ebucoreWidth": 3562,
+            "ebucoreHeight": 2067,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#F5F5F5",
+                "#2F4F4F",
+                "#D2B48C",
+                "#BDB76B",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_04%20Aprilie%202020_istorie_georgescu_docpatv494/Imagini1/C5F15B0CC0DB44BDB7A7BA4E9F9B0748.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_5e4230a6_6fc9_4749_a238_d08767ec3bd2. Angerer and G\u00f6schl, Viena (retu\u0219are Theodor Glatz, Sibiu). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/5e4230a6-6fc9-4749-a238-d08767ec3bd2/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Angerer and G\u00f6schl, Viena (retu\u0219are Theodor Glatz, Sibiu)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/5e4230a6-6fc9-4749-a238-d08767ec3bd2/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_5e4230a6_6fc9_4749_a238_d08767ec3bd2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 17898884,
+            "ebucoreWidth": 2067,
+            "ebucoreHeight": 3562,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#A0522D",
+                "#808080",
+                "#FFFAFA",
+                "#BDB76B",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_5e4230a6_6fc9_4749_a238_d08767ec3bd2/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

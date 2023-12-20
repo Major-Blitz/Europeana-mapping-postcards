@@ -1,0 +1,71 @@
+{
+    "aggregations_about": "/aggregation/provider/776/_nnx0hWr",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://wmbc.olsztyn.pl/Content/9720/Hotel%20Masovia%20w%20Mwie.%201.jpg",
+            "textAttributionSnippet": "(en) Masovia Hotel in Mr\u0105gowo. [1] - https://www.europeana.eu/item/776/_nnx0hWr. Warmi\u0144sko-Mazurska Biblioteka Cyfrowa - http://fbc.pionier.net.pl/id/oai:wmbc.olsztyn.pl:9720. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/776/_nnx0hWr' target='_blank' rel='noopener'>Masovia Hotel in Mr\u0105gowo. [1]</a></dd><dt>Date</dt><dd lang=''>2019; 1915</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:wmbc.olsztyn.pl:9720' target='_blank' rel='noopener'>Warmi\u0144sko-Mazurska Biblioteka Cyfrowa</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/776/_nnx0hWr/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 932887,
+            "ebucoreWidth": 3551,
+            "ebucoreHeight": 2398,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5DC",
+                "#FFDAB9",
+                "#CD853F",
+                "#FFEFD5",
+                "#DCDCDC",
+                "#FFFAF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://fbc.pionier.net.pl/id/oai:wmbc.olsztyn.pl:9720",
+            "textAttributionSnippet": "(en) Masovia Hotel in Mr\u0105gowo. [1] - https://www.europeana.eu/item/776/_nnx0hWr. Warmi\u0144sko-Mazurska Biblioteka Cyfrowa - http://fbc.pionier.net.pl/id/oai:wmbc.olsztyn.pl:9720. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/776/_nnx0hWr' target='_blank' rel='noopener'>Masovia Hotel in Mr\u0105gowo. [1]</a></dd><dt>Date</dt><dd lang=''>2019; 1915</dd><dt>Institution</dt><dd lang=''><a href='http://fbc.pionier.net.pl/id/oai:wmbc.olsztyn.pl:9720' target='_blank' rel='noopener'>Warmi\u0144sko-Mazurska Biblioteka Cyfrowa</a></dd><dt>Country</dt><dd lang=''>Poland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/776/_nnx0hWr/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "776_Warminsko_Mazurska_Biblioteka_Cyfrowa"
+    ],
+    "edmCountry": [
+        "Poland"
+    ],
+    "edmLanguage": [
+        "pl"
+    ],
+    "organization_label": [
+        "Digital Libraries Federation"
+    ],
+    "coordinate": [
+        [
+            53.86437,
+            21.30507
+        ],
+        [
+            52.0,
+            19.0
+        ]
+    ]
+}

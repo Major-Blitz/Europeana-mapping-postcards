@@ -1,0 +1,84 @@
+{
+    "aggregations_about": "/aggregation/provider/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609",
+    "webResources": [
+        {
+            "about": "http://collection.nationalmuseum.se/eMuseumPlus?service=ImageAsset&module=collection&objectId=18609&viewType=detailView&resolution=superImageResolution",
+            "dctermsConformsTo": {
+                "def": [
+                    "http://iiif.io/api/image"
+                ]
+            },
+            "textAttributionSnippet": "(en) A Day of Celebration - https://www.europeana.eu/item/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609. Fanny Brate. Nationalmuseum Sweden - http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609' target='_blank' rel='noopener'>A Day of Celebration</a></dd><dt>Creator</dt><dd lang=''>Fanny Brate</dd><dt>Date</dt><dd lang=''>1902</dd><dt>Institution</dt><dd lang=''><a href='http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView' target='_blank' rel='noopener'>Nationalmuseum Sweden</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://nationalmuseumse.iiifhosting.com/iiif/e76dccaf4dba15f5ee7aaa147333a2643b1bf4a8ac7b6f3d78d7281d3c67b866/full/full/0/default.jpg",
+            "dctermsConformsTo": {
+                "def": [
+                    "http://iiif.io/api/image"
+                ]
+            },
+            "textAttributionSnippet": "(en) A Day of Celebration - https://www.europeana.eu/item/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609. Fanny Brate. Nationalmuseum Sweden - http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609' target='_blank' rel='noopener'>A Day of Celebration</a></dd><dt>Creator</dt><dd lang=''>Fanny Brate</dd><dt>Date</dt><dd lang=''>1902</dd><dt>Institution</dt><dd lang=''><a href='http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView' target='_blank' rel='noopener'>Nationalmuseum Sweden</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "svcsHasService": [
+                "http://nationalmuseumse.iiifhosting.com/iiif/e76dccaf4dba15f5ee7aaa147333a2643b1bf4a8ac7b6f3d78d7281d3c67b866"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 135006,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 801,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#696969",
+                "#A9A9A9",
+                "#BDB76B",
+                "#BC8F8F",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView",
+            "dctermsConformsTo": {
+                "def": [
+                    "http://iiif.io/api/image"
+                ]
+            },
+            "textAttributionSnippet": "(en) A Day of Celebration - https://www.europeana.eu/item/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609. Fanny Brate. Nationalmuseum Sweden - http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609' target='_blank' rel='noopener'>A Day of Celebration</a></dd><dt>Creator</dt><dd lang=''>Fanny Brate</dd><dt>Date</dt><dd lang=''>1902</dd><dt>Institution</dt><dd lang=''><a href='http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView' target='_blank' rel='noopener'>Nationalmuseum Sweden</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://emp-web-22.zetcom.ch/eMuseumPlus?service=ImageAsset&module=collection&objectId=18609&viewType=detailView&resolution=superImageResolution",
+            "dctermsConformsTo": {
+                "def": [
+                    "http://iiif.io/api/image"
+                ]
+            },
+            "textAttributionSnippet": "(en) A Day of Celebration - https://www.europeana.eu/item/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609. Fanny Brate. Nationalmuseum Sweden - http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609' target='_blank' rel='noopener'>A Day of Celebration</a></dd><dt>Creator</dt><dd lang=''>Fanny Brate</dd><dt>Date</dt><dd lang=''>1902</dd><dt>Institution</dt><dd lang=''><a href='http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18609&viewType=detailView' target='_blank' rel='noopener'>Nationalmuseum Sweden</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2064116/Museu_ProvidedCHO_Nationalmuseum__Sweden_18609/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2064116_Museu_National_Museum_Sweden"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "MUSEU"
+    ],
+    "coordinate": "not showed"
+}

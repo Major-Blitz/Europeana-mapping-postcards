@@ -1,0 +1,55 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/__C3_96TA_247__C3_B6ta_247_foto_96_baksida",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/ota247/ota247_foto_96_baksida.jpg",
+            "dcDescription": {
+                "swe": [
+                    "Fotografi"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Baksida av atelj\u00e9foto av tre m\u00e4n  .. - https://www.europeana.eu/item/2021007/__C3_96TA_247__C3_B6ta_247_foto_96_baksida. Ok\u00e4nd upphovsman. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/__C3_96TA_247__C3_B6ta_247_foto_96_baksida' target='_blank' rel='noopener'>Baksida av atelj\u00e9foto av tre m\u00e4n  ..</a></dd><dt>Creator</dt><dd lang=''>Ok\u00e4nd upphovsman</dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_247__C3_B6ta_247_foto_96_baksida/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 3641154,
+            "ebucoreWidth": 2605,
+            "ebucoreHeight": 4000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#FFE4B5",
+                "#696969",
+                "#F4A460",
+                "#B8860B",
+                "#FFDEAD"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/__C3_96TA_247__C3_B6ta_247_foto_96_baksida/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": "not showed"
+}

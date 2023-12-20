@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_0F88256C_44A3_4D6B_A810_8ED03359B353",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2323689&size=extra_large&key=T3st1&orgid=92115",
+            "textAttributionSnippet": "(fi) Etu-T\u00f6\u00f6l\u00f6, ilmakuva - https://www.europeana.eu/item/117/_0F88256C_44A3_4D6B_A810_8ED03359B353. (fi) Veljekset Karhum\u00e4ki Oy. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.0F88256C-44A3-4D6B-A810-8ED03359B353?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/117/_0F88256C_44A3_4D6B_A810_8ED03359B353' target='_blank' rel='noopener'>Etu-T\u00f6\u00f6l\u00f6, ilmakuva</a></dd><dt>Creator</dt><dd lang='fi'>Veljekset Karhum\u00e4ki Oy</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.0F88256C-44A3-4D6B-A810-8ED03359B353?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_0F88256C_44A3_4D6B_A810_8ED03359B353/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 288703,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 748,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#808080",
+                "#DCDCDC",
+                "#FFFAFA",
+                "#FFE4E1",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.0F88256C-44A3-4D6B-A810-8ED03359B353?lng=en-gb",
+            "textAttributionSnippet": "(fi) Etu-T\u00f6\u00f6l\u00f6, ilmakuva - https://www.europeana.eu/item/117/_0F88256C_44A3_4D6B_A810_8ED03359B353. (fi) Veljekset Karhum\u00e4ki Oy. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.0F88256C-44A3-4D6B-A810-8ED03359B353?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/117/_0F88256C_44A3_4D6B_A810_8ED03359B353' target='_blank' rel='noopener'>Etu-T\u00f6\u00f6l\u00f6, ilmakuva</a></dd><dt>Creator</dt><dd lang='fi'>Veljekset Karhum\u00e4ki Oy</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.0F88256C-44A3-4D6B-A810-8ED03359B353?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_0F88256C_44A3_4D6B_A810_8ED03359B353/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Aerial photography"
+    ],
+    "concept_note": [
+        "Process of taking images of the ground from the air"
+    ],
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

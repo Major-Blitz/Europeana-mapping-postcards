@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_2IA26KIV3TI5ZJLCULMZQWB34EVCG53E",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=0532498c-eaa0-48dc-b753-e9ecd966d5bb",
+            "textAttributionSnippet": "(en) Milan - https://www.europeana.eu/item/401/item_2IA26KIV3TI5ZJLCULMZQWB34EVCG53E. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3730566. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_2IA26KIV3TI5ZJLCULMZQWB34EVCG53E' target='_blank' rel='noopener'>Milan</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3730566' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_2IA26KIV3TI5ZJLCULMZQWB34EVCG53E/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 148577,
+            "ebucoreWidth": 550,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFF0",
+                "#FFE4B5",
+                "#696969",
+                "#FFFAFA",
+                "#FDF5E6",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3730566",
+            "textAttributionSnippet": "(en) Milan - https://www.europeana.eu/item/401/item_2IA26KIV3TI5ZJLCULMZQWB34EVCG53E. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3730566. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_2IA26KIV3TI5ZJLCULMZQWB34EVCG53E' target='_blank' rel='noopener'>Milan</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3730566' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_2IA26KIV3TI5ZJLCULMZQWB34EVCG53E/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            42.5,
+            12.5
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_43FA73F9_5616_44C0_B4CB_EC0AD83B8538",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2359720&size=extra_large&key=T3st1&orgid=92115",
+            "textAttributionSnippet": "(en) Postcard from 1904 - https://www.europeana.eu/item/117/_43FA73F9_5616_44C0_B4CB_EC0AD83B8538. (nl) Karell, Frans. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.43FA73F9-5616-44C0-B4CB-EC0AD83B8538?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_43FA73F9_5616_44C0_B4CB_EC0AD83B8538' target='_blank' rel='noopener'>Postcard from 1904</a></dd><dt>Creator</dt><dd lang='nl'>Karell, Frans</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.43FA73F9-5616-44C0-B4CB-EC0AD83B8538?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_43FA73F9_5616_44C0_B4CB_EC0AD83B8538/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 320945,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 775,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#000000",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#556B2F",
+                "#A9A9A9",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.43FA73F9-5616-44C0-B4CB-EC0AD83B8538?lng=en-gb",
+            "textAttributionSnippet": "(en) Postcard from 1904 - https://www.europeana.eu/item/117/_43FA73F9_5616_44C0_B4CB_EC0AD83B8538. (nl) Karell, Frans. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.43FA73F9-5616-44C0-B4CB-EC0AD83B8538?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_43FA73F9_5616_44C0_B4CB_EC0AD83B8538' target='_blank' rel='noopener'>Postcard from 1904</a></dd><dt>Creator</dt><dd lang='nl'>Karell, Frans</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.43FA73F9-5616-44C0-B4CB-EC0AD83B8538?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_43FA73F9_5616_44C0_B4CB_EC0AD83B8538/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,77 @@
+{
+    "aggregations_about": "/aggregation/provider/91609/SMVK_VKM_fotografi_1977243",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "sv": [
+                    "Creative Commons - Erk\u00e4nnande-Ickekommersiell-Inga bearbetningar"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+                ]
+            },
+            "about": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1977563/image.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "berg, ruinstaden, fotografi, photograph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1977243. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1977243. CC BY-NC-ND - http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1977243' target='_blank' rel='noopener'>berg, ruinstaden, fotografi, photograph</a></dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1977243' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-nc-nd/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-nc'/><span class='icon-nd'/>CC BY-NC-ND</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1977243/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 62474,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 320,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#A9A9A9",
+                "#BDB76B",
+                "#556B2F",
+                "#696969",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://collections.smvk.se/carlotta-vkm/web/object/1977243",
+            "textAttributionSnippet": "berg, ruinstaden, fotografi, photograph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1977243. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1977243. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1977243' target='_blank' rel='noopener'>berg, ruinstaden, fotografi, photograph</a></dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1977243' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 21212
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1977243/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91609_SwedishNationalHeritage_smvk_vkmf"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            -9.4,
+            -76.0
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/72/S_FBM_photo_2M16_S_0084_44_76",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032wZVavhpic?dimension=600x600",
+            "textAttributionSnippet": "(en) Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Entrance to the Industrial Exhibition - https://www.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_76. Falbygdens museum - https://digitaltmuseum.se/021016034500. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_76' target='_blank' rel='noopener'>Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Entrance to the Industrial Exhibition</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016034500' target='_blank' rel='noopener'>Falbygdens museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/72/S_FBM_photo_2M16_S_0084_44_76/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 223653,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 380,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#F5DEB3",
+                "#C0C0C0",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016034500",
+            "textAttributionSnippet": "(en) Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Entrance to the Industrial Exhibition - https://www.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_76. Falbygdens museum - https://digitaltmuseum.se/021016034500. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_76' target='_blank' rel='noopener'>Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Entrance to the Industrial Exhibition</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016034500' target='_blank' rel='noopener'>Falbygdens museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 93719
+        },
+        {
+            "about": "https://mm.dimu.org/image/032wZVavhpic?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Entrance to the Industrial Exhibition - https://www.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_76. Falbygdens museum - https://digitaltmuseum.se/021016034500. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/72/S_FBM_photo_2M16_S_0084_44_76' target='_blank' rel='noopener'>Falk\u00f6ping\u2019s Handicraft and Industrial Association. Official postcards of the Industrial Exhibition in Falk\u00f6ping 1910. The Entrance to the Industrial Exhibition</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016034500' target='_blank' rel='noopener'>Falbygdens museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/72/S_FBM_photo_2M16_S_0084_44_76/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 294439,
+            "ebucoreWidth": 773,
+            "ebucoreHeight": 490,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#F5DEB3",
+                "#C0C0C0",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/72/S_FBM_photo_2M16_S_0084_44_76/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Negative"
+    ],
+    "concept_note": [
+        "Photographs in which the tones or colors are reversed from their appearance in nature, usually on a transparent support of celluloid, acetate, or on paper, intended for the purpose of producing positive prints"
+    ],
+    "edmDatasetName": [
+        "72_72_Ag_SE_SwedishNationalHeritage_fbm"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

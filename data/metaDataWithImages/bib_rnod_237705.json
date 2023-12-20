@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_237705",
+    "webResources": [
+        {
+            "about": "https://purl.pt/26603/service/media/cover/max",
+            "textAttributionSnippet": "(pt) Os Portuguezes em Fran\u00e7a = les portugais en France - https://www.europeana.eu/item/10501/bib_rnod_237705. Biblioteca Nacional de Portugal - https://purl.pt/26603. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_237705' target='_blank' rel='noopener'>Os Portuguezes em Fran\u00e7a = les portugais en France</a></dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/26603' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_237705/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 464923,
+            "ebucoreWidth": 802,
+            "ebucoreHeight": 513,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#BDB76B",
+                "#556B2F",
+                "#BC8F8F",
+                "#EEE8AA",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://purl.pt/26603",
+            "textAttributionSnippet": "(pt) Os Portuguezes em Fran\u00e7a = les portugais en France - https://www.europeana.eu/item/10501/bib_rnod_237705. Biblioteca Nacional de Portugal - https://purl.pt/26603. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_237705' target='_blank' rel='noopener'>Os Portuguezes em Fran\u00e7a = les portugais en France</a></dd><dt>Date</dt><dd lang=''>1917</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/26603' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_237705/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": [
+        [
+            47.0,
+            2.0
+        ],
+        [
+            48.8522,
+            2.3176
+        ],
+        [
+            48.856667,
+            2.3522222
+        ]
+    ]
+}

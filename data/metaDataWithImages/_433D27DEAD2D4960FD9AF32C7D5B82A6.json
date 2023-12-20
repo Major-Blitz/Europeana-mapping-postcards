@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_433D27DEAD2D4960FD9AF32C7D5B82A6",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=998587&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(fi) Hallan talon pirtin naisten puoli - https://www.europeana.eu/item/2021009/_433D27DEAD2D4960FD9AF32C7D5B82A6. (en) Krooks, Sven-Erik. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.433D27DEAD2D4960FD9AF32C7D5B82A6?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_433D27DEAD2D4960FD9AF32C7D5B82A6' target='_blank' rel='noopener'>Hallan talon pirtin naisten puoli</a></dd><dt>Creator</dt><dd lang='en'>Krooks, Sven-Erik</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.433D27DEAD2D4960FD9AF32C7D5B82A6?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_433D27DEAD2D4960FD9AF32C7D5B82A6/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 211619,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 844,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#FAEBD7",
+                "#FFF0F5",
+                "#808080",
+                "#E6E6FA",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.433D27DEAD2D4960FD9AF32C7D5B82A6?lng=en-gb",
+            "textAttributionSnippet": "(fi) Hallan talon pirtin naisten puoli - https://www.europeana.eu/item/2021009/_433D27DEAD2D4960FD9AF32C7D5B82A6. (en) Krooks, Sven-Erik. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.433D27DEAD2D4960FD9AF32C7D5B82A6?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_433D27DEAD2D4960FD9AF32C7D5B82A6' target='_blank' rel='noopener'>Hallan talon pirtin naisten puoli</a></dd><dt>Creator</dt><dd lang='en'>Krooks, Sven-Erik</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.433D27DEAD2D4960FD9AF32C7D5B82A6?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_433D27DEAD2D4960FD9AF32C7D5B82A6/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Negative"
+    ],
+    "concept_note": [
+        "Photographs in which the tones or colors are reversed from their appearance in nature, usually on a transparent support of celluloid, acetate, or on paper, intended for the purpose of producing positive prints"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

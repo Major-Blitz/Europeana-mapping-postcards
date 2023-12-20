@@ -1,0 +1,68 @@
+{
+    "aggregations_about": "/aggregation/provider/2021007/_SLSA_1160_SLSA_1160_528_2",
+    "webResources": [
+        {
+            "about": "https://finnapi.sls.fi/accessfiles/kundkopior/slsa1160/slsa1160_528_2.jpg",
+            "dcDescription": {
+                "swe": [
+                    "Fotografi"
+                ]
+            },
+            "textAttributionSnippet": "(sv) Tre vykort av Runebergsstatyn i Helsingfors - https://www.europeana.eu/item/2021007/_SLSA_1160_SLSA_1160_528_2. Society of Swedish Literature in Finland. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='sv'><a href='http://data.europeana.eu/item/2021007/_SLSA_1160_SLSA_1160_528_2' target='_blank' rel='noopener'>Tre vykort av Runebergsstatyn i Helsingfors</a></dd><dt>Institution</dt><dd lang=''>Society of Swedish Literature in Finland</dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021007/_SLSA_1160_SLSA_1160_528_2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 2319798,
+            "ebucoreWidth": 1989,
+            "ebucoreHeight": 4000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#BC8F8F",
+                "#C0C0C0",
+                "#696969",
+                "#556B2F",
+                "#CD5C5C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021007/_SLSA_1160_SLSA_1160_528_2/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021007_Ag_FI_NDL_sls"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Society of Swedish Literature in Finland"
+    ],
+    "coordinate": [
+        [
+            60.16709,
+            24.943592
+        ],
+        [
+            65.0,
+            27.0
+        ],
+        [
+            60.25,
+            24.5
+        ]
+    ]
+}

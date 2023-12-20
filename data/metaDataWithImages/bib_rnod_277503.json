@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/10501/bib_rnod_277503",
+    "webResources": [
+        {
+            "about": "https://purl.pt/33822/service/media/cover/max",
+            "textAttributionSnippet": "(pt) Provincia de Angola - album de aspectos, vida e costumes do interior da Africa occidental portugueza: o rio Cambo: Dala Murila e Marimba - https://www.europeana.eu/item/10501/bib_rnod_277503. Biblioteca Nacional de Portugal - https://purl.pt/33822. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_277503' target='_blank' rel='noopener'>Provincia de Angola - album de aspectos, vida e costumes do interior da Africa occidental portugueza: o rio Cambo: Dala Murila e Marimba</a></dd><dt>Date</dt><dd lang=''>1900</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33822' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/10501/bib_rnod_277503/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 1617716,
+            "ebucoreWidth": 3469,
+            "ebucoreHeight": 2319,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#BDB76B",
+                "#808080",
+                "#DEB887",
+                "#CD853F",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://purl.pt/33822",
+            "textAttributionSnippet": "(pt) Provincia de Angola - album de aspectos, vida e costumes do interior da Africa occidental portugueza: o rio Cambo: Dala Murila e Marimba - https://www.europeana.eu/item/10501/bib_rnod_277503. Biblioteca Nacional de Portugal - https://purl.pt/33822. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='pt'><a href='http://data.europeana.eu/item/10501/bib_rnod_277503' target='_blank' rel='noopener'>Provincia de Angola - album de aspectos, vida e costumes do interior da Africa occidental portugueza: o rio Cambo: Dala Murila e Marimba</a></dd><dt>Date</dt><dd lang=''>1900</dd><dt>Institution</dt><dd lang=''><a href='https://purl.pt/33822' target='_blank' rel='noopener'>Biblioteca Nacional de Portugal</a></dd><dt>Country</dt><dd lang=''>Portugal</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/10501/bib_rnod_277503/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "10501_Ag_PT_RNOD"
+    ],
+    "edmCountry": [
+        "Portugal"
+    ],
+    "edmLanguage": [
+        "pt"
+    ],
+    "organization_label": [
+        "National Library of Portugal"
+    ],
+    "coordinate": "not showed"
+}

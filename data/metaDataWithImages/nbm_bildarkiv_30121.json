@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/900/nbm_bildarkiv_30121",
+    "webResources": [
+        {
+            "about": "https://samlingar.norrbottensmuseum.se/web/object/30121",
+            "textAttributionSnippet": "(en) crushworks, postcards, crushing - https://www.europeana.eu/item/900/nbm_bildarkiv_30121. (en) Almqvist & C\u00f6st AB, Helsingborg. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/30121. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_30121' target='_blank' rel='noopener'>crushworks, postcards, crushing</a></dd><dt>Creator</dt><dd lang='en'>Almqvist & C\u00f6st AB, Helsingborg</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/30121' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 12675
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/137092/BAACHBM.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) crushworks, postcards, crushing - https://www.europeana.eu/item/900/nbm_bildarkiv_30121. (en) Almqvist & C\u00f6st AB, Helsingborg. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/30121. In Copyright - http://rightsstatements.org/vocab/InC/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_30121' target='_blank' rel='noopener'>crushworks, postcards, crushing</a></dd><dt>Creator</dt><dd lang='en'>Almqvist & C\u00f6st AB, Helsingborg</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/30121' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://rightsstatements.org/vocab/InC/1.0/' target='_blank' rel='noopener'><span class='icon-rs-yes'/>In Copyright</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_30121/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 36610,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 311,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#808080",
+                "#E6E6FA",
+                "#B0C4DE",
+                "#708090",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_30121/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "900__Norrbottens_museum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Norrbottens Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_3R6XEGZF2FCFHWJXPKSJEANNPS7KK4OJ",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=55191c5b-d59d-4bd4-a522-4249beee1793",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/401/item_3R6XEGZF2FCFHWJXPKSJEANNPS7KK4OJ. Virumaa Muuseumid - https://www.muis.ee/museaalView/2911144. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_3R6XEGZF2FCFHWJXPKSJEANNPS7KK4OJ' target='_blank' rel='noopener'>Postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2911144' target='_blank' rel='noopener'>Virumaa Muuseumid</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_3R6XEGZF2FCFHWJXPKSJEANNPS7KK4OJ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 126922,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 512,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#F5DEB3",
+                "#BDB76B",
+                "#000000",
+                "#FFEBCD",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/2911144",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/401/item_3R6XEGZF2FCFHWJXPKSJEANNPS7KK4OJ. Virumaa Muuseumid - https://www.muis.ee/museaalView/2911144. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_3R6XEGZF2FCFHWJXPKSJEANNPS7KK4OJ' target='_blank' rel='noopener'>Postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2911144' target='_blank' rel='noopener'>Virumaa Muuseumid</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_3R6XEGZF2FCFHWJXPKSJEANNPS7KK4OJ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Estonian e-Repository and Conservation of Collections"
+    ],
+    "coordinate": "not showed"
+}

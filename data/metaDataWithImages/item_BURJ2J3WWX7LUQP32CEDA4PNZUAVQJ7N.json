@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_BURJ2J3WWX7LUQP32CEDA4PNZUAVQJ7N",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=15de2955-fb38-4c82-8016-b3ff96ef1e4a",
+            "textAttributionSnippet": "(en) Luxembourg - https://www.europeana.eu/item/401/item_BURJ2J3WWX7LUQP32CEDA4PNZUAVQJ7N. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3751168. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_BURJ2J3WWX7LUQP32CEDA4PNZUAVQJ7N' target='_blank' rel='noopener'>Luxembourg</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3751168' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_BURJ2J3WWX7LUQP32CEDA4PNZUAVQJ7N/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 120731,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 580,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#FDF5E6",
+                "#FAEBD7",
+                "#808080",
+                "#DCDCDC",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3751168",
+            "textAttributionSnippet": "(en) Luxembourg - https://www.europeana.eu/item/401/item_BURJ2J3WWX7LUQP32CEDA4PNZUAVQJ7N. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3751168. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_BURJ2J3WWX7LUQP32CEDA4PNZUAVQJ7N' target='_blank' rel='noopener'>Luxembourg</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3751168' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_BURJ2J3WWX7LUQP32CEDA4PNZUAVQJ7N/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": "not showed"
+}

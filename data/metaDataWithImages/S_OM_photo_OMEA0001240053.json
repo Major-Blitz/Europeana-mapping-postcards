@@ -1,0 +1,82 @@
+{
+    "aggregations_about": "/aggregation/provider/73/S_OM_photo_OMEA0001240053",
+    "webResources": [
+        {
+            "about": "http://digitaltmuseum.se/021017430139",
+            "textAttributionSnippet": "(en) Portrait of Mrs Ulrika Eleonora Sofia Will\u00e9n. Married to the clenseman in Lk\u00f6pping, Christian Gabriel Ekberg - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240053. (en) Tesch, Maria. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021017430139. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240053' target='_blank' rel='noopener'>Portrait of Mrs Ulrika Eleonora Sofia Will\u00e9n. Married to the clenseman in Lk\u00f6pping, Christian Gabriel Ekberg</a></dd><dt>Creator</dt><dd lang='en'>Tesch, Maria</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021017430139' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2gz78H?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Portrait of Mrs Ulrika Eleonora Sofia Will\u00e9n. Married to the clenseman in Lk\u00f6pping, Christian Gabriel Ekberg - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240053. (en) Tesch, Maria. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021017430139. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240053' target='_blank' rel='noopener'>Portrait of Mrs Ulrika Eleonora Sofia Will\u00e9n. Married to the clenseman in Lk\u00f6pping, Christian Gabriel Ekberg</a></dd><dt>Creator</dt><dd lang='en'>Tesch, Maria</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021017430139' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240053/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 484282,
+            "ebucoreWidth": 740,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#DCDCDC",
+                "#F5DEB3",
+                "#D2B48C",
+                "#D3D3D3",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231uU2gz78H?dimension=600x600",
+            "textAttributionSnippet": "(en) Portrait of Mrs Ulrika Eleonora Sofia Will\u00e9n. Married to the clenseman in Lk\u00f6pping, Christian Gabriel Ekberg - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240053. (en) Tesch, Maria. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021017430139. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240053' target='_blank' rel='noopener'>Portrait of Mrs Ulrika Eleonora Sofia Will\u00e9n. Married to the clenseman in Lk\u00f6pping, Christian Gabriel Ekberg</a></dd><dt>Creator</dt><dd lang='en'>Tesch, Maria</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021017430139' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240053/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 133260,
+            "ebucoreWidth": 370,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#DCDCDC",
+                "#F5DEB3",
+                "#D2B48C",
+                "#D3D3D3",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240053/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "73_Ag_SE_SwedishNationalHeritage_s_om"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ],
+        [
+            58.410557,
+            15.613611
+        ]
+    ]
+}

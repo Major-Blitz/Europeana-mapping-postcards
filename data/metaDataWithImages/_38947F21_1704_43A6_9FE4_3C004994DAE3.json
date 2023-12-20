@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_38947F21_1704_43A6_9FE4_3C004994DAE3",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2374922&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Jag minnes dig - https://www.europeana.eu/item/117/_38947F21_1704_43A6_9FE4_3C004994DAE3. (en) Fr\u00f6berg. Finspong. imp. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.38947F21-1704-43A6-9FE4-3C004994DAE3?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_38947F21_1704_43A6_9FE4_3C004994DAE3' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Jag minnes dig</a></dd><dt>Creator</dt><dd lang='en'>Fr\u00f6berg. Finspong. imp</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.38947F21-1704-43A6-9FE4-3C004994DAE3?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_38947F21_1704_43A6_9FE4_3C004994DAE3/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 572940,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 787,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0FFFF",
+                "#A52A2A",
+                "#5F9EA0",
+                "#FAF0E6",
+                "#FFFFE0",
+                "#008B8B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.38947F21-1704-43A6-9FE4-3C004994DAE3?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Jag minnes dig - https://www.europeana.eu/item/117/_38947F21_1704_43A6_9FE4_3C004994DAE3. (en) Fr\u00f6berg. Finspong. imp. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.38947F21-1704-43A6-9FE4-3C004994DAE3?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_38947F21_1704_43A6_9FE4_3C004994DAE3' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Jag minnes dig</a></dd><dt>Creator</dt><dd lang='en'>Fr\u00f6berg. Finspong. imp</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.38947F21-1704-43A6-9FE4-3C004994DAE3?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_38947F21_1704_43A6_9FE4_3C004994DAE3/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

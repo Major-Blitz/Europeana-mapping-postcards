@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_144240",
+    "webResources": [
+        {
+            "about": "http://finna.fi/Record/lusto.knp-144240",
+            "textAttributionSnippet": "(en) W. Rosenlew & Co. Ab sulphite pulp factory, Aittaluoto, Pori - https://www.europeana.eu/item/2021008/_knp_144240. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-144240. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_144240' target='_blank' rel='noopener'>W. Rosenlew & Co. Ab sulphite pulp factory, Aittaluoto, Pori</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-144240' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/122271/highres?customer=knp",
+            "textAttributionSnippet": "(en) W. Rosenlew & Co. Ab sulphite pulp factory, Aittaluoto, Pori - https://www.europeana.eu/item/2021008/_knp_144240. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-144240. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_144240' target='_blank' rel='noopener'>W. Rosenlew & Co. Ab sulphite pulp factory, Aittaluoto, Pori</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-144240' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_144240/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 38350,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 370,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#E6E6FA",
+                "#C0C0C0",
+                "#BC8F8F",
+                "#FFF0F5",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_144240/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_CAMK22ERJPIHZ4U27UJ7ITZLO5EGCMDN",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/1318247",
+            "textAttributionSnippet": "(en) Postcard from Helle to L.Schmul - https://www.europeana.eu/item/401/item_CAMK22ERJPIHZ4U27UJ7ITZLO5EGCMDN. Muhu Muuseum - https://www.muis.ee/museaalView/1318247. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_CAMK22ERJPIHZ4U27UJ7ITZLO5EGCMDN' target='_blank' rel='noopener'>Postcard from Helle to L.Schmul</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1318247' target='_blank' rel='noopener'>Muhu Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=c5e96f64-0702-4ebc-9c28-2f193c2ce66a",
+            "textAttributionSnippet": "(en) Postcard from Helle to L.Schmul - https://www.europeana.eu/item/401/item_CAMK22ERJPIHZ4U27UJ7ITZLO5EGCMDN. Muhu Muuseum - https://www.muis.ee/museaalView/1318247. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_CAMK22ERJPIHZ4U27UJ7ITZLO5EGCMDN' target='_blank' rel='noopener'>Postcard from Helle to L.Schmul</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1318247' target='_blank' rel='noopener'>Muhu Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_CAMK22ERJPIHZ4U27UJ7ITZLO5EGCMDN/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 39890,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 572,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFACD",
+                "#BDB76B",
+                "#FFEBCD",
+                "#C0C0C0",
+                "#FDF5E6",
+                "#E0FFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_CAMK22ERJPIHZ4U27UJ7ITZLO5EGCMDN/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Muhu Museum"
+    ],
+    "coordinate": "not showed"
+}

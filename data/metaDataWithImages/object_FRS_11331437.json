@@ -1,0 +1,64 @@
+{
+    "aggregations_about": "/aggregation/provider/2058606/object_FRS_11331437",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Istituto Giancarlo Conestabile della Staffa e Luigi Piastrelli"
+                ]
+            },
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/files/original/c84a84bd11ca0a36c0d99cbd56dccc71.jpg",
+            "dcSource": {
+                "def": [
+                    "Archivio privato Dott. Enzo Orioli"
+                ]
+            },
+            "textAttributionSnippet": "Libertas : Democrazia Cristiana - https://www.europeana.eu/item/2058606/object_FRS_11331437. Democrazia Cristiana. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/227. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2058606/object_FRS_11331437' target='_blank' rel='noopener'>Libertas : Democrazia Cristiana</a></dd><dt>Creator</dt><dd lang=''>Democrazia Cristiana</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/227' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331437/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 222028,
+            "ebucoreWidth": 1134,
+            "ebucoreHeight": 1577,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#191970",
+                "#2F4F4F",
+                "#DEB887",
+                "#B22222",
+                "#000000",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/227",
+            "textAttributionSnippet": "Libertas : Democrazia Cristiana - https://www.europeana.eu/item/2058606/object_FRS_11331437. Democrazia Cristiana. Istituto Conestabile Piastrelli - https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/227. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2058606/object_FRS_11331437' target='_blank' rel='noopener'>Libertas : Democrazia Cristiana</a></dd><dt>Creator</dt><dd lang=''>Democrazia Cristiana</dd><dt>Date</dt><dd lang=''>1948</dd><dt>Institution</dt><dd lang=''><a href='https://istitutoconestabilepiastrelli.locloudhosting.net/items/show/227' target='_blank' rel='noopener'>Istituto Conestabile Piastrelli</a></dd><dt>Country</dt><dd lang=''>Italy</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 14051
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2058606/object_FRS_11331437/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2058606_Ag_EU_LoCloud_FRS"
+    ],
+    "edmCountry": [
+        "Italy"
+    ],
+    "edmLanguage": [
+        "it"
+    ],
+    "organization_label": [
+        "LoCloud"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_RS2HO4H43KC46ONCJO26O5IGOMS6IC6T",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=e02c283d-fe98-4742-95f7-f21da1b3fce6",
+            "textAttributionSnippet": "(en) Vaasa - https://www.europeana.eu/item/401/item_RS2HO4H43KC46ONCJO26O5IGOMS6IC6T. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3715888. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_RS2HO4H43KC46ONCJO26O5IGOMS6IC6T' target='_blank' rel='noopener'>Vaasa</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3715888' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_RS2HO4H43KC46ONCJO26O5IGOMS6IC6T/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 123077,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 664,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D8BFD8",
+                "#C0C0C0",
+                "#BC8F8F",
+                "#556B2F",
+                "#808080",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3715888",
+            "textAttributionSnippet": "(en) Vaasa - https://www.europeana.eu/item/401/item_RS2HO4H43KC46ONCJO26O5IGOMS6IC6T. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3715888. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_RS2HO4H43KC46ONCJO26O5IGOMS6IC6T' target='_blank' rel='noopener'>Vaasa</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3715888' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_RS2HO4H43KC46ONCJO26O5IGOMS6IC6T/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            65.0,
+            27.0
+        ]
+    ]
+}

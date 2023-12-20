@@ -1,0 +1,92 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_f7e20be6_332b_4e89_b9db_4e414d89e5dd",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/32A007D48FA94EDC96EF0EB3CDF8D96B.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f7e20be6_332b_4e89_b9db_4e414d89e5dd. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/f7e20be6-332b-4e89-b9db-4e414d89e5dd/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f7e20be6-332b-4e89-b9db-4e414d89e5dd/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_f7e20be6_332b_4e89_b9db_4e414d89e5dd/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22013560,
+            "ebucoreWidth": 3374,
+            "ebucoreHeight": 2173,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#D8BFD8",
+                "#C0C0C0",
+                "#DB7093",
+                "#FFB6C1",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/f7e20be6-332b-4e89-b9db-4e414d89e5dd/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f7e20be6_332b_4e89_b9db_4e414d89e5dd. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/f7e20be6-332b-4e89-b9db-4e414d89e5dd/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f7e20be6-332b-4e89-b9db-4e414d89e5dd/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/3C25814E66A7421BB013613F809D2A97.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_f7e20be6_332b_4e89_b9db_4e414d89e5dd. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/f7e20be6-332b-4e89-b9db-4e414d89e5dd/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/f7e20be6-332b-4e89-b9db-4e414d89e5dd/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_f7e20be6_332b_4e89_b9db_4e414d89e5dd/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 14744676,
+            "ebucoreWidth": 2172,
+            "ebucoreHeight": 3398,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#F5F5DC",
+                "#F5DEB3",
+                "#696969",
+                "#556B2F",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_f7e20be6_332b_4e89_b9db_4e414d89e5dd/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.845833,
+            23.895834
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "aggregations_about": "/aggregation/provider/91672/MM_foto_613006",
+    "webResources": [
+        {
+            "about": "http://carlotta.malmo.se/carlotta-mmus/web/image/zoom/811884/EH_001712.jpg",
+            "textAttributionSnippet": "- Fotografi - - https://www.europeana.eu/item/91672/MM_foto_613006. Malm\u00f6 museer - http://carlotta.malmo.se/carlotta-mmus/web/object/613006. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91672/MM_foto_613006' target='_blank' rel='noopener'>- Fotografi -</a></dd><dt>Institution</dt><dd lang=''><a href='http://carlotta.malmo.se/carlotta-mmus/web/object/613006' target='_blank' rel='noopener'>Malm\u00f6 museer</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91672/MM_foto_613006/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 79299,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 511,
+            "edmComponentColor": [
+                "#DCDCDC",
+                "#2F4F4F",
+                "#D3D3D3",
+                "#000000",
+                "#696969",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://carlotta.malmo.se/carlotta-mmus/web/object/613006",
+            "textAttributionSnippet": "- Fotografi - - https://www.europeana.eu/item/91672/MM_foto_613006. Malm\u00f6 museer - http://carlotta.malmo.se/carlotta-mmus/web/object/613006. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/91672/MM_foto_613006' target='_blank' rel='noopener'>- Fotografi -</a></dd><dt>Institution</dt><dd lang=''><a href='http://carlotta.malmo.se/carlotta-mmus/web/object/613006' target='_blank' rel='noopener'>Malm\u00f6 museer</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91672/MM_foto_613006/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91672_Ag_SE_SwedishNationalHeritage_malmo_foto"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Malm\u00f6 Museum"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

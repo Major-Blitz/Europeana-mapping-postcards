@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_E42514D0_0D7C_491D_AAD3_2F0D9E60F866",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2378239&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) Ett Godt Nytt \u00c5r - https://www.europeana.eu/item/117/_E42514D0_0D7C_491D_AAD3_2F0D9E60F866. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.E42514D0-0D7C-491D-AAD3-2F0D9E60F866?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_E42514D0_0D7C_491D_AAD3_2F0D9E60F866' target='_blank' rel='noopener'>Ett Godt Nytt \u00c5r</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.E42514D0-0D7C-491D-AAD3-2F0D9E60F866?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_E42514D0_0D7C_491D_AAD3_2F0D9E60F866/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 247036,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 539,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#708090",
+                "#FFE4C4",
+                "#BC8F8F",
+                "#F5F5DC",
+                "#191970"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.E42514D0-0D7C-491D-AAD3-2F0D9E60F866?lng=en-gb",
+            "textAttributionSnippet": "(en) Ett Godt Nytt \u00c5r - https://www.europeana.eu/item/117/_E42514D0_0D7C_491D_AAD3_2F0D9E60F866. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.E42514D0-0D7C-491D-AAD3-2F0D9E60F866?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_E42514D0_0D7C_491D_AAD3_2F0D9E60F866' target='_blank' rel='noopener'>Ett Godt Nytt \u00c5r</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.E42514D0-0D7C-491D-AAD3-2F0D9E60F866?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_E42514D0_0D7C_491D_AAD3_2F0D9E60F866/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

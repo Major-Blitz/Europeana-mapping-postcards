@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_262D6XW2YCPDH3KHW7UEOZJDM3LRFYS2",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=968c5279-f8e0-4e61-8846-541e03db8ef0",
+            "textAttributionSnippet": "(et) Kunst - https://www.europeana.eu/item/401/item_262D6XW2YCPDH3KHW7UEOZJDM3LRFYS2. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3751157. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_262D6XW2YCPDH3KHW7UEOZJDM3LRFYS2' target='_blank' rel='noopener'>Kunst</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3751157' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_262D6XW2YCPDH3KHW7UEOZJDM3LRFYS2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 175202,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 544,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#ADD8E6",
+                "#483D8B",
+                "#FFFAFA",
+                "#F4A460",
+                "#2F4F4F",
+                "#FFFAF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3751157",
+            "textAttributionSnippet": "(et) Kunst - https://www.europeana.eu/item/401/item_262D6XW2YCPDH3KHW7UEOZJDM3LRFYS2. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3751157. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_262D6XW2YCPDH3KHW7UEOZJDM3LRFYS2' target='_blank' rel='noopener'>Kunst</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3751157' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_262D6XW2YCPDH3KHW7UEOZJDM3LRFYS2/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": "not showed"
+}

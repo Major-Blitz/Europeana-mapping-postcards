@@ -1,0 +1,95 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2567170&size=extra_large&key=T3st1&orgid=43094",
+            "dcCreator": {
+                "def": [
+                    "Sanna S\u00e4rkel\u00e4"
+                ]
+            },
+            "textAttributionSnippet": "(fi) postikortti - https://www.europeana.eu/item/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09. Sanna S\u00e4rkel\u00e4. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.eca8d362-3cd8-44ba-ac0b-f55fa0771b09?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09' target='_blank' rel='noopener'>postikortti</a></dd><dt>Creator</dt><dd lang=''>Sanna S\u00e4rkel\u00e4</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.eca8d362-3cd8-44ba-ac0b-f55fa0771b09?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 90874,
+            "ebucoreWidth": 700,
+            "ebucoreHeight": 790,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#F08080",
+                "#BDB76B",
+                "#CD853F",
+                "#FFDEAD",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.eca8d362-3cd8-44ba-ac0b-f55fa0771b09?lng=en-gb",
+            "textAttributionSnippet": "(fi) postikortti - https://www.europeana.eu/item/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.eca8d362-3cd8-44ba-ac0b-f55fa0771b09?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09' target='_blank' rel='noopener'>postikortti</a></dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.eca8d362-3cd8-44ba-ac0b-f55fa0771b09?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2593505&size=extra_large&key=T3st1&orgid=43094",
+            "dcCreator": {
+                "def": [
+                    "Pilvi Vainonen"
+                ]
+            },
+            "textAttributionSnippet": "(fi) postikortti - https://www.europeana.eu/item/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09. Pilvi Vainonen. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.eca8d362-3cd8-44ba-ac0b-f55fa0771b09?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09' target='_blank' rel='noopener'>postikortti</a></dd><dt>Creator</dt><dd lang=''>Pilvi Vainonen</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.eca8d362-3cd8-44ba-ac0b-f55fa0771b09?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 113157,
+            "ebucoreWidth": 1097,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A52A2A",
+                "#708090",
+                "#808080",
+                "#2F4F4F",
+                "#A9A9A9",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_eca8d362_3cd8_44ba_ac0b_f55fa0771b09/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

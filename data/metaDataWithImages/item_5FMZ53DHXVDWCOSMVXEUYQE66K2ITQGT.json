@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_5FMZ53DHXVDWCOSMVXEUYQE66K2ITQGT",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=7f00e04f-40f0-47b1-bd88-dfe2142bf820",
+            "textAttributionSnippet": "(en) Map for R.Schmuul from Sweden - https://www.europeana.eu/item/401/item_5FMZ53DHXVDWCOSMVXEUYQE66K2ITQGT. Muhu Muuseum - https://www.muis.ee/museaalView/1318335. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_5FMZ53DHXVDWCOSMVXEUYQE66K2ITQGT' target='_blank' rel='noopener'>Map for R.Schmuul from Sweden</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1318335' target='_blank' rel='noopener'>Muhu Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_5FMZ53DHXVDWCOSMVXEUYQE66K2ITQGT/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 70985,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 572,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF8DC",
+                "#778899",
+                "#FFFAF0",
+                "#FFFFFF",
+                "#FFFAFA",
+                "#FFFFF0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/1318335",
+            "textAttributionSnippet": "(en) Map for R.Schmuul from Sweden - https://www.europeana.eu/item/401/item_5FMZ53DHXVDWCOSMVXEUYQE66K2ITQGT. Muhu Muuseum - https://www.muis.ee/museaalView/1318335. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_5FMZ53DHXVDWCOSMVXEUYQE66K2ITQGT' target='_blank' rel='noopener'>Map for R.Schmuul from Sweden</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/1318335' target='_blank' rel='noopener'>Muhu Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_5FMZ53DHXVDWCOSMVXEUYQE66K2ITQGT/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Muhu Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_9fb918f8_dd39_473e_9481_1d693e2cc752",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_05%20Mai%202020_istorie_georgescu_docpatv494/Imagini1/274B8A2D362C4EECA7160D54C621BB7F.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9fb918f8_dd39_473e_9481_1d693e2cc752. Karl Engber, editor de c\u0103r\u021bi po\u0219tale, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9fb918f8-dd39-473e-9481-1d693e2cc752/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Karl Engber, editor de c\u0103r\u021bi po\u0219tale, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9fb918f8-dd39-473e-9481-1d693e2cc752/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_9fb918f8_dd39_473e_9481_1d693e2cc752/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22417738,
+            "ebucoreWidth": 3436,
+            "ebucoreHeight": 2173,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4E1",
+                "#FFE4C4",
+                "#A0522D",
+                "#8B4513",
+                "#FFFAFA",
+                "#FFF0F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_05%20Mai%202020_istorie_georgescu_docpatv494/Imagini1/2390F333F8124DE48D82D0E872B535D8.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9fb918f8_dd39_473e_9481_1d693e2cc752. Karl Engber, editor de c\u0103r\u021bi po\u0219tale, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9fb918f8-dd39-473e-9481-1d693e2cc752/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Karl Engber, editor de c\u0103r\u021bi po\u0219tale, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9fb918f8-dd39-473e-9481-1d693e2cc752/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_9fb918f8_dd39_473e_9481_1d693e2cc752/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22417738,
+            "ebucoreWidth": 3436,
+            "ebucoreHeight": 2173,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A0522D",
+                "#F08080",
+                "#696969",
+                "#FFB6C1",
+                "#F5FFFA",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/9fb918f8-dd39-473e-9481-1d693e2cc752/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_9fb918f8_dd39_473e_9481_1d693e2cc752. Karl Engber, editor de c\u0103r\u021bi po\u0219tale, Sibiu. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/9fb918f8-dd39-473e-9481-1d693e2cc752/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Karl Engber, editor de c\u0103r\u021bi po\u0219tale, Sibiu</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/9fb918f8-dd39-473e-9481-1d693e2cc752/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_9fb918f8_dd39_473e_9481_1d693e2cc752/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_361a277f_4e59_46e9_9795_ab279c5ff562",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/2D0BB9CC21814E8887334F1A2B1C0143.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_361a277f_4e59_46e9_9795_ab279c5ff562. Editura G. A. Seraphin. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/361a277f-4e59-46e9-9795-ab279c5ff562/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura G. A. Seraphin</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/361a277f-4e59-46e9-9795-ab279c5ff562/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_361a277f_4e59_46e9_9795_ab279c5ff562/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 21424126,
+            "ebucoreWidth": 3419,
+            "ebucoreHeight": 2087,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#BC8F8F",
+                "#FAEBD7",
+                "#FFEBCD",
+                "#DEB887",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/361a277f-4e59-46e9-9795-ab279c5ff562/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_361a277f_4e59_46e9_9795_ab279c5ff562. Editura G. A. Seraphin. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/361a277f-4e59-46e9-9795-ab279c5ff562/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura G. A. Seraphin</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/361a277f-4e59-46e9-9795-ab279c5ff562/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_06%20Iunie%202020_istorie_voina_docpatv494/Imagini1/B0891130AE304628B7407591558B7826.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_361a277f_4e59_46e9_9795_ab279c5ff562. Editura G. A. Seraphin. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/361a277f-4e59-46e9-9795-ab279c5ff562/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura G. A. Seraphin</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/361a277f-4e59-46e9-9795-ab279c5ff562/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_361a277f_4e59_46e9_9795_ab279c5ff562/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 20780060,
+            "ebucoreWidth": 3411,
+            "ebucoreHeight": 2029,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#FAEBD7",
+                "#FFE4B5",
+                "#A9A9A9",
+                "#D3D3D3",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_361a277f_4e59_46e9_9795_ab279c5ff562/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "aggregations_about": "/aggregation/provider/534/f55c000e_c09d_4cd6_af79_ff3b63a942ee",
+    "webResources": [
+        {
+            "about": "https://www.beeldbankbrugge.be",
+            "textAttributionSnippet": "(nl) De feestzaal in het Sint-Franciscus-Xaveriusinstituut - https://www.europeana.eu/item/534/f55c000e_c09d_4cd6_af79_ff3b63a942ee. (nl) F. Vercauteren (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/f55c000e_c09d_4cd6_af79_ff3b63a942ee' target='_blank' rel='noopener'>De feestzaal in het Sint-Franciscus-Xaveriusinstituut</a></dd><dt>Creator</dt><dd lang='nl'>F. Vercauteren (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://images.memorix.nl/bru/thumb/1000x1000/754c749a-51c2-4f74-ba31-d40e142ee7da.jpg",
+            "textAttributionSnippet": "(nl) De feestzaal in het Sint-Franciscus-Xaveriusinstituut - https://www.europeana.eu/item/534/f55c000e_c09d_4cd6_af79_ff3b63a942ee. (nl) F. Vercauteren (Brugge). (nl) Stadsarchief Brugge - https://www.beeldbankbrugge.be. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='nl'><a href='http://data.europeana.eu/item/534/f55c000e_c09d_4cd6_af79_ff3b63a942ee' target='_blank' rel='noopener'>De feestzaal in het Sint-Franciscus-Xaveriusinstituut</a></dd><dt>Creator</dt><dd lang='nl'>F. Vercauteren (Brugge)</dd><dt>Institution</dt><dd lang='nl'><a href='https://www.beeldbankbrugge.be' target='_blank' rel='noopener'>Stadsarchief Brugge</a></dd><dt>Country</dt><dd lang=''>Belgium</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/534/f55c000e_c09d_4cd6_af79_ff3b63a942ee/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 188870,
+            "ebucoreWidth": 1000,
+            "ebucoreHeight": 648,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFFE0",
+                "#D3D3D3",
+                "#556B2F",
+                "#FFF8DC",
+                "#BDB76B",
+                "#FFEFD5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/534/f55c000e_c09d_4cd6_af79_ff3b63a942ee/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "picture postcards"
+    ],
+    "concept_note": [
+        "Postcards having a pictorial image on one side, often representations of a place or works of art, upon which a message can be written, then posted."
+    ],
+    "edmDatasetName": [
+        "534_Photoconsortium_Brugge"
+    ],
+    "edmCountry": [
+        "Belgium"
+    ],
+    "edmLanguage": [
+        "nl"
+    ],
+    "organization_label": [
+        "PHOTOCONSORTIUM"
+    ],
+    "coordinate": [
+        [
+            51.25,
+            3.21667
+        ],
+        [
+            51.20892,
+            3.22424
+        ]
+    ]
+}

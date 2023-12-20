@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916108/smm_mm_photo_DO14939_171",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/042uKXR53dEe?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcards from the Royal Bridge in Karlskrona with the Hunter Division and Armoured Boats - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_171. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/011014861216. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_171' target='_blank' rel='noopener'>Postcards from the Royal Bridge in Karlskrona with the Hunter Division and Armoured Boats</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861216' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_171/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 200882,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 375,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#696969",
+                "#DEB887",
+                "#EEE8AA",
+                "#D2B48C",
+                "#FFDEAD"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/042uKXR53dEe?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards from the Royal Bridge in Karlskrona with the Hunter Division and Armoured Boats - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_171. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/011014861216. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_171' target='_blank' rel='noopener'>Postcards from the Royal Bridge in Karlskrona with the Hunter Division and Armoured Boats</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861216' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_171/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 799597,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 750,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#696969",
+                "#DEB887",
+                "#D2B48C",
+                "#EEE8AA",
+                "#FFDEAD"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014861216",
+            "textAttributionSnippet": "(en) Postcards from the Royal Bridge in Karlskrona with the Hunter Division and Armoured Boats - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_171. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/011014861216. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_171' target='_blank' rel='noopener'>Postcards from the Royal Bridge in Karlskrona with the Hunter Division and Armoured Boats</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861216' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 96016
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_171/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916108_Ag_SE_SwedishNationalHeritage_Marinmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

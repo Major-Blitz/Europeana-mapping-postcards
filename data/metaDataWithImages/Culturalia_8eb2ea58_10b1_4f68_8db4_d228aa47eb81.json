@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_8eb2ea58_10b1_4f68_8db4_d228aa47eb81",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_voina_docpatv494/Imagini1/6EA30C8A19C54EE4B962766BE58CC904.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8eb2ea58_10b1_4f68_8db4_d228aa47eb81. Editura Rafail. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8eb2ea58-10b1-4f68-8db4-d228aa47eb81/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Rafail</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8eb2ea58-10b1-4f68-8db4-d228aa47eb81/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_8eb2ea58_10b1_4f68_8db4_d228aa47eb81/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22496330,
+            "ebucoreWidth": 3375,
+            "ebucoreHeight": 2220,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#D2B48C",
+                "#2F4F4F",
+                "#F5DEB3",
+                "#FFE4B5",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/8eb2ea58-10b1-4f68-8db4-d228aa47eb81/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8eb2ea58_10b1_4f68_8db4_d228aa47eb81. Editura Rafail. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8eb2ea58-10b1-4f68-8db4-d228aa47eb81/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Rafail</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8eb2ea58-10b1-4f68-8db4-d228aa47eb81/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_voina_docpatv494/Imagini1/9D830ACF977B4E4F93250F0C90F6408B.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_8eb2ea58_10b1_4f68_8db4_d228aa47eb81. Editura Rafail. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/8eb2ea58-10b1-4f68-8db4-d228aa47eb81/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Rafail</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/8eb2ea58-10b1-4f68-8db4-d228aa47eb81/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_8eb2ea58_10b1_4f68_8db4_d228aa47eb81/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22358546,
+            "ebucoreWidth": 3391,
+            "ebucoreHeight": 2196,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEBCD",
+                "#C0C0C0",
+                "#EEE8AA",
+                "#A9A9A9",
+                "#D8BFD8",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_8eb2ea58_10b1_4f68_8db4_d228aa47eb81/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

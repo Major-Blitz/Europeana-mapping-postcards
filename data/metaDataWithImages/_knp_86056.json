@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_86056",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46834/thumbnail?customer=knp",
+            "textAttributionSnippet": "(fi) Mets\u00e4taloudellisen valistustoimiston postikortti numerot 14 ja 41. ( Eri painokset ) 31 -vuotista, kaskimaalle syntynytt\u00e4 harventamatonta rauduskoivikkoa Hein\u00e4vedell\u00e4 - https://www.europeana.eu/item/2021008/_knp_86056. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86056. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_86056' target='_blank' rel='noopener'>Mets\u00e4taloudellisen valistustoimiston postikortti numerot 14 ja 41. ( Eri painokset ) 31 -vuotista, kaskimaalle syntynytt\u00e4 harventamatonta rauduskoivikkoa Hein\u00e4vedell\u00e4</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86056' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_86056/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 32080,
+            "ebucoreWidth": 400,
+            "ebucoreHeight": 258,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E6E6FA",
+                "#BDB76B",
+                "#D8BFD8",
+                "#696969",
+                "#000000",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://finna.fi/Record/lusto.knp-86056",
+            "textAttributionSnippet": "(fi) Mets\u00e4taloudellisen valistustoimiston postikortti numerot 14 ja 41. ( Eri painokset ) 31 -vuotista, kaskimaalle syntynytt\u00e4 harventamatonta rauduskoivikkoa Hein\u00e4vedell\u00e4 - https://www.europeana.eu/item/2021008/_knp_86056. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86056. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_86056' target='_blank' rel='noopener'>Mets\u00e4taloudellisen valistustoimiston postikortti numerot 14 ja 41. ( Eri painokset ) 31 -vuotista, kaskimaalle syntynytt\u00e4 harventamatonta rauduskoivikkoa Hein\u00e4vedell\u00e4</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86056' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_86056/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

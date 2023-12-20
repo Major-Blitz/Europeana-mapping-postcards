@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_UCZHGJE3Z27XBKA63RDMPI54AYCUAJP4",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=d59c66f3-ad1e-47db-896a-05b0f3e153c8",
+            "textAttributionSnippet": "(en) Valencia - https://www.europeana.eu/item/401/item_UCZHGJE3Z27XBKA63RDMPI54AYCUAJP4. (et) Tuglas, Friedebert (koguja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3693517. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_UCZHGJE3Z27XBKA63RDMPI54AYCUAJP4' target='_blank' rel='noopener'>Valencia</a></dd><dt>Creator</dt><dd lang='et'>Tuglas, Friedebert (koguja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3693517' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_UCZHGJE3Z27XBKA63RDMPI54AYCUAJP4/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 131601,
+            "ebucoreWidth": 529,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#DCDCDC",
+                "#F0FFF0",
+                "#2F4F4F",
+                "#EEE8AA",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3693517",
+            "textAttributionSnippet": "(en) Valencia - https://www.europeana.eu/item/401/item_UCZHGJE3Z27XBKA63RDMPI54AYCUAJP4. (et) Tuglas, Friedebert (koguja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3693517. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_UCZHGJE3Z27XBKA63RDMPI54AYCUAJP4' target='_blank' rel='noopener'>Valencia</a></dd><dt>Creator</dt><dd lang='et'>Tuglas, Friedebert (koguja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3693517' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_UCZHGJE3Z27XBKA63RDMPI54AYCUAJP4/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            40.2,
+            -3.5
+        ]
+    ]
+}

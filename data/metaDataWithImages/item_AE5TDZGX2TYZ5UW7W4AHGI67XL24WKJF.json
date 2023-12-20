@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_AE5TDZGX2TYZ5UW7W4AHGI67XL24WKJF",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=9d3948b9-a480-47c9-ba4d-0c14dceed253",
+            "textAttributionSnippet": "(en) Venezia - https://www.europeana.eu/item/401/item_AE5TDZGX2TYZ5UW7W4AHGI67XL24WKJF. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3719361. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_AE5TDZGX2TYZ5UW7W4AHGI67XL24WKJF' target='_blank' rel='noopener'>Venezia</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3719361' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_AE5TDZGX2TYZ5UW7W4AHGI67XL24WKJF/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 143172,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 537,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#F5FFFA",
+                "#696969",
+                "#CD853F",
+                "#DCDCDC",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3719361",
+            "textAttributionSnippet": "(en) Venezia - https://www.europeana.eu/item/401/item_AE5TDZGX2TYZ5UW7W4AHGI67XL24WKJF. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3719361. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_AE5TDZGX2TYZ5UW7W4AHGI67XL24WKJF' target='_blank' rel='noopener'>Venezia</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3719361' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_AE5TDZGX2TYZ5UW7W4AHGI67XL24WKJF/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            42.5,
+            12.5
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/yf2gk6j5",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0055549.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "Macao, China. Photograph by John Thomson, 1870 - https://www.europeana.eu/item/9200579/yf2gk6j5. John Thomson. Wellcome Collection - https://wellcomecollection.org/works/yf2gk6j5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/yf2gk6j5' target='_blank' rel='noopener'>Macao, China. Photograph by John Thomson, 1870</a></dd><dt>Creator</dt><dd lang=''>John Thomson</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/yf2gk6j5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/L0055549.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/yf2gk6j5/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 48138,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 428,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#BDB76B",
+                "#CD853F",
+                "#C0C0C0",
+                "#808080",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/L0055549.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "Macao, China. Photograph by John Thomson, 1870 - https://www.europeana.eu/item/9200579/yf2gk6j5. John Thomson. Wellcome Collection - https://wellcomecollection.org/works/yf2gk6j5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/yf2gk6j5' target='_blank' rel='noopener'>Macao, China. Photograph by John Thomson, 1870</a></dd><dt>Creator</dt><dd lang=''>John Thomson</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/yf2gk6j5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 46406,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 418,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#BDB76B",
+                "#CD853F",
+                "#808080",
+                "#C0C0C0",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/yf2gk6j5",
+            "textAttributionSnippet": "Macao, China. Photograph by John Thomson, 1870 - https://www.europeana.eu/item/9200579/yf2gk6j5. John Thomson. Wellcome Collection - https://wellcomecollection.org/works/yf2gk6j5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/yf2gk6j5' target='_blank' rel='noopener'>Macao, China. Photograph by John Thomson, 1870</a></dd><dt>Creator</dt><dd lang=''>John Thomson</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/yf2gk6j5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 272130
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/yf2gk6j5/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

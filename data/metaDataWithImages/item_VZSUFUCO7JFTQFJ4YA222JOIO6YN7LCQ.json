@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_VZSUFUCO7JFTQFJ4YA222JOIO6YN7LCQ",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=c3046b48-2719-43c1-b4cd-1467b24a575d",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/401/item_VZSUFUCO7JFTQFJ4YA222JOIO6YN7LCQ. (en) \u0160migun, Kristina (participant); \u0160migun, Katrin (participant); Jaanus, Kristel (participant); Alev, Mall (participant); Summer, Triina (participant). Eesti Spordimuuseum - https://www.muis.ee/museaalView/18992. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_VZSUFUCO7JFTQFJ4YA222JOIO6YN7LCQ' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>\u0160migun, Kristina (participant); \u0160migun, Katrin (participant); Jaanus, Kristel (participant); Alev, Mall (participant); Summer, Triina (participant)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/18992' target='_blank' rel='noopener'>Eesti Spordimuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_VZSUFUCO7JFTQFJ4YA222JOIO6YN7LCQ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 103484,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 570,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#20B2AA",
+                "#FFA500",
+                "#FFFFE0",
+                "#DEB887",
+                "#8FBC8F",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/18992",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/401/item_VZSUFUCO7JFTQFJ4YA222JOIO6YN7LCQ. (en) \u0160migun, Kristina (participant); \u0160migun, Katrin (participant); Jaanus, Kristel (participant); Alev, Mall (participant); Summer, Triina (participant). Eesti Spordimuuseum - https://www.muis.ee/museaalView/18992. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_VZSUFUCO7JFTQFJ4YA222JOIO6YN7LCQ' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>\u0160migun, Kristina (participant); \u0160migun, Katrin (participant); Jaanus, Kristel (participant); Alev, Mall (participant); Summer, Triina (participant)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/18992' target='_blank' rel='noopener'>Eesti Spordimuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_VZSUFUCO7JFTQFJ4YA222JOIO6YN7LCQ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Estonian Sports and Olympic Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/91616/arme_photo_AMA0010756",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032yizbpXA6s?dimension=1200x1200",
+            "textAttributionSnippet": "(en) G\u00f6ta life garde I 2 in parade by motorcycle. Spectators look at in the background - https://www.europeana.eu/item/91616/arme_photo_AMA0010756. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021016860286. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010756' target='_blank' rel='noopener'>G\u00f6ta life garde I 2 in parade by motorcycle. Spectators look at in the background</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016860286' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010756/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 734492,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 860,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#A9A9A9",
+                "#696969",
+                "#808080",
+                "#2F4F4F",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016860286",
+            "textAttributionSnippet": "(en) G\u00f6ta life garde I 2 in parade by motorcycle. Spectators look at in the background - https://www.europeana.eu/item/91616/arme_photo_AMA0010756. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021016860286. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010756' target='_blank' rel='noopener'>G\u00f6ta life garde I 2 in parade by motorcycle. Spectators look at in the background</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016860286' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 100212
+        },
+        {
+            "about": "https://mm.dimu.org/image/032yizbpXA6s?dimension=600x600",
+            "textAttributionSnippet": "(en) G\u00f6ta life garde I 2 in parade by motorcycle. Spectators look at in the background - https://www.europeana.eu/item/91616/arme_photo_AMA0010756. (en) Unknown. Arm\u00e9museum - https://digitaltmuseum.se/021016860286. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91616/arme_photo_AMA0010756' target='_blank' rel='noopener'>G\u00f6ta life garde I 2 in parade by motorcycle. Spectators look at in the background</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016860286' target='_blank' rel='noopener'>Arm\u00e9museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010756/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 212702,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 430,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#A9A9A9",
+                "#696969",
+                "#808080",
+                "#2F4F4F",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91616/arme_photo_AMA0010756/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91616_Ag_SE_SwedishNationalHeritage_Armemuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

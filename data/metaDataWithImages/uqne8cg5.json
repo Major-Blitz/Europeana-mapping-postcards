@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/uqne8cg5",
+    "webResources": [
+        {
+            "about": "https://wellcomecollection.org/works/uqne8cg5",
+            "textAttributionSnippet": "A bath-house. Reproduction of a drawing - https://www.europeana.eu/item/9200579/uqne8cg5. Wellcome Collection - https://wellcomecollection.org/works/uqne8cg5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/uqne8cg5' target='_blank' rel='noopener'>A bath-house. Reproduction of a drawing</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/uqne8cg5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 269660
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0020017.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "A bath-house. Reproduction of a drawing - https://www.europeana.eu/item/9200579/uqne8cg5. Wellcome Collection - https://wellcomecollection.org/works/uqne8cg5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/uqne8cg5' target='_blank' rel='noopener'>A bath-house. Reproduction of a drawing</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/uqne8cg5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 73005,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 312,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#F5DEB3",
+                "#000000",
+                "#BC8F8F",
+                "#696969",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0020017.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "A bath-house. Reproduction of a drawing - https://www.europeana.eu/item/9200579/uqne8cg5. Wellcome Collection - https://wellcomecollection.org/works/uqne8cg5. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/uqne8cg5' target='_blank' rel='noopener'>A bath-house. Reproduction of a drawing</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/uqne8cg5' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0020017.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/uqne8cg5/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 75562,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 319,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#F5DEB3",
+                "#BC8F8F",
+                "#000000",
+                "#696969",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/uqne8cg5/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Drawing"
+    ],
+    "concept_note": [
+        "Visual artwork in two-dimensional medium"
+    ],
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

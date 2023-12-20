@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_86050",
+    "webResources": [
+        {
+            "about": "http://finna.fi/Record/lusto.knp-86050",
+            "textAttributionSnippet": "(fi) Mets\u00e4taloudellisen valistustoimiston postikortti numero 32. M\u00e4ntysiemenpuita talvipuvussaan. Tuusula, Uusimaa - https://www.europeana.eu/item/2021008/_knp_86050. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86050. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_86050' target='_blank' rel='noopener'>Mets\u00e4taloudellisen valistustoimiston postikortti numero 32. M\u00e4ntysiemenpuita talvipuvussaan. Tuusula, Uusimaa</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86050' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46828/thumbnail?customer=knp",
+            "textAttributionSnippet": "(fi) Mets\u00e4taloudellisen valistustoimiston postikortti numero 32. M\u00e4ntysiemenpuita talvipuvussaan. Tuusula, Uusimaa - https://www.europeana.eu/item/2021008/_knp_86050. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86050. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_86050' target='_blank' rel='noopener'>Mets\u00e4taloudellisen valistustoimiston postikortti numero 32. M\u00e4ntysiemenpuita talvipuvussaan. Tuusula, Uusimaa</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86050' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_86050/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 19870,
+            "ebucoreWidth": 252,
+            "ebucoreHeight": 400,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#DCDCDC",
+                "#D8BFD8",
+                "#000000",
+                "#BC8F8F",
+                "#FFFAFA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_86050/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

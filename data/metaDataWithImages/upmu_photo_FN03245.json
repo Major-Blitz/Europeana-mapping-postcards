@@ -1,0 +1,80 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN03245",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/032wZzabMWEC?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcards - Fagervik, Uppland - https://www.europeana.eu/item/91617/upmu_photo_FN03245. (en) Lehmbeck, H. Upplandsmuseet - https://digitaltmuseum.se/021016021971. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03245' target='_blank' rel='noopener'>Postcards - Fagervik, Uppland</a></dd><dt>Creator</dt><dd lang='en'>Lehmbeck, H</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016021971' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03245/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 599447,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 784,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#696969",
+                "#BC8F8F",
+                "#F5F5F5",
+                "#FFF5EE",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016021971",
+            "textAttributionSnippet": "(en) Postcards - Fagervik, Uppland - https://www.europeana.eu/item/91617/upmu_photo_FN03245. (en) Lehmbeck, H. Upplandsmuseet - https://digitaltmuseum.se/021016021971. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN03245' target='_blank' rel='noopener'>Postcards - Fagervik, Uppland</a></dd><dt>Creator</dt><dd lang='en'>Lehmbeck, H</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016021971' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN03245/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ],
+        [
+            60.674835,
+            17.144388
+        ],
+        [
+            60.78062,
+            16.655273
+        ]
+    ]
+}

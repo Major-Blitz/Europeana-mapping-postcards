@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916108/smm_mm_photo_DO14939_193",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011014861283",
+            "textAttributionSnippet": "(en) Postcards on Submarines and Patricia - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_193. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/011014861283. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_193' target='_blank' rel='noopener'>Postcards on Submarines and Patricia</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861283' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 95501
+        },
+        {
+            "about": "https://mm.dimu.org/image/012uKXR53dYK?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards on Submarines and Patricia - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_193. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/011014861283. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_193' target='_blank' rel='noopener'>Postcards on Submarines and Patricia</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861283' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_193/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 651256,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 765,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#D2B48C",
+                "#FFE4C4",
+                "#696969",
+                "#C0C0C0",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/012uKXR53dYK?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcards on Submarines and Patricia - https://www.europeana.eu/item/916108/smm_mm_photo_DO14939_193. (en) Unknown photographer. Marinmuseum - https://digitaltmuseum.se/011014861283. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916108/smm_mm_photo_DO14939_193' target='_blank' rel='noopener'>Postcards on Submarines and Patricia</a></dd><dt>Creator</dt><dd lang='en'>Unknown photographer</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014861283' target='_blank' rel='noopener'>Marinmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_193/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 178794,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 382,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#D2B48C",
+                "#FFE4C4",
+                "#696969",
+                "#C0C0C0",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916108/smm_mm_photo_DO14939_193/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "916108_Ag_SE_SwedishNationalHeritage_Marinmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

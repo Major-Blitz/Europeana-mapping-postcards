@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/91617/upmu_photo_FN04527",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/zero/1.0/"
+                ]
+            },
+            "about": "https://mm.dimu.org/image/0138XQWnje8o?dimension=1200x1200",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) Postcards - festivities outside Carolina Rediviva, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN04527. (en) Mannerfeldt, Bengt. Upplandsmuseet - https://digitaltmuseum.se/0210110489040. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN04527' target='_blank' rel='noopener'>Postcards - festivities outside Carolina Rediviva, Uppsala</a></dd><dt>Creator</dt><dd lang='en'>Mannerfeldt, Bengt</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210110489040' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN04527/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 663421,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 760,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#F5FFFA",
+                "#FFE4C4",
+                "#006400",
+                "#B0C4DE",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/0210110489040",
+            "textAttributionSnippet": "(en) Postcards - festivities outside Carolina Rediviva, Uppsala - https://www.europeana.eu/item/91617/upmu_photo_FN04527. (en) Mannerfeldt, Bengt. Upplandsmuseet - https://digitaltmuseum.se/0210110489040. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91617/upmu_photo_FN04527' target='_blank' rel='noopener'>Postcards - festivities outside Carolina Rediviva, Uppsala</a></dd><dt>Creator</dt><dd lang='en'>Mannerfeldt, Bengt</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/0210110489040' target='_blank' rel='noopener'>Upplandsmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91617/upmu_photo_FN04527/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "91617_Ag_SE_SwedishNationalHeritage_Upplandsmuseet"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

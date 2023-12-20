@@ -1,0 +1,54 @@
+{
+    "aggregations_about": "/aggregation/provider/916113/S_FV_object_FVMA000003",
+    "webResources": [
+        {
+            "about": "http://digitaltmuseum.se/021026912667",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/916113/S_FV_object_FVMA000003. (en) Eastern Fly. Flygvapenmuseum - http://digitaltmuseum.se/021026912667. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVMA000003' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>Eastern Fly</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021026912667' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/022yjVFt4Lmh?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards - https://www.europeana.eu/item/916113/S_FV_object_FVMA000003. (en) Eastern Fly. Flygvapenmuseum - http://digitaltmuseum.se/021026912667. CC BY - http://creativecommons.org/licenses/by/2.5/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916113/S_FV_object_FVMA000003' target='_blank' rel='noopener'>Postcards</a></dd><dt>Creator</dt><dd lang='en'>Eastern Fly</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021026912667' target='_blank' rel='noopener'>Flygvapenmuseum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/2.5/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVMA000003/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 475199,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 850,
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#C0C0C0",
+                "#D3D3D3",
+                "#DCDCDC",
+                "#808080",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916113/S_FV_object_FVMA000003/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Paper"
+    ],
+    "concept_note": [
+        "Thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging"
+    ],
+    "edmDatasetName": [
+        "916113_Ag_SE_Flygvapenmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

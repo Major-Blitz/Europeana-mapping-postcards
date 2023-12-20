@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916120/pm_photo_POST002810",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032sC3HF1xjN?dimension=600x600",
+            "textAttributionSnippet": "(en) August Almgren, paper cutter, cut all letters and postcards - https://www.europeana.eu/item/916120/pm_photo_POST002810. Postmuseet - https://digitaltmuseum.se/011014661770. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST002810' target='_blank' rel='noopener'>August Almgren, paper cutter, cut all letters and postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014661770' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_photo_POST002810/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 148132,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 484,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#808080",
+                "#A9A9A9",
+                "#696969",
+                "#2F4F4F",
+                "#000000",
+                "#800000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014661770",
+            "textAttributionSnippet": "(en) August Almgren, paper cutter, cut all letters and postcards - https://www.europeana.eu/item/916120/pm_photo_POST002810. Postmuseet - https://digitaltmuseum.se/011014661770. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST002810' target='_blank' rel='noopener'>August Almgren, paper cutter, cut all letters and postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014661770' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 93491
+        },
+        {
+            "about": "https://mm.dimu.org/image/032sC3HF1xjN?dimension=1200x1200",
+            "textAttributionSnippet": "(en) August Almgren, paper cutter, cut all letters and postcards - https://www.europeana.eu/item/916120/pm_photo_POST002810. Postmuseet - https://digitaltmuseum.se/011014661770. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_photo_POST002810' target='_blank' rel='noopener'>August Almgren, paper cutter, cut all letters and postcards</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014661770' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_photo_POST002810/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 108197,
+            "ebucoreWidth": 640,
+            "ebucoreHeight": 516,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#808080",
+                "#A9A9A9",
+                "#696969",
+                "#2F4F4F",
+                "#000000",
+                "#800000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916120/pm_photo_POST002810/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Photograph"
+    ],
+    "concept_note": [
+        "Image created by light falling on a light-sensitive surface"
+    ],
+    "edmDatasetName": [
+        "916120_Ag_SE_Postmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Postmuseum"
+    ],
+    "coordinate": "not showed"
+}

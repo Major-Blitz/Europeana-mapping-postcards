@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_EZA6WV3MHXO7WFFXXKPHV3XJEK2RTH3Q",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=2438c520-809d-4ea8-a489-627e8b5c8560",
+            "textAttributionSnippet": "(et) Postkaart. Fotopostkaart. RAO ja BT \"Estonia\" - https://www.europeana.eu/item/401/item_EZA6WV3MHXO7WFFXXKPHV3XJEK2RTH3Q. Muhu Muuseum - https://www.muis.ee/museaalView/2161108. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_EZA6WV3MHXO7WFFXXKPHV3XJEK2RTH3Q' target='_blank' rel='noopener'>Postkaart. Fotopostkaart. RAO ja BT \"Estonia\"</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2161108' target='_blank' rel='noopener'>Muhu Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_EZA6WV3MHXO7WFFXXKPHV3XJEK2RTH3Q/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 68332,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 547,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#F5DEB3",
+                "#D2B48C",
+                "#BC8F8F",
+                "#F5F5DC",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/2161108",
+            "textAttributionSnippet": "(et) Postkaart. Fotopostkaart. RAO ja BT \"Estonia\" - https://www.europeana.eu/item/401/item_EZA6WV3MHXO7WFFXXKPHV3XJEK2RTH3Q. Muhu Muuseum - https://www.muis.ee/museaalView/2161108. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_EZA6WV3MHXO7WFFXXKPHV3XJEK2RTH3Q' target='_blank' rel='noopener'>Postkaart. Fotopostkaart. RAO ja BT \"Estonia\"</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2161108' target='_blank' rel='noopener'>Muhu Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_EZA6WV3MHXO7WFFXXKPHV3XJEK2RTH3Q/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Muhu Museum"
+    ],
+    "coordinate": "not showed"
+}

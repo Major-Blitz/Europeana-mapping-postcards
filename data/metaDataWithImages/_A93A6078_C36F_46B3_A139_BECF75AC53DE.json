@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_A93A6078_C36F_46B3_A139_BECF75AC53DE",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2387110&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Ett godt nytt \u00e5r fr\u00e5n v\u00e4nnerne i Stockholm - https://www.europeana.eu/item/117/_A93A6078_C36F_46B3_A139_BECF75AC53DE. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.A93A6078-C36F-46B3-A139-BECF75AC53DE?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_A93A6078_C36F_46B3_A139_BECF75AC53DE' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Ett godt nytt \u00e5r fr\u00e5n v\u00e4nnerne i Stockholm</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.A93A6078-C36F-46B3-A139-BECF75AC53DE?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_A93A6078_C36F_46B3_A139_BECF75AC53DE/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 399561,
+            "ebucoreWidth": 821,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#B8860B",
+                "#A0522D",
+                "#556B2F",
+                "#F4A460",
+                "#191970",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.A93A6078-C36F-46B3-A139-BECF75AC53DE?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Ett godt nytt \u00e5r fr\u00e5n v\u00e4nnerne i Stockholm - https://www.europeana.eu/item/117/_A93A6078_C36F_46B3_A139_BECF75AC53DE. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.A93A6078-C36F-46B3-A139-BECF75AC53DE?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_A93A6078_C36F_46B3_A139_BECF75AC53DE' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Ett godt nytt \u00e5r fr\u00e5n v\u00e4nnerne i Stockholm</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.A93A6078-C36F-46B3-A139-BECF75AC53DE?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_A93A6078_C36F_46B3_A139_BECF75AC53DE/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

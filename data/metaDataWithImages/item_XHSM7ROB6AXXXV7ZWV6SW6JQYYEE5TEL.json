@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_XHSM7ROB6AXXXV7ZWV6SW6JQYYEE5TEL",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/2161137",
+            "textAttributionSnippet": "(et) Postkaart. 1.maiks - https://www.europeana.eu/item/401/item_XHSM7ROB6AXXXV7ZWV6SW6JQYYEE5TEL. Muhu Muuseum - https://www.muis.ee/museaalView/2161137. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_XHSM7ROB6AXXXV7ZWV6SW6JQYYEE5TEL' target='_blank' rel='noopener'>Postkaart. 1.maiks</a></dd><dt>Date</dt><dd lang=''>1961</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2161137' target='_blank' rel='noopener'>Muhu Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=2d003511-d046-4411-8178-0022cf08bc57",
+            "textAttributionSnippet": "(et) Postkaart. 1.maiks - https://www.europeana.eu/item/401/item_XHSM7ROB6AXXXV7ZWV6SW6JQYYEE5TEL. Muhu Muuseum - https://www.muis.ee/museaalView/2161137. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='et'><a href='http://data.europeana.eu/item/401/item_XHSM7ROB6AXXXV7ZWV6SW6JQYYEE5TEL' target='_blank' rel='noopener'>Postkaart. 1.maiks</a></dd><dt>Date</dt><dd lang=''>1961</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/2161137' target='_blank' rel='noopener'>Muhu Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_XHSM7ROB6AXXXV7ZWV6SW6JQYYEE5TEL/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 66590,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 552,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DDA0DD",
+                "#C71585",
+                "#778899",
+                "#F5F5DC",
+                "#A52A2A",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_XHSM7ROB6AXXXV7ZWV6SW6JQYYEE5TEL/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Muhu Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,96 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_ac8b7f85_2c76_416b_a5d3_105ec4e1fe86",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_08%20august%202020_istorie_georgescu_docpatv494/Imagini1/8CCF52BF7A1845F79D82B32AE96D788D.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ac8b7f85_2c76_416b_a5d3_105ec4e1fe86. Libr\u0103ria Wilh. Hiemesch (Bra\u0219ov). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ac8b7f85-2c76-416b-a5d3-105ec4e1fe86/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Libr\u0103ria Wilh. Hiemesch (Bra\u0219ov)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ac8b7f85-2c76-416b-a5d3-105ec4e1fe86/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_ac8b7f85_2c76_416b_a5d3_105ec4e1fe86/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 23027852,
+            "ebucoreWidth": 3427,
+            "ebucoreHeight": 2238,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFEFD5",
+                "#8FBC8F",
+                "#808080",
+                "#D3D3D3",
+                "#FFF8DC",
+                "#FFDAB9"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_08%20august%202020_istorie_georgescu_docpatv494/Imagini1/0C45AB7E75174393A2C30C4B1672ABAD.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ac8b7f85_2c76_416b_a5d3_105ec4e1fe86. Libr\u0103ria Wilh. Hiemesch (Bra\u0219ov). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ac8b7f85-2c76-416b-a5d3-105ec4e1fe86/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Libr\u0103ria Wilh. Hiemesch (Bra\u0219ov)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ac8b7f85-2c76-416b-a5d3-105ec4e1fe86/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_ac8b7f85_2c76_416b_a5d3_105ec4e1fe86/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 23027852,
+            "ebucoreWidth": 3427,
+            "ebucoreHeight": 2238,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#DCDCDC",
+                "#A9A9A9",
+                "#FFE4B5",
+                "#F5F5DC",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/ac8b7f85-2c76-416b-a5d3-105ec4e1fe86/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_ac8b7f85_2c76_416b_a5d3_105ec4e1fe86. Libr\u0103ria Wilh. Hiemesch (Bra\u0219ov). Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/ac8b7f85-2c76-416b-a5d3-105ec4e1fe86/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Libr\u0103ria Wilh. Hiemesch (Bra\u0219ov)</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/ac8b7f85-2c76-416b-a5d3-105ec4e1fe86/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_ac8b7f85_2c76_416b_a5d3_105ec4e1fe86/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ]
+    ]
+}

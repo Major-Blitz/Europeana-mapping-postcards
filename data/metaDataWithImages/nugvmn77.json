@@ -1,0 +1,75 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/nugvmn77",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0049907.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "Post card of a chastity belt in the Mus\u00e9e de Cluny in Paris - https://www.europeana.eu/item/9200579/nugvmn77. Wellcome Collection - https://wellcomecollection.org/works/nugvmn77. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/nugvmn77' target='_blank' rel='noopener'>Post card of a chastity belt in the Mus\u00e9e de Cluny in Paris</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/nugvmn77' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 65782,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 320,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#808080",
+                "#2F4F4F",
+                "#000000",
+                "#D2B48C",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/nugvmn77",
+            "textAttributionSnippet": "Post card of a chastity belt in the Mus\u00e9e de Cluny in Paris - https://www.europeana.eu/item/9200579/nugvmn77. Wellcome Collection - https://wellcomecollection.org/works/nugvmn77. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/nugvmn77' target='_blank' rel='noopener'>Post card of a chastity belt in the Mus\u00e9e de Cluny in Paris</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/nugvmn77' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 266577
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0049907.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "Post card of a chastity belt in the Mus\u00e9e de Cluny in Paris - https://www.europeana.eu/item/9200579/nugvmn77. Wellcome Collection - https://wellcomecollection.org/works/nugvmn77. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/nugvmn77' target='_blank' rel='noopener'>Post card of a chastity belt in the Mus\u00e9e de Cluny in Paris</a></dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/nugvmn77' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0049907.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/nugvmn77/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 68774,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 327,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#808080",
+                "#2F4F4F",
+                "#000000",
+                "#D2B48C",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/nugvmn77/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

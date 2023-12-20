@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_2E2477D1_83CA_481F_B8C3_2D8A87B96D12",
+    "webResources": [
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.2E2477D1-83CA-481F-B8C3-2D8A87B96D12?lng=en-gb",
+            "textAttributionSnippet": "(en) Christmas card, postcard - https://www.europeana.eu/item/117/_2E2477D1_83CA_481F_B8C3_2D8A87B96D12. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.2E2477D1-83CA-481F-B8C3-2D8A87B96D12?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_2E2477D1_83CA_481F_B8C3_2D8A87B96D12' target='_blank' rel='noopener'>Christmas card, postcard</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.2E2477D1-83CA-481F-B8C3-2D8A87B96D12?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2374744&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) Christmas card, postcard - https://www.europeana.eu/item/117/_2E2477D1_83CA_481F_B8C3_2D8A87B96D12. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.2E2477D1-83CA-481F-B8C3-2D8A87B96D12?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_2E2477D1_83CA_481F_B8C3_2D8A87B96D12' target='_blank' rel='noopener'>Christmas card, postcard</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.2E2477D1-83CA-481F-B8C3-2D8A87B96D12?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_2E2477D1_83CA_481F_B8C3_2D8A87B96D12/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 106373,
+            "ebucoreWidth": 759,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F0E68C",
+                "#D2B48C",
+                "#DEB887",
+                "#C0C0C0",
+                "#FAF0E6",
+                "#8FBC8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_2E2477D1_83CA_481F_B8C3_2D8A87B96D12/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/9200579/usw5pr7j",
+    "webResources": [
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0049852.jpg/full/512,/0/default.jpg",
+            "textAttributionSnippet": "Women sitting on the shore of Beppu, Japan - https://www.europeana.eu/item/9200579/usw5pr7j. Wellcome Collection - https://wellcomecollection.org/works/usw5pr7j. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/usw5pr7j' target='_blank' rel='noopener'>Women sitting on the shore of Beppu, Japan</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/usw5pr7j' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "svcsHasService": [
+                "https://iiif.wellcomecollection.org/image/V0049852.jpg"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/9200579/usw5pr7j/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 54125,
+            "ebucoreWidth": 512,
+            "ebucoreHeight": 323,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#DCDCDC",
+                "#A9A9A9",
+                "#808080",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.wellcomecollection.org/image/V0049852.jpg/full/500,/0/default.jpg",
+            "textAttributionSnippet": "Women sitting on the shore of Beppu, Japan - https://www.europeana.eu/item/9200579/usw5pr7j. Wellcome Collection - https://wellcomecollection.org/works/usw5pr7j. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/usw5pr7j' target='_blank' rel='noopener'>Women sitting on the shore of Beppu, Japan</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/usw5pr7j' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 52057,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 316,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#2F4F4F",
+                "#DCDCDC",
+                "#A9A9A9",
+                "#808080",
+                "#696969"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://wellcomecollection.org/works/usw5pr7j",
+            "textAttributionSnippet": "Women sitting on the shore of Beppu, Japan - https://www.europeana.eu/item/9200579/usw5pr7j. Wellcome Collection - https://wellcomecollection.org/works/usw5pr7j. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/9200579/usw5pr7j' target='_blank' rel='noopener'>Women sitting on the shore of Beppu, Japan</a></dd><dt>Date</dt><dd lang=''>1930</dd><dt>Institution</dt><dd lang=''><a href='https://wellcomecollection.org/works/usw5pr7j' target='_blank' rel='noopener'>Wellcome Collection</a></dd><dt>Country</dt><dd lang=''>United Kingdom</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 265133
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/9200579/usw5pr7j/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "9200579_Ag_UK_WellcomeCollection_IIIF"
+    ],
+    "edmCountry": [
+        "United Kingdom"
+    ],
+    "edmLanguage": [
+        "en"
+    ],
+    "organization_label": [
+        "Wellcome Collection"
+    ],
+    "coordinate": "not showed"
+}

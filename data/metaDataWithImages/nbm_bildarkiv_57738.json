@@ -1,0 +1,67 @@
+{
+    "aggregations_about": "/aggregation/provider/900/nbm_bildarkiv_57738",
+    "webResources": [
+        {
+            "about": "https://samlingar.norrbottensmuseum.se/web/object/57738",
+            "textAttributionSnippet": "(en) postcards, apartment blocks, mining society - https://www.europeana.eu/item/900/nbm_bildarkiv_57738. (en) Aero Materiel AB, Stockholm, Almqvist & C\u00f6sterAB, Helsingborg. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/57738. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_57738' target='_blank' rel='noopener'>postcards, apartment blocks, mining society</a></dd><dt>Creator</dt><dd lang='en'>Aero Materiel AB, Stockholm, Almqvist & C\u00f6sterAB, Helsingborg</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/57738' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 13324
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://rightsstatements.org/vocab/InC/1.0/"
+                ]
+            },
+            "about": "https://samlingar.norrbottensmuseum.se/web/image/zoom/212449/BAADPKK.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) postcards, apartment blocks, mining society - https://www.europeana.eu/item/900/nbm_bildarkiv_57738. (en) Aero Materiel AB, Stockholm, Almqvist & C\u00f6sterAB, Helsingborg. Norrbottens Museum - https://samlingar.norrbottensmuseum.se/web/object/57738. In Copyright - http://rightsstatements.org/vocab/InC/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/900/nbm_bildarkiv_57738' target='_blank' rel='noopener'>postcards, apartment blocks, mining society</a></dd><dt>Creator</dt><dd lang='en'>Aero Materiel AB, Stockholm, Almqvist & C\u00f6sterAB, Helsingborg</dd><dt>Institution</dt><dd lang=''><a href='https://samlingar.norrbottensmuseum.se/web/object/57738' target='_blank' rel='noopener'>Norrbottens Museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://rightsstatements.org/vocab/InC/1.0/' target='_blank' rel='noopener'><span class='icon-rs-yes'/>In Copyright</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_57738/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 36807,
+            "ebucoreWidth": 500,
+            "ebucoreHeight": 316,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#696969",
+                "#FFE4E1",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/900/nbm_bildarkiv_57738/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "900__Norrbottens_museum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Norrbottens Museum"
+    ],
+    "coordinate": "not showed"
+}

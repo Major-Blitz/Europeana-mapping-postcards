@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_M3FYELSBTWMILLR7U64IB5UEIVFAQMV4",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=d26a771c-19a9-4373-bbe8-a9eb8bd103e1",
+            "textAttributionSnippet": "(en) Dresden - https://www.europeana.eu/item/401/item_M3FYELSBTWMILLR7U64IB5UEIVFAQMV4. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3752113. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_M3FYELSBTWMILLR7U64IB5UEIVFAQMV4' target='_blank' rel='noopener'>Dresden</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3752113' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_M3FYELSBTWMILLR7U64IB5UEIVFAQMV4/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 141838,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 583,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#778899",
+                "#F5F5DC",
+                "#2F4F4F",
+                "#EEE8AA",
+                "#F5FFFA",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3752113",
+            "textAttributionSnippet": "(en) Dresden - https://www.europeana.eu/item/401/item_M3FYELSBTWMILLR7U64IB5UEIVFAQMV4. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3752113. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_M3FYELSBTWMILLR7U64IB5UEIVFAQMV4' target='_blank' rel='noopener'>Dresden</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3752113' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_M3FYELSBTWMILLR7U64IB5UEIVFAQMV4/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            51.0,
+            10.0
+        ]
+    ]
+}

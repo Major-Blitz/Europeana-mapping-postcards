@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA54477_0589",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011014467344",
+            "textAttributionSnippet": "(en) Task according to the photographer: \u201cDepiction of postcards, Drottningholms Slott.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54477_0589. (en) Almquist, David. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014467344. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54477_0589' target='_blank' rel='noopener'>Task according to the photographer: \u201cDepiction of postcards, Drottningholms Slott.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Almquist, David</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014467344' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 98064
+        },
+        {
+            "about": "https://mm.dimu.org/image/042sBXikoWvW?dimension=600x600",
+            "textAttributionSnippet": "(en) Task according to the photographer: \u201cDepiction of postcards, Drottningholms Slott.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54477_0589. (en) Almquist, David. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014467344. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54477_0589' target='_blank' rel='noopener'>Task according to the photographer: \u201cDepiction of postcards, Drottningholms Slott.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Almquist, David</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014467344' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54477_0589/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 127689,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 372,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#808080",
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/042sBXikoWvW?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Task according to the photographer: \u201cDepiction of postcards, Drottningholms Slott.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA54477_0589. (en) Almquist, David. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014467344. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54477_0589' target='_blank' rel='noopener'>Task according to the photographer: \u201cDepiction of postcards, Drottningholms Slott.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Almquist, David</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014467344' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54477_0589/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 130336,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 465,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#808080",
+                "#000000",
+                "#2F4F4F",
+                "#696969",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54477_0589/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Park"
+    ],
+    "concept_note": [
+        "Permanently dedicated recreation area, often open to the public and generally characterized by natural, historic, or landscape features"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

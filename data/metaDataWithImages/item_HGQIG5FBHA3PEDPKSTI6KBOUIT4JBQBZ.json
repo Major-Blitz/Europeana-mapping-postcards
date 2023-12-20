@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_HGQIG5FBHA3PEDPKSTI6KBOUIT4JBQBZ",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=157de5ca-c74b-4f41-a3db-cd9ce8785eb1",
+            "textAttributionSnippet": "(en) Taormina - https://www.europeana.eu/item/401/item_HGQIG5FBHA3PEDPKSTI6KBOUIT4JBQBZ. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3720898. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_HGQIG5FBHA3PEDPKSTI6KBOUIT4JBQBZ' target='_blank' rel='noopener'>Taormina</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3720898' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_HGQIG5FBHA3PEDPKSTI6KBOUIT4JBQBZ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 116711,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 563,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFFAFA",
+                "#000000",
+                "#F0E68C",
+                "#808000",
+                "#CD853F",
+                "#E9967A"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3720898",
+            "textAttributionSnippet": "(en) Taormina - https://www.europeana.eu/item/401/item_HGQIG5FBHA3PEDPKSTI6KBOUIT4JBQBZ. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3720898. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_HGQIG5FBHA3PEDPKSTI6KBOUIT4JBQBZ' target='_blank' rel='noopener'>Taormina</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3720898' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_HGQIG5FBHA3PEDPKSTI6KBOUIT4JBQBZ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            42.5,
+            12.5
+        ]
+    ]
+}

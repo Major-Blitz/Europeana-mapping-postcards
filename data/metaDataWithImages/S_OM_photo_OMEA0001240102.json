@@ -1,0 +1,78 @@
+{
+    "aggregations_about": "/aggregation/provider/73/S_OM_photo_OMEA0001240102",
+    "webResources": [
+        {
+            "about": "http://mm.dimu.org/image/0231yxRTHATm?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Portrait of Per Sj\u00f6bring. Domprost in Lk\u00f6pping during the period 1867-1878. He moved to Kalmar to become a bishop. Married in 1852 to Maria Sofia Rogberg, fertile from Uppsala - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240102. (en) Brunstedt, Carl Albert. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021018197422. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240102' target='_blank' rel='noopener'>Portrait of Per Sj\u00f6bring. Domprost in Lk\u00f6pping during the period 1867-1878. He moved to Kalmar to become a bishop. Married in 1852 to Maria Sofia Rogberg, fertile from Uppsala</a></dd><dt>Creator</dt><dd lang='en'>Brunstedt, Carl Albert</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021018197422' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240102/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 657238,
+            "ebucoreWidth": 809,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#CD853F",
+                "#808080",
+                "#BDB76B",
+                "#A0522D",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://digitaltmuseum.se/021018197422",
+            "textAttributionSnippet": "(en) Portrait of Per Sj\u00f6bring. Domprost in Lk\u00f6pping during the period 1867-1878. He moved to Kalmar to become a bishop. Married in 1852 to Maria Sofia Rogberg, fertile from Uppsala - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240102. (en) Brunstedt, Carl Albert. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021018197422. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240102' target='_blank' rel='noopener'>Portrait of Per Sj\u00f6bring. Domprost in Lk\u00f6pping during the period 1867-1878. He moved to Kalmar to become a bishop. Married in 1852 to Maria Sofia Rogberg, fertile from Uppsala</a></dd><dt>Creator</dt><dd lang='en'>Brunstedt, Carl Albert</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021018197422' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/0231yxRTHATm?dimension=600x600",
+            "textAttributionSnippet": "(en) Portrait of Per Sj\u00f6bring. Domprost in Lk\u00f6pping during the period 1867-1878. He moved to Kalmar to become a bishop. Married in 1852 to Maria Sofia Rogberg, fertile from Uppsala - https://www.europeana.eu/item/73/S_OM_photo_OMEA0001240102. (en) Brunstedt, Carl Albert. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021018197422. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMEA0001240102' target='_blank' rel='noopener'>Portrait of Per Sj\u00f6bring. Domprost in Lk\u00f6pping during the period 1867-1878. He moved to Kalmar to become a bishop. Married in 1852 to Maria Sofia Rogberg, fertile from Uppsala</a></dd><dt>Creator</dt><dd lang='en'>Brunstedt, Carl Albert</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021018197422' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240102/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 180207,
+            "ebucoreWidth": 405,
+            "ebucoreHeight": 600,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#CD853F",
+                "#BDB76B",
+                "#808080",
+                "#A0522D",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMEA0001240102/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "73_Ag_SE_SwedishNationalHeritage_s_om"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

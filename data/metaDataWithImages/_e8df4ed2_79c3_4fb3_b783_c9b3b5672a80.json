@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_e8df4ed2_79c3_4fb3_b783_c9b3b5672a80",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=1350988&size=extra_large&key=T3st1&orgid=43094",
+            "textAttributionSnippet": "(fi) Viipuri. Esplanadi - https://www.europeana.eu/item/2021009/_e8df4ed2_79c3_4fb3_b783_c9b3b5672a80. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.e8df4ed2-79c3-4fb3-b783-c9b3b5672a80?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_e8df4ed2_79c3_4fb3_b783_c9b3b5672a80' target='_blank' rel='noopener'>Viipuri. Esplanadi</a></dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.e8df4ed2-79c3-4fb3-b783-c9b3b5672a80?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_e8df4ed2_79c3_4fb3_b783_c9b3b5672a80/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 283201,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 778,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#FFDAB9",
+                "#E9967A",
+                "#000000",
+                "#F08080",
+                "#708090"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.e8df4ed2-79c3-4fb3-b783-c9b3b5672a80?lng=en-gb",
+            "textAttributionSnippet": "(fi) Viipuri. Esplanadi - https://www.europeana.eu/item/2021009/_e8df4ed2_79c3_4fb3_b783_c9b3b5672a80. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.e8df4ed2-79c3-4fb3-b783-c9b3b5672a80?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021009/_e8df4ed2_79c3_4fb3_b783_c9b3b5672a80' target='_blank' rel='noopener'>Viipuri. Esplanadi</a></dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.e8df4ed2-79c3-4fb3-b783-c9b3b5672a80?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_e8df4ed2_79c3_4fb3_b783_c9b3b5672a80/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

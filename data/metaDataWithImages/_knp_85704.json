@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_85704",
+    "webResources": [
+        {
+            "about": "http://finna.fi/Record/lusto.knp-85704",
+            "textAttributionSnippet": "(en) \u201cBottom cracking in strips. Note the different types of timber.\u201d\u201c\u201dFirst stage of the so-called edge cutting (?). The narrow strip is cut in rejuvenable stands, starting with the younger forest boundary visible on the left (north side). The logs were exported in winter, the paper trees and the halos were cut the following spring.' Postcard number 35 of the Forest Education Office. Nuutaj\u00e4rvi Manor, Urjala, Pirkanmaa - https://www.europeana.eu/item/2021008/_knp_85704. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-85704. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_85704' target='_blank' rel='noopener'>\u201cBottom cracking in strips. Note the different types of timber.\u201d\u201c\u201dFirst stage of the so-called edge cutting (?). The narrow strip is cut in rejuvenable stands, starting with the younger forest boundary visible on the left (north side). The logs were exported in winter, the paper trees and the halos were cut the following spring.' Postcard number 35 of the Forest Education Office. Nuutaj\u00e4rvi Manor, Urjala, Pirkanmaa</a></dd><dt>Date</dt><dd lang=''>1928</dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-85704' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46482/thumbnail?customer=knp",
+            "textAttributionSnippet": "(en) \u201cBottom cracking in strips. Note the different types of timber.\u201d\u201c\u201dFirst stage of the so-called edge cutting (?). The narrow strip is cut in rejuvenable stands, starting with the younger forest boundary visible on the left (north side). The logs were exported in winter, the paper trees and the halos were cut the following spring.' Postcard number 35 of the Forest Education Office. Nuutaj\u00e4rvi Manor, Urjala, Pirkanmaa - https://www.europeana.eu/item/2021008/_knp_85704. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-85704. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_85704' target='_blank' rel='noopener'>\u201cBottom cracking in strips. Note the different types of timber.\u201d\u201c\u201dFirst stage of the so-called edge cutting (?). The narrow strip is cut in rejuvenable stands, starting with the younger forest boundary visible on the left (north side). The logs were exported in winter, the paper trees and the halos were cut the following spring.' Postcard number 35 of the Forest Education Office. Nuutaj\u00e4rvi Manor, Urjala, Pirkanmaa</a></dd><dt>Date</dt><dd lang=''>1928</dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-85704' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_85704/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 26936,
+            "ebucoreWidth": 400,
+            "ebucoreHeight": 305,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#B0C4DE",
+                "#FFF0F5",
+                "#708090",
+                "#FAF0E6",
+                "#E6E6FA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_85704/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

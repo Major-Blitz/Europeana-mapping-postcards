@@ -1,0 +1,77 @@
+{
+    "aggregations_about": "/aggregation/provider/91609/SMVK_VKM_fotografi_1308344",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "Public Domain Mark"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1309393/image.jpg",
+            "dcFormat": {
+                "def": [
+                    "image/jpeg"
+                ]
+            },
+            "textAttributionSnippet": "(en) boy\u2019s old, tree crowns, building, postcards, melaneses, trees, old, house, photography, pojph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1308344. (en) Beattie, John Watt. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1308344. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1308344' target='_blank' rel='noopener'>boy\u2019s old, tree crowns, building, postcards, melaneses, trees, old, house, photography, pojph</a></dd><dt>Creator</dt><dd lang='en'>Beattie, John Watt</dd><dt>Date</dt><dd lang=''>1896</dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1308344' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1308344/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 124757,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 502,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BC8F8F",
+                "#808080",
+                "#FFE4E1",
+                "#BDB76B",
+                "#F5F5F5",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://collections.smvk.se/carlotta-vkm/web/object/1308344",
+            "textAttributionSnippet": "(en) boy\u2019s old, tree crowns, building, postcards, melaneses, trees, old, house, photography, pojph - https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1308344. (en) Beattie, John Watt. V\u00e4rldskulturmuseet - https://collections.smvk.se/carlotta-vkm/web/object/1308344. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/91609/SMVK_VKM_fotografi_1308344' target='_blank' rel='noopener'>boy\u2019s old, tree crowns, building, postcards, melaneses, trees, old, house, photography, pojph</a></dd><dt>Creator</dt><dd lang='en'>Beattie, John Watt</dd><dt>Date</dt><dd lang=''>1896</dd><dt>Institution</dt><dd lang=''><a href='https://collections.smvk.se/carlotta-vkm/web/object/1308344' target='_blank' rel='noopener'>V\u00e4rldskulturmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 24526
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/91609/SMVK_VKM_fotografi_1308344/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Yarn"
+    ],
+    "concept_note": [
+        "Long continuous length of interlocked fibers"
+    ],
+    "edmDatasetName": [
+        "91609_SwedishNationalHeritage_smvk_vkmf"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            -28.0,
+            137.0
+        ]
+    ]
+}

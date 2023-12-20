@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_9C04A619_9C19_4A5A_850D_33FC0366C632",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2376897&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, Christmas card - https://www.europeana.eu/item/117/_9C04A619_9C19_4A5A_850D_33FC0366C632. (en) Ojanen, Joose; Ojanen, Aino. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.9C04A619-9C19-4A5A-850D-33FC0366C632?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_9C04A619_9C19_4A5A_850D_33FC0366C632' target='_blank' rel='noopener'>postcard, Christmas card</a></dd><dt>Creator</dt><dd lang='en'>Ojanen, Joose; Ojanen, Aino</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.9C04A619-9C19-4A5A-850D-33FC0366C632?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_9C04A619_9C19_4A5A_850D_33FC0366C632/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 444573,
+            "ebucoreWidth": 729,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D8BFD8",
+                "#FFFAF0",
+                "#000000",
+                "#D2B48C",
+                "#A0522D",
+                "#FFB6C1"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.9C04A619-9C19-4A5A-850D-33FC0366C632?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, Christmas card - https://www.europeana.eu/item/117/_9C04A619_9C19_4A5A_850D_33FC0366C632. (en) Ojanen, Joose; Ojanen, Aino. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.9C04A619-9C19-4A5A-850D-33FC0366C632?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_9C04A619_9C19_4A5A_850D_33FC0366C632' target='_blank' rel='noopener'>postcard, Christmas card</a></dd><dt>Creator</dt><dd lang='en'>Ojanen, Joose; Ojanen, Aino</dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.9C04A619-9C19-4A5A-850D-33FC0366C632?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_9C04A619_9C19_4A5A_850D_33FC0366C632/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": [
+        [
+            47.0,
+            2.0
+        ]
+    ]
+}

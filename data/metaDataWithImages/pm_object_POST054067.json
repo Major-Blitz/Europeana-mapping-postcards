@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916120/pm_object_POST054067",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/022waVaBXChj?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Stamp - https://www.europeana.eu/item/916120/pm_object_POST054067. Postmuseet - https://digitaltmuseum.se/021026477071. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_object_POST054067' target='_blank' rel='noopener'>Stamp</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021026477071' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_object_POST054067/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 116763,
+            "ebucoreWidth": 360,
+            "ebucoreHeight": 394,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#FAF0E6",
+                "#C0C0C0",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022waVaBXChj?dimension=600x600",
+            "textAttributionSnippet": "(en) Stamp - https://www.europeana.eu/item/916120/pm_object_POST054067. Postmuseet - https://digitaltmuseum.se/021026477071. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_object_POST054067' target='_blank' rel='noopener'>Stamp</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021026477071' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916120/pm_object_POST054067/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 116763,
+            "ebucoreWidth": 360,
+            "ebucoreHeight": 394,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#DCDCDC",
+                "#D3D3D3",
+                "#FAF0E6",
+                "#C0C0C0",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021026477071",
+            "textAttributionSnippet": "(en) Stamp - https://www.europeana.eu/item/916120/pm_object_POST054067. Postmuseet - https://digitaltmuseum.se/021026477071. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916120/pm_object_POST054067' target='_blank' rel='noopener'>Stamp</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021026477071' target='_blank' rel='noopener'>Postmuseet</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 105547
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916120/pm_object_POST054067/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postage stamp"
+    ],
+    "concept_note": [
+        "Small piece of paper that is purchased and displayed on an item of mail as evidence of payment of postage"
+    ],
+    "edmDatasetName": [
+        "916120_Ag_SE_Postmuseum"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Postmuseum"
+    ],
+    "coordinate": "not showed"
+}

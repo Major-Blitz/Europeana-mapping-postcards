@@ -1,0 +1,618 @@
+{
+    "aggregations_about": "/aggregation/provider/2048128/390925",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629410/default/doc_url/csgyk_fototar_pecs_zsolnay_gyar_190x_2.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 299811,
+            "ebucoreWidth": 1519,
+            "ebucoreHeight": 946,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#BC8F8F",
+                "#808080",
+                "#A9A9A9",
+                "#F5DEB3",
+                "#000000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629409/default/doc_url/csgyk_fototar_pecs_zsolnay_gyar_190x.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 322320,
+            "ebucoreWidth": 1716,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#FF7F50",
+                "#A0522D",
+                "#708090",
+                "#CD5C5C",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629408/default/doc_url/csgyk_fototar_pecs_a_zsolnay_gyar_belso_epuletei_190x_kepeslap_01.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 296707,
+            "ebucoreWidth": 1607,
+            "ebucoreHeight": 998,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#FFDAB9",
+                "#FFE4C4",
+                "#DEB887",
+                "#556B2F",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629415/default/doc_url/csgyk_fototar_pecs_zsolnay_gyari_raktar_191x.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 112786,
+            "ebucoreWidth": 1325,
+            "ebucoreHeight": 874,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#BC8F8F",
+                "#D3D3D3",
+                "#D8BFD8",
+                "#556B2F",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629413/default/doc_url/csgyk_fototar_pecs_zsolnay_gyar_192x.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 195052,
+            "ebucoreWidth": 926,
+            "ebucoreHeight": 1466,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#D2B48C",
+                "#808080",
+                "#CD853F",
+                "#2F4F4F",
+                "#FFDAB9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629414/default/doc_url/csgyk_fototar_pecs_zsolnay_gyar_raktar_190x.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 187271,
+            "ebucoreWidth": 1311,
+            "ebucoreHeight": 873,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#BDB76B",
+                "#ADD8E6",
+                "#87CEEB",
+                "#8FBC8F",
+                "#808000"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629406/default/doc_url/csgyk_fototar_Pecs_Reszlet_A_Zsolnay_Gyarbol_kepeslap_02.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 227693,
+            "ebucoreWidth": 1546,
+            "ebucoreHeight": 961,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#000000",
+                "#A9A9A9",
+                "#BC8F8F",
+                "#8FBC8F",
+                "#483D8B",
+                "#FFE4E1"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629411/default/doc_url/csgyk_fototar_pecs_zsolnay_gyar_190x_3.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 219841,
+            "ebucoreWidth": 1739,
+            "ebucoreHeight": 992,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#2F4F4F",
+                "#808080",
+                "#BDB76B",
+                "#FFE4C4",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei",
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629412/default/doc_url/csgyk_fototar_pecs_zsolnay_gyar_190x_5.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 337460,
+            "ebucoreWidth": 1600,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#D2691E",
+                "#800000",
+                "#CD853F",
+                "#556B2F",
+                "#006400"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/634278/default/doc_url/pecs_zsolnay_gyar_egyik_epulete_193x.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 260898,
+            "ebucoreWidth": 1639,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#696969",
+                "#C0C0C0",
+                "#DEB887",
+                "#800000",
+                "#E9967A"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629416/default/doc_url/csgyk_fototar_pecs_zsolnay_haz_190x.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 266295,
+            "ebucoreWidth": 974,
+            "ebucoreHeight": 1599,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#EEE8AA",
+                "#808080",
+                "#FFDEAD",
+                "#556B2F",
+                "#2F4F4F",
+                "#483D8B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "PDM",
+                    "Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs"
+                ],
+                "hu": [
+                    "Ingyenes hozz\u00e1f\u00e9r\u00e9s",
+                    "rights reserved - free access"
+                ]
+            },
+            "about": "https://mandadb.hu/common/file-servlet/document/629407/default/doc_url/csgyk_fototar_Pecs_Zsolnay_Gyar_1907.jpg",
+            "dcDescription": {
+                "en": [
+                    "Picture postcards of the buildings of Zsolnay factory.",
+                    "The Local History Collection of Csorba Gy\u0151z\u0151 Library has been collecting photos and postcards related to Baranya County since January 1966. \nAccording to the data updated on 1st February 2016, the collection consists of 11,565 copies. \nAs the result of the digitisation project that started in 2012, the Collection includes about 59,000 black-and-white and coloured records of different sizes and types, which are searchable through the electronic catalogue."
+                ],
+                "hu": [
+                    "K\u00e9pes levelez\u0151lapok a Zsolnay Porcel\u00e1ngy\u00e1r \u00e9p\u00fcleteir\u0151l.",
+                    "A Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r Helyismereti Gy\u0171jtem\u00e9ny 1966 janu\u00e1rja \u00f3ta gy\u0171jti a Baranya megy\u00e9re vonatkoz\u00f3 fot\u00f3kat \u00e9s k\u00e9peslapokat. A 2016. febru\u00e1r 1-i adatok szerint az \u00e1llom\u00e1ny 11565 p\u00e9ld\u00e1nyb\u00f3l \u00e1ll. A 2012-ben elkezd\u0151d\u00f6tt digitaliz\u00e1l\u00e1s eredm\u00e9nyek\u00e9nt mintegy 59000 k\u00fcl\u00f6nf\u00e9le m\u00e9ret\u0171, t\u00edpus\u00fa, fekete-feh\u00e9r \u00e9s sz\u00ednes felv\u00e9tel tal\u00e1lhat\u00f3 a Gy\u0171jtem\u00e9ny digit\u00e1lis fot\u00f3t\u00e1r\u00e1ban, amely az elektronikus katal\u00f3guson kereszt\u00fcl kereshet\u0151."
+                ]
+            },
+            "dcFormat": {
+                "def": [
+                    "jpg"
+                ]
+            },
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2048128/390925/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 392223,
+            "ebucoreWidth": 1524,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#708090",
+                "#B0C4DE",
+                "#000000",
+                "#808080",
+                "#FFFAFA",
+                "#FFFFFF"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mandadb.hu/mandadb/webimage/5/4/5/8/1/6/wimage/lead_390925.jpg",
+            "textAttributionSnippet": "(hu) Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei - https://www.europeana.eu/item/2048128/390925. Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs - https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='hu'><a href='http://data.europeana.eu/item/2048128/390925' target='_blank' rel='noopener'>Zsolnay Majolikagy\u00e1r \u00e9p\u00fcletei</a></dd><dt>Institution</dt><dd lang=''><a href='https://mandadb.hu/tetel/390925/Zsolnay_Majolikagyar_epuletei' target='_blank' rel='noopener'>Csorba Gy\u0151z\u0151 K\u00f6nyvt\u00e1r - P\u00e9cs</a></dd><dt>Country</dt><dd lang=''>Hungary</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 337460,
+            "ebucoreWidth": 1600,
+            "ebucoreHeight": 1000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#D2691E",
+                "#800000",
+                "#CD853F",
+                "#556B2F",
+                "#006400"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2048128/390925/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Architecture"
+    ],
+    "concept_note": [
+        "Both the process and product of planning, designing and construction"
+    ],
+    "edmDatasetName": [
+        "2048128_Ag_HU_MaNDA_OAI"
+    ],
+    "edmCountry": [
+        "Hungary"
+    ],
+    "edmLanguage": [
+        "hu"
+    ],
+    "organization_label": [
+        "Forum Hungaricum Non-profit Ltd."
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_JUNF5GP7FBVL4BDUYY3KMEAJUZQIIELD",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3753899",
+            "textAttributionSnippet": "(en) Stettin (Szczecin) - https://www.europeana.eu/item/401/item_JUNF5GP7FBVL4BDUYY3KMEAJUZQIIELD. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3753899. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JUNF5GP7FBVL4BDUYY3KMEAJUZQIIELD' target='_blank' rel='noopener'>Stettin (Szczecin)</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3753899' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=2f1356ec-7a67-407e-92cd-b361ad2acedf",
+            "textAttributionSnippet": "(en) Stettin (Szczecin) - https://www.europeana.eu/item/401/item_JUNF5GP7FBVL4BDUYY3KMEAJUZQIIELD. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3753899. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JUNF5GP7FBVL4BDUYY3KMEAJUZQIIELD' target='_blank' rel='noopener'>Stettin (Szczecin)</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3753899' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_JUNF5GP7FBVL4BDUYY3KMEAJUZQIIELD/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 122628,
+            "ebucoreWidth": 532,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#D2B48C",
+                "#F0FFF0",
+                "#D3D3D3",
+                "#DEB887",
+                "#F5FFFA"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_JUNF5GP7FBVL4BDUYY3KMEAJUZQIIELD/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            52.0,
+            19.0
+        ]
+    ]
+}

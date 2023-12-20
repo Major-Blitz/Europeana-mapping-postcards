@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_ON4PQO4EGRW6V7ZVTQ5XF76XMDOROQAB",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3718116",
+            "textAttributionSnippet": "(en) La Trinacria - https://www.europeana.eu/item/401/item_ON4PQO4EGRW6V7ZVTQ5XF76XMDOROQAB. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3718116. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_ON4PQO4EGRW6V7ZVTQ5XF76XMDOROQAB' target='_blank' rel='noopener'>La Trinacria</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3718116' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=e5d3d077-9a7f-430b-bb98-4f579b5a1372",
+            "textAttributionSnippet": "(en) La Trinacria - https://www.europeana.eu/item/401/item_ON4PQO4EGRW6V7ZVTQ5XF76XMDOROQAB. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3718116. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_ON4PQO4EGRW6V7ZVTQ5XF76XMDOROQAB' target='_blank' rel='noopener'>La Trinacria</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3718116' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_ON4PQO4EGRW6V7ZVTQ5XF76XMDOROQAB/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 98727,
+            "ebucoreWidth": 545,
+            "ebucoreHeight": 799,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#C0C0C0",
+                "#F0FFF0",
+                "#BC8F8F",
+                "#D3D3D3",
+                "#FFF5EE"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_ON4PQO4EGRW6V7ZVTQ5XF76XMDOROQAB/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            42.5,
+            12.5
+        ]
+    ]
+}

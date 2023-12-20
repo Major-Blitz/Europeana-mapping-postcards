@@ -1,0 +1,2068 @@
+{
+    "aggregations_about": "/aggregation/provider/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0047.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0047.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 326496,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 2434,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFB6C1",
+                "#FDF5E6",
+                "#F5F5DC",
+                "#D2B48C",
+                "#CD5C5C",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0011.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0011.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 350244,
+            "ebucoreWidth": 2471,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#556B2F",
+                "#CD853F",
+                "#800000",
+                "#8B4513",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0016.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0016.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 351645,
+            "ebucoreWidth": 2432,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#A52A2A",
+                "#BDB76B",
+                "#A0522D",
+                "#C0C0C0",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0029.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0029.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 336444,
+            "ebucoreWidth": 2475,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#BDB76B",
+                "#CD853F",
+                "#800000",
+                "#BC8F8F",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0024.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0024.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 397383,
+            "ebucoreWidth": 2442,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E9967A",
+                "#EEE8AA",
+                "#2F4F4F",
+                "#8FBC8F",
+                "#CD853F",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0037.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0037.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 395192,
+            "ebucoreWidth": 2459,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A52A2A",
+                "#E9967A",
+                "#556B2F",
+                "#DCDCDC",
+                "#BDB76B",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0044.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0044.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 347841,
+            "ebucoreWidth": 2501,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#CD5C5C",
+                "#A52A2A",
+                "#EEE8AA",
+                "#8B4513",
+                "#DEB887"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0019.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0019.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 351231,
+            "ebucoreWidth": 2439,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A52A2A",
+                "#DEB887",
+                "#D2B48C",
+                "#556B2F",
+                "#CD853F",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0003.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0003.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 364297,
+            "ebucoreWidth": 2518,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#C0C0C0",
+                "#BDB76B",
+                "#2F4F4F",
+                "#E9967A",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0006.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0006.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 380699,
+            "ebucoreWidth": 2484,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#D2B48C",
+                "#A9A9A9",
+                "#BDB76B",
+                "#8B4513",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0034.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0034.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 370201,
+            "ebucoreWidth": 2464,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#2F4F4F",
+                "#CD853F",
+                "#BDB76B",
+                "#A9A9A9",
+                "#800000",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0021.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0021.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 472758,
+            "ebucoreWidth": 2470,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A52A2A",
+                "#A0522D",
+                "#CD853F",
+                "#BDB76B",
+                "#F5DEB3",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0041.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0041.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 386018,
+            "ebucoreWidth": 2459,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#A52A2A",
+                "#556B2F",
+                "#F5DEB3",
+                "#A0522D",
+                "#800000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0000.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0000.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 502532,
+            "ebucoreWidth": 2386,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#E6E6FA",
+                "#778899",
+                "#D8BFD8",
+                "#800000",
+                "#F5F5F5"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0005.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0005.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 382444,
+            "ebucoreWidth": 2518,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#BDB76B",
+                "#8B4513",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0050.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0050.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 513488,
+            "ebucoreWidth": 2796,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#D8BFD8",
+                "#8FBC8F",
+                "#708090",
+                "#800000",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0035.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0035.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 359831,
+            "ebucoreWidth": 2476,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#800000",
+                "#BC8F8F",
+                "#CD5C5C",
+                "#BDB76B",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0046.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0046.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 384001,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 2756,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#FAEBD7",
+                "#556B2F",
+                "#FFE4C4",
+                "#E9967A",
+                "#8B4513"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0026.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0026.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 422945,
+            "ebucoreWidth": 2440,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#A9A9A9",
+                "#BDB76B",
+                "#E9967A",
+                "#CD853F",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0017.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0017.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 361086,
+            "ebucoreWidth": 2433,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A52A2A",
+                "#CD853F",
+                "#556B2F",
+                "#A0522D",
+                "#DEB887",
+                "#000000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0014.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0014.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 342121,
+            "ebucoreWidth": 2431,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#CD853F",
+                "#A52A2A",
+                "#BDB76B",
+                "#2F4F4F",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0023.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0023.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 479228,
+            "ebucoreWidth": 2460,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A52A2A",
+                "#C0C0C0",
+                "#CD853F",
+                "#A0522D",
+                "#BDB76B",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0032.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0032.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 328261,
+            "ebucoreWidth": 2463,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#CD853F",
+                "#D3D3D3",
+                "#BC8F8F",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0049.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0049.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 401979,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 2835,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#808080",
+                "#D3D3D3",
+                "#A9A9A9",
+                "#556B2F",
+                "#D8BFD8"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0008.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0008.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 356336,
+            "ebucoreWidth": 2453,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#696969",
+                "#C0C0C0",
+                "#BDB76B",
+                "#A52A2A",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0038.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0038.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 386645,
+            "ebucoreWidth": 2460,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#A52A2A",
+                "#556B2F",
+                "#CD5C5C",
+                "#BDB76B",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0043.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0043.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 354994,
+            "ebucoreWidth": 2475,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D3D3D3",
+                "#A52A2A",
+                "#8B4513",
+                "#D8BFD8",
+                "#A9A9A9",
+                "#800000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0002.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0002.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 327954,
+            "ebucoreWidth": 2517,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD5C5C",
+                "#BDB76B",
+                "#FFB6C1",
+                "#D2B48C",
+                "#696969",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0007.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0007.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 357740,
+            "ebucoreWidth": 2472,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#BDB76B",
+                "#D3D3D3",
+                "#2F4F4F",
+                "#A52A2A",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0048.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0048.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 340866,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 2438,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFB6C1",
+                "#CD853F",
+                "#D8BFD8",
+                "#FFE4C4",
+                "#556B2F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0033.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0033.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 393773,
+            "ebucoreWidth": 2458,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#EEE8AA",
+                "#CD853F",
+                "#556B2F",
+                "#BDB76B",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0020.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0020.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 403040,
+            "ebucoreWidth": 2454,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#A52A2A",
+                "#CD853F",
+                "#A0522D",
+                "#800000",
+                "#E9967A"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0012.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0012.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 343109,
+            "ebucoreWidth": 2435,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFB6C1",
+                "#CD853F",
+                "#D3D3D3",
+                "#BDB76B",
+                "#A9A9A9",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0040.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0040.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 393995,
+            "ebucoreWidth": 2447,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#A52A2A",
+                "#A0522D",
+                "#CD853F",
+                "#A9A9A9",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0028.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0028.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 379350,
+            "ebucoreWidth": 2482,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#2F4F4F",
+                "#CD853F",
+                "#A0522D",
+                "#BDB76B",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0030.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0030.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 357668,
+            "ebucoreWidth": 2479,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#A0522D",
+                "#CD853F",
+                "#2F4F4F",
+                "#BDB76B",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0015.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0015.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 361503,
+            "ebucoreWidth": 2424,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#2F4F4F",
+                "#A52A2A",
+                "#BDB76B",
+                "#CD853F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0025.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0025.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 410113,
+            "ebucoreWidth": 2428,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#556B2F",
+                "#A0522D",
+                "#BDB76B",
+                "#000000",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0045.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0045.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 382386,
+            "ebucoreWidth": 3000,
+            "ebucoreHeight": 2758,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD5C5C",
+                "#D8BFD8",
+                "#808080",
+                "#556B2F",
+                "#FFEBCD",
+                "#FAEBD7"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0018.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0018.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 381414,
+            "ebucoreWidth": 2437,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#D2B48C",
+                "#CD853F",
+                "#A52A2A",
+                "#E9967A",
+                "#DCDCDC"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0027.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0027.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 373579,
+            "ebucoreWidth": 2461,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8B4513",
+                "#A52A2A",
+                "#C0C0C0",
+                "#DEB887",
+                "#BDB76B",
+                "#800000"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0013.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0013.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 359347,
+            "ebucoreWidth": 2437,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DEB887",
+                "#2F4F4F",
+                "#CD853F",
+                "#C0C0C0",
+                "#BDB76B",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0022.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0022.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 412575,
+            "ebucoreWidth": 2479,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E9967A",
+                "#800000",
+                "#A9A9A9",
+                "#A0522D",
+                "#CD853F",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0031.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0031.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 380139,
+            "ebucoreWidth": 2477,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#CD5C5C",
+                "#556B2F",
+                "#BDB76B",
+                "#BC8F8F",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0009.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0009.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 365927,
+            "ebucoreWidth": 2472,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#800000",
+                "#BDB76B",
+                "#8B4513",
+                "#2F4F4F",
+                "#FDF5E6",
+                "#A9A9A9"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0039.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0039.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 394382,
+            "ebucoreWidth": 2456,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#DEB887",
+                "#C0C0C0",
+                "#FFFAF0",
+                "#BDB76B",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0010.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0010.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 344032,
+            "ebucoreWidth": 2480,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#CD853F",
+                "#BDB76B",
+                "#800000",
+                "#696969",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0042.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0042.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 360025,
+            "ebucoreWidth": 2460,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#A52A2A",
+                "#800000",
+                "#CD853F",
+                "#BDB76B",
+                "#000000",
+                "#BC8F8F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0001.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0001.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 348677,
+            "ebucoreWidth": 2499,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#BDB76B",
+                "#696969",
+                "#2F4F4F",
+                "#E9967A",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0004.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0004.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 333049,
+            "ebucoreWidth": 2542,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#CD5C5C",
+                "#CD853F",
+                "#696969",
+                "#2F4F4F",
+                "#A0522D"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/3.0/"
+                ]
+            },
+            "about": "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0036.tif/full/full/0/default.jpg",
+            "dcFormat": {
+                "def": [
+                    "IMAGE"
+                ]
+            },
+            "dctermsCreated": {
+                "def": [
+                    "2013-12-16 16:44:36 UTC"
+                ]
+            },
+            "textAttributionSnippet": "Album de photographies d'Etienne Maxime Dupont, artilleur - https://www.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982. europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a. Europeana 1914-1918. CC BY-SA - http://creativecommons.org/licenses/by-sa/3.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang=''><a href='http://data.europeana.eu/item/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982' target='_blank' rel='noopener'>Album de photographies d'Etienne Maxime Dupont, artilleur</a></dd><dt>Creator</dt><dd lang=''>europeana19141918:agent/8cfcbcc60d5ac6be14fae7e25e3dae4a</dd><dt>Institution</dt><dd lang=''>Europeana 1914-1918</dd><dt>Country</dt><dd lang=''>Europe</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/3.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "svcsHasService": [
+                "https://rhus-209.man.poznan.pl/fcgi-bin/iipsrv.fcgi?IIIF=11/5//2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/9572.112982.original_Page0036.tif"
+            ],
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 378330,
+            "ebucoreWidth": 2449,
+            "ebucoreHeight": 3000,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#556B2F",
+                "#A9A9A9",
+                "#A0522D",
+                "#CD853F",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2020601/https___1914_1918_europeana_eu_contributions_9572_attachments_112982/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "World War I"
+    ],
+    "concept_note": [
+        "Global war originating in Europe, 1914\u20131918"
+    ],
+    "edmDatasetName": [
+        "2020601_Ag_ErsterWeltkrieg_EU"
+    ],
+    "edmCountry": [
+        "Europe"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Europeana 1914-1918"
+    ],
+    "coordinate": "not showed"
+}

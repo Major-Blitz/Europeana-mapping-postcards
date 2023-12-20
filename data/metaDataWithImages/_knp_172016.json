@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_172016",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/158248/highres?customer=knp",
+            "textAttributionSnippet": "(fi) Kolme mets\u00e4ylioppilasta ja kaksi nuorta naista istuvat s\u00e4ngyll\u00e4 Helsingin yliopiston Hyyti\u00e4l\u00e4n mets\u00e4asemalla. \"Hyyti\u00e4l\u00e4n juhlien aikana\" (alkuper\u00e4inen kuvateksti albumissa) - https://www.europeana.eu/item/2021008/_knp_172016. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-172016. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_172016' target='_blank' rel='noopener'>Kolme mets\u00e4ylioppilasta ja kaksi nuorta naista istuvat s\u00e4ngyll\u00e4 Helsingin yliopiston Hyyti\u00e4l\u00e4n mets\u00e4asemalla. \"Hyyti\u00e4l\u00e4n juhlien aikana\" (alkuper\u00e4inen kuvateksti albumissa)</a></dd><dt>Date</dt><dd lang=''>1921</dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-172016' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_172016/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 101625,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 789,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#D2B48C",
+                "#F5DEB3",
+                "#696969",
+                "#DCDCDC",
+                "#FAF0E6",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://finna.fi/Record/lusto.knp-172016",
+            "textAttributionSnippet": "(fi) Kolme mets\u00e4ylioppilasta ja kaksi nuorta naista istuvat s\u00e4ngyll\u00e4 Helsingin yliopiston Hyyti\u00e4l\u00e4n mets\u00e4asemalla. \"Hyyti\u00e4l\u00e4n juhlien aikana\" (alkuper\u00e4inen kuvateksti albumissa) - https://www.europeana.eu/item/2021008/_knp_172016. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-172016. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='fi'><a href='http://data.europeana.eu/item/2021008/_knp_172016' target='_blank' rel='noopener'>Kolme mets\u00e4ylioppilasta ja kaksi nuorta naista istuvat s\u00e4ngyll\u00e4 Helsingin yliopiston Hyyti\u00e4l\u00e4n mets\u00e4asemalla. \"Hyyti\u00e4l\u00e4n juhlien aikana\" (alkuper\u00e4inen kuvateksti albumissa)</a></dd><dt>Date</dt><dd lang=''>1921</dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-172016' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_172016/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Training"
+    ],
+    "concept_note": [
+        "Acquisition of knowledge, skills, and competencies as a result of teaching"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA53011_0001",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032sAXxQdrXM?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcard. \u201cLuck, FiskeLyckskil.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53011_0001. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014289378. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53011_0001' target='_blank' rel='noopener'>Postcard. \u201cLuck, FiskeLyckskil.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014289378' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53011_0001/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 227423,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 486,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#696969",
+                "#D3D3D3",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#808080",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/032sAXxQdrXM?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcard. \u201cLuck, FiskeLyckskil.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53011_0001. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014289378. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53011_0001' target='_blank' rel='noopener'>Postcard. \u201cLuck, FiskeLyckskil.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014289378' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53011_0001/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 198856,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 389,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#696969",
+                "#D3D3D3",
+                "#A9A9A9",
+                "#C0C0C0",
+                "#808080",
+                "#2F4F4F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/011014289378",
+            "textAttributionSnippet": "(en) Postcard. \u201cLuck, FiskeLyckskil.\u201d - https://www.europeana.eu/item/916105/bhm_photo_UMFA53011_0001. (en) Unknown. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014289378. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA53011_0001' target='_blank' rel='noopener'>Postcard. \u201cLuck, FiskeLyckskil.\u201d</a></dd><dt>Creator</dt><dd lang='en'>Unknown</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014289378' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 97975
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA53011_0001/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

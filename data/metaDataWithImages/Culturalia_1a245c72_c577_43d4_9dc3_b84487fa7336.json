@@ -1,0 +1,100 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_1a245c72_c577_43d4_9dc3_b84487fa7336",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/CBDA9A98C38A4825AE4D6A0925E6B513.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_1a245c72_c577_43d4_9dc3_b84487fa7336. Editura Karl Engber. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/1a245c72-c577-43d4-9dc3-b84487fa7336/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Engber</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/1a245c72-c577-43d4-9dc3-b84487fa7336/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_1a245c72_c577_43d4_9dc3_b84487fa7336/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 19511848,
+            "ebucoreWidth": 2047,
+            "ebucoreHeight": 3173,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#FFE4C4",
+                "#556B2F",
+                "#F0E68C",
+                "#E6E6FA",
+                "#808080"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://culturalia.ro/entities/1a245c72-c577-43d4-9dc3-b84487fa7336/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_1a245c72_c577_43d4_9dc3_b84487fa7336. Editura Karl Engber. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/1a245c72-c577-43d4-9dc3-b84487fa7336/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Engber</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/1a245c72-c577-43d4-9dc3-b84487fa7336/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_03%20Martie%202020_ISTORIE_delia%20voina_docpatv494/Imagini1/18ED43115CEE4319975A8CC14E193F01.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_1a245c72_c577_43d4_9dc3_b84487fa7336. Editura Karl Engber. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/1a245c72-c577-43d4-9dc3-b84487fa7336/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Karl Engber</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/1a245c72-c577-43d4-9dc3-b84487fa7336/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_1a245c72_c577_43d4_9dc3_b84487fa7336/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 19460864,
+            "ebucoreWidth": 2041,
+            "ebucoreHeight": 3174,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#E6E6FA",
+                "#BDB76B",
+                "#2F4F4F",
+                "#EEE8AA",
+                "#C0C0C0",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_1a245c72_c577_43d4_9dc3_b84487fa7336/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

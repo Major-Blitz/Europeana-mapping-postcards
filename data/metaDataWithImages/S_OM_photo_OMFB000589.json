@@ -1,0 +1,84 @@
+{
+    "aggregations_about": "/aggregation/provider/73/S_OM_photo_OMFB000589",
+    "webResources": [
+        {
+            "about": "http://mm.dimu.org/image/03347Su3LHPb?dimension=600x600",
+            "textAttributionSnippet": "(en) Party of Falerum 1943. At the time of the picture, the resort still belonged to Sm\u00e5land, transferred to \u00d6sterg\u00f6tland in 1971 - https://www.europeana.eu/item/73/S_OM_photo_OMFB000589. AB Flygtrafik. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021016419903. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMFB000589' target='_blank' rel='noopener'>Party of Falerum 1943. At the time of the picture, the resort still belonged to Sm\u00e5land, transferred to \u00d6sterg\u00f6tland in 1971</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021016419903' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMFB000589/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 182788,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 383,
+            "edmComponentColor": [
+                "#696969",
+                "#808080",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://digitaltmuseum.se/021016419903",
+            "textAttributionSnippet": "(en) Party of Falerum 1943. At the time of the picture, the resort still belonged to Sm\u00e5land, transferred to \u00d6sterg\u00f6tland in 1971 - https://www.europeana.eu/item/73/S_OM_photo_OMFB000589. AB Flygtrafik. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021016419903. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMFB000589' target='_blank' rel='noopener'>Party of Falerum 1943. At the time of the picture, the resort still belonged to Sm\u00e5land, transferred to \u00d6sterg\u00f6tland in 1971</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021016419903' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>"
+        },
+        {
+            "about": "http://mm.dimu.org/image/03347Su3LHPb?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Party of Falerum 1943. At the time of the picture, the resort still belonged to Sm\u00e5land, transferred to \u00d6sterg\u00f6tland in 1971 - https://www.europeana.eu/item/73/S_OM_photo_OMFB000589. AB Flygtrafik. \u00d6sterg\u00f6tlands museum - http://digitaltmuseum.se/021016419903. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/73/S_OM_photo_OMFB000589' target='_blank' rel='noopener'>Party of Falerum 1943. At the time of the picture, the resort still belonged to Sm\u00e5land, transferred to \u00d6sterg\u00f6tland in 1971</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='http://digitaltmuseum.se/021016419903' target='_blank' rel='noopener'>\u00d6sterg\u00f6tlands museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMFB000589/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 667859,
+            "ebucoreWidth": 1200,
+            "ebucoreHeight": 767,
+            "edmComponentColor": [
+                "#696969",
+                "#808080",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#C0C0C0",
+                "#D3D3D3"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/73/S_OM_photo_OMFB000589/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "73_Ag_SE_SwedishNationalHeritage_s_om"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": [
+        [
+            58.217026,
+            11.733398
+        ],
+        [
+            59.033333,
+            12.216666
+        ],
+        [
+            61.0,
+            15.0
+        ]
+    ]
+}

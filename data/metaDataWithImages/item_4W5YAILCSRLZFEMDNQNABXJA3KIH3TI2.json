@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_4W5YAILCSRLZFEMDNQNABXJA3KIH3TI2",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=d50f62c4-5e82-465b-ac98-d6b980304359",
+            "textAttributionSnippet": "(en) Home Christmas in Willimanticus Connecticut, young couple opening a gift and postcards hanging from the ceiling - https://www.europeana.eu/item/401/item_4W5YAILCSRLZFEMDNQNABXJA3KIH3TI2. (et) Linask, Rein (autor). Eesti Rahva Muuseum - https://www.muis.ee/museaalView/3714812. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4W5YAILCSRLZFEMDNQNABXJA3KIH3TI2' target='_blank' rel='noopener'>Home Christmas in Willimanticus Connecticut, young couple opening a gift and postcards hanging from the ceiling</a></dd><dt>Creator</dt><dd lang='et'>Linask, Rein (autor)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3714812' target='_blank' rel='noopener'>Eesti Rahva Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_4W5YAILCSRLZFEMDNQNABXJA3KIH3TI2/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 104456,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 545,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#DEB887",
+                "#708090",
+                "#BC8F8F",
+                "#8FBC8F",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3714812",
+            "textAttributionSnippet": "(en) Home Christmas in Willimanticus Connecticut, young couple opening a gift and postcards hanging from the ceiling - https://www.europeana.eu/item/401/item_4W5YAILCSRLZFEMDNQNABXJA3KIH3TI2. (et) Linask, Rein (autor). Eesti Rahva Muuseum - https://www.muis.ee/museaalView/3714812. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_4W5YAILCSRLZFEMDNQNABXJA3KIH3TI2' target='_blank' rel='noopener'>Home Christmas in Willimanticus Connecticut, young couple opening a gift and postcards hanging from the ceiling</a></dd><dt>Creator</dt><dd lang='et'>Linask, Rein (autor)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3714812' target='_blank' rel='noopener'>Eesti Rahva Muuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_4W5YAILCSRLZFEMDNQNABXJA3KIH3TI2/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Estonian National Museum"
+    ],
+    "coordinate": [
+        [
+            39.828175,
+            -98.5795
+        ]
+    ]
+}

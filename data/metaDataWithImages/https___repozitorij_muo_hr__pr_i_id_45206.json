@@ -1,0 +1,77 @@
+{
+    "aggregations_about": "/aggregation/provider/378/https___repozitorij_muo_hr__pr_i_id_45206",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by-sa/4.0/"
+                ]
+            },
+            "about": "https://repozitorij.muo.hr/api/?semantic=resource&id=45206",
+            "textAttributionSnippet": "(en) Osijek - Cathedral - https://www.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_45206.  - https://repozitorij.muo.hr/?pr=i&id=45206. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_45206' target='_blank' rel='noopener'>Osijek - Cathedral</a></dd><dt>Date</dt><dd lang=''>1910</dd><dt>Institution</dt><dt>Country</dt><dd lang=''>Croatia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/378/https___repozitorij_muo_hr__pr_i_id_45206/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 383104,
+            "ebucoreWidth": 978,
+            "ebucoreHeight": 1500,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#D2B48C",
+                "#F5DEB3",
+                "#2F4F4F",
+                "#696969",
+                "#FFB6C1"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://repozitorij.muo.hr/?pr=i&id=45206",
+            "textAttributionSnippet": "(en) Osijek - Cathedral - https://www.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_45206.  - https://repozitorij.muo.hr/?pr=i&id=45206. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/378/https___repozitorij_muo_hr__pr_i_id_45206' target='_blank' rel='noopener'>Osijek - Cathedral</a></dd><dt>Date</dt><dd lang=''>1910</dd><dt>Institution</dt><dt>Country</dt><dd lang=''>Croatia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/378/https___repozitorij_muo_hr__pr_i_id_45206/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "378_Musem_of_Arts_and_Crafts_archeology"
+    ],
+    "edmCountry": [
+        "Croatia"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": "not showed",
+    "coordinate": [
+        [
+            45.55111,
+            18.69389
+        ],
+        [
+            45.1667,
+            15.5
+        ],
+        [
+            45.25,
+            15.466667
+        ],
+        [
+            45.560936,
+            18.674892
+        ]
+    ]
+}

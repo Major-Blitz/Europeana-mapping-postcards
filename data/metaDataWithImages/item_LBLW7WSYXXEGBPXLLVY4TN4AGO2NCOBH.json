@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_LBLW7WSYXXEGBPXLLVY4TN4AGO2NCOBH",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=4045c33c-4a69-430c-852c-2325dd0b03b9",
+            "textAttributionSnippet": "(en) Verona - https://www.europeana.eu/item/401/item_LBLW7WSYXXEGBPXLLVY4TN4AGO2NCOBH. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3718301. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_LBLW7WSYXXEGBPXLLVY4TN4AGO2NCOBH' target='_blank' rel='noopener'>Verona</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3718301' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_LBLW7WSYXXEGBPXLLVY4TN4AGO2NCOBH/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 135572,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 539,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAEBD7",
+                "#8B4513",
+                "#FFE4C4",
+                "#FFDEAD",
+                "#FFA07A",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3718301",
+            "textAttributionSnippet": "(en) Verona - https://www.europeana.eu/item/401/item_LBLW7WSYXXEGBPXLLVY4TN4AGO2NCOBH. Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3718301. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_LBLW7WSYXXEGBPXLLVY4TN4AGO2NCOBH' target='_blank' rel='noopener'>Verona</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3718301' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_LBLW7WSYXXEGBPXLLVY4TN4AGO2NCOBH/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            42.5,
+            12.5
+        ]
+    ]
+}

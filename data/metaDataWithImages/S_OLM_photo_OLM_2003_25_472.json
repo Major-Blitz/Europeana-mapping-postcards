@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916121/S_OLM_photo_OLM_2003_25_472",
+    "webResources": [
+        {
+            "about": "https://mm.dimu.org/image/032wYWVjnCDE?dimension=600x600",
+            "textAttributionSnippet": "(en) True Herrg\u00e5rd, two-storey mansion building.\nThe picture taken for postcards.\nPublishers: E. & M. Kjell, Fjugesta - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_472. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212941. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_472' target='_blank' rel='noopener'>True Herrg\u00e5rd, two-storey mansion building.\nThe picture taken for postcards.\nPublishers: E. & M. Kjell, Fjugesta</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212941' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_472/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 174776,
+            "ebucoreWidth": 600,
+            "ebucoreHeight": 408,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#808080",
+                "#696969",
+                "#2F4F4F",
+                "#000000",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://mm.dimu.org/image/032wYWVjnCDE?dimension=1200x1200",
+            "textAttributionSnippet": "(en) True Herrg\u00e5rd, two-storey mansion building.\nThe picture taken for postcards.\nPublishers: E. & M. Kjell, Fjugesta - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_472. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212941. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_472' target='_blank' rel='noopener'>True Herrg\u00e5rd, two-storey mansion building.\nThe picture taken for postcards.\nPublishers: E. & M. Kjell, Fjugesta</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212941' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_472/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 239578,
+            "ebucoreWidth": 750,
+            "ebucoreHeight": 510,
+            "edmHasColorSpace": "grayscale",
+            "edmComponentColor": [
+                "#A9A9A9",
+                "#696969",
+                "#808080",
+                "#2F4F4F",
+                "#000000",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://digitaltmuseum.se/021016212941",
+            "textAttributionSnippet": "(en) True Herrg\u00e5rd, two-storey mansion building.\nThe picture taken for postcards.\nPublishers: E. & M. Kjell, Fjugesta - https://www.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_472. AB Flygtrafik. \u00d6rebro l\u00e4ns museum - https://digitaltmuseum.se/021016212941. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916121/S_OLM_photo_OLM_2003_25_472' target='_blank' rel='noopener'>True Herrg\u00e5rd, two-storey mansion building.\nThe picture taken for postcards.\nPublishers: E. & M. Kjell, Fjugesta</a></dd><dt>Creator</dt><dd lang=''>AB Flygtrafik</dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/021016212941' target='_blank' rel='noopener'>\u00d6rebro l\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 99298
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916121/S_OLM_photo_OLM_2003_25_472/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Farm"
+    ],
+    "concept_note": [
+        "Area of land for farming, or, for aquaculture, lake, river or sea, including various structures"
+    ],
+    "edmDatasetName": [
+        "916121_Ag_SE_s_olm"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,104 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_b0c4dcec_6db1_4a40_a73c_c18843816f1f",
+    "webResources": [
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_georgescu_docpatv494/Imagini1/B1847E426DF74868AA9058019C871638.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_b0c4dcec_6db1_4a40_a73c_c18843816f1f. Editura Asocia\u021biei de Consumatori, Slimnic. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/b0c4dcec-6db1-4a40-a73c-c18843816f1f/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Asocia\u021biei de Consumatori, Slimnic</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/b0c4dcec-6db1-4a40-a73c-c18843816f1f/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_b0c4dcec_6db1_4a40_a73c_c18843816f1f/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22058722,
+            "ebucoreWidth": 3395,
+            "ebucoreHeight": 2164,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#CD853F",
+                "#483D8B",
+                "#778899",
+                "#696969",
+                "#C0C0C0",
+                "#F5F5DC"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://culturalia.ro/entities/b0c4dcec-6db1-4a40-a73c-c18843816f1f/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_b0c4dcec_6db1_4a40_a73c_c18843816f1f. Editura Asocia\u021biei de Consumatori, Slimnic. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/b0c4dcec-6db1-4a40-a73c-c18843816f1f/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Asocia\u021biei de Consumatori, Slimnic</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/b0c4dcec-6db1-4a40-a73c-c18843816f1f/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_georgescu_docpatv494/Imagini1/29D043225F9C4F779864D4198B316E5D.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_b0c4dcec_6db1_4a40_a73c_c18843816f1f. Editura Asocia\u021biei de Consumatori, Slimnic. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/b0c4dcec-6db1-4a40-a73c-c18843816f1f/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Asocia\u021biei de Consumatori, Slimnic</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/b0c4dcec-6db1-4a40-a73c-c18843816f1f/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_b0c4dcec_6db1_4a40_a73c_c18843816f1f/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 22058722,
+            "ebucoreWidth": 3395,
+            "ebucoreHeight": 2164,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5F5F5",
+                "#D2B48C",
+                "#BDB76B",
+                "#A9A9A9",
+                "#2F4F4F",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_b0c4dcec_6db1_4a40_a73c_c18843816f1f/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.961216,
+            24.162516
+        ],
+        [
+            45.961216,
+            24.162516
+        ]
+    ]
+}

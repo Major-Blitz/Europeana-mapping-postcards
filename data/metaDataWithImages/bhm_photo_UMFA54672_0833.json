@@ -1,0 +1,79 @@
+{
+    "aggregations_about": "/aggregation/provider/916105/bhm_photo_UMFA54672_0833",
+    "webResources": [
+        {
+            "about": "https://digitaltmuseum.se/011014491165",
+            "textAttributionSnippet": "(en) Postcards. A woman in folk costume and a man in sailor costume stands on a beach and holds each other in hand - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0833. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491165. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0833' target='_blank' rel='noopener'>Postcards. A woman in folk costume and a man in sailor costume stands on a beach and holds each other in hand</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491165' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 101248
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sBY4Jv2PR?dimension=600x600",
+            "textAttributionSnippet": "(en) Postcards. A woman in folk costume and a man in sailor costume stands on a beach and holds each other in hand - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0833. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491165. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0833' target='_blank' rel='noopener'>Postcards. A woman in folk costume and a man in sailor costume stands on a beach and holds each other in hand</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491165' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0833/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 187756,
+            "ebucoreWidth": 337,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#696969",
+                "#2F4F4F",
+                "#000000",
+                "#D2B48C",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://mm.dimu.org/image/022sBY4Jv2PR?dimension=1200x1200",
+            "textAttributionSnippet": "(en) Postcards. A woman in folk costume and a man in sailor costume stands on a beach and holds each other in hand - https://www.europeana.eu/item/916105/bhm_photo_UMFA54672_0833. Bohusl\u00e4ns museum - https://digitaltmuseum.se/011014491165. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/916105/bhm_photo_UMFA54672_0833' target='_blank' rel='noopener'>Postcards. A woman in folk costume and a man in sailor costume stands on a beach and holds each other in hand</a></dd><dt>Institution</dt><dd lang=''><a href='https://digitaltmuseum.se/011014491165' target='_blank' rel='noopener'>Bohusl\u00e4ns museum</a></dd><dt>Country</dt><dd lang=''>Sweden</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0833/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 187756,
+            "ebucoreWidth": 337,
+            "ebucoreHeight": 550,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#556B2F",
+                "#696969",
+                "#2F4F4F",
+                "#000000",
+                "#D2B48C",
+                "#C0C0C0"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/916105/bhm_photo_UMFA54672_0833/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Sailor suit"
+    ],
+    "concept_note": [
+        "Uniform originally worn by enlisted seamen in a navy or other governmental sea services"
+    ],
+    "edmDatasetName": [
+        "916105_SOCH_va_bm_media"
+    ],
+    "edmCountry": [
+        "Sweden"
+    ],
+    "edmLanguage": [
+        "sv"
+    ],
+    "organization_label": [
+        "Swedish Open Cultural Heritage"
+    ],
+    "coordinate": "not showed"
+}

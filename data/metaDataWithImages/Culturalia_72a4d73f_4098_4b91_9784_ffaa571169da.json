@@ -1,0 +1,104 @@
+{
+    "aggregations_about": "/aggregation/provider/951/Culturalia_72a4d73f_4098_4b91_9784_ffaa571169da",
+    "webResources": [
+        {
+            "about": "https://culturalia.ro/entities/72a4d73f-4098-4b91-9784-ffaa571169da/view",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_72a4d73f_4098_4b91_9784_ffaa571169da. Editura Jos Drotleff. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/72a4d73f-4098-4b91-9784-ffaa571169da/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos Drotleff</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/72a4d73f-4098-4b91-9784-ffaa571169da/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_voina_docpatv494/Imagini1/551EC3C019B545E884CFFA44ACC93746.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_72a4d73f_4098_4b91_9784_ffaa571169da. Editura Jos Drotleff. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/72a4d73f-4098-4b91-9784-ffaa571169da/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos Drotleff</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/72a4d73f-4098-4b91-9784-ffaa571169da/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_72a4d73f_4098_4b91_9784_ffaa571169da/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 14686492,
+            "ebucoreWidth": 2175,
+            "ebucoreHeight": 3374,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#8FBC8F",
+                "#696969",
+                "#A9A9A9",
+                "#708090",
+                "#BC8F8F",
+                "#FFB6C1"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://resource.culturalia.ro/public/2000/01/01/_SB-BRUK-validat_07%20Iulie%202020_istorie_voina_docpatv494/Imagini1/BC20D80CA13245EEB491D1288128431D.tif",
+            "textAttributionSnippet": " - https://www.europeana.eu/item/951/Culturalia_72a4d73f_4098_4b91_9784_ffaa571169da. Editura Jos Drotleff. Muzeul Na\u021bional Brukenthal - https://culturalia.ro/entities/72a4d73f-4098-4b91-9784-ffaa571169da/view. CC BY-SA - http://creativecommons.org/licenses/by-sa/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Creator</dt><dd lang=''>Editura Jos Drotleff</dd><dt>Institution</dt><dd lang=''><a href='https://culturalia.ro/entities/72a4d73f-4098-4b91-9784-ffaa571169da/view' target='_blank' rel='noopener'>Muzeul Na\u021bional Brukenthal</a></dd><dt>Country</dt><dd lang=''>Romania</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by-sa/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/><span class='icon-sa'/>CC BY-SA</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/951/Culturalia_72a4d73f_4098_4b91_9784_ffaa571169da/manifest"
+            ],
+            "ebucoreHasMimeType": "image/tiff",
+            "ebucoreFileByteSize": 12193106,
+            "ebucoreWidth": 3416,
+            "ebucoreHeight": 2183,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FAF0E6",
+                "#C0C0C0",
+                "#FFFAF0",
+                "#808080",
+                "#FFE4C4",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/951/Culturalia_72a4d73f_4098_4b91_9784_ffaa571169da/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "history (discipline)"
+    ],
+    "concept_note": [
+        "Discipline that studies the chronological record of events, such as affecting a nation, community, individual, object, or place, based on a critical examination of source materials and usually presenting an explanation of their causes."
+    ],
+    "edmDatasetName": [
+        "951_Ministerul_Culturii_Artifacts"
+    ],
+    "edmCountry": [
+        "Romania"
+    ],
+    "edmLanguage": [
+        "ro"
+    ],
+    "organization_label": [
+        "National Heritage Institute, Bucharest"
+    ],
+    "coordinate": [
+        [
+            45.65,
+            25.5833
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.87,
+            24.23
+        ],
+        [
+            45.0,
+            22.0
+        ],
+        [
+            46.0,
+            25.0
+        ],
+        [
+            45.7667,
+            24.15
+        ]
+    ]
+}

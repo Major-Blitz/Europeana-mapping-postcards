@@ -1,0 +1,58 @@
+{
+    "aggregations_about": "/aggregation/provider/117/_39A2EFC6_2F14_446A_B9C4_3E606473A998",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2374943&size=extra_large&key=T3st1&orgid=88101",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Mormor, Moster och kusinerna \u00f6nskas ett godt nytt \u00e5r af Georg - https://www.europeana.eu/item/117/_39A2EFC6_2F14_446A_B9C4_3E606473A998. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.39A2EFC6-2F14-446A-B9C4-3E606473A998?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_39A2EFC6_2F14_446A_B9C4_3E606473A998' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Mormor, Moster och kusinerna \u00f6nskas ett godt nytt \u00e5r af Georg</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.39A2EFC6-2F14-446A-B9C4-3E606473A998?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/117/_39A2EFC6_2F14_446A_B9C4_3E606473A998/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 318541,
+            "ebucoreWidth": 838,
+            "ebucoreHeight": 1200,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#C0C0C0",
+                "#A9A9A9",
+                "#FFE4B5",
+                "#DEB887",
+                "#FFEFD5",
+                "#F5DEB3"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://hkm.finna.fi/Record/hkm.39A2EFC6-2F14-446A-B9C4-3E606473A998?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard, New Year\u2019s Card; Mormor, Moster och kusinerna \u00f6nskas ett godt nytt \u00e5r af Georg - https://www.europeana.eu/item/117/_39A2EFC6_2F14_446A_B9C4_3E606473A998. Helsingin kaupunginmuseo - http://hkm.finna.fi/Record/hkm.39A2EFC6-2F14-446A-B9C4-3E606473A998?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/117/_39A2EFC6_2F14_446A_B9C4_3E606473A998' target='_blank' rel='noopener'>postcard, New Year\u2019s Card; Mormor, Moster och kusinerna \u00f6nskas ett godt nytt \u00e5r af Georg</a></dd><dt>Institution</dt><dd lang=''><a href='http://hkm.finna.fi/Record/hkm.39A2EFC6-2F14-446A-B9C4-3E606473A998?lng=en-gb' target='_blank' rel='noopener'>Helsingin kaupunginmuseo</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/117/_39A2EFC6_2F14_446A_B9C4_3E606473A998/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "117_Ag_FI_NDL_hkm"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Helsinki City Museum"
+    ],
+    "coordinate": "not showed"
+}

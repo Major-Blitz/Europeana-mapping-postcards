@@ -1,0 +1,70 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_SQPVESQDCHEMJL4EZG6QATU4PJDSQFEU",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3746284",
+            "textAttributionSnippet": "(en) Narva-Rivermouth - https://www.europeana.eu/item/401/item_SQPVESQDCHEMJL4EZG6QATU4PJDSQFEU. (et) O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3746284. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_SQPVESQDCHEMJL4EZG6QATU4PJDSQFEU' target='_blank' rel='noopener'>Narva-Rivermouth</a></dd><dt>Creator</dt><dd lang='et'>O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3746284' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=fd386500-12c7-4939-8ed3-56f6dc266278",
+            "textAttributionSnippet": "(en) Narva-Rivermouth - https://www.europeana.eu/item/401/item_SQPVESQDCHEMJL4EZG6QATU4PJDSQFEU. (et) O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (valmistaja). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3746284. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_SQPVESQDCHEMJL4EZG6QATU4PJDSQFEU' target='_blank' rel='noopener'>Narva-Rivermouth</a></dd><dt>Creator</dt><dd lang='et'>O. Haidak'i Eesti vaatekaartide fototr\u00fckk Narvas (valmistaja)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3746284' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_SQPVESQDCHEMJL4EZG6QATU4PJDSQFEU/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 90465,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 535,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#B0C4DE",
+                "#808080",
+                "#E6E6FA",
+                "#BC8F8F",
+                "#C0C0C0",
+                "#556B2F"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_SQPVESQDCHEMJL4EZG6QATU4PJDSQFEU/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ],
+        [
+            59.216667,
+            27.3
+        ],
+        [
+            59.379166,
+            28.200556
+        ]
+    ]
+}

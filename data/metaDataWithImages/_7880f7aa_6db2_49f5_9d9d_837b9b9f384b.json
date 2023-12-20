@@ -1,0 +1,63 @@
+{
+    "aggregations_about": "/aggregation/provider/2021009/_7880f7aa_6db2_49f5_9d9d_837b9b9f384b",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "http://museoliittorepox.vserver.fi:8080/mpthumbnailhelper/download?id=2567088&size=extra_large&key=T3st1&orgid=43094",
+            "dcCreator": {
+                "def": [
+                    "Sanna S\u00e4rkel\u00e4"
+                ]
+            },
+            "textAttributionSnippet": "(en) postcard - https://www.europeana.eu/item/2021009/_7880f7aa_6db2_49f5_9d9d_837b9b9f384b. Sanna S\u00e4rkel\u00e4. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.7880f7aa-6db2-49f5-9d9d-837b9b9f384b?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_7880f7aa_6db2_49f5_9d9d_837b9b9f384b' target='_blank' rel='noopener'>postcard</a></dd><dt>Creator</dt><dd lang=''>Sanna S\u00e4rkel\u00e4</dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.7880f7aa-6db2-49f5-9d9d-837b9b9f384b?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021009/_7880f7aa_6db2_49f5_9d9d_837b9b9f384b/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 87217,
+            "ebucoreWidth": 683,
+            "ebucoreHeight": 732,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#DB7093",
+                "#8FBC8F",
+                "#BC8F8F",
+                "#D3D3D3",
+                "#800000",
+                "#CD853F"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://museovirasto.finna.fi/Record/museovirasto.7880f7aa-6db2-49f5-9d9d-837b9b9f384b?lng=en-gb",
+            "textAttributionSnippet": "(en) postcard - https://www.europeana.eu/item/2021009/_7880f7aa_6db2_49f5_9d9d_837b9b9f384b. Museovirasto - http://museovirasto.finna.fi/Record/museovirasto.7880f7aa-6db2-49f5-9d9d-837b9b9f384b?lng=en-gb. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021009/_7880f7aa_6db2_49f5_9d9d_837b9b9f384b' target='_blank' rel='noopener'>postcard</a></dd><dt>Institution</dt><dd lang=''><a href='http://museovirasto.finna.fi/Record/museovirasto.7880f7aa-6db2-49f5-9d9d-837b9b9f384b?lng=en-gb' target='_blank' rel='noopener'>Museovirasto</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021009/_7880f7aa_6db2_49f5_9d9d_837b9b9f384b/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "Finnish Heritage Agency"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/2021008/_knp_86064",
+    "webResources": [
+        {
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/licenses/by/4.0/"
+                ]
+            },
+            "about": "https://api.collecte.fi/v1/images/46842/thumbnail?customer=knp",
+            "textAttributionSnippet": "(en) Postcard number 3 of the Forest Education Office. A 12-year-old planted fir nursery (top picture). Same planting at 30 years. Cubic volume 179 m3 and growth of 16.6 m3 per hectare. The average length of the trees is 10.7 m and the average diameter is the cork of the chest. 12.4 sm - https://www.europeana.eu/item/2021008/_knp_86064. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86064. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_86064' target='_blank' rel='noopener'>Postcard number 3 of the Forest Education Office. A 12-year-old planted fir nursery (top picture). Same planting at 30 years. Cubic volume 179 m3 and growth of 16.6 m3 per hectare. The average length of the trees is 10.7 m and the average diameter is the cork of the chest. 12.4 sm</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86064' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/2021008/_knp_86064/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 22673,
+            "ebucoreWidth": 272,
+            "ebucoreHeight": 400,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFF5EE",
+                "#B0C4DE",
+                "#F8F8FF",
+                "#696969",
+                "#FFFAFA",
+                "#FAF0E6"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "http://finna.fi/Record/lusto.knp-86064",
+            "textAttributionSnippet": "(en) Postcard number 3 of the Forest Education Office. A 12-year-old planted fir nursery (top picture). Same planting at 30 years. Cubic volume 179 m3 and growth of 16.6 m3 per hectare. The average length of the trees is 10.7 m and the average diameter is the cork of the chest. 12.4 sm - https://www.europeana.eu/item/2021008/_knp_86064. Lusto - The Finnish Forest Museum - http://finna.fi/Record/lusto.knp-86064. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/2021008/_knp_86064' target='_blank' rel='noopener'>Postcard number 3 of the Forest Education Office. A 12-year-old planted fir nursery (top picture). Same planting at 30 years. Cubic volume 179 m3 and growth of 16.6 m3 per hectare. The average length of the trees is 10.7 m and the average diameter is the cork of the chest. 12.4 sm</a></dd><dt>Institution</dt><dd lang=''><a href='http://finna.fi/Record/lusto.knp-86064' target='_blank' rel='noopener'>Lusto - The Finnish Forest Museum</a></dd><dt>Country</dt><dd lang=''>Finland</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/2021008/_knp_86064/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Propaganda"
+    ],
+    "concept_note": [
+        "Material created to influence or persuade"
+    ],
+    "edmDatasetName": [
+        "2021008_Ag_FI_NDL_lusto"
+    ],
+    "edmCountry": [
+        "Finland"
+    ],
+    "edmLanguage": [
+        "fi"
+    ],
+    "organization_label": [
+        "National Library of Finland"
+    ],
+    "coordinate": "not showed"
+}

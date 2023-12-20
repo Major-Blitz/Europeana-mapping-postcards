@@ -1,0 +1,57 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_TOS6W4H7SL3NNTHM7E4PQONYGLQPG3A7",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=1b9ebda5-8b58-4fbc-9a36-6cdd74a86509",
+            "textAttributionSnippet": "(en) Sudan - https://www.europeana.eu/item/401/item_TOS6W4H7SL3NNTHM7E4PQONYGLQPG3A7. (et) Lerat, Gabriel (autor). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3693128. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_TOS6W4H7SL3NNTHM7E4PQONYGLQPG3A7' target='_blank' rel='noopener'>Sudan</a></dd><dt>Creator</dt><dd lang='et'>Lerat, Gabriel (autor)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3693128' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_TOS6W4H7SL3NNTHM7E4PQONYGLQPG3A7/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 127559,
+            "ebucoreWidth": 799,
+            "ebucoreHeight": 529,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#FFE4C4",
+                "#FFFAF0",
+                "#696969",
+                "#FAEBD7",
+                "#FFF5EE",
+                "#FFFAFA"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/3693128",
+            "textAttributionSnippet": "(en) Sudan - https://www.europeana.eu/item/401/item_TOS6W4H7SL3NNTHM7E4PQONYGLQPG3A7. (et) Lerat, Gabriel (autor). Underi ja Tuglase Kirjanduskeskus - https://www.muis.ee/museaalView/3693128. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_TOS6W4H7SL3NNTHM7E4PQONYGLQPG3A7' target='_blank' rel='noopener'>Sudan</a></dd><dt>Creator</dt><dd lang='et'>Lerat, Gabriel (autor)</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3693128' target='_blank' rel='noopener'>Underi ja Tuglase Kirjanduskeskus</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_TOS6W4H7SL3NNTHM7E4PQONYGLQPG3A7/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Under and Tuglas Literature Centre"
+    ],
+    "coordinate": "not showed"
+}

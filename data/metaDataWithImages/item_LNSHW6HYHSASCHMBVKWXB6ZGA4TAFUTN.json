@@ -1,0 +1,53 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_LNSHW6HYHSASCHMBVKWXB6ZGA4TAFUTN",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=5e64dd41-ac20-40a9-a589-09ccf45382df",
+            "textAttributionSnippet": "(en) Paul Olak, letters, postcards for Paul Olaku, M. Luzzatolt - https://www.europeana.eu/item/401/item_LNSHW6HYHSASCHMBVKWXB6ZGA4TAFUTN. Eesti Teatri- ja Muusikamuuseum - https://www.muis.ee/museaalView/4000595. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_LNSHW6HYHSASCHMBVKWXB6ZGA4TAFUTN' target='_blank' rel='noopener'>Paul Olak, letters, postcards for Paul Olaku, M. Luzzatolt</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/4000595' target='_blank' rel='noopener'>Eesti Teatri- ja Muusikamuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_LNSHW6HYHSASCHMBVKWXB6ZGA4TAFUTN/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 112580,
+            "ebucoreWidth": 800,
+            "ebucoreHeight": 532,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#696969",
+                "#FFE4C4",
+                "#556B2F",
+                "#F5DEB3",
+                "#BC8F8F",
+                "#808080"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://www.muis.ee/museaalView/4000595",
+            "textAttributionSnippet": "(en) Paul Olak, letters, postcards for Paul Olaku, M. Luzzatolt - https://www.europeana.eu/item/401/item_LNSHW6HYHSASCHMBVKWXB6ZGA4TAFUTN. Eesti Teatri- ja Muusikamuuseum - https://www.muis.ee/museaalView/4000595. CC BY - http://creativecommons.org/licenses/by/4.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_LNSHW6HYHSASCHMBVKWXB6ZGA4TAFUTN' target='_blank' rel='noopener'>Paul Olak, letters, postcards for Paul Olaku, M. Luzzatolt</a></dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/4000595' target='_blank' rel='noopener'>Eesti Teatri- ja Muusikamuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-by'/>CC BY</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_LNSHW6HYHSASCHMBVKWXB6ZGA4TAFUTN/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": "not showed",
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Estonian Theater and Music Museum"
+    ],
+    "coordinate": "not showed"
+}

@@ -1,0 +1,107 @@
+{
+    "aggregations_about": "/aggregation/provider/512/libsz_POSTCARDS_000170",
+    "webResources": [
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "\u041d\u0430\u0440\u043e\u0434\u043d\u043e \u0447\u0438\u0442\u0430\u043b\u0438\u0449\u0435 \u0421\u0412\u0415\u0422\u041b\u0418\u041d\u0410 - 1861 - \u0428\u0438\u043f\u043a\u0430"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "http://catalog.libsz.org:8081/DKALLFT/Dk/Dk000170/dk000001.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpg"
+                ]
+            },
+            "textAttributionSnippet": "(bg) \u0425\u0440\u0430\u043c \u043f\u0430\u043c\u0435\u0442\u043d\u0438\u043a \u0428\u0438\u043f\u043a\u0430 - https://www.europeana.eu/item/512/libsz_POSTCARDS_000170. (bg) \u041e\u0431\u0443\u0449\u0430\u0440\u043e\u0432, \u0410. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444. Public Library Stara Zagora - http://catalog.libsz.org:8081/stz/public/evro?id=000170. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='bg'><a href='http://data.europeana.eu/item/512/libsz_POSTCARDS_000170' target='_blank' rel='noopener'>\u0425\u0440\u0430\u043c \u043f\u0430\u043c\u0435\u0442\u043d\u0438\u043a \u0428\u0438\u043f\u043a\u0430</a></dd><dt>Creator</dt><dd lang='bg'>\u041e\u0431\u0443\u0449\u0430\u0440\u043e\u0432, \u0410. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444</dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libsz.org:8081/stz/public/evro?id=000170' target='_blank' rel='noopener'>Public Library Stara Zagora</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/512/libsz_POSTCARDS_000170/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 402671,
+            "ebucoreWidth": 2181,
+            "ebucoreHeight": 1385,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#808080",
+                "#696969",
+                "#C0C0C0",
+                "#D2B48C",
+                "#F5DEB3",
+                "#BDB76B"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "http://catalog.libsz.org:8081/stz/public/evro?id=000170",
+            "textAttributionSnippet": "(bg) \u0425\u0440\u0430\u043c \u043f\u0430\u043c\u0435\u0442\u043d\u0438\u043a \u0428\u0438\u043f\u043a\u0430 - https://www.europeana.eu/item/512/libsz_POSTCARDS_000170. (bg) \u041e\u0431\u0443\u0449\u0430\u0440\u043e\u0432, \u0410. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444. Public Library Stara Zagora - http://catalog.libsz.org:8081/stz/public/evro?id=000170. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='bg'><a href='http://data.europeana.eu/item/512/libsz_POSTCARDS_000170' target='_blank' rel='noopener'>\u0425\u0440\u0430\u043c \u043f\u0430\u043c\u0435\u0442\u043d\u0438\u043a \u0428\u0438\u043f\u043a\u0430</a></dd><dt>Creator</dt><dd lang='bg'>\u041e\u0431\u0443\u0449\u0430\u0440\u043e\u0432, \u0410. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444</dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libsz.org:8081/stz/public/evro?id=000170' target='_blank' rel='noopener'>Public Library Stara Zagora</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "ebucoreHasMimeType": "text/html",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "webResourceDcRights": {
+                "def": [
+                    "\u041d\u0430\u0440\u043e\u0434\u043d\u043e \u0447\u0438\u0442\u0430\u043b\u0438\u0449\u0435 \u0421\u0412\u0415\u0422\u041b\u0418\u041d\u0410 - 1861 - \u0428\u0438\u043f\u043a\u0430"
+                ]
+            },
+            "webResourceEdmRights": {
+                "def": [
+                    "http://creativecommons.org/publicdomain/mark/1.0/"
+                ]
+            },
+            "about": "http://catalog.libsz.org:8081/DKALLFT/Dk/Dk000170/dk000002.JPG",
+            "dcFormat": {
+                "def": [
+                    "image/jpg"
+                ]
+            },
+            "textAttributionSnippet": "(bg) \u0425\u0440\u0430\u043c \u043f\u0430\u043c\u0435\u0442\u043d\u0438\u043a \u0428\u0438\u043f\u043a\u0430 - https://www.europeana.eu/item/512/libsz_POSTCARDS_000170. (bg) \u041e\u0431\u0443\u0449\u0430\u0440\u043e\u0432, \u0410. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444. Public Library Stara Zagora - http://catalog.libsz.org:8081/stz/public/evro?id=000170. Public Domain Mark - http://creativecommons.org/publicdomain/mark/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='bg'><a href='http://data.europeana.eu/item/512/libsz_POSTCARDS_000170' target='_blank' rel='noopener'>\u0425\u0440\u0430\u043c \u043f\u0430\u043c\u0435\u0442\u043d\u0438\u043a \u0428\u0438\u043f\u043a\u0430</a></dd><dt>Creator</dt><dd lang='bg'>\u041e\u0431\u0443\u0449\u0430\u0440\u043e\u0432, \u0410. - \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444</dd><dt>Institution</dt><dd lang=''><a href='http://catalog.libsz.org:8081/stz/public/evro?id=000170' target='_blank' rel='noopener'>Public Library Stara Zagora</a></dd><dt>Country</dt><dd lang=''>Bulgaria</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/mark/1.0/' target='_blank' rel='noopener'><span class='icon-pd'/>Public Domain Mark</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/512/libsz_POSTCARDS_000170/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 359336,
+            "ebucoreWidth": 2169,
+            "ebucoreHeight": 1346,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#F5DEB3",
+                "#D3D3D3",
+                "#C0C0C0",
+                "#FFE4C4",
+                "#FFC0CB",
+                "#D2B48C"
+            ],
+            "ebucoreOrientation": "landscape"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/512/libsz_POSTCARDS_000170/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Churches"
+    ],
+    "concept_note": "not showed",
+    "edmDatasetName": [
+        "512_Ag_BG_PenchoSlaveykov_LIBSTZ_PHOTO2020"
+    ],
+    "edmCountry": [
+        "Bulgaria"
+    ],
+    "edmLanguage": [
+        "mul"
+    ],
+    "organization_label": [
+        "Public Library Pencho Slaveykov, Varna"
+    ],
+    "coordinate": "not showed"
+}

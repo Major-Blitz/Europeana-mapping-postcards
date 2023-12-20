@@ -1,0 +1,62 @@
+{
+    "aggregations_about": "/aggregation/provider/401/item_JZ7NTZHT64JOX7L7A2C4ILXD7TSWFOMQ",
+    "webResources": [
+        {
+            "about": "https://www.muis.ee/museaalView/3417019",
+            "textAttributionSnippet": "(en) Olevis Church - https://www.europeana.eu/item/401/item_JZ7NTZHT64JOX7L7A2C4ILXD7TSWFOMQ. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417019. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JZ7NTZHT64JOX7L7A2C4ILXD7TSWFOMQ' target='_blank' rel='noopener'>Olevis Church</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417019' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "ebucoreHasMimeType": "application/xhtml+xml",
+            "ebucoreFileByteSize": 0
+        },
+        {
+            "about": "https://www.muis.ee/digitaalhoidla/api/meedia/originaal?id=57f2cafa-e4a1-4172-98d0-cb34686d4e4d",
+            "textAttributionSnippet": "(en) Olevis Church - https://www.europeana.eu/item/401/item_JZ7NTZHT64JOX7L7A2C4ILXD7TSWFOMQ. Karilatsi Vaba\u00f5humuuseum - https://www.muis.ee/museaalView/3417019. CC0 - http://creativecommons.org/publicdomain/zero/1.0/",
+            "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/401/item_JZ7NTZHT64JOX7L7A2C4ILXD7TSWFOMQ' target='_blank' rel='noopener'>Olevis Church</a></dd><dt>Date</dt><dd lang=''>1942</dd><dt>Institution</dt><dd lang=''><a href='https://www.muis.ee/museaalView/3417019' target='_blank' rel='noopener'>Karilatsi Vaba\u00f5humuuseum</a></dd><dt>Country</dt><dd lang=''>Estonia</dd><dt>Rights</dt><dd><a href='http://creativecommons.org/publicdomain/zero/1.0/' target='_blank' rel='noopener'><span class='icon-cc'/><span class='icon-zero'/>CC0</a></dd></dl>",
+            "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/401/item_JZ7NTZHT64JOX7L7A2C4ILXD7TSWFOMQ/manifest"
+            ],
+            "ebucoreHasMimeType": "image/jpeg",
+            "ebucoreFileByteSize": 117323,
+            "ebucoreWidth": 502,
+            "ebucoreHeight": 800,
+            "edmHasColorSpace": "sRGB",
+            "edmComponentColor": [
+                "#BDB76B",
+                "#EEE8AA",
+                "#BC8F8F",
+                "#808000",
+                "#F4A460",
+                "#6B8E23"
+            ],
+            "ebucoreOrientation": "portrait"
+        },
+        {
+            "about": "https://iiif.europeana.eu/presentation/401/item_JZ7NTZHT64JOX7L7A2C4ILXD7TSWFOMQ/manifest",
+            "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+        }
+    ],
+    "concept_label": [
+        "Postcard"
+    ],
+    "concept_note": [
+        "Type of postal stationery"
+    ],
+    "edmDatasetName": [
+        "401_Muuseumid"
+    ],
+    "edmCountry": [
+        "Estonia"
+    ],
+    "edmLanguage": [
+        "et"
+    ],
+    "organization_label": [
+        "Karilatsi Open Air Museum"
+    ],
+    "coordinate": [
+        [
+            59.0,
+            26.0
+        ]
+    ]
+}
